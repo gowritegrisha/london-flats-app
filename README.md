@@ -3,7 +3,7 @@
 Static Mini App (no build) for Grisha & Masha's London flat search. Served by GitHub Pages:
 https://gowritegrisha.github.io/london-flats-app/ — opened from the Telegram bot's "Flats" menu button.
 
-- `index.html` — app (telegram-web-app.js, theme-aware, filters/sort, enquiry drafts, local status via localStorage). It never sends anything to agents.
+- `index.html` — app (telegram-web-app.js, theme-aware, filters/sort, enquiry drafts, local status via localStorage). It never sends anything to agents. Draft screen has "Confirm & send" / "Regenerate" which deliver a JSON request to the bot via Telegram.WebApp.sendData (works only when opened from the 🏠 Flats reply-keyboard button); picked up by rightmove-watch/tg_inbox.py.
 - `listings.json` — data. `photos/` — compressed images (≤1000px).
 
 ## Adding listings (used by the 2-hourly routine)

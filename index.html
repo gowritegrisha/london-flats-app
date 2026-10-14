@@ -32,7 +32,11 @@ main{padding:10px;display:grid;gap:12px}
 <div id="dlg"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><b id="dt"></b><button class="b s" onclick="closeD()">✕</button></div>
 <textarea id="txt"></textarea>
 <div class="acts"><button class="b" onclick="copyT()">📋 Copy text</button><button class="b" onclick="openL()">Open on Rightmove</button><button class="b s" onclick="copyT(1)">Copy + open</button></div>
-<p style="color:var(--hint);font-size:12px">Nothing is sent from this app. Copy the text and paste it into the Rightmove enquiry form.</p></div>
+<div class="acts"><button class="b" onclick="sendAct('confirm')">✅ Confirm &amp; send</button><button class="b s" onclick="toggleRegen()">🔄 Regenerate</button></div>
+<div id="regen" style="display:none"><textarea id="cmt" style="min-height:70px" placeholder="What should change? e.g. shorter, mention parking, ask about bills"></textarea>
+<div class="acts"><button class="b" onclick="sendAct('regenerate')">Send regenerate request</button></div></div>
+<p id="sdhint" style="color:#e53935;font-size:12px;display:none">Open via the 🏠 Flats keyboard button to send (menu/inline launches can't deliver to the bot).</p>
+<p style="color:var(--hint);font-size:12px">This app never contacts agents. "Confirm &amp; send" / "Regenerate" only pass your request to the bot; the assistant sends the enquiry afterwards.</p></div>
 <div class="toast" id="toast"></div>
 <script>
 const tg=window.Telegram&&Telegram.WebApp;if(tg){tg.ready();tg.expand();}
@@ -63,11 +67,21 @@ function draft(id){cur=data.find(l=>l.id==id);const early=cur.available&&cur.ava
  if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
  t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263`;
  document.getElementById('dt').textContent=cur.title;document.getElementById('txt').value=t;document.getElementById('dlg').style.display='flex';
+ document.getElementById('cmt').value='';document.getElementById('regen').style.display='none';document.getElementById('sdhint').style.display=canSend()?'none':'block';
  if(tg&&tg.BackButton){tg.BackButton.show();tg.BackButton.onClick(closeD)}}
 function closeD(){document.getElementById('dlg').style.display='none';tg&&tg.BackButton&&tg.BackButton.hide()}
 async function copyT(open){const ta=document.getElementById('txt');let ok=false;
  try{await navigator.clipboard.writeText(ta.value);ok=true}catch(e){ta.select();ok=document.execCommand('copy')}
  toast(ok?'Copied':'Select & copy manually');tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(open)setTimeout(openL,400)}
+function canSend(){if(!tg||!tg.sendData||!tg.initDataUnsafe)return false;if(tg.initDataUnsafe.query_id)return false;return !!(tg.initData!==undefined&&tg.platform&&tg.platform!=='unknown')}
+function toggleRegen(){const r=document.getElementById('regen');r.style.display=r.style.display=='none'?'block':'none';if(r.style.display=='block')document.getElementById('cmt').focus()}
+function sendAct(a){if(!cur)return;const comment=document.getElementById('cmt').value.trim();
+ if(a=='regenerate'&&!comment){toast('Say what to change');document.getElementById('regen').style.display='block';return}
+ if(!canSend()){document.getElementById('sdhint').style.display='block';toast('Open via 🏠 Flats keyboard button');return}
+ let draft=document.getElementById('txt').value;const p={action:a,id:String(cur.id),title:cur.title,url:cur.url,draft,comment,ts:new Date().toISOString()};
+ const enc=o=>new TextEncoder().encode(JSON.stringify(o)).length;
+ if(enc(p)>4000){p.truncated=true;while(enc(p)>4000&&p.draft.length){p.draft=p.draft.slice(0,Math.max(0,p.draft.length-Math.max(20,Math.ceil((enc(p)-4000)/2))))}p.draft+=' […TRUNCATED]';p.comment=(p.comment?p.comment+' ':'')+'[draft truncated to fit 4096 bytes]'}
+ tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');tg.sendData(JSON.stringify(p))}
 function openL(){cur&&link(cur.url)}
 function toast(m){const e=document.getElementById('toast');e.textContent=m;e.style.display='block';clearTimeout(e._t);e._t=setTimeout(()=>e.style.display='none',1600)}
 document.getElementById('sort').onchange=render;
