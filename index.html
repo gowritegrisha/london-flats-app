@@ -3,7 +3,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>London flats</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<link rel="stylesheet" href="style.css?v=202610141709">
+<link rel="stylesheet" href="style.css?v=202610141730">
 </head><body>
 <header id="hdr"><div id="fhead"><h1>🏠 London flats <span id="cnt" class="cnt"></span></h1>
 <div class="ctl"><span class="lbl">Filter:</span><div class="row" id="filters"></div></div>
@@ -14,16 +14,16 @@
 <nav id="tabs" role="tablist">
 <button type="button" role="tab" data-tab="flats" id="tabF"><span class="ic">🏠</span>Flats</button>
 <button type="button" role="tab" data-tab="viewings" id="tabV"><span class="ic">📅</span>Viewings</button>
-<button type="button" role="tab" data-tab="replies" id="tabR"><span class="ic">✉️</span>Replies</button>
+<button type="button" role="tab" data-tab="replies" id="tabR"><span class="ic">✉️</span>Enquiries</button>
 </nav>
 <div id="dlg"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><b id="dt"></b><button class="b s" onclick="closeD()">✕</button></div>
+<p class="hint1">Edit if you like, then tap <b>Send</b>. The assistant sends it right away via Rightmove as Maria; its status will appear under <b>✉️ Enquiries</b>.</p>
 <textarea id="txt"></textarea>
-<div class="acts"><button class="b" onclick="copyT()">📋 Copy text</button><button class="b" onclick="openL()">Open on Rightmove</button><button class="b s" onclick="copyT(1)">Copy + open</button></div>
-<div class="acts"><button class="b" onclick="sendAct('confirm')">✅ Confirm &amp; send</button><button class="b s" onclick="toggleRegen()">🔄 Regenerate</button></div>
+<button class="b big full" onclick="sendAct('confirm')">📨 Send</button>
+<div class="acts"><button class="b s" onclick="toggleRegen()">🔄 Rewrite…</button><button class="b s" onclick="copyT()">📋 Copy</button><button class="b s" onclick="openL()">Rightmove ↗</button></div>
 <div id="regen" style="display:none"><textarea id="cmt" style="min-height:70px" placeholder="What should change? e.g. shorter, mention parking, ask about bills"></textarea>
-<div class="acts"><button class="b" onclick="sendAct('regenerate')">Send regenerate request</button></div></div>
-<p id="sdhint" style="color:#e53935;font-size:12px;display:none">Open via the 🏠 Flats keyboard button to send (menu/inline launches can't deliver to the bot).</p>
-<p style="color:var(--hint);font-size:12px">This app never contacts agents. "Confirm &amp; send" / "Regenerate" only pass your request to the bot; the assistant sends the enquiry afterwards.</p></div>
+<div class="acts"><button class="b" onclick="sendAct('regenerate')">Ask assistant to rewrite</button></div></div>
+<p id="sdhint" style="color:#e53935;font-size:12px;display:none">Open via the 🏠 Flats keyboard button to send (menu/inline launches can't deliver to the bot).</p></div>
 <div class="toast" id="toast"></div>
-<script src="app.js?v=202610141709"></script>
+<script src="app.js?v=202610141730"></script>
 </body></html>
