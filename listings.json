@@ -1,5 +1,50 @@
 [
  {
+  "id": "93877752",
+  "title": "Dryden Building, Aldgate",
+  "area": "Aldgate, E1",
+  "price": 1950,
+  "size": "unknown (looks ~50+)",
+  "floor": "Ask agent",
+  "furnished": "Furnished",
+  "available": "2026-10-14",
+  "commute": "~25–30 min (Aldgate East / Liverpool Street links toward Euston Sq / Warren St)",
+  "pets": "Not stated (OK)",
+  "url": "https://www.rightmove.co.uk/properties/93877752",
+  "photos": [
+   "photos/93877752_0.jpg",
+   "photos/93877752_1.jpg",
+   "photos/93877752_2.jpg",
+   "photos/93877752_3.jpg"
+  ],
+  "status": "new",
+  "notes": "Modern portered Aldgate block: furnished 1-bed, gym, communal roof terrace. Bright living/dining, separate kitchen, marble-effect bathroom. Size not listed; photos look large enough.",
+  "date_found": "2026-10-14"
+ },
+ {
+  "id": "94293519",
+  "title": "Broadway Parade, Crouch End",
+  "area": "Crouch End, N8",
+  "price": 1850,
+  "size": "69.6 m²",
+  "floor": "1st",
+  "furnished": "Unfurnished",
+  "available": "2026-10-14",
+  "commute": "~35–40 min (W7 to Finsbury Park + Victoria, or Hornsey rail)",
+  "pets": "Not stated (OK)",
+  "url": "https://www.rightmove.co.uk/properties/94293519",
+  "photos": [
+   "photos/94293519_0.jpg",
+   "photos/94293519_1.jpg",
+   "photos/94293519_2.jpg",
+   "photos/94293519_3.jpg",
+   "photos/94293519_4.jpg"
+  ],
+  "status": "new",
+  "notes": "Recently refurbished 2-bed period conversion: bright high-ceiling lounge with fireplace, two good doubles, fitted kitchen. Unfurnished but spacious. Near Crouch End Broadway.",
+  "date_found": "2026-10-14"
+ },
+ {
   "id": "94287432",
   "title": "Lysia Street",
   "area": "Fulham SW6",
