@@ -1,61 +1,21 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>London flats</title>
-<script src="https://telegram.org/js/telegram-web-app.js">
-let V=[],R=[];const TZ='Europe/London';
-function tab(t){document.getElementById('tabF').classList.toggle('on',t=='f');document.getElementById('tabV').classList.toggle('on',t=='v');
- document.getElementById('fhead').style.display=t=='f'?'':'none';document.getElementById('list').style.display=t=='f'?'':'none';document.getElementById('vlist').style.display=t=='v'?'':'none';if(t=='v')renderV()}
-const dayK=d=>new Date(d).toLocaleDateString('en-GB',{timeZone:TZ,weekday:'short',day:'numeric',month:'short'});
-const tm=d=>new Date(d).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'});
-function vcard(v,past){const L=v.listing_id&&data.find(l=>l.id==v.listing_id);return `<div class="card${past?' past':''}"><div class="body"><span class="p">${v.datetime?tm(v.datetime)+' 🇬🇧':'TBC'}</span><div class="t">${esc(v.title||v.address)}</div><div>${esc(v.address||'')}</div>
- <div class="facts">${[v.type=='video'?'📹 video':'🚶 in-person',v.agent,v.agent_phone].filter(Boolean).map(esc).join(' · ')}</div>
- <div><span class="badge st-${esc(v.status)}">${esc(v.status)}</span>${v.agent_email?`<a style="font-size:12px" href="mailto:${esc(v.agent_email)}">${esc(v.agent_email)}</a>`:''}</div>
- ${v.notes?`<div class="notes">${esc(v.notes)}</div>`:''}${L?`<div class="acts"><button class="b s" onclick="link('${esc(L.url)}')">Rightmove ↗</button></div>`:''}</div></div>`}
-function renderV(){const now=Date.now();const up=[],pa=[],tbc=[];
- V.forEach(v=>{if(!v.datetime)tbc.push(v);else if(new Date(v.datetime)>=now-3600e3&&v.status!='done')up.push(v);else pa.push(v)});
- up.sort((a,b)=>a.datetime.localeCompare(b.datetime));pa.sort((a,b)=>b.datetime.localeCompare(a.datetime));
- let h='<h1 style="margin:4px 2px">📅 Viewings <span style="color:var(--hint);font-weight:400;font-size:14px">London time</span></h1>';let last='';
- up.forEach(v=>{const k=dayK(v.datetime);if(k!=last){h+=`<div class="day">${k}</div>`;last=k}h+=vcard(v)});
- if(!up.length)h+='<p style="color:var(--hint);margin:0 4px">No upcoming viewings</p>';
- if(tbc.length)h+='<div class="day">Time TBC</div>'+tbc.map(v=>vcard(v)).join('');
- if(pa.length){h+='<div class="day">Past</div>';last='';pa.forEach(v=>{h+=vcard(v,1)})}
- const RR=[...R].sort((a,b)=>(b.needs_reply-a.needs_reply)||(b.date||'').localeCompare(a.date||''));
- h+=`<h1 style="margin:10px 2px 0">✉️ Agent replies <span style="color:var(--hint);font-weight:400;font-size:14px">${RR.filter(r=>r.needs_reply).length} need reply</span></h1>`;
- h+=RR.map(r=>`<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t">${esc(r.agent)}</div><div>${esc(r.title||'')}</div>
- <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
- ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div></div>`).join('')||'<p style="color:var(--hint)">No replies yet</p>';
- document.getElementById('vlist').innerHTML=h}
-Promise.all(['viewings.json','replies.json'].map(f=>fetch(f+'?'+Date.now()).then(r=>r.ok?r.json():[]).catch(()=>[]))).then(([a,b])=>{V=a;R=b;if(location.hash=='#viewings')tab('v');else renderV()});
-</script>
-<style>
-:root{--bg:var(--tg-theme-bg-color,#fff);--tx:var(--tg-theme-text-color,#111);--hint:var(--tg-theme-hint-color,#888);--link:var(--tg-theme-link-color,#2481cc);--btn:var(--tg-theme-button-color,#2481cc);--btx:var(--tg-theme-button-text-color,#fff);--bg2:var(--tg-theme-secondary-bg-color,#f2f2f5)}
-*{box-sizing:border-box}body{margin:0;font:15px/1.4 -apple-system,system-ui,Roboto,sans-serif;background:var(--bg2);color:var(--tx)}
-header{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 12px;border-bottom:1px solid rgba(128,128,128,.15)}
-h1{font-size:18px;margin:0 0 8px}.row{display:flex;gap:6px;overflow-x:auto}
-.chip{border:1px solid var(--hint);background:none;color:var(--tx);border-radius:16px;padding:4px 10px;font-size:13px;white-space:nowrap}
-.chip.on{background:var(--btn);color:var(--btx);border-color:var(--btn)}
-select{background:var(--bg);color:var(--tx);border:1px solid var(--hint);border-radius:8px;padding:3px}
-main{padding:10px;display:grid;gap:12px}
-.card{background:var(--bg);border-radius:14px;overflow:hidden}
-.car{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;aspect-ratio:4/3;background:#0002}
-.car img{flex:0 0 100%;width:100%;object-fit:cover;scroll-snap-align:start}
-.body{padding:10px 12px}.t{font-weight:600;font-size:16px}.p{float:right;font-weight:700}
-.facts{color:var(--hint);font-size:13px;margin:4px 0}.notes{font-size:13px;font-style:italic}
-.badge{display:inline-block;font-size:11px;padding:1px 7px;border-radius:8px;background:var(--bg2);margin-right:4px;text-transform:uppercase}
-.acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
-.b{background:var(--btn);color:var(--btx);border:0;border-radius:8px;padding:7px 11px;font-size:14px}
-.b.s{background:var(--bg2);color:var(--tx)}a{color:var(--link)}
-#dlg{position:fixed;inset:0;background:var(--bg);z-index:10;display:none;flex-direction:column;padding:12px}
-#dlg textarea{flex:1;width:100%;font:14px/1.4 inherit;background:var(--bg2);color:var(--tx);border:0;border-radius:10px;padding:10px}
-.day{font-weight:600;color:var(--hint);font-size:13px;margin:6px 2px -4px;text-transform:uppercase}.st-confirmed{background:#2e7d32;color:#fff}.st-proposed{background:#f9a825;color:#000}.st-cancelled{background:#999;color:#fff;text-decoration:line-through}.st-done{background:#555;color:#fff}.nr{background:#e53935;color:#fff}.past{opacity:.6}
-.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#000c;color:#fff;padding:8px 14px;border-radius:10px;display:none;z-index:20}
-</style></head><body>
-<header><div class="row" style="margin-bottom:8px"><button class="chip on" id="tabF" onclick="tab('f')">🏠 Flats</button><button class="chip" id="tabV" onclick="tab('v')">📅 Viewings &amp; replies</button></div><div id="fhead"><h1>🏠 London flats <span id="cnt" style="color:var(--hint);font-weight:400;font-size:14px"></span></h1>
-<div class="row" id="filters"></div>
-<div class="row" style="margin-top:8px;align-items:center;font-size:13px">Sort:
-<select id="sort"><option value="date">Newest</option><option value="price">Price ↑</option><option value="size">Size ↓</option></select></div></div></header>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="stylesheet" href="style.css?v=202610141709">
+</head><body>
+<header id="hdr"><div id="fhead"><h1>🏠 London flats <span id="cnt" class="cnt"></span></h1>
+<div class="ctl"><span class="lbl">Filter:</span><div class="row" id="filters"></div></div>
+<div class="ctl"><span class="lbl">Sort:</span><select id="sort"><option value="date">Newest</option><option value="price">Price ↑</option><option value="size">Size ↓</option></select></div></div></header>
 <main id="list"></main>
 <main id="vlist" style="display:none"></main>
+<main id="rlist" style="display:none"></main>
+<nav id="tabs" role="tablist">
+<button type="button" role="tab" data-tab="flats" id="tabF"><span class="ic">🏠</span>Flats</button>
+<button type="button" role="tab" data-tab="viewings" id="tabV"><span class="ic">📅</span>Viewings</button>
+<button type="button" role="tab" data-tab="replies" id="tabR"><span class="ic">✉️</span>Replies</button>
+</nav>
 <div id="dlg"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><b id="dt"></b><button class="b s" onclick="closeD()">✕</button></div>
 <textarea id="txt"></textarea>
 <div class="acts"><button class="b" onclick="copyT()">📋 Copy text</button><button class="b" onclick="openL()">Open on Rightmove</button><button class="b s" onclick="copyT(1)">Copy + open</button></div>
@@ -65,52 +25,5 @@ main{padding:10px;display:grid;gap:12px}
 <p id="sdhint" style="color:#e53935;font-size:12px;display:none">Open via the 🏠 Flats keyboard button to send (menu/inline launches can't deliver to the bot).</p>
 <p style="color:var(--hint);font-size:12px">This app never contacts agents. "Confirm &amp; send" / "Regenerate" only pass your request to the bot; the assistant sends the enquiry afterwards.</p></div>
 <div class="toast" id="toast"></div>
-<script>
-const tg=window.Telegram&&Telegram.WebApp;if(tg){tg.ready();tg.expand();}
-const ST=['all','new','shortlisted','enquired','rejected'];let data=[],filt='all',cur=null;
-const lsK='flatstatus';const loc=JSON.parse(localStorage.getItem(lsK)||'{}');
-const st=l=>loc[l.id]||l.status;
-const sz=l=>{const m=(l.size||'').match(/[\d.]+/);return m?parseFloat(m[0]):0};
-const fmtD=d=>d?new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short'}):'';
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function render(){
- document.getElementById('filters').innerHTML=ST.map(s=>`<button class="chip ${s==filt?'on':''}" onclick="filt='${s}';render()">${s} (${s=='all'?data.length:data.filter(l=>st(l)==s).length})</button>`).join('');
- let L=data.filter(l=>filt=='all'||st(l)==filt);const so=document.getElementById('sort').value;
- L.sort(so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):(a,b)=>(b.date_found||'').localeCompare(a.date_found||''));
- document.getElementById('cnt').textContent=L.length;
- document.getElementById('list').innerHTML=L.map(l=>`<div class="card"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
- <div class="body"><span class="p">£${Number(l.price).toLocaleString()}</span><div class="t">${esc(l.title)}</div><div>${esc(l.area)}</div>
- <div class="facts">${[l.size,l.floor,l.furnished,l.available&&'Avail '+fmtD(l.available),l.commute&&'🚇 '+l.commute,l.pets&&'🐾 '+l.pets].filter(Boolean).map(esc).join(' · ')}</div>
- <div><span class="badge">${st(l)}</span><span style="font-size:12px;color:var(--hint)">found ${fmtD(l.date_found)} · ${l.photos.length} photos</span></div>
- ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
- <div class="acts"><button class="b" onclick="draft('${l.id}')">✉️ Draft enquiry</button><button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
- <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(s=>`<option ${s==st(l)?'selected':''}>${s}</option>`).join('')}</select></div></div></div>`).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
-}
-function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));render();toast('Status saved on this device')}
-function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
-function draft(id){cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
- const name=cur.title.split(',')[0];
- let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.`;
- if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
- t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263`;
- document.getElementById('dt').textContent=cur.title;document.getElementById('txt').value=t;document.getElementById('dlg').style.display='flex';
- document.getElementById('cmt').value='';document.getElementById('regen').style.display='none';document.getElementById('sdhint').style.display=canSend()?'none':'block';
- if(tg&&tg.BackButton){tg.BackButton.show();tg.BackButton.onClick(closeD)}}
-function closeD(){document.getElementById('dlg').style.display='none';tg&&tg.BackButton&&tg.BackButton.hide()}
-async function copyT(open){const ta=document.getElementById('txt');let ok=false;
- try{await navigator.clipboard.writeText(ta.value);ok=true}catch(e){ta.select();ok=document.execCommand('copy')}
- toast(ok?'Copied':'Select & copy manually');tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(open)setTimeout(openL,400)}
-function canSend(){if(!tg||!tg.sendData||!tg.initDataUnsafe)return false;if(tg.initDataUnsafe.query_id)return false;return !!(tg.initData!==undefined&&tg.platform&&tg.platform!=='unknown')}
-function toggleRegen(){const r=document.getElementById('regen');r.style.display=r.style.display=='none'?'block':'none';if(r.style.display=='block')document.getElementById('cmt').focus()}
-function sendAct(a){if(!cur)return;const comment=document.getElementById('cmt').value.trim();
- if(a=='regenerate'&&!comment){toast('Say what to change');document.getElementById('regen').style.display='block';return}
- if(!canSend()){document.getElementById('sdhint').style.display='block';toast('Open via 🏠 Flats keyboard button');return}
- let draft=document.getElementById('txt').value;const p={action:a,id:String(cur.id),title:cur.title,url:cur.url,draft,comment,ts:new Date().toISOString()};
- const enc=o=>new TextEncoder().encode(JSON.stringify(o)).length;
- if(enc(p)>4000){p.truncated=true;while(enc(p)>4000&&p.draft.length){p.draft=p.draft.slice(0,Math.max(0,p.draft.length-Math.max(20,Math.ceil((enc(p)-4000)/2))))}p.draft+=' […TRUNCATED]';p.comment=(p.comment?p.comment+' ':'')+'[draft truncated to fit 4096 bytes]'}
- tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');tg.sendData(JSON.stringify(p))}
-function openL(){cur&&link(cur.url)}
-function toast(m){const e=document.getElementById('toast');e.textContent=m;e.style.display='block';clearTimeout(e._t);e._t=setTimeout(()=>e.style.display='none',1600)}
-document.getElementById('sort').onchange=render;
-fetch('listings.json?'+Date.now()).then(r=>r.json()).then(d=>{data=d;render()});
-</script></body></html>
+<script src="app.js?v=202610141709"></script>
+</body></html>

@@ -1,0 +1,39 @@
+
+:root{--bg:var(--tg-theme-bg-color,#fff);--tx:var(--tg-theme-text-color,#111);--hint:var(--tg-theme-hint-color,#888);--link:var(--tg-theme-link-color,#2481cc);--btn:var(--tg-theme-button-color,#2481cc);--btx:var(--tg-theme-button-text-color,#fff);--bg2:var(--tg-theme-secondary-bg-color,#f2f2f5)}
+*{box-sizing:border-box}body{margin:0;font:15px/1.4 -apple-system,system-ui,Roboto,sans-serif;background:var(--bg2);color:var(--tx)}
+header{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 12px;border-bottom:1px solid rgba(128,128,128,.15)}
+h1{font-size:18px;margin:0 0 8px}.row{display:flex;gap:6px;overflow-x:auto}
+.chip{border:1px solid var(--hint);background:none;color:var(--tx);border-radius:16px;padding:4px 10px;font-size:13px;white-space:nowrap}
+.chip.on{background:var(--btn);color:var(--btx);border-color:var(--btn)}
+select{background:var(--bg);color:var(--tx);border:1px solid var(--hint);border-radius:8px;padding:3px}
+main{padding:10px;display:grid;gap:12px}
+.card{background:var(--bg);border-radius:14px;overflow:hidden}
+.car{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;aspect-ratio:4/3;background:#0002}
+.car img{flex:0 0 100%;width:100%;object-fit:cover;scroll-snap-align:start}
+.body{padding:10px 12px}.t{font-weight:600;font-size:16px}.p{float:right;font-weight:700}
+.facts{color:var(--hint);font-size:13px;margin:4px 0}.notes{font-size:13px;font-style:italic}
+.badge{display:inline-block;font-size:11px;padding:1px 7px;border-radius:8px;background:var(--bg2);margin-right:4px;text-transform:uppercase}
+.acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.b{background:var(--btn);color:var(--btx);border:0;border-radius:8px;padding:7px 11px;font-size:14px}
+.b.s{background:var(--bg2);color:var(--tx)}a{color:var(--link)}
+#dlg{position:fixed;inset:0;background:var(--bg);z-index:10;display:none;flex-direction:column;padding:12px}
+#dlg textarea{flex:1;width:100%;font:14px/1.4 inherit;background:var(--bg2);color:var(--tx);border:0;border-radius:10px;padding:10px}
+.day{font-weight:600;color:var(--hint);font-size:13px;margin:6px 2px -4px;text-transform:uppercase}.st-confirmed{background:#2e7d32;color:#fff}.st-proposed{background:#f9a825;color:#000}.st-cancelled{background:#999;color:#fff;text-decoration:line-through}.st-done{background:#555;color:#fff}.nr{background:#e53935;color:#fff}.past{opacity:.6}
+.toast{position:fixed;bottom:calc(80px + env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);background:#000c;color:#fff;padding:8px 14px;border-radius:10px;display:none;z-index:20}
+
+body{padding-bottom:calc(64px + env(safe-area-inset-bottom));-webkit-tap-highlight-color:transparent}
+button{font-family:inherit;cursor:pointer;touch-action:manipulation}
+h1{font-size:20px}
+.ctl{display:flex;align-items:center;gap:6px;margin-top:6px;font-size:12px;color:var(--hint)}
+.ctl .lbl{font-weight:600;text-transform:uppercase;letter-spacing:.03em;min-width:42px}
+.ctl .row{flex:1}
+.chip{border:1px solid rgba(128,128,128,.45);color:var(--tx);border-radius:12px;padding:2px 9px;font-size:12px;background:transparent}
+.chip.on{background:transparent;color:var(--btn);border-color:var(--btn);font-weight:600}
+.ctl select{font-size:12px;border-radius:12px;padding:2px 8px}
+nav#tabs{position:fixed;left:0;right:0;bottom:0;z-index:8;display:flex;background:var(--bg);border-top:1px solid rgba(128,128,128,.25);padding-bottom:env(safe-area-inset-bottom)}
+nav#tabs button{flex:1;border:0;background:none;color:var(--hint);padding:7px 0 6px;display:flex;flex-direction:column;align-items:center;gap:2px;font-size:11px;font-weight:500;position:relative}
+nav#tabs button .ic{font-size:22px;line-height:24px;filter:grayscale(1);opacity:.7}
+nav#tabs button.on{color:var(--btn)}nav#tabs button.on .ic{filter:none;opacity:1}
+nav#tabs button.on::before{content:'';position:absolute;top:0;left:30%;right:30%;height:3px;border-radius:0 0 3px 3px;background:var(--btn)}
+.cnt{color:var(--hint);font-weight:400;font-size:14px}
+.empty{text-align:center;color:var(--hint);padding:40px 20px;background:var(--bg);border-radius:14px}.empty .e{font-size:40px}
