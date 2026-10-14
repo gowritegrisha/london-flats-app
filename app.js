@@ -17,7 +17,8 @@ function render(){
  <div class="body"><span class="p">£${Number(l.price).toLocaleString()}</span><div class="t">${esc(l.title)}</div><div>${esc(l.area)}</div>
  <div class="facts">${[l.size,l.floor,l.furnished,l.available&&'Avail '+fmtD(l.available),l.commute&&'🚇 '+l.commute,l.pets&&'🐾 '+l.pets].filter(Boolean).map(esc).join(' · ')}</div>
  <div><span class="badge">${st(l)}</span><span style="font-size:12px;color:var(--hint)">found ${fmtD(l.date_found)} · ${l.photos.length} photos</span></div>
- ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
+ ${l.hood?`<div class="hood" style="font-size:12px;opacity:.75;margin-top:4px">📍 ${esc(l.hood)}</div>`:''}
+${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
  ${sentBox(l)}
  <div class="acts">${sentOf(l.id)?'':`<button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button>`}<button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button><button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
  <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(s=>`<option ${s==st(l)?'selected':''}>${s}</option>`).join('')}</select></div></div></div>`).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
