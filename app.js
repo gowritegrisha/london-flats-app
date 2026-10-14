@@ -11,7 +11,10 @@ function rate(id,v){const l=data.find(x=>x.id==id);const k=String(id);const nv=r
  RQ[k]={id:k,rating:nv||'unrate',title:l.title,ts:new Date().toISOString()};localStorage.setItem(rqK,JSON.stringify(RQ));
  tg&&tg.HapticFeedback&&tg.HapticFeedback.selectionChanged&&tg.HapticFeedback.selectionChanged();render();toast(nv=='like'?'👍 Liked':nv=='dislike'?'👎 Hidden (tap “show hidden” to see)':'Rating cleared')}
 function syncR(){const items=Object.values(RQ);if(!items.length)return;
- if(!canSend()){toast('Open via 🏠 Flats keyboard button to sync');return}
+ if(!canSend()){const cs={like:'u',dislike:'d',unrate:'x'};const toks=items.map(x=>x.id+(cs[x.rating]||'x'));const ch=[];let c='r';
+  for(const t of toks){if((c+t).length>64){ch.push(c);c='r'}c+=(c=='r'?'_':'')+t}if(c!='r')ch.push(c);
+  if(ch.length>1){toast('Sending in '+ch.length+' parts — reopen app and tap sync again');ch.length=1;const sent=new Set(ch[0].slice(2).split(/(?<=[udx])/).map(t=>t.slice(0,-1)));items.forEach(x=>{if(sent.has(String(x.id)))delete RQ[x.id]});localStorage.setItem(rqK,JSON.stringify(RQ))}
+  else{localStorage.setItem(rqK,'{}');RQ={}}deep(ch[0]);return}
  const p={action:'ratings',items:items.map(x=>({id:x.id,rating:x.rating,title:(x.title||'').slice(0,40),ts:x.ts})),ts:new Date().toISOString()};
  while(new TextEncoder().encode(JSON.stringify(p)).length>4000)p.items.forEach(x=>delete x.title)||p.items.pop();
  localStorage.setItem(rqK,'{}');RQ={};tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');tg.sendData(JSON.stringify(p))}
@@ -45,8 +48,8 @@ function save(id){const l=data.find(x=>x.id==id);const k=String(id);
  if(saved.has(k)){saved.delete(k);localStorage.setItem(svK,JSON.stringify([...saved]));render();toast('Removed from saved');return}
  saved.add(k);localStorage.setItem(svK,JSON.stringify([...saved]));render();
  if(sentOf(id)){toast('Saved ❤️ (enquiry already sent)');return}
- if(canSend()){tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');tg.sendData(JSON.stringify({action:'save',id:k,title:l.title,url:l.url}))}
- else toast('Saved on this device. Open via 🏠 Flats button to tell the assistant')}
+ if(canSend()){tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');try{tg.sendData(JSON.stringify({action:'save',id:k,title:l.title,url:l.url}))}catch(e){deep('s_'+k)}}
+ else deep('s_'+k)}
 function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));render();toast('Status saved on this device')}
 function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
 function draft(id){cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
@@ -54,8 +57,8 @@ function draft(id){cur=data.find(l=>l.id==id);const early=cur.available&&cur.ava
  let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.`;
  if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
  t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263`;
- document.getElementById('dt').textContent='Enquiry: '+cur.title;document.getElementById('txt').value=t;document.getElementById('dlg').style.display='flex';
- document.getElementById('cmt').value='';document.getElementById('regen').style.display='none';document.getElementById('sdhint').style.display=canSend()?'none':'block';
+ document.getElementById('dt').textContent='Enquiry: '+cur.title;document.getElementById('txt').value=t;cur._orig=t;document.getElementById('dlg').style.display='flex';
+ document.getElementById('cmt').value='';document.getElementById('regen').style.display='none';document.getElementById('sdhint').style.display='none';
  if(tg&&tg.BackButton){tg.BackButton.show();tg.BackButton.onClick(closeD)}}
 function closeD(){document.getElementById('dlg').style.display='none';tg&&tg.BackButton&&tg.BackButton.hide()}
 async function copyT(open){const ta=document.getElementById('txt');let ok=false;
@@ -63,13 +66,16 @@ async function copyT(open){const ta=document.getElementById('txt');let ok=false;
  toast(ok?'Copied':'Select & copy manually');tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(open)setTimeout(openL,400)}
 function canSend(){if(!tg||!tg.sendData||!tg.initDataUnsafe)return false;if(tg.initDataUnsafe.query_id)return false;return !!(tg.initData!==undefined&&tg.platform&&tg.platform!=='unknown')}
 function toggleRegen(){const r=document.getElementById('regen');r.style.display=r.style.display=='none'?'block':'none';if(r.style.display=='block')document.getElementById('cmt').focus()}
-function sendAct(a){if(!cur)return;const comment=document.getElementById('cmt').value.trim();
+async function sendAct(a){if(!cur)return;const comment=document.getElementById('cmt').value.trim();
  if(a=='regenerate'&&!comment){toast('Say what to change');document.getElementById('regen').style.display='block';return}
- if(!canSend()){document.getElementById('sdhint').style.display='block';toast('Open via 🏠 Flats keyboard button');return}
+ if(!canSend()){const id=String(cur.id);const edited=document.getElementById('txt').value!==cur._orig;
+  if(a=='regenerate'){await clip('regen '+id+': '+comment);hint('Opening bot chat. Your comment was copied — paste it there.');deep('g_'+id);return}
+  if(edited){await clip('draft '+id+': '+document.getElementById('txt').value);hint('Opening bot chat. Your edited draft was copied — paste it there.')}
+  deep('c_'+id);return}
  let draft=document.getElementById('txt').value;const p={action:a,id:String(cur.id),title:cur.title,url:cur.url,draft,comment,ts:new Date().toISOString()};
  const enc=o=>new TextEncoder().encode(JSON.stringify(o)).length;
  if(enc(p)>4000){p.truncated=true;while(enc(p)>4000&&p.draft.length){p.draft=p.draft.slice(0,Math.max(0,p.draft.length-Math.max(20,Math.ceil((enc(p)-4000)/2))))}p.draft+=' […TRUNCATED]';p.comment=(p.comment?p.comment+' ':'')+'[draft truncated to fit 4096 bytes]'}
- tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');tg.sendData(JSON.stringify(p))}
+ tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');try{tg.sendData(JSON.stringify(p))}catch(e){deep((a=='regenerate'?'g_':'c_')+p.id)}}
 function openL(){cur&&link(cur.url)}
 function toast(m){const e=document.getElementById('toast');e.textContent=m;e.style.display='block';clearTimeout(e._t);e._t=setTimeout(()=>e.style.display='none',1600)}
 const dayK=d=>new Date(d).toLocaleDateString('en-GB',{timeZone:TZ,weekday:'short',day:'numeric',month:'short'});
@@ -120,3 +126,8 @@ const getJ=f=>fetch(f+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json()
 getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render()});
 Promise.all([getJ('viewings.json'),getJ('replies.json'),getJ('sent.json')]).then(([a,b,c])=>{V=Array.isArray(a)?a:[];R=Array.isArray(b)?b:[];S=Array.isArray(c)?c:[];render();if(curTab=='viewings')renderV();if(curTab=='replies')renderR()});
 const h0=(location.hash||'').slice(1);tab(h0=='viewings'||h0=='replies'?h0:'flats');
+
+const BOT='Gogi_grot_bot';
+function deep(p){const u='https://t.me/'+BOT+'?start='+p;tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(tg&&tg.openTelegramLink)tg.openTelegramLink(u);else window.open(u,'_blank')}
+async function clip(t){try{await navigator.clipboard.writeText(t);return true}catch(e){const ta=document.createElement('textarea');ta.value=t;document.body.appendChild(ta);ta.select();const ok=document.execCommand('copy');ta.remove();return ok}}
+function hint(m){const e=document.getElementById('sdhint');e.textContent=m;e.style.display='block';toast(m)}
