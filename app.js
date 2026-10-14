@@ -3,6 +3,19 @@ const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejecte
 const svK='flatsaved';const saved=new Set(JSON.parse(localStorage.getItem(svK)||'[]'));
 const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
 const SSTAT={sent:['Sent','st-sent'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],no_reply:['No reply yet','st-noreply']};
+const rtK='flatrating',rqK='flatrateq';const RT=JSON.parse(localStorage.getItem(rtK)||'{}');let RQ=JSON.parse(localStorage.getItem(rqK)||'{}');let showHid=false;
+const rating=l=>RT[l.id]!==undefined?RT[l.id]:(l.rating||null);
+const scoreOf=l=>Math.min(100,(l.score||0)+(RT[l.id]==='like'&&l.rating!=='like'?8:0));
+const scCol=s=>s>=70?'#2e7d32':s>=55?'#7cb342':s>=45?'#f9a825':'#e53935';
+function rate(id,v){const l=data.find(x=>x.id==id);const k=String(id);const nv=rating(l)===v?null:v;RT[k]=nv;localStorage.setItem(rtK,JSON.stringify(RT));
+ RQ[k]={id:k,rating:nv||'unrate',title:l.title,ts:new Date().toISOString()};localStorage.setItem(rqK,JSON.stringify(RQ));
+ tg&&tg.HapticFeedback&&tg.HapticFeedback.selectionChanged&&tg.HapticFeedback.selectionChanged();render();toast(nv=='like'?'👍 Liked':nv=='dislike'?'👎 Hidden (tap “show hidden” to see)':'Rating cleared')}
+function syncR(){const items=Object.values(RQ);if(!items.length)return;
+ if(!canSend()){toast('Open via 🏠 Flats keyboard button to sync');return}
+ const p={action:'ratings',items:items.map(x=>({id:x.id,rating:x.rating,title:(x.title||'').slice(0,40),ts:x.ts})),ts:new Date().toISOString()};
+ while(new TextEncoder().encode(JSON.stringify(p)).length>4000)p.items.forEach(x=>delete x.title)||p.items.pop();
+ localStorage.setItem(rqK,'{}');RQ={};tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');tg.sendData(JSON.stringify(p))}
+function bdHtml(l){const b=l.score_breakdown||{};return `<details class="bd"><summary>why this score?</summary><table>${Object.entries(b).map(([k,v])=>`<tr><td>${esc(k)}</td><td><b>${v.points}</b>/${v.max}</td><td>${esc(v.reason)}</td></tr>`).join('')}</table></details>`}
 const lsK='flatstatus';const loc=JSON.parse(localStorage.getItem(lsK)||'{}');
 const st=l=>loc[l.id]||l.status;
 const sz=l=>{const m=(l.size||'').match(/[\d.]+/);return m?parseFloat(m[0]):0};
@@ -10,17 +23,20 @@ const fmtD=d=>d?new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'sho
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function render(){
  document.getElementById('filters').innerHTML=FL.map(s=>`<button class="chip ${s==filt?'on':''}" onclick="filt='${s}';render()">${s=='saved'?'❤️ saved':s} (${s=='all'?data.length:s=='saved'?data.filter(l=>saved.has(String(l.id))).length:data.filter(l=>st(l)==s).length})</button>`).join('');
- let L=data.filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):st(l)==filt));const so=document.getElementById('sort').value;
- L.sort(so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):(a,b)=>(b.date_found||'').localeCompare(a.date_found||''));
+ const nh=data.filter(l=>rating(l)==='dislike').length;let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):st(l)==filt));const so=document.getElementById('sort').value;
+ L.sort(so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):(a,b)=>(b.date_found||'').localeCompare(a.date_found||''));
  document.getElementById('cnt').textContent=L.length;
+ const nq=Object.keys(RQ).length;const sb=document.getElementById('sync');sb.style.display=nq?'':'none';sb.textContent=`🔄 Sync ${nq} rating${nq>1?'s':''}`;
+ document.getElementById('hidt').innerHTML=nh?`<button class="chip ${showHid?'on':''}" onclick="showHid=!showHid;render()">👎 ${showHid?'hide':'show'} hidden (${nh})</button>`:'';
  document.getElementById('list').innerHTML=L.map(l=>`<div class="card"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
- <div class="body"><span class="p">£${Number(l.price).toLocaleString()}</span><div class="t">${esc(l.title)}</div><div>${esc(l.area)}</div>
+ <div class="body"><button class="score" style="background:${scCol(scoreOf(l))}" onclick="this.closest('.body').querySelector('details.bd').toggleAttribute('open')" aria-label="Score ${scoreOf(l)} of 100, show breakdown">${l.score!=null?scoreOf(l):'–'}</button><span class="p">£${Number(l.price).toLocaleString()}</span><div class="t">${esc(l.title)}</div><div>${esc(l.area)}</div>
  <div class="facts">${[l.size,l.floor,l.furnished,l.available&&'Avail '+fmtD(l.available),l.commute&&'🚇 '+l.commute,l.pets&&'🐾 '+l.pets].filter(Boolean).map(esc).join(' · ')}</div>
  <div><span class="badge">${st(l)}</span><span style="font-size:12px;color:var(--hint)">found ${fmtD(l.date_found)} · ${l.photos.length} photos</span></div>
  ${l.hood?`<div class="hood" style="font-size:12px;opacity:.75;margin-top:4px">📍 ${esc(l.hood)}</div>`:''}
 ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
+ ${l.score_breakdown?bdHtml(l):''}
  ${sentBox(l)}
- <div class="acts">${sentOf(l.id)?'':`<button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button>`}<button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button><button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
+ <div class="acts"><button class="b s rt${rating(l)=='like'?' up':''}" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b s rt${rating(l)=='dislike'?' dn':''}" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>${sentOf(l.id)?'':`<button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button>`}<button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button><button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
  <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(s=>`<option ${s==st(l)?'selected':''}>${s}</option>`).join('')}</select></div></div></div>`).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
 }
 function sentBox(l){const e=sentOf(l.id);if(!e)return '';const [lab,cls]=SSTAT[e.status]||SSTAT.sent;

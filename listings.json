@@ -20,7 +20,50 @@
     "status": "new",
     "notes": "Two-bed split-level flat in a red-brick Victorian conversion on a leafy street, great location. Black granite kitchen and wood floors are fine, but bedroom wallpaper, beige carpet and travertine bathroom feel a bit 2010s. Size not listed and no floorplan. Available exactly 16 Nov.",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Rich (Kilburn); nearby tags: \"Australians\"."
+    "hood": "Hoodmaps: Rich (Kilburn); nearby tags: \"Australians\".",
+    "score": 57,
+    "score_breakdown": {
+      "style": {
+        "points": 3.4,
+        "max": 25,
+        "reason": "keywords: wood floors(+1), 2010s(-2), beige carpet(-2), wallpaper(-1), travertine(-1)"
+      },
+      "size": {
+        "points": 5.2,
+        "max": 15,
+        "reason": "size unknown (unknown (2-bed split level, likely 50+))"
+      },
+      "commute": {
+        "points": 20,
+        "max": 20,
+        "reason": "~25 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 10,
+        "max": 10,
+        "reason": "16 Nov: mid-Nov ✓"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "93180957",
@@ -44,7 +87,50 @@
     "status": "new",
     "notes": "Newly refurbished: navy/black handleless kitchen, grey wood-effect floors, glass shower room, lots of windows so it looks bright. Exactly 50 m², unfurnished and bare, on a busy main road. A twin unit (93838176, same layout, £1,750) is available 23 Oct. Available now, so the date may be tight.",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Normies (Fortune Green); nearby tags: \"dirty\", \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\"."
+    "hood": "Hoodmaps: Normies (Fortune Green); nearby tags: \"dirty\", \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\".",
+    "score": 59,
+    "score_breakdown": {
+      "style": {
+        "points": 20.6,
+        "max": 25,
+        "reason": "keywords: bright(+2), newly refurbished(+3), refurbished(+2), handleless(+2), bare(-3)"
+      },
+      "size": {
+        "points": 6.0,
+        "max": 15,
+        "reason": "50 m²"
+      },
+      "commute": {
+        "points": 18.0,
+        "max": 20,
+        "reason": "~27.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 5.0,
+        "max": 15,
+        "reason": "Normies; negative tags: crack"
+      },
+      "availability": {
+        "points": 5.5,
+        "max": 10,
+        "reason": "14 Oct: 18 days before Nov"
+      },
+      "furnished": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "unfurnished"
+      },
+      "price": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "£1,750"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "94306005",
@@ -68,7 +154,50 @@
     "status": "new",
     "notes": "New-build block near The Maple / Brent Cross Town. Bright white open-plan reception, sleek white gloss kitchen, private balcony with open green views, parking space. Clean and modern but empty and plain; listed at £425 pw. Available exactly 16 Nov.",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m."
+    "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m.",
+    "score": 79,
+    "score_breakdown": {
+      "style": {
+        "points": 25,
+        "max": 25,
+        "reason": "keywords: modern(+3), bright(+2), new-build(+3), sleek(+2), open-plan(+1), the maple(+4)"
+      },
+      "size": {
+        "points": 6.6,
+        "max": 15,
+        "reason": "51 m²"
+      },
+      "commute": {
+        "points": 14.0,
+        "max": 20,
+        "reason": "~32.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 10,
+        "max": 10,
+        "reason": "16 Nov: mid-Nov ✓"
+      },
+      "furnished": {
+        "points": 3.8,
+        "max": 5,
+        "reason": "Unfurnished (furnished option offered)"
+      },
+      "price": {
+        "points": 1.6,
+        "max": 5,
+        "reason": "£1,842"
+      },
+      "extras": {
+        "points": 5,
+        "max": 5,
+        "reason": "balcony, lift"
+      }
+    }
   },
   {
     "id": "93877752",
@@ -91,7 +220,50 @@
     "status": "new",
     "notes": "Modern portered Aldgate block: furnished 1-bed, gym, communal roof terrace. Bright living/dining, separate kitchen, marble-effect bathroom. Size not listed; photos look large enough.",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Tourists; nearby tags: \"rich kids doing fuck all at uni\", \"Start up be appearing here\", \"Farhats barbering\", \"Better Curry \"."
+    "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Tourists; nearby tags: \"rich kids doing fuck all at uni\", \"Start up be appearing here\", \"Farhats barbering\", \"Better Curry \".",
+    "score": 72,
+    "score_breakdown": {
+      "style": {
+        "points": 20.6,
+        "max": 25,
+        "reason": "keywords: modern(+3), bright(+2), portered(+1)"
+      },
+      "size": {
+        "points": 5.2,
+        "max": 15,
+        "reason": "size unknown (unknown (looks ~50+))"
+      },
+      "commute": {
+        "points": 18.0,
+        "max": 20,
+        "reason": "~27.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 12.0,
+        "max": 15,
+        "reason": "Hipsters"
+      },
+      "availability": {
+        "points": 5.5,
+        "max": 10,
+        "reason": "14 Oct: 18 days before Nov"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0.5,
+        "max": 5,
+        "reason": "£1,950"
+      },
+      "extras": {
+        "points": 5,
+        "max": 5,
+        "reason": "terrace, portered, gym"
+      }
+    }
   },
   {
     "id": "94293519",
@@ -115,7 +287,50 @@
     "status": "new",
     "notes": "Recently refurbished 2-bed period conversion: bright high-ceiling lounge with fireplace, two good doubles, fitted kitchen. Unfurnished but spacious. Near Crouch End Broadway.",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Rich (Crouch End); nearby tags: \"Stay-at-home mums with rich husbands\", \"Shaun of the dead\", \"Stay-at-home mums\", \"and my grandparents! not zombies \"."
+    "hood": "Hoodmaps: Rich (Crouch End); nearby tags: \"Stay-at-home mums with rich husbands\", \"Shaun of the dead\", \"Stay-at-home mums\", \"and my grandparents! not zombies \".",
+    "score": 68,
+    "score_breakdown": {
+      "style": {
+        "points": 22.2,
+        "max": 25,
+        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), high-ceiling(+1)"
+      },
+      "size": {
+        "points": 15,
+        "max": 15,
+        "reason": "69.6 m²"
+      },
+      "commute": {
+        "points": 10.0,
+        "max": 20,
+        "reason": "~37.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 5.5,
+        "max": 10,
+        "reason": "14 Oct: 18 days before Nov"
+      },
+      "furnished": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "unfurnished"
+      },
+      "price": {
+        "points": 1.5,
+        "max": 5,
+        "reason": "£1,850"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "94287432",
@@ -138,7 +353,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Rich (Palace Riverside); nearby tags: \"Best part of London\"."
+    "hood": "Hoodmaps: Rich (Palace Riverside); nearby tags: \"Best part of London\".",
+    "score": 59,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 6.6,
+        "max": 15,
+        "reason": "51 m²"
+      },
+      "commute": {
+        "points": 10.0,
+        "max": 20,
+        "reason": "~37.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 10,
+        "max": 10,
+        "reason": "11 Nov: mid-Nov ✓"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0.5,
+        "max": 5,
+        "reason": "£1,950"
+      },
+      "extras": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "garden"
+      }
+    }
   },
   {
     "id": "94282248",
@@ -161,7 +419,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; nearby tags: \"Gareth's\"."
+    "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; nearby tags: \"Gareth's\".",
+    "score": 56,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 7.2,
+        "max": 15,
+        "reason": "52 m²"
+      },
+      "commute": {
+        "points": 10.0,
+        "max": 20,
+        "reason": "~37.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 9.8,
+        "max": 10,
+        "reason": "31 Oct: 1 days before Nov"
+      },
+      "furnished": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "unfurnished"
+      },
+      "price": {
+        "points": 1.5,
+        "max": 5,
+        "reason": "£1,850"
+      },
+      "extras": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "balcony"
+      }
+    }
   },
   {
     "id": "94279875",
@@ -183,7 +484,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-14",
-    "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m."
+    "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m.",
+    "score": 63,
+    "score_breakdown": {
+      "style": {
+        "points": 17.5,
+        "max": 25,
+        "reason": "keywords: the maple(+4)"
+      },
+      "size": {
+        "points": 6.0,
+        "max": 15,
+        "reason": "50 m²"
+      },
+      "commute": {
+        "points": 14.0,
+        "max": 20,
+        "reason": "~32.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 6.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 3.8,
+        "max": 5,
+        "reason": "Flexible"
+      },
+      "price": {
+        "points": 0.5,
+        "max": 5,
+        "reason": "£1,950"
+      },
+      "extras": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "pet-friendly"
+      }
+    }
   },
   {
     "id": "94266987",
@@ -204,7 +548,50 @@
     "status": "new",
     "notes": "Available 24 Oct / 24 Nov",
     "date_found": "2026-10-13",
-    "hood": "Hoodmaps: Rich (Oval); nearby tags: \"many rich gays\", \"Lots of LUXURY FLATS     \", \"Urban Jungle\", \"England’s failure grounds\"."
+    "hood": "Hoodmaps: Rich (Oval); nearby tags: \"many rich gays\", \"Lots of LUXURY FLATS     \", \"Urban Jungle\", \"England’s failure grounds\".",
+    "score": 68,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no style cues in notes"
+      },
+      "size": {
+        "points": 10.8,
+        "max": 15,
+        "reason": "58 m²"
+      },
+      "commute": {
+        "points": 20,
+        "max": 20,
+        "reason": "~22.5 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 8.0,
+        "max": 10,
+        "reason": "24 Oct: 8 days before Nov"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "94259382",
@@ -226,7 +613,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-13",
-    "hood": "Hoodmaps: Rich (Kensal Green), also painted Normies; nearby tags: \"The hood \", \"Social Drinkers/Drug Takers\", \"Avoid\", \"unsettling gentrification \"."
+    "hood": "Hoodmaps: Rich (Kensal Green), also painted Normies; nearby tags: \"The hood \", \"Social Drinkers/Drug Takers\", \"Avoid\", \"unsettling gentrification \".",
+    "score": 56,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 5.2,
+        "max": 15,
+        "reason": "size unknown (Not stated (2 bed 2 bath))"
+      },
+      "commute": {
+        "points": 16.0,
+        "max": 20,
+        "reason": "~30 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 8.0,
+        "max": 15,
+        "reason": "Rich; negative tags: avoid, drug"
+      },
+      "availability": {
+        "points": 10,
+        "max": 10,
+        "reason": "03 Nov: mid-Nov ✓"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "£1,900"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "148609247",
@@ -249,7 +679,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-13",
-    "hood": "Hoodmaps: Normies (St. Dunstan's); nearby tags: \"Not many good pubs\", \"Shandy\", \"murder capital\"."
+    "hood": "Hoodmaps: Normies (St. Dunstan's); nearby tags: \"Not many good pubs\", \"Shandy\", \"murder capital\".",
+    "score": 46,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 6.6,
+        "max": 15,
+        "reason": "51 m²"
+      },
+      "commute": {
+        "points": 12.0,
+        "max": 20,
+        "reason": "~35 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 5.0,
+        "max": 15,
+        "reason": "Normies; negative tags: murder"
+      },
+      "availability": {
+        "points": 9.8,
+        "max": 10,
+        "reason": "31 Oct: 1 days before Nov"
+      },
+      "furnished": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "unfurnished"
+      },
+      "price": {
+        "points": 0.6,
+        "max": 5,
+        "reason": "£1,940"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "99364445",
@@ -272,7 +745,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-13",
-    "hood": "Hoodmaps: Normies (St. Dunstan's); nearby tags: \"Not many good pubs\", \"Shandy\", \"murder capital\"."
+    "hood": "Hoodmaps: Normies (St. Dunstan's); nearby tags: \"Not many good pubs\", \"Shandy\", \"murder capital\".",
+    "score": 47,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 6.6,
+        "max": 15,
+        "reason": "51 m²"
+      },
+      "commute": {
+        "points": 12.0,
+        "max": 20,
+        "reason": "~35 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 5.0,
+        "max": 15,
+        "reason": "Normies; negative tags: murder"
+      },
+      "availability": {
+        "points": 7.0,
+        "max": 10,
+        "reason": "30 Nov: late Nov"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "92904378",
@@ -295,7 +811,50 @@
     "status": "enquired",
     "notes": "Enquiry sent 12 Oct",
     "date_found": "2026-10-12",
-    "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Tourists; nearby tags: \"9 pound a pint \"Rooftop\"\", \"Heavier drug dealing\", \"Rich kids\", \"ANTIFA Mecca\"."
+    "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Tourists; nearby tags: \"9 pound a pint \"Rooftop\"\", \"Heavier drug dealing\", \"Rich kids\", \"ANTIFA Mecca\".",
+    "score": 58,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no style cues in notes"
+      },
+      "size": {
+        "points": 5.2,
+        "max": 15,
+        "reason": "size unknown (Not stated (large 1-bed))"
+      },
+      "commute": {
+        "points": 16.0,
+        "max": 20,
+        "reason": "~30 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 10.0,
+        "max": 15,
+        "reason": "Hipsters; negative tags: drug"
+      },
+      "availability": {
+        "points": 10,
+        "max": 10,
+        "reason": "06 Nov: mid-Nov ✓"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0.5,
+        "max": 5,
+        "reason": "£1,950"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "94199361",
@@ -318,7 +877,50 @@
     "status": "enquired",
     "notes": "Enquiry sent 12 Oct",
     "date_found": "2026-10-12",
-    "hood": "Hoodmaps: Rich (Northcote); nearby tags: \"yummy mummys\", \"nappy valley\", \"F**k off clean shirt \"."
+    "hood": "Hoodmaps: Rich (Northcote); nearby tags: \"yummy mummys\", \"nappy valley\", \"F**k off clean shirt \".",
+    "score": 56,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no style cues in notes"
+      },
+      "size": {
+        "points": 7.2,
+        "max": 15,
+        "reason": "52 m²"
+      },
+      "commute": {
+        "points": 12.0,
+        "max": 20,
+        "reason": "~35 min avg to NW1 3BF"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 6.2,
+        "max": 10,
+        "reason": "17 Oct: 15 days before Nov"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 1.6,
+        "max": 5,
+        "reason": "£1,842"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "94221912",
@@ -339,7 +941,50 @@
     "status": "new",
     "notes": "Available early Dec",
     "date_found": "2026-10-12",
-    "hood": "Hoodmaps: Rich (Stroud Green); nearby tags: \"Art student dormitories here\", \"African & Asian wedding outfits\", \"walking around here is scary\"."
+    "hood": "Hoodmaps: Rich (Stroud Green); nearby tags: \"Art student dormitories here\", \"African & Asian wedding outfits\", \"walking around here is scary\".",
+    "score": 46,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no style cues in notes"
+      },
+      "size": {
+        "points": 13.8,
+        "max": 15,
+        "reason": "63 m²"
+      },
+      "commute": {
+        "points": 7.0,
+        "max": 20,
+        "reason": "commute unknown"
+      },
+      "hood": {
+        "points": 10.0,
+        "max": 15,
+        "reason": "Rich; negative tags: scary"
+      },
+      "availability": {
+        "points": 1.5,
+        "max": 10,
+        "reason": "01 Dec: Dec or later"
+      },
+      "furnished": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "not stated"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "93183198",
@@ -362,7 +1007,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-11",
-    "hood": "Hoodmaps: Hipsters (The Lane), also painted Students; nearby tags: \"Liberal elite ground-zero\"."
+    "hood": "Hoodmaps: Hipsters (The Lane), also painted Students; nearby tags: \"Liberal elite ground-zero\".",
+    "score": 49,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 12.3,
+        "max": 15,
+        "reason": "60.5 m²"
+      },
+      "commute": {
+        "points": 7.0,
+        "max": 20,
+        "reason": "commute unknown"
+      },
+      "hood": {
+        "points": 12.0,
+        "max": 15,
+        "reason": "Hipsters"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "not stated"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "94234530",
@@ -385,7 +1073,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-11",
-    "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; nearby tags: \"Gareth's\"."
+    "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; nearby tags: \"Gareth's\".",
+    "score": 45,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 7.2,
+        "max": 15,
+        "reason": "52 m²"
+      },
+      "commute": {
+        "points": 7.0,
+        "max": 20,
+        "reason": "commute unknown"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "not stated"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   },
   {
     "id": "93588750",
@@ -408,7 +1139,50 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-11",
-    "hood": "Hoodmaps: Rich (Kensal Green), also painted Normies; nearby tags: \"Kebabs\"."
+    "hood": "Hoodmaps: Rich (Kensal Green), also painted Normies; nearby tags: \"Kebabs\".",
+    "score": 54,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 15,
+        "max": 15,
+        "reason": "77 m²"
+      },
+      "commute": {
+        "points": 7.0,
+        "max": 20,
+        "reason": "commute unknown"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "unfurnished"
+      },
+      "price": {
+        "points": 0,
+        "max": 5,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 2.5,
+        "max": 5,
+        "reason": "garden"
+      }
+    }
   },
   {
     "id": "94244565",
@@ -431,6 +1205,49 @@
     "status": "new",
     "notes": "",
     "date_found": "2026-10-11",
-    "hood": "Hoodmaps: Crime (Mile End), also painted Normies/Tourists; no user tags within ~450 m."
+    "hood": "Hoodmaps: Crime (Mile End), also painted Normies/Tourists; no user tags within ~450 m.",
+    "score": 35,
+    "score_breakdown": {
+      "style": {
+        "points": 11.2,
+        "max": 25,
+        "reason": "no description notes — neutral guess"
+      },
+      "size": {
+        "points": 7.8,
+        "max": 15,
+        "reason": "53 m²"
+      },
+      "commute": {
+        "points": 7.0,
+        "max": 20,
+        "reason": "commute unknown"
+      },
+      "hood": {
+        "points": 2.0,
+        "max": 15,
+        "reason": "Crime"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 1.0,
+        "max": 5,
+        "reason": "unfurnished"
+      },
+      "price": {
+        "points": 2.0,
+        "max": 5,
+        "reason": "£1,800"
+      },
+      "extras": {
+        "points": 0,
+        "max": 5,
+        "reason": "none mentioned"
+      }
+    }
   }
 ]
