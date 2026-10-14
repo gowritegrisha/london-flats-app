@@ -1,7 +1,32 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>London flats</title>
-<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<script src="https://telegram.org/js/telegram-web-app.js">
+let V=[],R=[];const TZ='Europe/London';
+function tab(t){document.getElementById('tabF').classList.toggle('on',t=='f');document.getElementById('tabV').classList.toggle('on',t=='v');
+ document.getElementById('fhead').style.display=t=='f'?'':'none';document.getElementById('list').style.display=t=='f'?'':'none';document.getElementById('vlist').style.display=t=='v'?'':'none';if(t=='v')renderV()}
+const dayK=d=>new Date(d).toLocaleDateString('en-GB',{timeZone:TZ,weekday:'short',day:'numeric',month:'short'});
+const tm=d=>new Date(d).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'});
+function vcard(v,past){const L=v.listing_id&&data.find(l=>l.id==v.listing_id);return `<div class="card${past?' past':''}"><div class="body"><span class="p">${v.datetime?tm(v.datetime)+' 🇬🇧':'TBC'}</span><div class="t">${esc(v.title||v.address)}</div><div>${esc(v.address||'')}</div>
+ <div class="facts">${[v.type=='video'?'📹 video':'🚶 in-person',v.agent,v.agent_phone].filter(Boolean).map(esc).join(' · ')}</div>
+ <div><span class="badge st-${esc(v.status)}">${esc(v.status)}</span>${v.agent_email?`<a style="font-size:12px" href="mailto:${esc(v.agent_email)}">${esc(v.agent_email)}</a>`:''}</div>
+ ${v.notes?`<div class="notes">${esc(v.notes)}</div>`:''}${L?`<div class="acts"><button class="b s" onclick="link('${esc(L.url)}')">Rightmove ↗</button></div>`:''}</div></div>`}
+function renderV(){const now=Date.now();const up=[],pa=[],tbc=[];
+ V.forEach(v=>{if(!v.datetime)tbc.push(v);else if(new Date(v.datetime)>=now-3600e3&&v.status!='done')up.push(v);else pa.push(v)});
+ up.sort((a,b)=>a.datetime.localeCompare(b.datetime));pa.sort((a,b)=>b.datetime.localeCompare(a.datetime));
+ let h='<h1 style="margin:4px 2px">📅 Viewings <span style="color:var(--hint);font-weight:400;font-size:14px">London time</span></h1>';let last='';
+ up.forEach(v=>{const k=dayK(v.datetime);if(k!=last){h+=`<div class="day">${k}</div>`;last=k}h+=vcard(v)});
+ if(!up.length)h+='<p style="color:var(--hint);margin:0 4px">No upcoming viewings</p>';
+ if(tbc.length)h+='<div class="day">Time TBC</div>'+tbc.map(v=>vcard(v)).join('');
+ if(pa.length){h+='<div class="day">Past</div>';last='';pa.forEach(v=>{h+=vcard(v,1)})}
+ const RR=[...R].sort((a,b)=>(b.needs_reply-a.needs_reply)||(b.date||'').localeCompare(a.date||''));
+ h+=`<h1 style="margin:10px 2px 0">✉️ Agent replies <span style="color:var(--hint);font-weight:400;font-size:14px">${RR.filter(r=>r.needs_reply).length} need reply</span></h1>`;
+ h+=RR.map(r=>`<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t">${esc(r.agent)}</div><div>${esc(r.title||'')}</div>
+ <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
+ ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div></div>`).join('')||'<p style="color:var(--hint)">No replies yet</p>';
+ document.getElementById('vlist').innerHTML=h}
+Promise.all(['viewings.json','replies.json'].map(f=>fetch(f+'?'+Date.now()).then(r=>r.ok?r.json():[]).catch(()=>[]))).then(([a,b])=>{V=a;R=b;if(location.hash=='#viewings')tab('v');else renderV()});
+</script>
 <style>
 :root{--bg:var(--tg-theme-bg-color,#fff);--tx:var(--tg-theme-text-color,#111);--hint:var(--tg-theme-hint-color,#888);--link:var(--tg-theme-link-color,#2481cc);--btn:var(--tg-theme-button-color,#2481cc);--btx:var(--tg-theme-button-text-color,#fff);--bg2:var(--tg-theme-secondary-bg-color,#f2f2f5)}
 *{box-sizing:border-box}body{margin:0;font:15px/1.4 -apple-system,system-ui,Roboto,sans-serif;background:var(--bg2);color:var(--tx)}
@@ -22,13 +47,15 @@ main{padding:10px;display:grid;gap:12px}
 .b.s{background:var(--bg2);color:var(--tx)}a{color:var(--link)}
 #dlg{position:fixed;inset:0;background:var(--bg);z-index:10;display:none;flex-direction:column;padding:12px}
 #dlg textarea{flex:1;width:100%;font:14px/1.4 inherit;background:var(--bg2);color:var(--tx);border:0;border-radius:10px;padding:10px}
+.day{font-weight:600;color:var(--hint);font-size:13px;margin:6px 2px -4px;text-transform:uppercase}.st-confirmed{background:#2e7d32;color:#fff}.st-proposed{background:#f9a825;color:#000}.st-cancelled{background:#999;color:#fff;text-decoration:line-through}.st-done{background:#555;color:#fff}.nr{background:#e53935;color:#fff}.past{opacity:.6}
 .toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#000c;color:#fff;padding:8px 14px;border-radius:10px;display:none;z-index:20}
 </style></head><body>
-<header><h1>🏠 London flats <span id="cnt" style="color:var(--hint);font-weight:400;font-size:14px"></span></h1>
+<header><div class="row" style="margin-bottom:8px"><button class="chip on" id="tabF" onclick="tab('f')">🏠 Flats</button><button class="chip" id="tabV" onclick="tab('v')">📅 Viewings &amp; replies</button></div><div id="fhead"><h1>🏠 London flats <span id="cnt" style="color:var(--hint);font-weight:400;font-size:14px"></span></h1>
 <div class="row" id="filters"></div>
 <div class="row" style="margin-top:8px;align-items:center;font-size:13px">Sort:
-<select id="sort"><option value="date">Newest</option><option value="price">Price ↑</option><option value="size">Size ↓</option></select></div></header>
+<select id="sort"><option value="date">Newest</option><option value="price">Price ↑</option><option value="size">Size ↓</option></select></div></div></header>
 <main id="list"></main>
+<main id="vlist" style="display:none"></main>
 <div id="dlg"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><b id="dt"></b><button class="b s" onclick="closeD()">✕</button></div>
 <textarea id="txt"></textarea>
 <div class="acts"><button class="b" onclick="copyT()">📋 Copy text</button><button class="b" onclick="openL()">Open on Rightmove</button><button class="b s" onclick="copyT(1)">Copy + open</button></div>
