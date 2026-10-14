@@ -1,5 +1,73 @@
 [
  {
+  "id": "123638537",
+  "title": "Messina Avenue",
+  "area": "West Hampstead, NW6",
+  "price": 2000,
+  "size": "unknown (2-bed split level, likely 50+)",
+  "floor": "Not stated (split level, upper)",
+  "furnished": "Furnished",
+  "available": "2026-11-16",
+  "commute": "~25 min (West Hampstead Jubilee to Baker St + 1 stop to Great Portland St)",
+  "pets": "Not stated (OK)",
+  "url": "https://www.rightmove.co.uk/properties/123638537",
+  "photos": [
+   "photos/123638537_0.jpg",
+   "photos/123638537_1.jpg",
+   "photos/123638537_2.jpg",
+   "photos/123638537_3.jpg"
+  ],
+  "status": "new",
+  "notes": "Two-bed split-level flat in a red-brick Victorian conversion on a leafy street, great location. Black granite kitchen and wood floors are fine, but bedroom wallpaper, beige carpet and travertine bathroom feel a bit 2010s. Size not listed and no floorplan. Available exactly 16 Nov.",
+  "date_found": "2026-10-14"
+ },
+ {
+  "id": "93180957",
+  "title": "Shoot Up Hill",
+  "area": "Kilburn, NW2",
+  "price": 1750,
+  "size": "50 m² (539 sq ft)",
+  "floor": "1st",
+  "furnished": "Unfurnished",
+  "available": "2026-10-14",
+  "commute": "~25–30 min (Kilburn Jubilee to Baker St + 1 stop to Great Portland St)",
+  "pets": "Not stated (OK)",
+  "url": "https://www.rightmove.co.uk/properties/93180957",
+  "photos": [
+   "photos/93180957_0.jpg",
+   "photos/93180957_1.jpg",
+   "photos/93180957_2.jpg",
+   "photos/93180957_3.jpg",
+   "photos/93180957_4.jpg"
+  ],
+  "status": "new",
+  "notes": "Newly refurbished: navy/black handleless kitchen, grey wood-effect floors, glass shower room, lots of windows so it looks bright. Exactly 50 m², unfurnished and bare, on a busy main road. A twin unit (93838176, same layout, £1,750) is available 23 Oct. Available now, so the date may be tight.",
+  "date_found": "2026-10-14"
+ },
+ {
+  "id": "94306005",
+  "title": "Alder House, Claremont Village",
+  "area": "Cricklewood / Brent Cross, NW2",
+  "price": 1842,
+  "size": "51 m² (550 sq ft)",
+  "floor": "2nd (lift)",
+  "furnished": "Unfurnished (furnished option offered)",
+  "available": "2026-11-16",
+  "commute": "~30–35 min (Brent Cross West Thameslink to St Pancras + Circle/H&C to Euston Sq, or Northern line Brent Cross to Warren St)",
+  "pets": "Not stated (OK)",
+  "url": "https://www.rightmove.co.uk/properties/94306005",
+  "photos": [
+   "photos/94306005_0.jpg",
+   "photos/94306005_1.jpg",
+   "photos/94306005_2.jpg",
+   "photos/94306005_3.jpg",
+   "photos/94306005_4.jpg"
+  ],
+  "status": "new",
+  "notes": "New-build block near The Maple / Brent Cross Town. Bright white open-plan reception, sleek white gloss kitchen, private balcony with open green views, parking space. Clean and modern but empty and plain; listed at £425 pw. Available exactly 16 Nov.",
+  "date_found": "2026-10-14"
+ },
+ {
   "id": "93877752",
   "title": "Dryden Building, Aldgate",
   "area": "Aldgate, E1",
