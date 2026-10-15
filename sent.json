@@ -739,5 +739,16 @@
   "status": "sent",
   "source": "assistant",
   "agent": "Dexters, Queen's Park"
+ },
+ {
+  "listing_id": "94314216",
+  "title": "High Street, Hornsey",
+  "text": "Hello,\n\nWe're very interested in High Street and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
+  "message": "Hello,\n\nWe're very interested in High Street and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
+  "sent_at": "2026-10-15T22:40:22+02:00",
+  "channel": "rightmove",
+  "status": "sent",
+  "source": "assistant",
+  "agent": "Foxtons, Crouch End"
  }
 ]
