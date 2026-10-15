@@ -19,7 +19,7 @@
   "text": "Hello,\n\nWe're very interested in Northcote Road and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
   "sent_at": "2026-10-12T15:28:00+02:00",
   "channel": "rightmove",
-  "status": "Off the market",
+  "status": "rejected",
   "source": "assistant",
   "url": "https://www.rightmove.co.uk/properties/94199361",
   "agent": "Langford Lettings Ltd, London",
@@ -57,7 +57,8 @@
   ],
   "mail_status": "rejected",
   "agent_email": "Emma@langfordproperty.co.uk",
-  "agent_phone": "020 7036 6010"
+  "agent_phone": "020 7036 6010",
+  "notes": "Masha declined 13 Oct: layout not workable."
  },
  {
   "listing_id": "93395547",
@@ -489,7 +490,7 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "zac@leonewman.co.uk",
-  "agent_phone": "07407 031 620"
+  "agent_phone": "07407 031 620 02"
  },
  {
   "listing_id": "128733527",
@@ -755,7 +756,7 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
-  "status": "Off the market",
+  "status": "viewing",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94152048",
   "agent": "CBRE Residential, New Developments",
@@ -790,11 +791,13 @@
   "thread_ids": [
    "1a130937de123cba"
   ],
-  "mail_status": "replied",
+  "mail_status": "viewing booked",
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the end of October and am ready to move in straigh away, and am ready to make a deposit remotely. My WA is +34605227263. Household's combined yearly income exceed £180,000.",
   "agent_email": "James.Feltham@cbre.com",
   "agent_phone": "+44 738 546 9872",
-  "agent_contact": "James"
+  "agent_contact": "James",
+  "listing_market": "Off the market",
+  "notes": "Video viewing booked Thu 16 Oct with India Chattwell Grint (CBRE). Listing may show off-market but other Maple flats available."
  },
  {
   "listing_id": "150171911",
@@ -1144,7 +1147,7 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "viewing",
+  "status": "viewed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94045110",
   "agent": "Portico, Hammersmith",
@@ -1174,7 +1177,8 @@
   ],
   "mail_status": "viewing booked",
   "agent_email": "e.heard@portico.com",
-  "agent_phone": "07706413127"
+  "agent_phone": "07706413127",
+  "notes": "Viewed 14 Oct with Portico (Cromwell Ave). Offer form received."
  },
  {
   "listing_id": "93535440",
@@ -1426,7 +1430,7 @@
   "channel": "chestertons",
   "price": "£1,800 pcm",
   "sent_at": "2026-10-14T08:20:57Z",
-  "status": "viewing",
+  "status": "viewed",
   "source": "masha",
   "thread": [
    {
@@ -1485,6 +1489,42 @@
   ],
   "mail_status": "viewing booked",
   "agent_email": "francesco.caiati@chestertons.co.uk",
-  "agent_phone": "+44 (0) 20 7182 1435"
+  "agent_phone": "+44 (0) 20 7182 1435",
+  "notes": "Viewed 14 Oct with Chestertons (UNCLE Wembley, video/WhatsApp). Reservation form received."
+ },
+ {
+  "listing_id": "portico-PCL250388",
+  "title": "Sunnyhill Road, London SW16",
+  "agent": "Portico, Clapham",
+  "url": "https://www.portico.com/property/PCL250388",
+  "channel": "portico",
+  "price": "£1,695 pcm",
+  "sent_at": "2026-10-14T08:42:40Z",
+  "status": "rejected",
+  "source": "masha",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-14T08:42:40Z",
+    "from": "n.grijo@portico.com",
+    "text": "[Portico]\nPROPERTY SEARCH\nCONTACT US\nPROPERTY MATCH\nGreat news! We've added or updated one or more properties that match your search criteria.\nSunnyhill Road, London\nSW16\n£1,695 per month\n1 Bedroom Flat/Apartment\nPortico are pleased to present this excellent unfurnished raised ground floor one...\nFull Details\nIf you'd like more information or want to arrange a viewing, please don't hesitate to email clapham@portico.com, or call us at 02075010454.\n[Property Valuation]\nFOLLOW US ON SOCIAL MEDIA\nportico.com\nIf you no longer wish to receive emails from Portico, please click here to unsubscribe.\nNatacha Grijó\nTrainee Lettings Consultant\n5 Clapham Common South Side\nClapham\nSW4 7AA\n0203 376 6605 EXT 24695\nportico.com\nOur bank details will not change during the course of a transaction. If you receive a notification which advises a change in our bank account details or asking for a one-off payment to be paid direct to an account (not through our payment portal), it may be fraudulent and you should contact Portico who will advise you accordingly.\n We are Carbon Neutral and committed to reducing our environmental impact. We've achieved carbon neutrality for our core Scope 1 and Scope 2 emissions, and we're continuing to reduce emissions across every part of our business as we work towards our wider sustainability ambitions for 2030\n Correspondence Address: Building 1, Meadows Business Park, Blackwater, Camberley GU17 9AB. Registered Address: Building 1, Meadows Business Park, Blackwater, Camberley GU17 9AB. Registered in England and Wales 04971609. At Portico Property Ltd we take your data privacy seriously and invite you to view our privacy notice. The information in this email is confidential and intended for the sole use of the addressee. Portico Property Ltd accept no legal responsibility for the content of the message, the contents or opinions contained within this e-mail are solely those of the sender and do not necessarily represent those of Portico Property Ltd or its subsidiaries unless otherwise specifically stated. If you have received this message in error please return it to the sender. Portico Property Ltd may monitor the content of email sent and received via its network for the purposes of ensuring compliance with its policies and procedures. We advise you to carry out your own virus check before opening any attachment as we cannot accept liability for any damage sustained as a result of any software viruses.",
+    "enquiry": null,
+    "thread_id": "1a1399423c473bcb"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-14T12:32:21Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "sorry it's too far away from city center",
+    "enquiry": null,
+    "thread_id": "1a1399423c473bcb"
+   }
+  ],
+  "thread_ids": [
+   "1a1399423c473bcb"
+  ],
+  "mail_status": "rejected",
+  "agent_email": "n.grijo@portico.com",
+  "agent_phone": "02075010454"
  }
 ]

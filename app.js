@@ -5,7 +5,7 @@ const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
 const msgOf=e=>{const t=(e&&(e.text||e.message)||'').trim();return t};
 const msgBox=(e,pre)=>{const t=msgOf(e);return t?`<details class="sent"><summary>${pre||''}<span class="more">show message</span></summary><pre>${esc(t)}</pre></details>`:`<div class="sent">${pre||''}<span class="more" style="opacity:.7">text not available</span></div>`};
 const enqBadge=e=>e.source==='assistant'?'Enquired by assistant':'Masha already enquired '+(e.sent_at?fmtD(e.sent_at):'');
-const SSTAT={sent:['Awaiting reply','st-await'],'awaiting reply':['Awaiting reply','st-await'],'Let agreed':['Let agreed','st-let'],'Off the market':['Off the market','st-off'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],'viewing proposed':['Viewing proposed','st-replied'],rejected:['Not for us','st-off'],no_reply:['Awaiting reply','st-await']};
+const SSTAT={sent:['Awaiting reply','st-await'],'awaiting reply':['Awaiting reply','st-await'],'Let agreed':['Let agreed','st-let'],'Off the market':['Off the market','st-off'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],viewed:['Viewed ✓','st-confirmed'],'viewing proposed':['Viewing proposed','st-replied'],rejected:['Not for us','st-off'],no_reply:['Awaiting reply','st-await']};
 const rtK='flatrating',rqK='flatrateq';const RT=JSON.parse(localStorage.getItem(rtK)||'{}');let RQ=JSON.parse(localStorage.getItem(rqK)||'{}');let showHid=false;
 const rating=l=>RT[l.id]!==undefined?RT[l.id]:(l.rating||null);
 const scoreOf=l=>Math.min(100,(l.score||0)+(RT[l.id]==='like'&&l.rating!=='like'?8:0));
@@ -148,7 +148,7 @@ function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sen
   const linkUrl=(L&&L.url)||e.url||'';
   return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${L?`<a href="#flat-${esc(L.id)}" class="clink" onclick="openCard('${esc(L.id)}');return false">${esc(e.title||L.title)} ›</a>`:esc(e.title)}</div>
   ${e.agent||e.price?`<div class="facts">${[e.price,e.agent].filter(Boolean).map(esc).join(' · ')}</div>`:''}
-  <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span></div>
+  <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span>${e.listing_market?`<span class="badge st-off">${esc(e.listing_market)}</span>`:''}</div>
   ${e.thread&&e.thread.length?convBox(e):msgBox(e)}
   ${rs.length?rs.map(rcard).join(''):(e.status==='awaiting reply'||e.status==='sent'||!e.status?'<div class="notes" style="margin-top:6px">No reply yet</div>':'')}
   <div class="acts">${L?`<button class="b s opencard" data-id="${esc(L.id)}" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${linkUrl?`<button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button>`:''}</div></div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');

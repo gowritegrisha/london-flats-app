@@ -105,7 +105,7 @@
   "agent": "Leo Newman, London",
   "agent_contact": null,
   "agent_email": "zac@leonewman.co.uk",
-  "agent_phone": "07407 031 620",
+  "agent_phone": "07407 031 620 02",
   "thread_id": "1a13c3708e445519",
   "status": "proposed",
   "asked": "2026-10-14T20:59:58Z",
@@ -180,5 +180,17 @@
   "notes": " Hi, you have a new message from Randy! 1 Bed Flat, Holland Park Gardens, W14 - Ref# 3065685 HI, Thanks for your interest. As the flat is available from 14th October, I am looking for someone, who a move in that day. Ple",
   "source": "masha-mail",
   "type": null
+ },
+ {
+  "id": "cal-9aa0076b7f4847b7bb73d136d6b27c92",
+  "listing_id": null,
+  "title": "Unlabelled viewing (Masha calendar)",
+  "address": null,
+  "datetime": "2026-10-14T13:00:00+01:00",
+  "agent": null,
+  "status": "done",
+  "calendar_event_id": "9aa0076b7f4847b7bb73d136d6b27c92",
+  "source": "masha-calendar",
+  "notes": "Masha calendar event titled only “viewing” (14:00 Madrid / 13:00 London). Not matched to a flat from email — possibly phone/WhatsApp. Ask Masha which flat."
  }
 ]
