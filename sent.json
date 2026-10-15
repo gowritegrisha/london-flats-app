@@ -489,7 +489,7 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "zac@leonewman.co.uk",
-  "agent_phone": "07407 031 620 02"
+  "agent_phone": "07407 031 620"
  },
  {
   "listing_id": "128733527",
@@ -956,12 +956,13 @@
    }
   ],
   "thread_ids": [
-   "1a11aae77e3a6315",
-   "1a11abeedc6e3ac9"
+   "1a11abeedc6e3ac9",
+   "1a11aae77e3a6315"
   ],
   "mail_status": "viewing proposed",
-  "agent_email": "Erin@occu.ie",
-  "agent_contact": "Erin"
+  "agent_email": "edenwood-house.reply@mail.occu.ie",
+  "agent_contact": "Erin",
+  "agent_phone": "+44 203 996 9927"
  },
  {
   "listing_id": "163036916",

@@ -108,19 +108,27 @@ function openL(){cur&&link(cur.url)}
 function toast(m){const e=document.getElementById('toast');e.textContent=m;e.style.display='block';clearTimeout(e._t);e._t=setTimeout(()=>e.style.display='none',1600)}
 const dayK=d=>new Date(d).toLocaleDateString('en-GB',{timeZone:TZ,weekday:'short',day:'numeric',month:'short'});
 const tm=d=>new Date(d).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'});
-function vcard(v,past){const L=v.listing_id&&data.find(l=>l.id==v.listing_id);return `<div class="card${past?' past':''}"><div class="body"><span class="p">${v.datetime?tm(v.datetime)+' 🇬🇧':'TBC'}</span><div class="t">${esc(v.title||v.address)}</div><div>${esc(v.address||'')}</div>
- <div class="facts">${[v.type=='video'?'📹 video':'🚶 in-person',v.agent,v.agent_phone].filter(Boolean).map(esc).join(' · ')}</div>
- <div><span class="badge st-${esc(v.status)}">${esc(v.status)}</span>${v.agent_email?`<a style="font-size:12px" href="mailto:${esc(v.agent_email)}">${esc(v.agent_email)}</a>`:''}</div>
- ${v.notes?`<div class="notes">${esc(v.notes)}</div>`:''}${L?`<div class="acts"><button class="b s" onclick="link('${esc(L.url)}')">Rightmove ↗</button></div>`:''}</div></div>`}
+const tmZ=(d,z)=>new Date(d).toLocaleTimeString('en-GB',{timeZone:z,hour:'2-digit',minute:'2-digit'});
+const vWhen=v=>v.datetime?`${tmZ(v.datetime,TZ)} 🇬🇧 London · ${tmZ(v.datetime,'Europe/Madrid')} 🇪🇸 Madrid`:'Time TBC';
+function vcard(v,past){const L=v.listing_id&&data.find(l=>String(l.id)==String(v.listing_id));const url=(L&&L.url)||(String(v.listing_id||'').match(/^\d+$/)?'https://www.rightmove.co.uk/properties/'+v.listing_id:'');
+ const st=v.status=='proposed'?'awaiting time':v.status;
+ return `<div class="card${past?' past':''}"><div class="body"><span class="p">${v.datetime?vWhen(v):(v.asked?'Asked '+fmtD(v.asked):'Time TBC')}</span>
+ <div class="t">${L?`<a href="#flat-${esc(L.id)}" class="clink" onclick="openCard('${esc(L.id)}');return false">${esc(v.title||v.address)} ›</a>`:esc(v.title||v.address)}</div>${v.address&&v.address!=v.title?`<div>${esc(v.address)}</div>`:''}
+ <div class="facts">${[v.type=='video'?'📹 video':(v.datetime?'🚶 in-person':''),v.agent,v.agent_contact].filter(Boolean).map(esc).join(' · ')}</div>
+ <div class="facts">${v.agent_phone?`📞 <a href="tel:${esc(v.agent_phone.replace(/[^+\d]/g,''))}">${esc(v.agent_phone)}</a> `:''}${v.agent_email?`✉️ <a href="mailto:${esc(v.agent_email)}">${esc(v.agent_email)}</a>`:''}</div>
+ <div><span class="badge st-${esc(v.status)}">${esc(st)}</span>${v.calendar_event_id?'<span class="badge">📅 in calendar</span>':''}</div>
+ ${v.notes?`<div class="notes">${esc(v.notes)}</div>`:''}<div class="acts">${L?`<button class="b s" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${url?`<button class="b s" onclick="link('${esc(url)}')">Rightmove ↗</button>`:''}</div></div></div>`}
 function renderV(){const now=Date.now();const up=[],pa=[],tbc=[];
  V.forEach(v=>{if(!v.datetime)tbc.push(v);else if(new Date(v.datetime)>=now-3600e3&&v.status!='done')up.push(v);else pa.push(v)});
  up.sort((a,b)=>a.datetime.localeCompare(b.datetime));pa.sort((a,b)=>b.datetime.localeCompare(a.datetime));
- let h='<h1 style="margin:4px 2px">📅 Viewings <span class="cnt">London time</span></h1>';let last='';
+ tbc.sort((a,b)=>(/video call/i.test(b.notes||'')-/video call/i.test(a.notes||''))||(b.asked||'').localeCompare(a.asked||''));
+ let h='<h1 style="margin:4px 2px">📅 Viewings <span class="cnt">London · Madrid time</span></h1>';let last='';
  if(!V.length){document.getElementById('vlist').innerHTML=h+EMPTY('📅','No viewings yet','They\'ll appear here once agents reply and a viewing is booked.');return}
- up.forEach(v=>{const k=dayK(v.datetime);if(k!=last){h+=`<div class="day">${k}</div>`;last=k}h+=vcard(v)});
+ h+='<div class="day">Upcoming</div>';
+ up.forEach(v=>{const k=dayK(v.datetime);if(k!=last){h+=`<div class="day" style="opacity:.8">${k}</div>`;last=k}h+=vcard(v)});
  if(!up.length)h+='<p style="color:var(--hint);margin:0 4px">No upcoming viewings</p>';
- if(tbc.length)h+='<div class="day">Time TBC</div>'+tbc.map(v=>vcard(v)).join('');
- if(pa.length){h+='<div class="day">Past</div>';last='';pa.forEach(v=>{h+=vcard(v,1)})}
+ if(tbc.length)h+=`<div class="day">Proposed / awaiting time (${tbc.length})</div>`+tbc.map(v=>vcard(v)).join('');
+ if(pa.length)h+=`<details class="pastv"><summary class="day" style="cursor:pointer">Past (${pa.length}) ▸</summary>${pa.map(v=>`<div class="day" style="opacity:.7">${dayK(v.datetime)}</div>`+vcard(v,1)).join('')}</details>`;
  document.getElementById('vlist').innerHTML=h}
 const rcard=r=>`<div class="reply"><span style="font-size:12px;color:var(--hint)">↳ Reply ${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t" style="font-size:14px">${esc(r.agent)}</div>
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
