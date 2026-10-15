@@ -2,6 +2,9 @@ const tg=window.Telegram&&Telegram.WebApp;if(tg){tg.ready();tg.expand();}
 const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejected'];const FL=['all','saved',...ST.slice(1)];let data=[],filt='all',cur=null,V=[],R=[],S=[],rFilt='all';
 const svK='flatsaved';const saved=new Set(JSON.parse(localStorage.getItem(svK)||'[]'));
 const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
+const msgOf=e=>{const t=(e&&(e.text||e.message)||'').trim();return t};
+const msgBox=(e,pre)=>{const t=msgOf(e);return t?`<details class="sent"><summary>${pre||''}<span class="more">show message</span></summary><pre>${esc(t)}</pre></details>`:`<div class="sent">${pre||''}<span class="more" style="opacity:.7">text not available</span></div>`};
+const enqBadge=e=>e.source==='assistant'?'Enquired by assistant':'Masha already enquired '+(e.sent_at?fmtD(e.sent_at):'');
 const SSTAT={sent:['Awaiting reply','st-await'],'awaiting reply':['Awaiting reply','st-await'],'Let agreed':['Let agreed','st-let'],'Off the market':['Off the market','st-off'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],no_reply:['Awaiting reply','st-await']};
 const rtK='flatrating',rqK='flatrateq';const RT=JSON.parse(localStorage.getItem(rtK)||'{}');let RQ=JSON.parse(localStorage.getItem(rqK)||'{}');let showHid=false;
 const rating=l=>RT[l.id]!==undefined?RT[l.id]:(l.rating||null);
@@ -39,11 +42,11 @@ function render(){
 ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
  ${l.score_breakdown?bdHtml(l):''}
  ${sentBox(l)}
- <div class="acts"><button class="b s rt${rating(l)=='like'?' up':''}" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b s rt${rating(l)=='dislike'?' dn':''}" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>${sentOf(l.id)?'':`<button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button>`}<button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button><button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
+ <div class="acts"><button class="b s rt${rating(l)=='like'?' up':''}" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b s rt${rating(l)=='dislike'?' dn':''}" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>${sentOf(l.id)?`<span class="sbadge">✋ ${esc(enqBadge(sentOf(l.id)))}</span>`:`<button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button><button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button>`}<button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
  <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(s=>`<option ${s==st(l)?'selected':''}>${s}</option>`).join('')}</select></div></div></div>`).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
 }
 function sentBox(l){const e=sentOf(l.id);if(!e)return '';const [lab,cls]=SSTAT[e.status]||SSTAT.sent;
- return `<details class="sent"><summary><span class="sbadge">Sent ✓ ${fmtD(e.sent_at)}</span><span class="badge ${cls}">${lab}</span><span class="more">show message</span></summary><pre>${esc(e.text)}</pre></details>`}
+ return msgBox(e,`<span class="sbadge">${esc(enqBadge(e))}</span><span class="badge ${cls}">${lab}</span>`)}
 function save(id){const l=data.find(x=>x.id==id);const k=String(id);
  if(saved.has(k)){saved.delete(k);localStorage.setItem(svK,JSON.stringify([...saved]));render();toast('Removed from saved');return}
  saved.add(k);localStorage.setItem(svK,JSON.stringify([...saved]));render();
@@ -52,7 +55,7 @@ function save(id){const l=data.find(x=>x.id==id);const k=String(id);
  else deep('s_'+k)}
 function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));render();toast('Status saved on this device')}
 function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
-function draft(id){cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
+function draft(id){if(sentOf(id)){toast(enqBadge(sentOf(id)));return}cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
  const name=cur.title.split(',')[0];
  let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.`;
  if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
@@ -66,7 +69,7 @@ async function copyT(open){const ta=document.getElementById('txt');let ok=false;
  toast(ok?'Copied':'Select & copy manually');tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(open)setTimeout(openL,400)}
 function canSend(){if(!tg||!tg.sendData||!tg.initDataUnsafe)return false;if(tg.initDataUnsafe.query_id)return false;return !!(tg.initData!==undefined&&tg.platform&&tg.platform!=='unknown')}
 function toggleRegen(){const r=document.getElementById('regen');r.style.display=r.style.display=='none'?'block':'none';if(r.style.display=='block')document.getElementById('cmt').focus()}
-async function sendAct(a){if(!cur)return;const comment=document.getElementById('cmt').value.trim();
+async function sendAct(a){if(!cur)return;if(sentOf(cur.id)){toast(enqBadge(sentOf(cur.id)));return}const comment=document.getElementById('cmt').value.trim();
  if(a=='regenerate'&&!comment){toast('Say what to change');document.getElementById('regen').style.display='block';return}
  if(!canSend()){const id=String(cur.id);const edited=document.getElementById('txt').value!==cur._orig;
   if(a=='regenerate'){await clip('regen '+id+': '+comment);hint('Opening bot chat. Your comment was copied — paste it there.');deep('g_'+id);return}
@@ -111,7 +114,7 @@ function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sen
   return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${esc(e.title||L&&L.title)}</div>
   ${e.agent||e.price?`<div class="facts">${[e.price,e.agent].filter(Boolean).map(esc).join(' · ')}</div>`:''}
   <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span></div>
-  <details class="sent"><summary><span class="more">show message</span></summary><pre>${esc(e.text)}</pre></details>
+  ${msgBox(e)}
   ${rs.length?rs.map(rcard).join(''):(e.status==='awaiting reply'||e.status==='sent'||!e.status?'<div class="notes" style="margin-top:6px">No reply yet</div>':'')}
   ${linkUrl?`<div class="acts"><button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button></div>`:''}</div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
  const other=R.filter(r=>!used.has(r));
