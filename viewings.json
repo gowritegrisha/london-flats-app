@@ -226,5 +226,27 @@
   "notes": "Good morning, I hope you’re well, Thank you for your viewing request on the above property, https://www.lettingaproperty.com/property/10092?_gl=111o81ow_gcl_auNjM1MDA1MjY0LjE3ODk1NTg5NDAuMjI3ODY3NzY1LjE3OTE0NTE4OTUuMTc5M",
   "source": "masha-mail",
   "type": null
+ },
+ {
+  "id": "prop-94294830-viewed",
+  "listing_id": "94294830",
+  "title": "Princes Avenue, Muswell Hill, N10",
+  "address": "Princes Avenue, Muswell Hill, N10",
+  "datetime": null,
+  "agent": "Kinleigh Folkard & Hayward - Lettings, Muswell Hill",
+  "status": "done",
+  "asked": "2026-10-15T23:30:16+02:00",
+  "notes": "Masha confirmed she viewed it (feedback 15 Oct). Offer level TBD per agency — she is talking to both."
+ },
+ {
+  "id": "prop-93395547-viewed",
+  "listing_id": "93395547",
+  "title": "Princes Avenue, London, N10",
+  "address": "Princes Avenue, London, N10",
+  "datetime": null,
+  "agent": "Martyn Gerrard, Muswell Hill",
+  "status": "done",
+  "asked": "2026-10-15T23:30:16+02:00",
+  "notes": "Masha confirmed she viewed it (feedback 15 Oct). Offer level TBD per agency — she is talking to both."
  }
 ]
