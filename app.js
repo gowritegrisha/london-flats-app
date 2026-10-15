@@ -1,8 +1,8 @@
 const tg=window.Telegram&&Telegram.WebApp;if(tg){tg.ready();tg.expand();}
-const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejected'];const FL=['all','saved',...ST.slice(1)];let data=[],filt='all',cur=null,V=[],R=[],S=[];
+const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejected'];const FL=['all','saved',...ST.slice(1)];let data=[],filt='all',cur=null,V=[],R=[],S=[],rFilt='all';
 const svK='flatsaved';const saved=new Set(JSON.parse(localStorage.getItem(svK)||'[]'));
 const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
-const SSTAT={sent:['Sent','st-sent'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],no_reply:['No reply yet','st-noreply']};
+const SSTAT={sent:['Awaiting reply','st-await'],'awaiting reply':['Awaiting reply','st-await'],'Let agreed':['Let agreed','st-let'],'Off the market':['Off the market','st-off'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],no_reply:['Awaiting reply','st-await']};
 const rtK='flatrating',rqK='flatrateq';const RT=JSON.parse(localStorage.getItem(rtK)||'{}');let RQ=JSON.parse(localStorage.getItem(rqK)||'{}');let showHid=false;
 const rating=l=>RT[l.id]!==undefined?RT[l.id]:(l.rating||null);
 const scoreOf=l=>Math.min(100,(l.score||0)+(RT[l.id]==='like'&&l.rating!=='like'?8:0));
@@ -97,19 +97,29 @@ function renderV(){const now=Date.now();const up=[],pa=[],tbc=[];
 const rcard=r=>`<div class="reply"><span style="font-size:12px;color:var(--hint)">↳ Reply ${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t" style="font-size:14px">${esc(r.agent)}</div>
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
  ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div>`;
-function renderR(){const SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sent_at||''));const used=new Set();
- let h=`<h1 style="margin:4px 2px">✉️ Enquiries <span class="cnt">${SS.length} sent</span></h1>`;
- h+=SS.map(e=>{const L=data.find(l=>l.id==e.listing_id);const rs=R.filter(r=>String(r.listing_id)==String(e.listing_id));rs.forEach(r=>used.add(r));const [lab,cls]=SSTAT[e.status]||SSTAT.sent;
-  return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${fmtD(e.sent_at)} ${new Date(e.sent_at).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})}</span><div class="t">${esc(e.title||L&&L.title)}</div>
-  <div><span class="sbadge">Sent ✓ via ${esc(e.channel||'rightmove')}</span><span class="badge ${cls}">${lab}</span></div>
+function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sent_at||''));
+ const nAll=SS.length,nLet=SS.filter(e=>e.status==='Let agreed').length,nAct=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market').length;
+ if(rFilt==='active')SS=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market');
+ else if(rFilt==='let')SS=SS.filter(e=>e.status==='Let agreed');
+ const used=new Set();
+ let h=`<h1 style="margin:4px 2px">✉️ Enquiries <span class="cnt">${nAll} sent</span></h1>`;
+ h+=`<div class="ctl"><span class="lbl">Filter:</span><div class="row">${[['all','All',nAll],['active','Active',nAct],['let','Let agreed',nLet]].map(([k,lab,n])=>`<button class="chip ${rFilt==k?'on':''}" onclick="rFilt='${k}';renderR()">${lab} (${n})</button>`).join('')}</div></div>`;
+ h+=SS.map(e=>{const L=data.find(l=>String(l.id)==String(e.listing_id));const rs=R.filter(r=>String(r.listing_id)==String(e.listing_id));rs.forEach(r=>used.add(r));const [lab,cls]=SSTAT[e.status]||SSTAT['awaiting reply'];
+  const src=e.source==='masha'?'by Masha':e.source==='assistant'?'by assistant':'';
+  const when=e.sent_at?(e.sent_at.length<=10?fmtD(e.sent_at):fmtD(e.sent_at)+' '+new Date(e.sent_at).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})):'';
+  const linkUrl=(L&&L.url)||e.url||'';
+  return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${esc(e.title||L&&L.title)}</div>
+  ${e.agent||e.price?`<div class="facts">${[e.price,e.agent].filter(Boolean).map(esc).join(' · ')}</div>`:''}
+  <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span></div>
   <details class="sent"><summary><span class="more">show message</span></summary><pre>${esc(e.text)}</pre></details>
-  ${rs.length?rs.map(rcard).join(''):'<div class="notes" style="margin-top:6px">No reply yet</div>'}
-  ${L?`<div class="acts"><button class="b s" onclick="link('${esc(L.url)}')">Rightmove ↗</button></div>`:''}</div></div>`}).join('')||EMPTY('✉️','No enquiries sent yet','Tap “Send enquiry” on a flat — it will appear here with its status.');
+  ${rs.length?rs.map(rcard).join(''):(e.status==='awaiting reply'||e.status==='sent'||!e.status?'<div class="notes" style="margin-top:6px">No reply yet</div>':'')}
+  ${linkUrl?`<div class="acts"><button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button></div>`:''}</div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
  const other=R.filter(r=>!used.has(r));
- if(other.length)h+='<div class="day">Other replies</div>'+other.map(r=>`<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t">${esc(r.agent)}</div><div>${esc(r.title||'')}</div>
+ if(other.length&&rFilt==='all')h+='<div class="day">Other replies</div>'+other.map(r=>`<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t">${esc(r.agent)}</div><div>${esc(r.title||'')}</div>
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
  ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div></div>`).join('');
  document.getElementById('rlist').innerHTML=h}
+
 
 const EMPTY=(i,t,d)=>`<div class="empty"><div class="e">${i}</div><b>${t}</b><div style="font-size:13px;margin-top:4px">${d}</div></div>`;
 const TABS={flats:['list','fhead'],viewings:['vlist'],replies:['rlist']};let curTab='flats';
