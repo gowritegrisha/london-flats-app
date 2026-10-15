@@ -161,7 +161,7 @@ function tab(t){if(!TABS[t])t='flats';curTab=t;
 document.querySelectorAll('nav#tabs button').forEach(b=>b.addEventListener('click',()=>tab(b.dataset.tab)));
 document.getElementById('sort').addEventListener('change',render);
 const getJ=f=>fetch(f+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[]);
-getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
+getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render();if(curTab=='replies')renderR();if(curTab=='viewings')renderV();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
 Promise.all([getJ('viewings.json'),getJ('replies.json'),getJ('sent.json')]).then(([a,b,c])=>{V=Array.isArray(a)?a:[];R=Array.isArray(b)?b:[];S=Array.isArray(c)?c:[];render();if(curTab=='viewings')renderV();if(curTab=='replies')renderR()});
 const h0=(location.hash||'').slice(1);if(!/^flat-/.test(h0))tab(h0=='viewings'||h0=='replies'?h0:'flats');
 
