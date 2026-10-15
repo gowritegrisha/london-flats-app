@@ -59,3 +59,14 @@ details.bd{margin-top:6px;font-size:12px}details.bd summary{color:var(--link);cu
 
 .card.hl{outline:3px solid #f9a825;outline-offset:2px;transition:outline .3s}
 .clink{color:inherit;text-decoration:underline;text-decoration-color:rgba(127,127,127,.5)}
+
+.bar{display:flex;align-items:center;gap:8px;padding:8px 12px 0}
+.bar .score{float:none;margin:0}.bar .p{margin-left:auto;font-weight:800;font-size:18px}
+.rmb{font-weight:600}
+.comm{font-size:14px;margin:4px 0;font-weight:600}
+.tags{display:grid;grid-template-columns:1fr 1fr;gap:4px 10px;font-size:13px;margin:6px 0}
+.tags span{background:#7f7f7f1a;border-radius:8px;padding:3px 8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+details.more summary{font-size:12px;color:var(--hint);cursor:pointer;margin:4px 0}
+.card.done{opacity:.6;filter:grayscale(.6)}.card.done:hover,.card.done.hl{opacity:1;filter:none}
+.sbadge.enq{background:#5c6bc0}
+.newb{display:inline-block;font-size:11px;font-weight:700;background:#f9a825;color:#000;border-radius:6px;padding:1px 6px;vertical-align:middle}

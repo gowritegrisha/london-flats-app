@@ -1,85 +1,5 @@
 [
   {
-    "id": "93958821",
-    "title": "38 Aerodrome Road — 1-bed",
-    "area": "Colindale | London NW9",
-    "price": 2200,
-    "size": "58 m²",
-    "floor": "Garden",
-    "furnished": "Furnished or unfurnished, landlord is flexible",
-    "available": "",
-    "commute": "~32 min est. (nearest Colindale Station 0.4 mi)",
-    "pets": "Not mentioned",
-    "url": "https://www.rightmove.co.uk/properties/93958821",
-    "photos": [
-      "photos/93958821_0.jpg",
-      "photos/93958821_1.jpg",
-      "photos/93958821_2.jpg",
-      "photos/93958821_3.jpg",
-      "photos/93958821_4.jpg"
-    ],
-    "status": "enquired",
-    "notes": "💜 Masha enquired 2026-10-07. Receive £300 travel card; Flexible Furnished or Unfurnished Options; 24h On Site Management; Fully Equipped Residents' Gym; Underfloor Heating Throughout; Swim &amp; Spa Facilities. Spacious 1 Bed Apartment with Rooftop Terrace | Residents' Gym, Pool & Spa | Co-Working Lounge | Secure Gated Parking | Landscaped Gardens | Moments from Colindale Station. Experience modern living with access to a range of exclusive resident facilities designed for comfort, convenience, and community. Enjoy a residents-only gym, communal workspaces, and a coffee shop just steps from your door. The development also offers a secure parcel room, on-site management team, and gated parking for peace of mind. Unwind on",
-    "hood": "",
-    "date_found": "2026-10-15",
-    "masha_enquired": true,
-    "features": "Receive £300 travel card Flexible Furnished or Unfurnished Options 24h On Site Management Fully Equipped Residents' Gym Underfloor Heating Throughout Swim &amp; Spa Facilities Secure Parcel Room 5-Minute Walk to Colindale Station (Northern Line) Secure Gated Parking Available Walking Distance to Supermarket &amp; Local Amenities",
-    "score": 73,
-    "score_breakdown": {
-      "style": {
-        "points": 14.0,
-        "max": 22,
-        "reason": "keywords: modern(+3)"
-      },
-      "size": {
-        "points": 10.8,
-        "max": 15,
-        "reason": "58 m²"
-      },
-      "commute": {
-        "points": 14.4,
-        "max": 20,
-        "reason": "~32 min avg to NW1 3BF"
-      },
-      "hood": {
-        "points": 7.5,
-        "max": 15,
-        "reason": "no Hoodmaps data"
-      },
-      "availability": {
-        "points": 6.0,
-        "max": 10,
-        "reason": "date unknown/flexible"
-      },
-      "furnished": {
-        "points": 4.0,
-        "max": 5,
-        "reason": "Furnished or unfurnished, landlord is flexible"
-      },
-      "price": {
-        "points": 0,
-        "max": 3,
-        "reason": "£2,200"
-      },
-      "extras": {
-        "points": 4,
-        "max": 4,
-        "reason": "garden, terrace, gym"
-      },
-      "outdoor": {
-        "points": 3.9,
-        "max": 6,
-        "reason": "garden"
-      },
-      "feedback": {
-        "points": 8,
-        "max": 8,
-        "reason": "👍 liked (Masha enquired)"
-      }
-    },
-    "rating": "like"
-  },
-  {
     "id": "93920112",
     "title": "Alexandra Road — 1-bed",
     "area": "St. John's Wood NW8",
@@ -88,7 +8,7 @@
     "floor": "Garden",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "",
-    "commute": "~12 min est. (nearest South Hampstead Station 0.1 mi)",
+    "commute": "30 min · 🚌 bus 113 + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93920112",
     "photos": [
@@ -119,7 +39,7 @@
       "commute": {
         "points": 20,
         "max": 20,
-        "reason": "~12 min avg to NW1 3BF"
+        "reason": "30 min door-to-door (TfL): 🚌 bus 113 + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -157,7 +77,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.54092,
+    "lng": -0.17803,
+    "commute_min": 30,
+    "commute_mode": "🚌 bus 113 + bus 18"
   },
   {
     "id": "94022025",
@@ -168,7 +93,7 @@
     "floor": "Garden",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "",
-    "commute": "~24 min est. (nearest Brent Cross West Station 0.3 mi)",
+    "commute": "46 min · 🚌 bus 102 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Pets considered",
     "url": "https://www.rightmove.co.uk/properties/94022025",
     "photos": [
@@ -184,7 +109,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "50% OFF YOUR FIRST THREE MONTHS’ RENT. 25m Private Indoor Pool 12 minute commute from King's Cross St. Pancras Private Parking and Bike Storage Technogym Equipped Gym Private Dining Spaces BBQ Terraces Work from home spaces Community events programme Sauna and Wellness Centre",
-    "score": 73,
+    "score": 61,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -197,9 +122,9 @@
         "reason": "56 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 8.4,
         "max": 20,
-        "reason": "~24 min avg to NW1 3BF"
+        "reason": "46 min door-to-door (TfL): 🚌 bus 102 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -237,7 +162,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.570549,
+    "lng": -0.221716,
+    "commute_min": 46,
+    "commute_mode": "🚌 bus 102 + Northern + Victoria"
   },
   {
     "id": "93983106",
@@ -248,7 +178,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Unfurnished",
     "available": "2026-12-07",
-    "commute": "~17 min est. (nearest Arsenal Station 0.2 mi)",
+    "commute": "27 min · 🚇 Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93983106",
     "photos": [
@@ -279,7 +209,7 @@
       "commute": {
         "points": 20,
         "max": 20,
-        "reason": "~17 min avg to NW1 3BF"
+        "reason": "27 min door-to-door (TfL): 🚇 Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -317,7 +247,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.561162,
+    "lng": -0.105175,
+    "commute_min": 27,
+    "commute_mode": "🚇 Victoria"
   },
   {
     "id": "94047345",
@@ -328,7 +263,7 @@
     "floor": "",
     "furnished": "Furnished",
     "available": "2026-10-17",
-    "commute": "~24 min est. (nearest Langdon Park Station 0.1 mi)",
+    "commute": "47 min · 🚈 DLR + Elizabeth line + Northern (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94047345",
     "photos": [
@@ -344,7 +279,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "OPEN PLAN LIVING BALCONY SOUTH-WEST FACING GYM CONCIERGE LOCAL AMENITIES 0.1 MI TO LANGDON PARK DLR",
-    "score": 75,
+    "score": 62,
     "score_breakdown": {
       "style": {
         "points": 18.1,
@@ -357,9 +292,9 @@
         "reason": "48 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 7.8,
         "max": 20,
-        "reason": "~24 min avg to NW1 3BF"
+        "reason": "47 min door-to-door (TfL): 🚈 DLR + Elizabeth line + Northern"
       },
       "hood": {
         "points": 7.5,
@@ -397,87 +332,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
-  },
-  {
-    "id": "94049103",
-    "title": "Tower Gardens Road — 3-bed",
-    "area": "LONDON",
-    "price": 2250,
-    "size": "size not stated",
-    "floor": "Ground floor + garden",
-    "furnished": "Part furnished",
-    "available": "2026-10-15",
-    "commute": "~33 min est. (nearest Bruce Grove Station 0.7 mi)",
-    "pets": "Not mentioned",
-    "url": "https://www.rightmove.co.uk/properties/94049103",
-    "photos": [
-      "photos/94049103_0.jpg",
-      "photos/94049103_1.jpg",
-      "photos/94049103_2.jpg",
-      "photos/94049103_3.jpg",
-      "photos/94049103_4.jpg"
-    ],
-    "status": "enquired",
-    "notes": "💜 Masha enquired 2026-10-07. Three spacious double bedrooms; Separate bright reception room; Large private rear garden; Part-furnished throughout; Fully fitted kitchen with white goods; Excellent internal and external storage. **Zero Deposit Guarantee Available** Holding Deposit: £519.00 SUMMARY A bright and spacious three-bedroom mid-terraced family home offering three double bedrooms, a separate reception room, a well-appointed bathroom and a large private rear garden. Further benefits include excellent storage, part-furnished accommodation, permit parking and a Zero Deposit option. Available immediately. DESCRIPTION A bright and spacious three-bedroom mid-terraced house situated on the popular Tower Gardens Road, N17. The property off",
-    "hood": "",
-    "date_found": "2026-10-15",
-    "masha_enquired": true,
-    "features": "Three spacious double bedrooms Separate bright reception room Large private rear garden Part-furnished throughout Fully fitted kitchen with white goods Excellent internal and external storage Permit parking available Available immediately with Zero Deposit option",
-    "score": 68,
-    "score_breakdown": {
-      "style": {
-        "points": 12.6,
-        "max": 22,
-        "reason": "keywords: bright(+2)"
-      },
-      "size": {
-        "points": 7.5,
-        "max": 15,
-        "reason": "size unknown (size not stated)"
-      },
-      "commute": {
-        "points": 13.6,
-        "max": 20,
-        "reason": "~33 min avg to NW1 3BF"
-      },
-      "hood": {
-        "points": 7.5,
-        "max": 15,
-        "reason": "no Hoodmaps data"
-      },
-      "availability": {
-        "points": 5.8,
-        "max": 10,
-        "reason": "15 Oct: 17 days before Nov"
-      },
-      "furnished": {
-        "points": 3.5,
-        "max": 5,
-        "reason": "part furnished"
-      },
-      "price": {
-        "points": 0,
-        "max": 3,
-        "reason": "£2,250"
-      },
-      "extras": {
-        "points": 4,
-        "max": 4,
-        "reason": "garden, terrace"
-      },
-      "outdoor": {
-        "points": 6,
-        "max": 6,
-        "reason": "ground floor + garden (Princes Ave-like)"
-      },
-      "feedback": {
-        "points": 8,
-        "max": 8,
-        "reason": "👍 liked (Masha enquired)"
-      }
-    },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.515923,
+    "lng": -0.015445,
+    "commute_min": 47,
+    "commute_mode": "🚈 DLR + Elizabeth line + Northern"
   },
   {
     "id": "94047639",
@@ -488,7 +348,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "2026-12-09",
-    "commute": "~24 min est. (nearest Finchley Central Station 0.1 mi)",
+    "commute": "36 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94047639",
     "photos": [
@@ -504,7 +364,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Two Bedrooms Light &amp; Bright Apartment High Ceilings Open Plan Kitchen/Diner Modern Bathroom Plenty Of Storage Throughout Unfurnished Close Proximity To Local Amenities Northern Line Just A Few Minutes Away",
-    "score": 77,
+    "score": 74,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -517,9 +377,9 @@
         "reason": "74 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 16.2,
         "max": 20,
-        "reason": "~24 min avg to NW1 3BF"
+        "reason": "36 min door-to-door (TfL): 🚇 Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -557,7 +417,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.601802,
+    "lng": -0.192593,
+    "commute_min": 36,
+    "commute_mode": "🚇 Northern + Victoria"
   },
   {
     "id": "93535440",
@@ -568,7 +433,7 @@
     "floor": "Ground floor",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "",
-    "commute": "~31 min est. (nearest Hendon Central Station 0.6 mi)",
+    "commute": "48 min · 🚌 bus 183 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93535440",
     "photos": [
@@ -584,7 +449,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Spacious 1 bedroom lower ground floor flat Open-plan living space Good-sized double bedroom with built-in wardrobes Stylish bathroom Private terrace Well-presented throughout Close to the amenities on Brent Street",
-    "score": 73,
+    "score": 65,
     "score_breakdown": {
       "style": {
         "points": 18.1,
@@ -597,9 +462,9 @@
         "reason": "52 m²"
       },
       "commute": {
-        "points": 15.2,
+        "points": 7.2,
         "max": 20,
-        "reason": "~31 min avg to NW1 3BF"
+        "reason": "48 min door-to-door (TfL): 🚌 bus 183 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -637,7 +502,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.58892,
+    "lng": -0.21769,
+    "commute_min": 48,
+    "commute_mode": "🚌 bus 183 + Northern + Victoria"
   },
   {
     "id": "94045110",
@@ -648,7 +518,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "2026-11-30",
-    "commute": "~22 min est. (nearest Ravenscourt Park Station 0.1 mi)",
+    "commute": "43 min · 🚇 District + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94045110",
     "photos": [
@@ -664,7 +534,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Two Double Bedrooms Walk To District Line Ravenscourt Park Location Hammersmith Broadway Nearby Recently Refurbished Walk To River Thames No Parking",
-    "score": 75,
+    "score": 65,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -677,9 +547,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 10.6,
         "max": 20,
-        "reason": "~22 min avg to NW1 3BF"
+        "reason": "43 min door-to-door (TfL): 🚇 District + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -717,7 +587,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.4921,
+    "lng": -0.2351,
+    "commute_min": 43,
+    "commute_mode": "🚇 District + Victoria"
   },
   {
     "id": "92506563",
@@ -728,7 +603,7 @@
     "floor": "Garden",
     "furnished": "Furnished",
     "available": "2026-10-15",
-    "commute": "~22 min est. (nearest Wood Green Station 0.1 mi)",
+    "commute": "32 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/92506563",
     "photos": [
@@ -744,7 +619,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Double Bedroom Entry-Phone Access Fitted Kitchen Upper Floor Security Bath/Shower Room/WC 20/25 Mins City/West End Available Immediately ! Part Furnished Private Balcony Passenfer Lift",
-    "score": 80,
+    "score": 79,
     "score_breakdown": {
       "style": {
         "points": 16.8,
@@ -757,9 +632,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 18.8,
         "max": 20,
-        "reason": "~22 min avg to NW1 3BF"
+        "reason": "32 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -797,7 +672,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.596844,
+    "lng": -0.111627,
+    "commute_min": 32,
+    "commute_mode": "🚇 Piccadilly + Victoria"
   },
   {
     "id": "94044120",
@@ -808,7 +688,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Part furnished",
     "available": "2026-10-24",
-    "commute": "~23 min est. (nearest East Finchley Station 0.2 mi)",
+    "commute": "37 min · 🚌 bus 234 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94044120",
     "photos": [
@@ -824,7 +704,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "",
-    "score": 78,
+    "score": 73,
     "score_breakdown": {
       "style": {
         "points": 15.4,
@@ -837,9 +717,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 15.4,
         "max": 20,
-        "reason": "~23 min avg to NW1 3BF"
+        "reason": "37 min door-to-door (TfL): 🚌 bus 234 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -877,7 +757,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.589996,
+    "lng": -0.161872,
+    "commute_min": 37,
+    "commute_mode": "🚌 bus 234 + Northern + Victoria"
   },
   {
     "id": "93339423",
@@ -888,7 +773,7 @@
     "floor": "Garden",
     "furnished": "Furnished",
     "available": "",
-    "commute": "~13 min est. (nearest Kentish Town Station 0.1 mi)",
+    "commute": "26 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93339423",
     "photos": [
@@ -919,7 +804,7 @@
       "commute": {
         "points": 20,
         "max": 20,
-        "reason": "~13 min avg to NW1 3BF"
+        "reason": "26 min door-to-door (TfL): 🚇 Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -957,7 +842,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.552402,
+    "lng": -0.141122,
+    "commute_min": 26,
+    "commute_mode": "🚇 Northern + Victoria"
   },
   {
     "id": "94032756",
@@ -968,7 +858,7 @@
     "floor": "Ground floor",
     "furnished": "Unfurnished",
     "available": "2026-12-07",
-    "commute": "~20 min est. (nearest Kilburn Park Station 0.5 mi)",
+    "commute": "32 min · 🚌 bus 6 + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94032756",
     "photos": [
@@ -984,7 +874,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One double bedroom Spacious reception room Separate kitchen High ceilings Wood flooring Unfurnished Available 7th of December",
-    "score": 67,
+    "score": 66,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -997,9 +887,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 18.8,
         "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
+        "reason": "32 min door-to-door (TfL): 🚌 bus 6 + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -1037,7 +927,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.528845,
+    "lng": -0.198322,
+    "commute_min": 32,
+    "commute_mode": "🚌 bus 6 + bus 18"
   },
   {
     "id": "94033137",
@@ -1048,7 +943,7 @@
     "floor": "Garden",
     "furnished": "Furnished",
     "available": "2026-10-15",
-    "commute": "~20 min est. (nearest Shepherd's Bush (Central) Station 0.3 mi)",
+    "commute": "38 min · 🚌 bus 94 + Central + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94033137",
     "photos": [
@@ -1064,7 +959,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "No Agent Fees Students Can Enquire Property Reference Number: 3065685",
-    "score": 73,
+    "score": 68,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -1077,9 +972,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 14.6,
         "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚌 bus 94 + Central + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -1117,7 +1012,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.50475,
+    "lng": -0.211418,
+    "commute_min": 38,
+    "commute_mode": "🚌 bus 94 + Central + Victoria"
   },
   {
     "id": "93814602",
@@ -1128,7 +1028,7 @@
     "floor": "Ground floor",
     "furnished": "Part furnished",
     "available": "",
-    "commute": "~27 min est. (nearest Stamford Brook Station 0.5 mi)",
+    "commute": "45 min · 🚌 bus 94 + Circle + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93814602",
     "photos": [
@@ -1144,7 +1044,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Raised ground floor Close by to amenities Good transport links Period features High ceilings Bright and spacious",
-    "score": 68,
+    "score": 59,
     "score_breakdown": {
       "style": {
         "points": 18.1,
@@ -1157,9 +1057,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 18.4,
+        "points": 9.0,
         "max": 20,
-        "reason": "~27 min avg to NW1 3BF"
+        "reason": "45 min door-to-door (TfL): 🚌 bus 94 + Circle + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -1197,7 +1097,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.501858,
+    "lng": -0.243775,
+    "commute_min": 45,
+    "commute_mode": "🚌 bus 94 + Circle + bus 18"
   },
   {
     "id": "94028445",
@@ -1208,7 +1113,7 @@
     "floor": "",
     "furnished": "Furnished",
     "available": "",
-    "commute": "~16 min est. (nearest Brondesbury Park Station 0.1 mi)",
+    "commute": "38 min · 🚆 Mildmay + Jubilee + Bakerloo + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94028445",
     "photos": [
@@ -1224,7 +1129,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Bedroom Flat High Ceilings Modern Kitchen Close to Transport Close to High Street",
-    "score": 74,
+    "score": 69,
     "score_breakdown": {
       "style": {
         "points": 20.9,
@@ -1237,9 +1142,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 14.6,
         "max": 20,
-        "reason": "~16 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚆 Mildmay + Jubilee + Bakerloo + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -1277,7 +1182,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.540546,
+    "lng": -0.211417,
+    "commute_min": 38,
+    "commute_mode": "🚆 Mildmay + Jubilee + Bakerloo + bus 18"
   },
   {
     "id": "93960210",
@@ -1288,7 +1198,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Unfurnished",
     "available": "2026-11-02",
-    "commute": "~22 min est. (nearest Stamford Hill Station 0.2 mi)",
+    "commute": "36 min · 🚌 bus 259 + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93960210",
     "photos": [
@@ -1304,7 +1214,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "SOLE USE OF GARDEN NEW BATHROOM SUITE CLOSE TO TRANSPORT &amp; AMENITIES UN FURNISHED",
-    "score": 75,
+    "score": 71,
     "score_breakdown": {
       "style": {
         "points": 15.4,
@@ -1317,9 +1227,9 @@
         "reason": "49 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 16.2,
         "max": 20,
-        "reason": "~22 min avg to NW1 3BF"
+        "reason": "36 min door-to-door (TfL): 🚌 bus 259 + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -1357,7 +1267,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.575711,
+    "lng": -0.081208,
+    "commute_min": 36,
+    "commute_mode": "🚌 bus 259 + Victoria"
   },
   {
     "id": "163036916",
@@ -1368,7 +1283,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "2026-11-07",
-    "commute": "~21 min est. (nearest Shepherd's Bush (Hammersmith & City) Station 0.2 mi)",
+    "commute": "37 min · 🚇 Circle + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/163036916",
     "photos": [
@@ -1384,7 +1299,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "1 Bedroom Sq Ft: 441 Epc Band: C Open Plan Kitchen/Reception Room Bathroom",
-    "score": 77,
+    "score": 73,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -1397,9 +1312,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 15.4,
         "max": 20,
-        "reason": "~21 min avg to NW1 3BF"
+        "reason": "37 min door-to-door (TfL): 🚇 Circle + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -1437,87 +1352,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
-  },
-  {
-    "id": "92113110",
-    "title": "Cricklewood Broadway — 1-bed",
-    "area": "London,  NW2",
-    "price": 2200,
-    "size": "51 m²",
-    "floor": "",
-    "furnished": "Furnished",
-    "available": "",
-    "commute": "~20 min est. (nearest Cricklewood Station 0.2 mi)",
-    "pets": "Pets considered",
-    "url": "https://www.rightmove.co.uk/properties/92113110",
-    "photos": [
-      "photos/92113110_0.jpg",
-      "photos/92113110_1.jpg",
-      "photos/92113110_2.jpg",
-      "photos/92113110_3.jpg",
-      "photos/92113110_4.jpg"
-    ],
-    "status": "enquired",
-    "notes": "💜 Masha enquired 2026-10-07. State of the Art Private Gym - loaded with Technogym equipment; WFH / Co-Working Space; Concierge Services; Private enclosed Resident only courtyard; Interior designed and fully furnished Apartments; Super fast and instant Wifi . 🎃NO TRICKS, JUST TREATS - 4 WEEKS RENT FREE FOR OCTOBER🎃 Apply now to avail of this offer - don't miss out! Secure your new home now and enjoy 4 weeks rent free on selected apartments.* Stylish and contemporary, new build 1 bedroom apartment to rent in Cricklewood, NW2. Reach St Pancras International in 12 minutes from Cricklewood Thameslink station, right next door. First time let, fully furnished and professionally managed by Occu. About Edenwood House Edenwood House is an exclusive, boutique development of 95 ap",
-    "hood": "",
-    "date_found": "2026-10-15",
-    "masha_enquired": true,
-    "features": "State of the Art Private Gym - loaded with Technogym equipment WFH / Co-Working Space Concierge Services Private enclosed Resident only courtyard Interior designed and fully furnished Apartments Super fast and instant Wifi  Wi-Fi app controlled heating Pet Friendly Apartments Highly secure bike storage Located a short hop from all major employment hubs",
-    "score": 76,
-    "score_breakdown": {
-      "style": {
-        "points": 20.9,
-        "max": 22,
-        "reason": "keywords: stylish(+3), new build(+3), contemporary(+2)"
-      },
-      "size": {
-        "points": 6.6,
-        "max": 15,
-        "reason": "51 m²"
-      },
-      "commute": {
-        "points": 20,
-        "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
-      },
-      "hood": {
-        "points": 7.5,
-        "max": 15,
-        "reason": "no Hoodmaps data"
-      },
-      "availability": {
-        "points": 4.0,
-        "max": 10,
-        "reason": "date unknown/flexible"
-      },
-      "furnished": {
-        "points": 5,
-        "max": 5,
-        "reason": "furnished"
-      },
-      "price": {
-        "points": 0,
-        "max": 3,
-        "reason": "£2,200"
-      },
-      "extras": {
-        "points": 4,
-        "max": 4,
-        "reason": "concierge, gym"
-      },
-      "outdoor": {
-        "points": 0,
-        "max": 6,
-        "reason": "no outdoor space mentioned"
-      },
-      "feedback": {
-        "points": 8,
-        "max": 8,
-        "reason": "👍 liked (Masha enquired)"
-      }
-    },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.507516,
+    "lng": -0.230262,
+    "commute_min": 37,
+    "commute_mode": "🚇 Circle + bus 18"
   },
   {
     "id": "92332098",
@@ -1528,7 +1368,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "~26 min est. (nearest South Tottenham Station 0.4 mi)",
+    "commute": "34 min · 🚇 Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/92332098",
     "photos": [
@@ -1544,7 +1384,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Close to local amenities  Good transport links  One bedroom  Recently renovated ",
-    "score": 72,
+    "score": 71,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -1557,9 +1397,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 19.2,
+        "points": 17.6,
         "max": 20,
-        "reason": "~26 min avg to NW1 3BF"
+        "reason": "34 min door-to-door (TfL): 🚇 Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -1597,7 +1437,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.580395,
+    "lng": -0.082223,
+    "commute_min": 34,
+    "commute_mode": "🚇 Victoria"
   },
   {
     "id": "93947868",
@@ -1608,7 +1453,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Unfurnished",
     "available": "2026-12-05",
-    "commute": "~25 min est. (nearest East Finchley Station 0.4 mi)",
+    "commute": "41 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93947868",
     "photos": [
@@ -1624,7 +1469,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "",
-    "score": 72,
+    "score": 64,
     "score_breakdown": {
       "style": {
         "points": 16.8,
@@ -1637,9 +1482,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 12.2,
         "max": 20,
-        "reason": "~25 min avg to NW1 3BF"
+        "reason": "41 min door-to-door (TfL): 🚇 Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -1677,86 +1522,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
-  },
-  {
-    "id": "93878088",
-    "title": "80C Sinclair Road — 1-bed",
-    "area": "Kensington,  London,  W14",
-    "price": 0,
-    "size": "70 m²",
-    "floor": "",
-    "furnished": "",
-    "available": "",
-    "commute": "~20 min est. (nearest Kensington Olympia Station 0.2 mi)",
-    "pets": "Not mentioned",
-    "url": "https://www.rightmove.co.uk/properties/93878088",
-    "photos": [
-      "photos/93878088_0.jpg",
-      "photos/93878088_1.jpg",
-      "photos/93878088_2.jpg",
-      "photos/93878088_3.jpg"
-    ],
-    "status": "enquired",
-    "notes": "💜 Masha enquired 2026-10-08. .  Key Features Lot 140 for sale by auction on 21/10/2026 To view the property or see a virtual tour please refer to the full sales particulars on the auctioneers website Subject to a Regulated Tenany paying an unregistered rent Reception Room, Bedroom, Kitchen, Bathroom, Store Room GIA approximately 70 sq m (753 sq ft) Kensington (Olympia) rail and overground station is 0.2 miles to the south east Shops and amenities are available within Westfield London to the north Key Locations The property is situated on the nor",
-    "hood": "",
-    "date_found": "2026-10-15",
-    "masha_enquired": true,
-    "features": "",
-    "score": 67,
-    "score_breakdown": {
-      "style": {
-        "points": 9.9,
-        "max": 22,
-        "reason": "no style cues in notes"
-      },
-      "size": {
-        "points": 15,
-        "max": 15,
-        "reason": "70 m²"
-      },
-      "commute": {
-        "points": 20,
-        "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
-      },
-      "hood": {
-        "points": 7.5,
-        "max": 15,
-        "reason": "no Hoodmaps data"
-      },
-      "availability": {
-        "points": 4.0,
-        "max": 10,
-        "reason": "date unknown/flexible"
-      },
-      "furnished": {
-        "points": 2.5,
-        "max": 5,
-        "reason": "not stated"
-      },
-      "price": {
-        "points": 0,
-        "max": 3,
-        "reason": "£2,000"
-      },
-      "extras": {
-        "points": 0,
-        "max": 4,
-        "reason": "none mentioned"
-      },
-      "outdoor": {
-        "points": 0,
-        "max": 6,
-        "reason": "no outdoor space mentioned"
-      },
-      "feedback": {
-        "points": 8,
-        "max": 8,
-        "reason": "👍 liked (Masha enquired)"
-      }
-    },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.589647,
+    "lng": -0.172338,
+    "commute_min": 41,
+    "commute_mode": "🚇 Northern + Victoria"
   },
   {
     "id": "93217989",
@@ -1767,7 +1538,7 @@
     "floor": "",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "2026-11-14",
-    "commute": "~25 min est. (nearest Dollis Hill Station 0.4 mi)",
+    "commute": "38 min · 🚌 bus 266 + Jubilee + Metropolitan + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93217989",
     "photos": [
@@ -1783,7 +1554,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Bedroom Flat Available 14th November 2026 Furnished or Unfurnished Wood Flooring Modern Kitchen Council Tax Band: C",
-    "score": 87,
+    "score": 82,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -1796,9 +1567,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 14.6,
         "max": 20,
-        "reason": "~25 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚌 bus 266 + Jubilee + Metropolitan + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -1836,7 +1607,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.547114,
+    "lng": -0.233601,
+    "commute_min": 38,
+    "commute_mode": "🚌 bus 266 + Jubilee + Metropolitan + bus 18"
   },
   {
     "id": "94001658",
@@ -1847,7 +1623,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Unfurnished",
     "available": "2026-10-15",
-    "commute": "~30 min est. (nearest Leyton Station 0.3 mi)",
+    "commute": "51 min · 🚌 bus 97 + Southeastern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94001658",
     "photos": [
@@ -1863,7 +1639,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "",
-    "score": 75,
+    "score": 64,
     "score_breakdown": {
       "style": {
         "points": 16.8,
@@ -1876,9 +1652,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 16.0,
+        "points": 5.4,
         "max": 20,
-        "reason": "~30 min avg to NW1 3BF"
+        "reason": "51 min door-to-door (TfL): 🚌 bus 97 + Southeastern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -1916,7 +1692,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.56138,
+    "lng": -0.00409,
+    "commute_min": 51,
+    "commute_mode": "🚌 bus 97 + Southeastern + Victoria"
   },
   {
     "id": "150171911",
@@ -1927,7 +1708,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "2026-11-10",
-    "commute": "~25 min est. (nearest Bow Church Station 0.3 mi)",
+    "commute": "42 min · 🚇 District + Central + Metropolitan (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/150171911",
     "photos": [
@@ -1943,7 +1724,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Bedroom Bathroom Seperate Kitchen Gated Parking Close to Transport Secured Parking",
-    "score": 70,
+    "score": 62,
     "score_breakdown": {
       "style": {
         "points": 15.4,
@@ -1956,9 +1737,9 @@
         "reason": "42 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 11.4,
         "max": 20,
-        "reason": "~25 min avg to NW1 3BF"
+        "reason": "42 min door-to-door (TfL): 🚇 District + Central + Metropolitan"
       },
       "hood": {
         "points": 7.5,
@@ -1996,7 +1777,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.524074,
+    "lng": -0.023782,
+    "commute_min": 42,
+    "commute_mode": "🚇 District + Central + Metropolitan"
   },
   {
     "id": "94152048",
@@ -2007,7 +1793,7 @@
     "floor": "",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "",
-    "commute": "~24 min est. (nearest Brent Cross West Station 0.3 mi)",
+    "commute": "48 min · 🚌 bus 102 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Pets considered",
     "url": "https://www.rightmove.co.uk/properties/94152048",
     "photos": [
@@ -2023,7 +1809,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "25m swimming pool Jacuzzi and sauna State-of-the-art gym Rooftop terraces with BBQ’s Resident lounges Co-working spaces Sports simulation room and Games Room 24-hour concierge and security On-site maintenance Wi-Fi included",
-    "score": 78,
+    "score": 66,
     "score_breakdown": {
       "style": {
         "points": 18.1,
@@ -2036,9 +1822,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 7.2,
         "max": 20,
-        "reason": "~24 min avg to NW1 3BF"
+        "reason": "48 min door-to-door (TfL): 🚌 bus 102 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2076,7 +1862,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.571189,
+    "lng": -0.222393,
+    "commute_min": 48,
+    "commute_mode": "🚌 bus 102 + Northern + Victoria"
   },
   {
     "id": "94160553",
@@ -2087,7 +1878,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "2026-12-09",
-    "commute": "~21 min est. (nearest Loughborough Junction Station 0.1 mi)",
+    "commute": "38 min · 🚌 bus 45 + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94160553",
     "photos": [
@@ -2103,7 +1894,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "High Ceilings Unfurnished Open Plan Kitchen",
-    "score": 70,
+    "score": 64,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -2116,9 +1907,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 14.6,
         "max": 20,
-        "reason": "~21 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚌 bus 45 + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2156,7 +1947,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.466805,
+    "lng": -0.099929,
+    "commute_min": 38,
+    "commute_mode": "🚌 bus 45 + Victoria"
   },
   {
     "id": "94137456",
@@ -2167,7 +1963,7 @@
     "floor": "Garden",
     "furnished": "Furnished",
     "available": "2026-10-15",
-    "commute": "~26 min est. (nearest Herne Hill Station 0.3 mi)",
+    "commute": "39 min · 🚌 bus 322 + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94137456",
     "photos": [
@@ -2183,7 +1979,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Furnished 1 bedroom flat Available 6th December 2026 Communal Garden 10 minutes to Herne Hill station",
-    "score": 81,
+    "score": 76,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -2196,9 +1992,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 19.2,
+        "points": 13.8,
         "max": 20,
-        "reason": "~26 min avg to NW1 3BF"
+        "reason": "39 min door-to-door (TfL): 🚌 bus 322 + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2236,7 +2032,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.455774,
+    "lng": -0.108356,
+    "commute_min": 39,
+    "commute_mode": "🚌 bus 322 + Victoria"
   },
   {
     "id": "93414906",
@@ -2247,7 +2048,7 @@
     "floor": "",
     "furnished": "Furnished",
     "available": "2026-11-03",
-    "commute": "~15 min est. (nearest Finchley Road & Frognal Station 0.1 mi)",
+    "commute": "31 min · 🚌 bus 113 + Metropolitan + bus 18 (TfL, arrive 09:00)",
     "pets": "Pets considered",
     "url": "https://www.rightmove.co.uk/properties/93414906",
     "photos": [
@@ -2263,7 +2064,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Large One Bedroom Furnished  Close To Amenities  One Bathroom  Pet Friendly",
-    "score": 76,
+    "score": 75,
     "score_breakdown": {
       "style": {
         "points": 16.8,
@@ -2276,9 +2077,9 @@
         "reason": "53 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 19.4,
         "max": 20,
-        "reason": "~15 min avg to NW1 3BF"
+        "reason": "31 min door-to-door (TfL): 🚌 bus 113 + Metropolitan + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -2316,7 +2117,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.549743,
+    "lng": -0.186497,
+    "commute_min": 31,
+    "commute_mode": "🚌 bus 113 + Metropolitan + bus 18"
   },
   {
     "id": "94136856",
@@ -2327,7 +2133,7 @@
     "floor": "",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "2026-12-10",
-    "commute": "~20 min est. (nearest Brixton Station 0.1 mi)",
+    "commute": "31 min · 🚇 Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94136856",
     "photos": [
@@ -2348,7 +2154,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), light(+1), open-plan(+1), beehive(+3), well-presented(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), light(+1), open-plan(+1), beehive(+3), high ceilings(+2), high ceiling(+1), well-presented(+2)"
       },
       "size": {
         "points": 0,
@@ -2356,9 +2162,9 @@
         "reason": "33.3 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 19.4,
         "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
+        "reason": "31 min door-to-door (TfL): 🚇 Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2396,7 +2202,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.46383,
+    "lng": -0.11402,
+    "commute_min": 31,
+    "commute_mode": "🚇 Victoria"
   },
   {
     "id": "93497595",
@@ -2407,7 +2218,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "2026-10-15",
-    "commute": "~27 min est. (nearest Kennington Station 0.7 mi)",
+    "commute": "45 min · 🚌 bus 68 + Bakerloo + Victoria (TfL, arrive 09:00)",
     "pets": "Pets considered",
     "url": "https://www.rightmove.co.uk/properties/93497595",
     "photos": [
@@ -2423,7 +2234,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Separate kitchen Double bedroom(s) Communal gardens Pets considered Professionally managed Onsite maintenance On-street parking",
-    "score": 62,
+    "score": 52,
     "score_breakdown": {
       "style": {
         "points": 11.3,
@@ -2436,9 +2247,9 @@
         "reason": "44 m²"
       },
       "commute": {
-        "points": 18.4,
+        "points": 9.0,
         "max": 20,
-        "reason": "~27 min avg to NW1 3BF"
+        "reason": "45 min door-to-door (TfL): 🚌 bus 68 + Bakerloo + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2476,7 +2287,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.48682,
+    "lng": -0.08945,
+    "commute_min": 45,
+    "commute_mode": "🚌 bus 68 + Bakerloo + Victoria"
   },
   {
     "id": "93330687",
@@ -2487,7 +2303,7 @@
     "floor": "Garden",
     "furnished": "Furnished",
     "available": "",
-    "commute": "~28 min est. (nearest Borough Station 0.8 mi)",
+    "commute": "41 min · 🚌 bus 21 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Pets considered",
     "url": "https://www.rightmove.co.uk/properties/93330687",
     "photos": [
@@ -2503,7 +2319,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "No Agent Fees Students Can Enquire Property Reference Number: 3011590",
-    "score": 80,
+    "score": 75,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -2516,9 +2332,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 17.6,
+        "points": 12.2,
         "max": 20,
-        "reason": "~28 min avg to NW1 3BF"
+        "reason": "41 min door-to-door (TfL): 🚌 bus 21 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2556,7 +2372,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.492107,
+    "lng": -0.082376,
+    "commute_min": 41,
+    "commute_mode": "🚌 bus 21 + Northern + Victoria"
   },
   {
     "id": "94310331",
@@ -2567,7 +2388,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "~32 min est. (nearest East Finchley Station 0.8 mi)",
+    "commute": "45 min · 🚌 bus 234 + Northern (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94310331",
     "photos": [
@@ -2583,7 +2404,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Double Bedroom First Floor Apartment Open Plan Kitchen Fantastic Location Unfurnished Muswell Hill",
-    "score": 64,
+    "score": 59,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -2596,9 +2417,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 14.4,
+        "points": 9.0,
         "max": 20,
-        "reason": "~32 min avg to NW1 3BF"
+        "reason": "45 min door-to-door (TfL): 🚌 bus 234 + Northern"
       },
       "hood": {
         "points": 7.5,
@@ -2636,7 +2457,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.593062,
+    "lng": -0.147504,
+    "commute_min": 45,
+    "commute_mode": "🚌 bus 234 + Northern"
   },
   {
     "id": "128733527",
@@ -2647,7 +2473,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "~27 min est. (nearest Leyton Station 0.1 mi)",
+    "commute": "46 min · 🚇 Central + Metropolitan (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/128733527",
     "photos": [
@@ -2663,7 +2489,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Walking distance to Leyton high road Walking distance to Leyton underground station Recently refurbished Period property Long term ",
-    "score": 73,
+    "score": 63,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -2676,9 +2502,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 18.4,
+        "points": 8.4,
         "max": 20,
-        "reason": "~27 min avg to NW1 3BF"
+        "reason": "46 min door-to-door (TfL): 🚇 Central + Metropolitan"
       },
       "hood": {
         "points": 7.5,
@@ -2716,7 +2542,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.558018,
+    "lng": -0.004885,
+    "commute_min": 46,
+    "commute_mode": "🚇 Central + Metropolitan"
   },
   {
     "id": "92257719",
@@ -2727,7 +2558,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "2026-10-18",
-    "commute": "~22 min est. (nearest Brent Cross Station 0.1 mi)",
+    "commute": "36 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/92257719",
     "photos": [
@@ -2743,7 +2574,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Two well-proportioned bedrooms Contemporary bathroom Close to Hampstead Heath &amp; Golders Hill Park Popular Oakfield Court development Excellent transport links Amazon Voucher",
-    "score": 73,
+    "score": 70,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -2756,9 +2587,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 16.2,
         "max": 20,
-        "reason": "~22 min avg to NW1 3BF"
+        "reason": "36 min door-to-door (TfL): 🚇 Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2796,7 +2627,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.576926,
+    "lng": -0.215743,
+    "commute_min": 36,
+    "commute_mode": "🚇 Northern + Victoria"
   },
   {
     "id": "94311600",
@@ -2807,7 +2643,7 @@
     "floor": "",
     "furnished": "Furnished",
     "available": "2026-11-22",
-    "commute": "~19 min est. (nearest Upper Holloway Station 0.3 mi)",
+    "commute": "38 min · 🚌 bus 253 + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94311600",
     "photos": [
@@ -2823,7 +2659,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Split Level One Bedroom Apartment Bright Reception Room Semi Open To Kitchen Double Bedroom Modern Bathroom Ample Storage",
-    "score": 78,
+    "score": 72,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -2836,9 +2672,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 14.6,
         "max": 20,
-        "reason": "~19 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚌 bus 253 + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -2876,7 +2712,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.565854,
+    "lng": -0.122787,
+    "commute_min": 38,
+    "commute_mode": "🚌 bus 253 + Victoria"
   },
   {
     "id": "93267390",
@@ -2887,7 +2728,7 @@
     "floor": "Garden",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "2026-12-01",
-    "commute": "~17 min est. (nearest West Hampstead Station 0.3 mi)",
+    "commute": "34 min · 🚇 Jubilee + Bakerloo + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93267390",
     "photos": [
@@ -2903,7 +2744,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Bright &amp; Spacious One-Bedroom Apartment Approx. 450 Sq Ft South-Facing Spacious Reception Access to Communal Garden Separate Fitted Kitchen High Ceilings Excellent Transport Links Excellent Fitted Storage Quiet Residential Road",
-    "score": 67,
+    "score": 65,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -2916,9 +2757,9 @@
         "reason": "42 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 17.6,
         "max": 20,
-        "reason": "~17 min avg to NW1 3BF"
+        "reason": "34 min door-to-door (TfL): 🚇 Jubilee + Bakerloo + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -2956,7 +2797,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.54327,
+    "lng": -0.19005,
+    "commute_min": 34,
+    "commute_mode": "🚇 Jubilee + Bakerloo + bus 18"
   },
   {
     "id": "94299561",
@@ -2967,7 +2813,7 @@
     "floor": "",
     "furnished": "",
     "available": "2026-11-27",
-    "commute": "~19 min est. (nearest West Kensington Station 0.2 mi)",
+    "commute": "40 min · 🚇 District + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94299561",
     "photos": [
@@ -2983,7 +2829,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Large double bedroom Modern open plan living space Integrated kitchen",
-    "score": 74,
+    "score": 67,
     "score_breakdown": {
       "style": {
         "points": 20.9,
@@ -2996,9 +2842,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 13.0,
         "max": 20,
-        "reason": "~19 min avg to NW1 3BF"
+        "reason": "40 min door-to-door (TfL): 🚇 District + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -3036,7 +2882,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.493434,
+    "lng": -0.205454,
+    "commute_min": 40,
+    "commute_mode": "🚇 District + Victoria"
   },
   {
     "id": "94185309",
@@ -3047,7 +2898,7 @@
     "floor": "Ground floor",
     "furnished": "Part furnished",
     "available": "2026-10-31",
-    "commute": "~19 min est. (nearest Goldhawk Road Station 0.0 mi)",
+    "commute": "33 min · 🚇 Circle + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94185309",
     "photos": [
@@ -3063,7 +2914,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "",
-    "score": 69,
+    "score": 67,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -3076,9 +2927,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 18.2,
         "max": 20,
-        "reason": "~19 min avg to NW1 3BF"
+        "reason": "33 min door-to-door (TfL): 🚇 Circle + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -3116,7 +2967,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.501791,
+    "lng": -0.227365,
+    "commute_min": 33,
+    "commute_mode": "🚇 Circle + bus 18"
   },
   {
     "id": "94227381",
@@ -3127,7 +2983,7 @@
     "floor": "Garden",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "2026-10-15",
-    "commute": "~19 min est. (nearest Shepherd's Bush (Hammersmith & City) Station 0.1 mi)",
+    "commute": "33 min · 🚇 Circle + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94227381",
     "photos": [
@@ -3143,7 +2999,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "No Agent Fees Students Can Enquire Property Reference Number: 3068530",
-    "score": 69,
+    "score": 67,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -3156,9 +3012,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 18.2,
         "max": 20,
-        "reason": "~19 min avg to NW1 3BF"
+        "reason": "33 min door-to-door (TfL): 🚇 Circle + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -3196,7 +3052,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.506847,
+    "lng": -0.224851,
+    "commute_min": 33,
+    "commute_mode": "🚇 Circle + bus 18"
   },
   {
     "id": "94198248",
@@ -3207,7 +3068,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "~31 min est. (nearest Chiswick Park Station 0.5 mi)",
+    "commute": "60 min · 🚌 bus E3 + District + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94198248",
     "photos": [
@@ -3223,7 +3084,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Bedroom One Bathroom Separate Kitchen Wood Flooring Private Balcony Unallocated Parking",
-    "score": 64,
+    "score": 51,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -3236,9 +3097,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 15.2,
+        "points": 2.0,
         "max": 20,
-        "reason": "~31 min avg to NW1 3BF"
+        "reason": "60 min door-to-door (TfL): 🚌 bus E3 + District + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -3276,7 +3137,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.487954,
+    "lng": -0.262595,
+    "commute_min": 60,
+    "commute_mode": "🚌 bus E3 + District + Victoria"
   },
   {
     "id": "93543816",
@@ -3287,7 +3153,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "2026-12-02",
-    "commute": "~23 min est. (nearest Acton Main Line Station 0.1 mi)",
+    "commute": "34 min · 🚆 Elizabeth line + Northern (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93543816",
     "photos": [
@@ -3303,7 +3169,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Brand New Build Communal Gardens and Roof Terrace 24 Hour Concierge Modern &amp; High Spec 10th Floor with Unobstructed Views Lots of Natural Light Throughout Stones Throw from Elizabeth Line Gym &amp; Work from Home Space Facilities (coming in 2026) To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min",
-    "score": 78,
+    "score": 75,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -3316,9 +3182,9 @@
         "reason": "53 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 17.6,
         "max": 20,
-        "reason": "~23 min avg to NW1 3BF"
+        "reason": "34 min door-to-door (TfL): 🚆 Elizabeth line + Northern"
       },
       "hood": {
         "points": 7.5,
@@ -3356,7 +3222,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.51696,
+    "lng": -0.265387,
+    "commute_min": 34,
+    "commute_mode": "🚆 Elizabeth line + Northern"
   },
   {
     "id": "94303230",
@@ -3367,7 +3238,7 @@
     "floor": "Garden",
     "furnished": "Furnished or unfurnished, landlord is flexible",
     "available": "2026-12-11",
-    "commute": "~25 min est. (nearest North Acton Station 0.2 mi)",
+    "commute": "39 min · 🚇 Central + Victoria (TfL, arrive 09:00)",
     "pets": "Pets considered",
     "url": "https://www.rightmove.co.uk/properties/94303230",
     "photos": [
@@ -3383,7 +3254,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Resident's Lounge Rooftop terrace On-site management team Co-working space Next to Central Line Resident Events BBQ areas Secure Bicycle Storage Pet-Friendly Development",
-    "score": 80,
+    "score": 74,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -3396,9 +3267,9 @@
         "reason": "51 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 13.8,
         "max": 20,
-        "reason": "~25 min avg to NW1 3BF"
+        "reason": "39 min door-to-door (TfL): 🚇 Central + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -3436,7 +3307,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.52348,
+    "lng": -0.26133,
+    "commute_min": 39,
+    "commute_mode": "🚇 Central + Victoria"
   },
   {
     "id": "167679992",
@@ -3447,7 +3323,7 @@
     "floor": "",
     "furnished": "Part furnished",
     "available": "2026-11-16",
-    "commute": "~20 min est. (nearest Kilburn Station 0.3 mi)",
+    "commute": "36 min · 🚌 bus 16 + Jubilee + Bakerloo + bus 18 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/167679992",
     "photos": [
@@ -3463,7 +3339,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Available Now Newly Cosmetically Upgraded Unfurnished Close to Amenities &amp; Transport Parking Permit Available",
-    "score": 66,
+    "score": 62,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -3476,9 +3352,9 @@
         "reason": "49 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 16.2,
         "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
+        "reason": "36 min door-to-door (TfL): 🚌 bus 16 + Jubilee + Bakerloo + bus 18"
       },
       "hood": {
         "points": 7.5,
@@ -3516,7 +3392,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.551148,
+    "lng": -0.206679,
+    "commute_min": 36,
+    "commute_mode": "🚌 bus 16 + Jubilee + Bakerloo + bus 18"
   },
   {
     "id": "94258452",
@@ -3527,7 +3408,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "2026-10-19",
-    "commute": "~20 min est. (nearest Upper Holloway Station 0.5 mi)",
+    "commute": "32 min · 🚌 bus 253 + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94258452",
     "photos": [
@@ -3543,7 +3424,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "NEWLY REFURBISHED WOOD FLOORING CLOSE TO MULTIPLE TUBE STATION MODERN KITCHEN SPACIOUS AND BRIGHT  GAS CENTRAL HEATING  DOUBLE GLAZING ",
-    "score": 70,
+    "score": 69,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -3556,9 +3437,9 @@
         "reason": "44 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 18.8,
         "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
+        "reason": "32 min door-to-door (TfL): 🚌 bus 253 + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -3596,7 +3477,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.55918,
+    "lng": -0.12118,
+    "commute_min": 32,
+    "commute_mode": "🚌 bus 253 + Victoria"
   },
   {
     "id": "94269069",
@@ -3607,7 +3493,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "2026-10-15",
-    "commute": "~20 min est. (nearest Highgate Station 0.2 mi)",
+    "commute": "38 min · 🚌 bus 263 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94269069",
     "photos": [
@@ -3623,7 +3509,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "No Agent Fees Students Can Enquire Property Reference Number: 3059027",
-    "score": 72,
+    "score": 67,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -3636,9 +3522,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 20,
+        "points": 14.6,
         "max": 20,
-        "reason": "~20 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚌 bus 263 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -3676,7 +3562,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.57707,
+    "lng": -0.152471,
+    "commute_min": 38,
+    "commute_mode": "🚌 bus 263 + Northern + Victoria"
   },
   {
     "id": "94273353",
@@ -3687,7 +3578,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "2026-11-01",
-    "commute": "~29 min est. (nearest Highgate Station 0.7 mi)",
+    "commute": "39 min · 🚌 bus 43 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94273353",
     "photos": [
@@ -3703,7 +3594,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "No Agent Fees Property Reference Number: 3073280",
-    "score": 78,
+    "score": 75,
     "score_breakdown": {
       "style": {
         "points": 18.1,
@@ -3716,9 +3607,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 16.8,
+        "points": 13.8,
         "max": 20,
-        "reason": "~29 min avg to NW1 3BF"
+        "reason": "39 min door-to-door (TfL): 🚌 bus 43 + Northern + Victoria"
       },
       "hood": {
         "points": 7.5,
@@ -3756,7 +3647,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.587353,
+    "lng": -0.14667,
+    "commute_min": 39,
+    "commute_mode": "🚌 bus 43 + Northern + Victoria"
   },
   {
     "id": "94294830",
@@ -3767,7 +3663,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Unfurnished",
     "available": "2026-10-15",
-    "commute": "~30–35 min (walk/bus 0.9 mi to Highgate → Northern line to Warren St / Euston Sq)",
+    "commute": "42 min · 🚌 bus 234 + Northern (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94294830",
     "photos": [
@@ -3783,7 +3679,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One bedroom Ground floor Private entrance Private garden Unfurnished Available 1st March",
-    "score": 76,
+    "score": 73,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -3796,9 +3692,9 @@
         "reason": "size unknown (size not stated)"
       },
       "commute": {
-        "points": 14.0,
+        "points": 11.4,
         "max": 20,
-        "reason": "~32.5 min avg to NW1 3BF"
+        "reason": "42 min door-to-door (TfL): 🚌 bus 234 + Northern"
       },
       "hood": {
         "points": 7.5,
@@ -3836,7 +3732,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.590164,
+    "lng": -0.14409,
+    "commute_min": 42,
+    "commute_mode": "🚌 bus 234 + Northern"
   },
   {
     "id": "93395547",
@@ -3847,7 +3748,7 @@
     "floor": "Ground floor + garden",
     "furnished": "Unfurnished",
     "available": "2026-10-15",
-    "commute": "~30–35 min (walk/bus 0.9 mi to Highgate → Northern line to Warren St / Euston Sq)",
+    "commute": "42 min · 🚌 bus 234 + Northern (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/93395547",
     "photos": [
@@ -3863,7 +3764,7 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Double Bedroom Living Room Kitchen Bathroom Garden Modern Council Tax Band D",
-    "score": 76,
+    "score": 74,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -3876,9 +3777,9 @@
         "reason": "53 m²"
       },
       "commute": {
-        "points": 14.0,
+        "points": 11.4,
         "max": 20,
-        "reason": "~32.5 min avg to NW1 3BF"
+        "reason": "42 min door-to-door (TfL): 🚌 bus 234 + Northern"
       },
       "hood": {
         "points": 7.5,
@@ -3916,7 +3817,12 @@
         "reason": "👍 liked (Masha enquired)"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.590884,
+    "lng": -0.146518,
+    "commute_min": 42,
+    "commute_mode": "🚌 bus 234 + Northern"
   },
   {
     "id": "94366500",
@@ -3927,7 +3833,7 @@
     "floor": "4th floor",
     "furnished": "Furnished",
     "available": "2026-12-01",
-    "commute": "~25–30 min via DLR Limehouse→Bank + Northern to Warren Street",
+    "commute": "44 min · 🚌 bus 15 + DLR + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not mentioned (OK)",
     "url": "https://www.rightmove.co.uk/properties/94366500",
     "photos": [
@@ -3941,7 +3847,7 @@
     "notes": "Modern development near Limehouse Basin, bright corner-ish unit, integrated kitchen. Available 1 Dec (a bit after mid-Nov). Furniture is contemporary but bold colours.",
     "hood": "Crime (Mile End), also painted Rich/Tourists; nearby tags: \"Gandalf's Pub\", \"boaty mcboatface\", \"Swans cartel\", \"yauchts\".",
     "date_found": "2026-10-15",
-    "score": 62,
+    "score": 54,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -3954,9 +3860,9 @@
         "reason": "56 m²"
       },
       "commute": {
-        "points": 18.0,
+        "points": 9.8,
         "max": 20,
-        "reason": "~27.5 min avg to NW1 3BF"
+        "reason": "44 min door-to-door (TfL): 🚌 bus 15 + DLR + Northern + Victoria"
       },
       "hood": {
         "points": 8.0,
@@ -3988,7 +3894,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.512793,
+    "lng": -0.034187,
+    "commute_min": 44,
+    "commute_mode": "🚌 bus 15 + DLR + Northern + Victoria"
   },
   {
     "id": "93448431",
@@ -3999,7 +3910,7 @@
     "floor": "Split-level: raised ground living + lower-ground bedrooms",
     "furnished": "Part furnished",
     "available": "",
-    "commute": "~20–25 min via Jubilee from Kilburn to Regent's Place",
+    "commute": "39 min · 🚌 bus 32 + Jubilee + Metropolitan (TfL, arrive 09:00)",
     "pets": "Not mentioned (OK)",
     "url": "https://www.rightmove.co.uk/properties/93448431",
     "photos": [
@@ -4014,7 +3925,7 @@
     "notes": "Bright modern 2-bed/2-bath near The Maple area. Open-plan living with bay window. Bedrooms on lower ground with bay/high windows (not a lightwell) — check light/privacy in person. Availability ask agent.",
     "hood": "Normies (Fortune Green); nearby tags: \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\", \"gaaaaaaaaaaaaay\".",
     "date_found": "2026-10-15",
-    "score": 64,
+    "score": 57,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -4027,9 +3938,9 @@
         "reason": "55 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 13.8,
         "max": 20,
-        "reason": "~22.5 min avg to NW1 3BF"
+        "reason": "39 min door-to-door (TfL): 🚌 bus 32 + Jubilee + Metropolitan"
       },
       "hood": {
         "points": 5.0,
@@ -4061,7 +3972,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.55338,
+    "lng": -0.20436,
+    "commute_min": 39,
+    "commute_mode": "🚌 bus 32 + Jubilee + Metropolitan"
   },
   {
     "id": "94340205",
@@ -4072,7 +3988,7 @@
     "floor": "Upper floor (from photos), balcony",
     "furnished": "Furnished (per description)",
     "available": "2026-11-01",
-    "commute": "~25–30 min: Shadwell (3 min walk) → Overground to Whitechapel → H&C/Circle to Euston Square",
+    "commute": "39 min · 🚈 DLR + Central + bus 24 (TfL, arrive 09:00)",
     "pets": "Not mentioned",
     "url": "https://www.rightmove.co.uk/properties/94340205",
     "photos": [
@@ -4085,7 +4001,7 @@
     "notes": "Purpose-built block; modern white kitchen, open-plan living/dining, double bedroom, balcony. Size unknown — ask agent for floorplan/m². Alliance London.",
     "hood": "Hoodmaps: Tourists (St. Katharine's & Wapping), also painted Rich/Hipsters; nearby tags: \"9 pound a pint \"Rooftop\"\", \"Yuppie tiger parents\", \"ANTIFA Mecca\".",
     "date_found": "2026-10-15",
-    "score": 68,
+    "score": 64,
     "score_breakdown": {
       "style": {
         "points": 15.4,
@@ -4098,9 +4014,9 @@
         "reason": "50 m²"
       },
       "commute": {
-        "points": 18.0,
+        "points": 13.8,
         "max": 20,
-        "reason": "~27.5 min avg to NW1 3BF"
+        "reason": "39 min door-to-door (TfL): 🚈 DLR + Central + bus 24"
       },
       "hood": {
         "points": 9.0,
@@ -4132,79 +4048,12 @@
         "max": 6,
         "reason": "balcony/terrace"
       }
-    }
-  },
-  {
-    "id": "93482370",
-    "title": "Temple Road — ground-floor 3-bed garden flat",
-    "area": "Cricklewood, NW2",
-    "price": 2000,
-    "size": "84 m² (905 sq ft, floorplan)",
-    "floor": "Ground floor, private garden",
-    "furnished": "Unfurnished",
-    "available": "2026-10-24",
-    "commute": "~30 min: walk 13 min to Willesden Green → Jubilee to Baker St → Circle/H&C to Great Portland St (or Cricklewood Thameslink → St Pancras)",
-    "pets": "Not mentioned",
-    "url": "https://www.rightmove.co.uk/properties/93482370",
-    "photos": [
-      "photos/93482370_0.jpg",
-      "photos/93482370_1.jpg",
-      "photos/93482370_2.jpg",
-      "photos/93482370_3.jpg",
-      "photos/93482370_4.jpg"
-    ],
-    "status": "new",
-    "notes": "Refurbished, bright open-plan kitchen/reception (9.5 m) opening onto ~13×6 m private garden; 3 bed, 2 bath (1 en suite) + separate WC; wood floors. Advertised 'suitable for sharers'. Unfurnished but very large for £2k. Kinleigh Folkard & Hayward, West Hampstead.",
-    "hood": "Hoodmaps: Normies (Mapesbury); nearby tags: \"shisha street\".",
-    "date_found": "2026-10-15",
-    "score": 84,
-    "score_breakdown": {
-      "style": {
-        "points": 22,
-        "max": 22,
-        "reason": "keywords: bright(+2), refurbished(+2), wood floors(+1), open-plan(+1), garden flat(+2), private garden(+1)"
-      },
-      "size": {
-        "points": 15,
-        "max": 15,
-        "reason": "84 m²"
-      },
-      "commute": {
-        "points": 20,
-        "max": 20,
-        "reason": "~21.5 min avg to NW1 3BF"
-      },
-      "hood": {
-        "points": 8.0,
-        "max": 15,
-        "reason": "Normies"
-      },
-      "availability": {
-        "points": 8.0,
-        "max": 10,
-        "reason": "24 Oct: 8 days before Nov"
-      },
-      "furnished": {
-        "points": 2.8,
-        "max": 5,
-        "reason": "unfurnished (fine — Masha enquired on many)"
-      },
-      "price": {
-        "points": 0,
-        "max": 3,
-        "reason": "£2,000"
-      },
-      "extras": {
-        "points": 2.0,
-        "max": 4,
-        "reason": "garden"
-      },
-      "outdoor": {
-        "points": 6,
-        "max": 6,
-        "reason": "ground floor + garden (Princes Ave-like)"
-      }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.509361,
+    "lng": -0.058633,
+    "commute_min": 39,
+    "commute_mode": "🚈 DLR + Central + bus 24"
   },
   {
     "id": "92893338",
@@ -4215,7 +4064,7 @@
     "floor": "Upper floor (lift; exact floor not stated)",
     "furnished": "Not stated (photos show it empty)",
     "available": "",
-    "commute": "~30–35 min (North Acton Central line to Oxford Circus, Victoria line to Warren St, short walk)",
+    "commute": "47 min · 🚆 Lioness (TfL, arrive 09:00)",
     "pets": "Not stated (OK)",
     "url": "https://www.rightmove.co.uk/properties/92893338",
     "photos": [
@@ -4229,7 +4078,7 @@
     "notes": "2-bed, 2-bath new build with concierge, communal roof terrace and a big curved private balcony. Bright open-plan living/kitchen (6.2 × 6.1 m), sleek white kitchen, floor-to-ceiling windows. Modern and clean but a blank canvas, and the area is a big regeneration zone with towers and industrial bits around. Availability: ask agent.",
     "hood": "Hoodmaps: Rich (College Park and Old Oak), also painted Normies; nearby tags: \"Train spotters\".",
     "date_found": "2026-10-14",
-    "score": 78,
+    "score": 71,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -4242,9 +4091,9 @@
         "reason": "76.9 m²"
       },
       "commute": {
-        "points": 14.0,
+        "points": 7.8,
         "max": 20,
-        "reason": "~32.5 min avg to NW1 3BF"
+        "reason": "47 min door-to-door (TfL): 🚆 Lioness"
       },
       "hood": {
         "points": 13.0,
@@ -4276,7 +4125,12 @@
         "max": 6,
         "reason": "balcony/terrace"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.52749,
+    "lng": -0.248217,
+    "commute_min": 47,
+    "commute_mode": "🚆 Lioness"
   },
   {
     "id": "93668892",
@@ -4287,7 +4141,7 @@
     "floor": "Ground (private back garden)",
     "furnished": "Unfurnished",
     "available": "2026-10-14",
-    "commute": "~25–35 min (Golders Green Northern to Warren St, or Cricklewood Thameslink toward St Pancras)",
+    "commute": "38 min · 🚌 bus 113 + Metropolitan + bus 18 (TfL, arrive 09:00)",
     "pets": "Not stated (OK) — private garden helps",
     "url": "https://www.rightmove.co.uk/properties/93668892",
     "photos": [
@@ -4300,7 +4154,7 @@
     "notes": "Ground-floor 1-bed with a large private back garden (~10×4 m) off the kitchen — rare for pets. Fresh white walls, bay-window living room, bright kitchen overlooking greenery. Just clears 50 m². Living room faces the street but the garden satisfies the ground-floor rule. Available now (date may be tight for mid-Nov if taken early).",
     "hood": "Hoodmaps: Rich (Childs Hill), also painted Normies; no user tags within ~450 m.",
     "date_found": "2026-10-14",
-    "score": 74,
+    "score": 72,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -4313,9 +4167,9 @@
         "reason": "50.9 m²"
       },
       "commute": {
-        "points": 16.0,
+        "points": 14.6,
         "max": 20,
-        "reason": "~30 min avg to NW1 3BF"
+        "reason": "38 min door-to-door (TfL): 🚌 bus 113 + Metropolitan + bus 18"
       },
       "hood": {
         "points": 13.0,
@@ -4354,86 +4208,12 @@
       }
     },
     "masha_enquired": true,
-    "rating": "like"
-  },
-  {
-    "id": "92037608",
-    "title": "Dudley House, North Wharf Road",
-    "area": "Paddington Basin, W2",
-    "price": 1789,
-    "size": "62 m² (667 sq ft)",
-    "floor": "2nd (lift)",
-    "furnished": "Unfurnished (photos look staged/furnished)",
-    "available": "",
-    "commute": "~15–20 min (Paddington Bakerloo/H&C to Regent's Place / Great Portland St area)",
-    "pets": "Not stated (OK)",
-    "url": "https://www.rightmove.co.uk/properties/92037608",
-    "photos": [
-      "photos/92037608_0.jpg",
-      "photos/92037608_1.jpg",
-      "photos/92037608_2.jpg",
-      "photos/92037608_3.jpg",
-      "photos/92037608_4.jpg"
-    ],
-    "status": "new",
-    "notes": "Modern Paddington Basin block: bright open-plan living/kitchen, balcony, 1 bed + 2 baths per listing, lift. Clean contemporary finishes. Excellent commute. Confirm availability for mid-November and pets with the agent.",
-    "hood": "Hoodmaps: Rich (Hyde Park); nearby tags: \"Cheeky bear\", \"Not where a bear lives\", \"Shisha\", \"Gulf Oil Money\".",
-    "date_found": "2026-10-14",
-    "score": 90,
-    "score_breakdown": {
-      "style": {
-        "points": 20.9,
-        "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1)"
-      },
-      "size": {
-        "points": 13.2,
-        "max": 15,
-        "reason": "62 m²"
-      },
-      "commute": {
-        "points": 20,
-        "max": 20,
-        "reason": "~17.5 min avg to NW1 3BF"
-      },
-      "hood": {
-        "points": 13.0,
-        "max": 15,
-        "reason": "Rich"
-      },
-      "availability": {
-        "points": 4.0,
-        "max": 10,
-        "reason": "date unknown/flexible"
-      },
-      "furnished": {
-        "points": 2.8,
-        "max": 5,
-        "reason": "unfurnished (fine — Masha enquired on many)"
-      },
-      "price": {
-        "points": 1.3,
-        "max": 3,
-        "reason": "£1,789"
-      },
-      "extras": {
-        "points": 4,
-        "max": 4,
-        "reason": "balcony, lift"
-      },
-      "outdoor": {
-        "points": 3.0,
-        "max": 6,
-        "reason": "balcony/terrace"
-      },
-      "feedback": {
-        "points": 8,
-        "max": 8,
-        "reason": "👍 liked (Masha enquired)"
-      }
-    },
-    "masha_enquired": true,
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.560806,
+    "lng": -0.19606,
+    "commute_min": 38,
+    "commute_mode": "🚌 bus 113 + Metropolitan + bus 18"
   },
   {
     "id": "94314216",
@@ -4444,7 +4224,7 @@
     "floor": "2nd",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "~30–35 min (Turnpike Lane Piccadilly to King's Cross / Warren St area, or Hornsey rail + Tube)",
+    "commute": "42 min · 🚌 bus W3 + Victoria (TfL, arrive 09:00)",
     "pets": "Not stated (OK)",
     "url": "https://www.rightmove.co.uk/properties/94314216",
     "photos": [
@@ -4458,7 +4238,7 @@
     "notes": "Stylish tavern conversion: glossy handleless kitchen, light wood floors, bright bedroom with balcony/terrace off the open-plan living room. Modern and Masha-taste. Unfurnished blank canvas at £1,900 — ask agent for mid-Nov move-in.",
     "hood": "Hoodmaps: Rich (Hornsey); nearby tags: \"public transport void\".",
     "date_found": "2026-10-14",
-    "score": 71,
+    "score": 69,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -4471,9 +4251,9 @@
         "reason": "53 m²"
       },
       "commute": {
-        "points": 14.0,
+        "points": 11.4,
         "max": 20,
-        "reason": "~32.5 min avg to NW1 3BF"
+        "reason": "42 min door-to-door (TfL): 🚌 bus W3 + Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -4505,7 +4285,12 @@
         "max": 6,
         "reason": "balcony/terrace"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.58705,
+    "lng": -0.12047,
+    "commute_min": 42,
+    "commute_mode": "🚌 bus W3 + Victoria"
   },
   {
     "id": "123638537",
@@ -4516,7 +4301,7 @@
     "floor": "Not stated (split level, upper)",
     "furnished": "Furnished",
     "available": "2026-11-16",
-    "commute": "~25 min (West Hampstead Jubilee to Baker St + 1 stop to Great Portland St)",
+    "commute": "36 min · 🚌 bus 139 + Jubilee + Bakerloo + bus 18 (TfL, arrive 09:00)",
     "pets": "Not stated (OK)",
     "url": "https://www.rightmove.co.uk/properties/123638537",
     "photos": [
@@ -4529,7 +4314,7 @@
     "notes": "Two-bed split-level flat in a red-brick Victorian conversion on a leafy street, great location. Black granite kitchen and wood floors are fine, but bedroom wallpaper, beige carpet and travertine bathroom feel a bit 2010s. Size not listed and no floorplan. Available exactly 16 Nov.",
     "date_found": "2026-10-14",
     "hood": "Hoodmaps: Rich (Kilburn); nearby tags: \"Australians\".",
-    "score": 60,
+    "score": 56,
     "score_breakdown": {
       "style": {
         "points": 4.4,
@@ -4542,9 +4327,9 @@
         "reason": "size unknown (unknown (2-bed split level, likely 50+))"
       },
       "commute": {
-        "points": 20,
+        "points": 16.2,
         "max": 20,
-        "reason": "~25 min avg to NW1 3BF"
+        "reason": "36 min door-to-door (TfL): 🚌 bus 139 + Jubilee + Bakerloo + bus 18"
       },
       "hood": {
         "points": 13.0,
@@ -4576,7 +4361,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.54346,
+    "lng": -0.19682,
+    "commute_min": 36,
+    "commute_mode": "🚌 bus 139 + Jubilee + Bakerloo + bus 18"
   },
   {
     "id": "93180957",
@@ -4587,7 +4377,7 @@
     "floor": "1st",
     "furnished": "Unfurnished",
     "available": "2026-10-14",
-    "commute": "~25–30 min (Kilburn Jubilee to Baker St + 1 stop to Great Portland St)",
+    "commute": "35 min · 🚌 bus 16 + Jubilee + Bakerloo + bus 205 (TfL, arrive 09:00)",
     "pets": "Not stated (OK)",
     "url": "https://www.rightmove.co.uk/properties/93180957",
     "photos": [
@@ -4601,7 +4391,7 @@
     "notes": "Newly refurbished: navy/black handleless kitchen, grey wood-effect floors, glass shower room, lots of windows so it looks bright. Exactly 50 m², unfurnished and bare, on a busy main road. A twin unit (93838176, same layout, £1,750) is available 23 Oct. Available now, so the date may be tight.",
     "date_found": "2026-10-14",
     "hood": "Hoodmaps: Normies (Fortune Green); nearby tags: \"dirty\", \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\".",
-    "score": 57,
+    "score": 56,
     "score_breakdown": {
       "style": {
         "points": 18.1,
@@ -4614,9 +4404,9 @@
         "reason": "50 m²"
       },
       "commute": {
-        "points": 18.0,
+        "points": 17.0,
         "max": 20,
-        "reason": "~27.5 min avg to NW1 3BF"
+        "reason": "35 min door-to-door (TfL): 🚌 bus 16 + Jubilee + Bakerloo + bus 205"
       },
       "hood": {
         "points": 5.0,
@@ -4648,7 +4438,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.55174,
+    "lng": -0.2089,
+    "commute_min": 35,
+    "commute_mode": "🚌 bus 16 + Jubilee + Bakerloo + bus 205"
   },
   {
     "id": "94306005",
@@ -4659,7 +4454,7 @@
     "floor": "2nd (lift)",
     "furnished": "Unfurnished (furnished option offered)",
     "available": "2026-11-16",
-    "commute": "~30–35 min (Brent Cross West Thameslink to St Pancras + Circle/H&C to Euston Sq, or Northern line Brent Cross to Warren St)",
+    "commute": "47 min · 🚌 bus 102 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Not stated (OK)",
     "url": "https://www.rightmove.co.uk/properties/94306005",
     "photos": [
@@ -4673,7 +4468,7 @@
     "notes": "New-build block near The Maple / Brent Cross Town. Bright white open-plan reception, sleek white gloss kitchen, private balcony with open green views, parking space. Clean and modern but empty and plain; listed at £425 pw. Available exactly 16 Nov.",
     "date_found": "2026-10-14",
     "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m.",
-    "score": 86,
+    "score": 79,
     "score_breakdown": {
       "style": {
         "points": 22,
@@ -4686,9 +4481,9 @@
         "reason": "51 m²"
       },
       "commute": {
-        "points": 14.0,
+        "points": 7.8,
         "max": 20,
-        "reason": "~32.5 min avg to NW1 3BF"
+        "reason": "47 min door-to-door (TfL): 🚌 bus 102 + Northern + Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -4727,7 +4522,12 @@
       }
     },
     "rating": "like",
-    "masha_enquired": true
+    "masha_enquired": true,
+    "price_checked": "2026-10-15",
+    "lat": 51.569098,
+    "lng": -0.220549,
+    "commute_min": 47,
+    "commute_mode": "🚌 bus 102 + Northern + Victoria"
   },
   {
     "id": "94282248",
@@ -4738,7 +4538,7 @@
     "floor": "4th floor, balcony",
     "furnished": "Unfurnished",
     "available": "2026-10-31",
-    "commute": "~35-40 min",
+    "commute": "40 min · 🚌 bus 232 + Piccadilly + Victoria (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94282248",
     "photos": [
@@ -4751,7 +4551,7 @@
     "notes": "",
     "date_found": "2026-10-14",
     "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; nearby tags: \"Gareth's\".",
-    "score": 59,
+    "score": 62,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -4764,9 +4564,9 @@
         "reason": "52 m²"
       },
       "commute": {
-        "points": 10.0,
+        "points": 13.0,
         "max": 20,
-        "reason": "~37.5 min avg to NW1 3BF"
+        "reason": "40 min door-to-door (TfL): 🚌 bus 232 + Piccadilly + Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -4798,18 +4598,23 @@
         "max": 6,
         "reason": "balcony/terrace"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.590419,
+    "lng": -0.116175,
+    "commute_min": 40,
+    "commute_mode": "🚌 bus 232 + Piccadilly + Victoria"
   },
   {
     "id": "94279875",
     "title": "The Maple",
     "area": "Brent Cross NW2",
-    "price": 1950,
+    "price": 2100,
     "size": "~50 m² (unconfirmed)",
     "floor": "",
     "furnished": "Flexible",
     "available": "",
-    "commute": "~30-35 min",
+    "commute": "48 min · 🚌 bus 102 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "Pet-friendly building",
     "url": "https://www.rightmove.co.uk/properties/94279875",
     "photos": [
@@ -4821,7 +4626,7 @@
     "notes": "",
     "date_found": "2026-10-14",
     "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m.",
-    "score": 69,
+    "score": 62,
     "score_breakdown": {
       "style": {
         "points": 15.4,
@@ -4834,9 +4639,9 @@
         "reason": "50 m²"
       },
       "commute": {
-        "points": 14.0,
+        "points": 7.2,
         "max": 20,
-        "reason": "~32.5 min avg to NW1 3BF"
+        "reason": "48 min door-to-door (TfL): 🚌 bus 102 + Northern + Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -4854,9 +4659,9 @@
         "reason": "Flexible"
       },
       "price": {
-        "points": 0.3,
+        "points": 0,
         "max": 3,
-        "reason": "£1,950"
+        "reason": "£2,100"
       },
       "extras": {
         "points": 2.0,
@@ -4874,7 +4679,18 @@
         "reason": "👍 liked"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "price_history": [
+      {
+        "price": 1950,
+        "until": "2026-10-15"
+      }
+    ],
+    "lat": 51.571189,
+    "lng": -0.222393,
+    "commute_min": 48,
+    "commute_mode": "🚌 bus 102 + Northern + Victoria"
   },
   {
     "id": "94266987",
@@ -4885,7 +4701,7 @@
     "floor": "Split-level",
     "furnished": "Furnished",
     "available": "2026-10-24",
-    "commute": "~20-25 min",
+    "commute": "34 min · 🚇 Victoria (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94266987",
     "photos": [
@@ -4896,7 +4712,7 @@
     "notes": "Available 24 Oct / 24 Nov",
     "date_found": "2026-10-13",
     "hood": "Hoodmaps: Rich (Oval); nearby tags: \"many rich gays\", \"Lots of LUXURY FLATS     \", \"Urban Jungle\", \"England’s failure grounds\".",
-    "score": 75,
+    "score": 72,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -4909,9 +4725,9 @@
         "reason": "58 m²"
       },
       "commute": {
-        "points": 20,
+        "points": 17.6,
         "max": 20,
-        "reason": "~22.5 min avg to NW1 3BF"
+        "reason": "34 min door-to-door (TfL): 🚇 Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -4949,7 +4765,12 @@
         "reason": "👍 liked"
       }
     },
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.481244,
+    "lng": -0.121096,
+    "commute_min": 34,
+    "commute_mode": "🚇 Victoria"
   },
   {
     "id": "94259382",
@@ -4960,7 +4781,7 @@
     "floor": "",
     "furnished": "Furnished",
     "available": "2026-11-03",
-    "commute": "~25-35 min",
+    "commute": "41 min · 🚆 Lioness (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94259382",
     "photos": [
@@ -4972,7 +4793,7 @@
     "notes": "",
     "date_found": "2026-10-13",
     "hood": "Hoodmaps: Rich (Kensal Green), also painted Normies; nearby tags: \"The hood \", \"Social Drinkers/Drug Takers\", \"Avoid\", \"unsettling gentrification \".",
-    "score": 65,
+    "score": 61,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -4985,9 +4806,9 @@
         "reason": "size unknown (Not stated (2 bed 2 bath))"
       },
       "commute": {
-        "points": 16.0,
+        "points": 12.2,
         "max": 20,
-        "reason": "~30 min avg to NW1 3BF"
+        "reason": "41 min door-to-door (TfL): 🚆 Lioness"
       },
       "hood": {
         "points": 8.0,
@@ -5026,7 +4847,12 @@
       }
     },
     "masha_enquired": true,
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.53468,
+    "lng": -0.247001,
+    "commute_min": 41,
+    "commute_mode": "🚆 Lioness"
   },
   {
     "id": "148609247",
@@ -5037,7 +4863,7 @@
     "floor": "4th floor",
     "furnished": "Unfurnished",
     "available": "2026-10-31",
-    "commute": "~30-40 min",
+    "commute": "44 min · 🚌 bus 309 + District + Elizabeth line + bus 24 (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/148609247",
     "photos": [
@@ -5050,7 +4876,7 @@
     "notes": "",
     "date_found": "2026-10-13",
     "hood": "Hoodmaps: Normies (St. Dunstan's); nearby tags: \"Not many good pubs\", \"Shandy\", \"murder capital\".",
-    "score": 46,
+    "score": 44,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5063,9 +4889,9 @@
         "reason": "51 m²"
       },
       "commute": {
-        "points": 12.0,
+        "points": 9.8,
         "max": 20,
-        "reason": "~35 min avg to NW1 3BF"
+        "reason": "44 min door-to-door (TfL): 🚌 bus 309 + District + Elizabeth line + bus 24"
       },
       "hood": {
         "points": 5.0,
@@ -5097,7 +4923,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.516752,
+    "lng": -0.039119,
+    "commute_min": 44,
+    "commute_mode": "🚌 bus 309 + District + Elizabeth line + bus 24"
   },
   {
     "id": "99364445",
@@ -5108,7 +4939,7 @@
     "floor": "7th floor",
     "furnished": "Furnished",
     "available": "2026-11-30",
-    "commute": "~30-40 min",
+    "commute": "44 min · 🚌 bus 309 + District + Elizabeth line + bus 24 (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/99364445",
     "photos": [
@@ -5121,7 +4952,7 @@
     "notes": "",
     "date_found": "2026-10-13",
     "hood": "Hoodmaps: Normies (St. Dunstan's); nearby tags: \"Not many good pubs\", \"Shandy\", \"murder capital\".",
-    "score": 46,
+    "score": 43,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5134,9 +4965,9 @@
         "reason": "51 m²"
       },
       "commute": {
-        "points": 12.0,
+        "points": 9.8,
         "max": 20,
-        "reason": "~35 min avg to NW1 3BF"
+        "reason": "44 min door-to-door (TfL): 🚌 bus 309 + District + Elizabeth line + bus 24"
       },
       "hood": {
         "points": 5.0,
@@ -5168,7 +4999,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.51674,
+    "lng": -0.03919,
+    "commute_min": 44,
+    "commute_mode": "🚌 bus 309 + District + Elizabeth line + bus 24"
   },
   {
     "id": "92904378",
@@ -5179,7 +5015,7 @@
     "floor": "3rd floor",
     "furnished": "Furnished",
     "available": "2026-11-06",
-    "commute": "~30 min",
+    "commute": "37 min · 🚌 bus D3 + Elizabeth line + Northern (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/92904378",
     "photos": [
@@ -5192,7 +5028,7 @@
     "notes": "Enquiry sent 12 Oct",
     "date_found": "2026-10-12",
     "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Tourists; nearby tags: \"9 pound a pint \"Rooftop\"\", \"Heavier drug dealing\", \"Rich kids\", \"ANTIFA Mecca\".",
-    "score": 67,
+    "score": 66,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5205,9 +5041,9 @@
         "reason": "size unknown (Not stated (large 1-bed))"
       },
       "commute": {
-        "points": 16.0,
+        "points": 15.4,
         "max": 20,
-        "reason": "~30 min avg to NW1 3BF"
+        "reason": "37 min door-to-door (TfL): 🚌 bus D3 + Elizabeth line + Northern"
       },
       "hood": {
         "points": 10.0,
@@ -5246,7 +5082,12 @@
       }
     },
     "rating": "like",
-    "masha_enquired": true
+    "masha_enquired": true,
+    "price_checked": "2026-10-15",
+    "lat": 51.512016,
+    "lng": -0.063907,
+    "commute_min": 37,
+    "commute_mode": "🚌 bus D3 + Elizabeth line + Northern"
   },
   {
     "id": "94199361",
@@ -5257,7 +5098,7 @@
     "floor": "",
     "furnished": "Furnished",
     "available": "2026-10-17",
-    "commute": "~35 min",
+    "commute": "48 min · 🚌 bus G1 + Northern + Victoria (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94199361",
     "photos": [
@@ -5270,7 +5111,7 @@
     "notes": "Enquiry sent 12 Oct",
     "date_found": "2026-10-12",
     "hood": "Hoodmaps: Rich (Northcote); nearby tags: \"yummy mummys\", \"nappy valley\", \"F**k off clean shirt \".",
-    "score": 62,
+    "score": 57,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5283,9 +5124,9 @@
         "reason": "52 m²"
       },
       "commute": {
-        "points": 12.0,
+        "points": 7.2,
         "max": 20,
-        "reason": "~35 min avg to NW1 3BF"
+        "reason": "48 min door-to-door (TfL): 🚌 bus G1 + Northern + Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -5324,7 +5165,12 @@
       }
     },
     "masha_enquired": true,
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.455322,
+    "lng": -0.164475,
+    "commute_min": 48,
+    "commute_mode": "🚌 bus G1 + Northern + Victoria"
   },
   {
     "id": "94221912",
@@ -5335,7 +5181,7 @@
     "floor": "",
     "furnished": "",
     "available": "2026-12-01",
-    "commute": "",
+    "commute": "28 min · 🚇 Victoria (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94221912",
     "photos": [
@@ -5346,7 +5192,7 @@
     "notes": "Available early Dec",
     "date_found": "2026-10-12",
     "hood": "Hoodmaps: Rich (Stroud Green); nearby tags: \"Art student dormitories here\", \"African & Asian wedding outfits\", \"walking around here is scary\".",
-    "score": 45,
+    "score": 58,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5359,9 +5205,9 @@
         "reason": "63 m²"
       },
       "commute": {
-        "points": 7.0,
+        "points": 20,
         "max": 20,
-        "reason": "commute unknown"
+        "reason": "28 min door-to-door (TfL): 🚇 Victoria"
       },
       "hood": {
         "points": 10.0,
@@ -5393,7 +5239,13 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.568398,
+    "lng": -0.110168,
+    "features": "",
+    "commute_min": 28,
+    "commute_mode": "🚇 Victoria"
   },
   {
     "id": "93183198",
@@ -5404,7 +5256,7 @@
     "floor": "",
     "furnished": "",
     "available": "",
-    "commute": "",
+    "commute": "53 min · 🚆 Southeastern + Victoria (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/93183198",
     "photos": [
@@ -5417,7 +5269,7 @@
     "notes": "",
     "date_found": "2026-10-11",
     "hood": "Hoodmaps: Hipsters (The Lane), also painted Students; nearby tags: \"Liberal elite ground-zero\".",
-    "score": 48,
+    "score": 45,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5430,9 +5282,9 @@
         "reason": "60.5 m²"
       },
       "commute": {
-        "points": 7.0,
+        "points": 4.2,
         "max": 20,
-        "reason": "commute unknown"
+        "reason": "53 min door-to-door (TfL): 🚆 Southeastern + Victoria"
       },
       "hood": {
         "points": 12.0,
@@ -5464,7 +5316,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.469198,
+    "lng": -0.078138,
+    "commute_min": 53,
+    "commute_mode": "🚆 Southeastern + Victoria"
   },
   {
     "id": "94234530",
@@ -5475,7 +5332,7 @@
     "floor": "5th floor",
     "furnished": "",
     "available": "",
-    "commute": "",
+    "commute": "42 min · 🚌 bus 144 + Piccadilly + Victoria (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94234530",
     "photos": [
@@ -5488,7 +5345,7 @@
     "notes": "",
     "date_found": "2026-10-11",
     "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; nearby tags: \"Gareth's\".",
-    "score": 44,
+    "score": 48,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -5501,9 +5358,9 @@
         "reason": "52 m²"
       },
       "commute": {
-        "points": 7.0,
+        "points": 11.4,
         "max": 20,
-        "reason": "commute unknown"
+        "reason": "42 min door-to-door (TfL): 🚌 bus 144 + Piccadilly + Victoria"
       },
       "hood": {
         "points": 13.0,
@@ -5535,7 +5392,12 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.58916,
+    "lng": -0.11793,
+    "commute_min": 42,
+    "commute_mode": "🚌 bus 144 + Piccadilly + Victoria"
   },
   {
     "id": "93588750",
@@ -5546,7 +5408,7 @@
     "floor": "Garden",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "",
+    "commute": "47 min · 🚆 Lioness (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/93588750",
     "photos": [
@@ -5572,9 +5434,9 @@
         "reason": "77 m²"
       },
       "commute": {
-        "points": 7.0,
+        "points": 7.8,
         "max": 20,
-        "reason": "commute unknown"
+        "reason": "47 min door-to-door (TfL): 🚆 Lioness"
       },
       "hood": {
         "points": 13.0,
@@ -5613,7 +5475,12 @@
       }
     },
     "masha_enquired": true,
-    "rating": "like"
+    "rating": "like",
+    "price_checked": "2026-10-15",
+    "lat": 51.537261,
+    "lng": -0.236341,
+    "commute_min": 47,
+    "commute_mode": "🚆 Lioness"
   },
   {
     "id": "94244565",
@@ -5624,7 +5491,7 @@
     "floor": "",
     "furnished": "Unfurnished",
     "available": "",
-    "commute": "",
+    "commute": "48 min · 🚌 bus D7 + Hammersmith & City (TfL, arrive 09:00)",
     "pets": "",
     "url": "https://www.rightmove.co.uk/properties/94244565",
     "photos": [
@@ -5650,9 +5517,9 @@
         "reason": "53 m²"
       },
       "commute": {
-        "points": 7.0,
+        "points": 7.2,
         "max": 20,
-        "reason": "commute unknown"
+        "reason": "48 min door-to-door (TfL): 🚌 bus D7 + Hammersmith & City"
       },
       "hood": {
         "points": 2.0,
@@ -5684,6 +5551,11 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "price_checked": "2026-10-15",
+    "lat": 51.51639,
+    "lng": -0.032526,
+    "commute_min": 48,
+    "commute_mode": "🚌 bus D7 + Hammersmith & City"
   }
 ]

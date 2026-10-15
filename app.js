@@ -27,23 +27,48 @@ const st=l=>loc[l.id]||l.status;
 const sz=l=>{const m=(l.size||'').match(/[\d.]+/);return m?parseFloat(m[0]):0};
 const fmtD=d=>d?new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short'}):'';
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const FL2=[['all','Все'],['notsent','Не писали'],['sent','Написали'],['new','🆕 New'],['saved','❤️ saved']];
+const seenK='flatseen',lvK='flatlastvisit';const SEEN0=new Set(JSON.parse(localStorage.getItem(seenK)||'null')||[]);const FIRST=!localStorage.getItem(seenK);
+const isNew=l=>!FIRST&&!SEEN0.has(String(l.id));
+function markSeen(){if(!data.length)return;localStorage.setItem(seenK,JSON.stringify(data.map(l=>String(l.id))));localStorage.setItem(lvK,new Date().toISOString())}
+const hoodName=l=>{const h=l.hood||'';const m=h.match(/\(([^)]+)\)/);return m?m[1]:((l.area||'').split(',')[0]||'')};
+const sqm=l=>{const m=(l.size||'').match(/([\d.]+)\s*m²/);return m?Math.round(+m[1])+' m²':'m² ?'};
+const furnS=l=>{const f=(l.furnished||'').toLowerCase();return !f?'мебель ?':f.includes('flex')||f.includes('or unfurn')?'с мебелью / без':f.includes('part')?'частично':f.includes('unfurn')?'без мебели':'с мебелью'};
+const availS=l=>!l.available?'с ? (ask)':(l.available<=new Date().toISOString().slice(0,10)?'сейчас':'с '+fmtD(l.available));
+const commS=l=>l.commute_min?`${l.commute_min} мин · ${esc(l.commute_mode||'')}`:(l.commute?esc(l.commute):'');
+const sentD=e=>e&&e.sent_at?fmtD(e.sent_at):'';
 function render(){
- document.getElementById('filters').innerHTML=FL.map(s=>`<button class="chip ${s==filt?'on':''}" onclick="filt='${s}';render()">${s=='saved'?'❤️ saved':s} (${s=='all'?data.length:s=='saved'?data.filter(l=>saved.has(String(l.id))).length:data.filter(l=>st(l)==s).length})</button>`).join('');
- const nh=data.filter(l=>rating(l)==='dislike').length;let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):st(l)==filt));const so=document.getElementById('sort').value;
- L.sort(so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):(a,b)=>(b.date_found||'').localeCompare(a.date_found||''));
+ const cnt=k=>k=='all'?data.length:k=='saved'?data.filter(l=>saved.has(String(l.id))).length:k=='sent'?data.filter(l=>sentOf(l.id)).length:k=='notsent'?data.filter(l=>!sentOf(l.id)).length:data.filter(isNew).length;
+ document.getElementById('filters').innerHTML=FL2.map(([k,lab])=>`<button class="chip ${k==filt?'on':''}" onclick="filt='${k}';render()">${lab} (${cnt(k)})</button>`).join('');
+ const nh=data.filter(l=>rating(l)==='dislike').length;
+ let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):filt=='sent'?!!sentOf(l.id):filt=='notsent'?!sentOf(l.id):filt=='new'?isNew(l):st(l)==filt));
+ const so=document.getElementById('sort').value;
+ const base=so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):so=='commute'?(a,b)=>(a.commute_min||999)-(b.commute_min||999):(a,b)=>(b.date_found||'').localeCompare(a.date_found||'');
+ L.sort((a,b)=>(!!sentOf(a.id))-(!!sentOf(b.id))||base(a,b));
  document.getElementById('cnt').textContent=L.length;
  const nq=Object.keys(RQ).length;const sb=document.getElementById('sync');sb.style.display=nq?'':'none';sb.textContent=`🔄 Sync ${nq} rating${nq>1?'s':''}`;
  document.getElementById('hidt').innerHTML=nh?`<button class="chip ${showHid?'on':''}" onclick="showHid=!showHid;render()">👎 ${showHid?'hide':'show'} hidden (${nh})</button>`:'';
- document.getElementById('list').innerHTML=L.map(l=>`<div class="card" id="c-${esc(l.id)}"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
- <div class="body"><button class="score" style="background:${scCol(scoreOf(l))}" onclick="this.closest('.body').querySelector('details.bd').toggleAttribute('open')" aria-label="Score ${scoreOf(l)} of 100, show breakdown">${l.score!=null?scoreOf(l):'–'}</button><span class="p">£${Number(l.price).toLocaleString()}</span><div class="t">${esc(l.title)}</div><div>${esc(l.area)}</div>
- <div class="facts">${[l.size,l.floor,l.furnished,l.available&&'Avail '+fmtD(l.available),l.commute&&'🚇 '+l.commute,l.pets&&'🐾 '+l.pets].filter(Boolean).map(esc).join(' · ')}</div>
- <div><span class="badge">${st(l)}</span><span style="font-size:12px;color:var(--hint)">found ${fmtD(l.date_found)} · ${l.photos.length} photos</span></div>
+ let firstSent=true;
+ document.getElementById('list').innerHTML=L.map(l=>{const e=sentOf(l.id);let sep='';if(e&&firstSent&&L.some(x=>!sentOf(x.id))){firstSent=false;sep='<div class="day">✉️ Уже написали</div>'}
+ return sep+`<div class="card${e?' done':''}" id="c-${esc(l.id)}"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
+ <div class="bar"><button class="score" style="background:${scCol(scoreOf(l))}" onclick="this.closest('.card').querySelector('details.more').toggleAttribute('open')" aria-label="Score ${scoreOf(l)} of 100, show details">${l.score!=null?scoreOf(l):'–'}</button>
+ <button class="b s rmb" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
+ <button class="b s rt${rating(l)=='like'?' up':''}" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b s rt${rating(l)=='dislike'?' dn':''}" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>
+ <span class="p">£${Number(l.price).toLocaleString()}</span></div>
+ <div class="body"><div class="t">${esc(l.title)}${isNew(l)?' <span class="newb">🆕 New</span>':''}</div>
+ ${e?`<div><span class="sbadge enq">✉️ Написали ${sentD(e)}${e.source==='masha'?' (Маша)':e.source==='assistant'?' (ассистент)':''}</span></div>`:''}
+ ${commS(l)?`<div class="comm">🕘 ${commS(l)}</div>`:''}
+ <div class="tags"><span>📍 ${esc(hoodName(l))}</span><span>📅 ${esc(availS(l))}</span><span>📐 ${esc(sqm(l))}</span><span>🛋 ${esc(furnS(l))}</span></div>
+ <details class="more"><summary>подробнее</summary>
+ <div class="facts">${[l.area,l.floor,l.pets&&'🐾 '+l.pets,l.furnished].filter(Boolean).map(esc).join(' · ')}</div>
  ${l.hood?`<div class="hood" style="font-size:12px;opacity:.75;margin-top:4px">📍 ${esc(l.hood)}</div>`:''}
-${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
+ ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}
  ${l.score_breakdown?bdHtml(l):''}
+ <div style="font-size:12px;color:var(--hint)">found ${fmtD(l.date_found)} · ${l.photos.length} photos · status ${esc(st(l))}</div>
+ <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(s=>`<option ${s==st(l)?'selected':''}>${s}</option>`).join('')}</select></details>
  ${sentBox(l)}
- <div class="acts"><button class="b s rt${rating(l)=='like'?' up':''}" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b s rt${rating(l)=='dislike'?' dn':''}" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>${sentOf(l.id)?`<span class="sbadge">✋ ${esc(enqBadge(sentOf(l.id)))}</span>`:`<button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button><button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button>`}<button class="b s" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
- <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(s=>`<option ${s==st(l)?'selected':''}>${s}</option>`).join('')}</select></div></div></div>`).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
+ ${e?'':`<div class="acts"><button class="b big" onclick="draft('${l.id}')">✉️ Send enquiry</button><button class="b s sv${saved.has(String(l.id))?' on':''}" onclick="save('${l.id}')">${saved.has(String(l.id))?'❤️ Saved':'🤍 Save'}</button></div>`}
+ </div></div>`}).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
 }
 function sentBox(l){const e=sentOf(l.id);if(!e)return '';const [lab,cls]=SSTAT[e.status]||SSTAT.sent;
  return msgBox(e,`<span class="sbadge">${esc(enqBadge(e))}</span><span class="badge ${cls}">${lab}</span>`)}
@@ -136,7 +161,7 @@ function tab(t){if(!TABS[t])t='flats';curTab=t;
 document.querySelectorAll('nav#tabs button').forEach(b=>b.addEventListener('click',()=>tab(b.dataset.tab)));
 document.getElementById('sort').addEventListener('change',render);
 const getJ=f=>fetch(f+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[]);
-getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render();const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
+getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
 Promise.all([getJ('viewings.json'),getJ('replies.json'),getJ('sent.json')]).then(([a,b,c])=>{V=Array.isArray(a)?a:[];R=Array.isArray(b)?b:[];S=Array.isArray(c)?c:[];render();if(curTab=='viewings')renderV();if(curTab=='replies')renderR()});
 const h0=(location.hash||'').slice(1);if(!/^flat-/.test(h0))tab(h0=='viewings'||h0=='replies'?h0:'flats');
 
