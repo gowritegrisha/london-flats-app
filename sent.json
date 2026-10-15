@@ -728,5 +728,16 @@
   "agent": "Flagstones Property Group, London",
   "price": "£2,200 pcm",
   "rightmove_label": "You enquired on 7th October"
+ },
+ {
+  "listing_id": "92893338",
+  "title": "Green Street, NWX Residences, North Acton",
+  "text": "Hello,\n\nWe're very interested in Green Street (NWX Residences and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
+  "message": "Hello,\n\nWe're very interested in Green Street (NWX Residences and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
+  "sent_at": "2026-10-15T20:59:48+02:00",
+  "channel": "rightmove",
+  "status": "sent",
+  "source": "assistant",
+  "agent": "Dexters, Queen's Park"
  }
 ]
