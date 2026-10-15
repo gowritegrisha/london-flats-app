@@ -5,7 +5,7 @@ const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
 const msgOf=e=>{const t=(e&&(e.text||e.message)||'').trim();return t};
 const msgBox=(e,pre)=>{const t=msgOf(e);return t?`<details class="sent"><summary>${pre||''}<span class="more">show message</span></summary><pre>${esc(t)}</pre></details>`:`<div class="sent">${pre||''}<span class="more" style="opacity:.7">text not available</span></div>`};
 const enqBadge=e=>e.source==='assistant'?'Enquired by assistant':'Masha already enquired '+(e.sent_at?fmtD(e.sent_at):'');
-const SSTAT={sent:['Awaiting reply','st-await'],'awaiting reply':['Awaiting reply','st-await'],'Let agreed':['Let agreed','st-let'],'Off the market':['Off the market','st-off'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],no_reply:['Awaiting reply','st-await']};
+const SSTAT={sent:['Awaiting reply','st-await'],'awaiting reply':['Awaiting reply','st-await'],'Let agreed':['Let agreed','st-let'],'Off the market':['Off the market','st-off'],replied:['Replied','st-replied'],viewing:['Viewing booked','st-confirmed'],'viewing proposed':['Viewing proposed','st-replied'],rejected:['Not for us','st-off'],no_reply:['Awaiting reply','st-await']};
 const rtK='flatrating',rqK='flatrateq';const RT=JSON.parse(localStorage.getItem(rtK)||'{}');let RQ=JSON.parse(localStorage.getItem(rqK)||'{}');let showHid=false;
 const rating=l=>RT[l.id]!==undefined?RT[l.id]:(l.rating||null);
 const scoreOf=l=>Math.min(100,(l.score||0)+(RT[l.id]==='like'&&l.rating!=='like'?8:0));
@@ -125,6 +125,8 @@ function renderV(){const now=Date.now();const up=[],pa=[],tbc=[];
 const rcard=r=>`<div class="reply"><span style="font-size:12px;color:var(--hint)">↳ Reply ${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t" style="font-size:14px">${esc(r.agent)}</div>
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
  ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div>`;
+const convBox=e=>{const T=e.thread,na=T.filter(m=>m.dir==='agent').length;const c=e.agent_email||e.agent_phone?`<div class="facts">${[e.agent_contact,e.agent_phone,e.agent_email].filter(Boolean).map(esc).join(' · ')}</div>`:'';
+ return c+`<details class="sent conv"><summary><span class="more">💬 conversation (${T.length} msg${na?', '+na+' from agent':''})</span></summary>${T.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${m.dir==='masha'?(m.enquiry?'✉️ Masha (enquiry)':'✉️ Masha'):'🏢 '+esc((m.from||'').split('@')[0])} · ${m.date?fmtD(m.date)+' '+new Date(m.date).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'}):''}</div><pre>${esc(m.text||'')}</pre></div>`).join('')}</details>`};
 function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sent_at||''));
  const nAll=SS.length,nLet=SS.filter(e=>e.status==='Let agreed').length,nAct=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market').length;
  if(rFilt==='active')SS=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market');
@@ -139,7 +141,7 @@ function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sen
   return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${L?`<a href="#flat-${esc(L.id)}" class="clink" onclick="openCard('${esc(L.id)}');return false">${esc(e.title||L.title)} ›</a>`:esc(e.title)}</div>
   ${e.agent||e.price?`<div class="facts">${[e.price,e.agent].filter(Boolean).map(esc).join(' · ')}</div>`:''}
   <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span></div>
-  ${msgBox(e)}
+  ${e.thread&&e.thread.length?convBox(e):msgBox(e)}
   ${rs.length?rs.map(rcard).join(''):(e.status==='awaiting reply'||e.status==='sent'||!e.status?'<div class="notes" style="margin-top:6px">No reply yet</div>':'')}
   <div class="acts">${L?`<button class="b s opencard" data-id="${esc(L.id)}" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${linkUrl?`<button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button>`:''}</div></div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
  const other=R.filter(r=>!used.has(r));

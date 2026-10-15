@@ -1,1 +1,48 @@
-[]
+[
+ {
+  "id": "mail-1a139804d4cce33f",
+  "listing_id": "chestertons-22214363",
+  "title": "UNCLE Wembley, 3 Park Lane, Wembley HA9 7RH",
+  "address": "DEVELOPMENT - UNCLE WEMBLEY, 3 Park Lane, Wembley, Middlesex, HA9 7RH",
+  "datetime": "2026-10-14T14:00:00+01:00",
+  "agent": "Chestertons Key Clients (Build to Rent)",
+  "agent_email": "francesco.caiati@chestertons.co.uk",
+  "agent_phone": "020 7182 1412",
+  "thread_id": "1a139804d4cce33f",
+  "status": "done",
+  "source": "masha-mail",
+  "calendar_event_id": "51d54756136743ae9b5bdd6a9eaf22f5",
+  "type": "video",
+  "notes": "Reservation form received 14 Oct."
+ },
+ {
+  "id": "mail-1a134b287f5f1ee4",
+  "listing_id": "94045110",
+  "title": "Cromwell Avenue, London, W6",
+  "address": "22 Cromwell Avenue, London, W6 9LA",
+  "datetime": "2026-10-14T17:30:00+01:00",
+  "agent": "Portico, Hammersmith",
+  "agent_email": "e.heard@portico.com",
+  "agent_phone": "02087483630",
+  "thread_id": "1a134b287f5f1ee4",
+  "status": "done",
+  "source": "masha-mail",
+  "calendar_event_id": "bea520b6975f42b78aa4aab9b62dcbc8",
+  "notes": "Masha's own calendar event 'viewing' 18:00 Madrid. Offer form received 14 Oct."
+ },
+ {
+  "id": "cal-884c17584c874207a5c3e47a2daef301",
+  "listing_id": "94152048",
+  "title": "The Maple, 10 Aviator Drive, NW2",
+  "address": "The Maple, 10 Aviator Drive, London NW2 8AL",
+  "datetime": "2026-10-16T12:00:00+01:00",
+  "agent": "CBRE Residential (India Chattwell Grint; James Feltham)",
+  "agent_email": "James.Feltham@cbre.com",
+  "agent_phone": "+44 738 546 9872",
+  "type": "video",
+  "status": "confirmed",
+  "calendar_event_id": "884c17584c874207a5c3e47a2daef301",
+  "source": "masha-calendar",
+  "notes": "Already in Masha's calendar (she added it herself: 'viewing with India Chattwell Grint'). Likely online, she's in Barcelona."
+ }
+]

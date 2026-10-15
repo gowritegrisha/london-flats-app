@@ -25,7 +25,39 @@
   "agent": "Langford Lettings Ltd, London",
   "price": "£1,842 pcm",
   "rightmove_label": "You enquired on 12th October",
-  "message": "Hello,\n\nWe're very interested in Northcote Road and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263"
+  "message": "Hello,\n\nWe're very interested in Northcote Road and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": null,
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello, We're very interested in the flat on Northcote Road and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place. We have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need. Could you confirm the floor area and the earliest move-in date? Video viewings would also work for us. Thank you, Maria Surkova +34 605 227 263",
+    "enquiry": true,
+    "thread_id": "1a1305c04f2394c2"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-12T13:44:52Z",
+    "from": "Emma@langfordproperty.co.uk",
+    "text": "Hi Maria\nThank you for your email – floorplan attached, so 562 sq.ft.\nEarliest move in date is next weekend, but the landlord is looking for an October move in, no later than that.\nThere is a video tour as part of this advertisement if that’s helpful – just click through the photos until you get to a video.\nKind Regards\nEmma-Louise Fulton\nDirector\nTel: 020 7036 6010\nLangford, 80 St Johns Hill, SW11 1SF\nemma@langfordproperty.co.uk\nwww.langfordproperty.co.uk\nI would really appreciate it if you have the time today to leave a review on our listing, we always appreciate a good review from one of our fantastic clients. https://bit.ly/LangfordLettingsLtd\nThis email and its attachments may be confidential and are intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient of this email and its attachments, you must take no action based upon them, nor must you copy or show them to anyone. Please contact the sender if you believe you have received this email in error.\nLangford Lettings is a trading name of Langford Lettings Limited which is registered in England & Wales under registered company number: 06857148, registered office address: Langford Hall Barn Witham Road, Langford, Maldon, England, CM9 4ST. You can also find our company information on our website using this link https://www.langfordproperty.co.uk/about-us",
+    "enquiry": null,
+    "thread_id": "1a1305c04f2394c2"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-13T20:14:23Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Thank you! The layout is not something that we can work with unfortunately",
+    "enquiry": null,
+    "thread_id": "1a1305c04f2394c2"
+   }
+  ],
+  "thread_ids": [
+   "1a1305c04f2394c2"
+  ],
+  "mail_status": "rejected",
+  "agent_email": "Emma@langfordproperty.co.uk",
+  "agent_phone": "020 7036 6010"
  },
  {
   "listing_id": "93395547",
@@ -98,12 +130,37 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94306005",
   "agent": "Oakhill, London",
   "price": "£1,842 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": null,
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+    "enquiry": true,
+    "thread_id": "1a13e9990f6ad33e"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-15T08:06:27Z",
+    "from": "molly@oakhill.london",
+    "text": "Hi Maria,\nI hope you are well, if you would like to book in a viewing please let me know the below questions.\n 1.\nWho is the property for?\n 2.\nWhen do you need to move?\n 3.\nMax rent per week/month?\n 4. How many bedrooms minimum?\n 5.\nFurnished or unfurnished?\n 6.\nWhat is your occupation\nKind Regards,\nMolly Chaney\nLettings Co-ordinator / Property Manager\nOffice +44 (0) 20 3544 4443\nAddress 108 Fortune Green Road, West Hampstead, NW6 1DS\nmolly@oakhill.london\nOUT OF HOURS EMERGENCY CONTACT NUMBER - 020 3780 5665\noakhill.london\nThe content of this email is solely for the addressee only and may be subject to legal privilege. You should not use, copy or disclose the information contained in it to any other person. If you have received this email in error or you are not the legitimate addressee please inform me immediately, delete the email from your computer system and destroy any hard copies you may have made. Oakhill Residential Ltd believe this email to be free from viruses and malicious code. It is the responsibility of the recipient to ensure that they are virus free and no responsibility is accepted by Oakhill Residential Ltd for any loss or damage from receipt or use thereof. All offers are made subject to contract and all statements are made without prejudice. All monetary figures such as; rent, price, service charge, insurances, fees are plus VAT at the prevailing rate unless otherwise stated. In respect of providing advice; the aforementioned / attached figures and recommendations are our personal opinion as local agents only. The above are provided in good faith, for guidance purposes only and should not be relied upon as a statement of fact or for bank valuation purposes.\nOakhill Residential Ltd is registered in England and Wales. Company number: 9363661. VAT Registration number: 20194504",
+    "enquiry": null,
+    "thread_id": "1a13e9990f6ad33e"
+   }
+  ],
+  "thread_ids": [
+   "1a13e9990f6ad33e"
+  ],
+  "mail_status": "viewing proposed",
+  "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+  "agent_email": "molly@oakhill.london",
+  "agent_phone": "+44 (0) 20 3544 4443"
  },
  {
   "listing_id": "94259382",
@@ -129,7 +186,22 @@
   "url": "https://www.rightmove.co.uk/properties/167679992",
   "agent": "Charles David Casson, South East",
   "price": "£1,850 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-14T16:20:29Z",
+    "from": "noreply@send.agentresponse.co.uk",
+    "text": "Hello Maria\nThank you for your enquiry.\nIn order for us to provide more information on Flat 1-4, 112, Fordwych Road, London, NW2 3NL, and any other properties that might fit your requirements, could you please provide more details by clicking on the following link.\nPlease note that due to high levels of enquiries, and properties letting very quickly we are only able to reply if the property is still available. We will however aim to let you know about any other suitable properties should you not get this one.\nClick here: https://track.pstmrk.it/3ts/app.agentresponse.co.uk%2Fenquire%2Fgyz55dim%3FofficeId%3D1609%26leadName%3DMaria%26leadEmail%3Dgowritemasha%2540gmail.com%26propertyAddress%3DFlat%2B1-4%252C%2B112%252C%2BFordwych%2BRoad%252C%2BLondon%252C%2BNW2%2B3NL%26enquiryType%3DLetting%26leadTelephone%3D34605227263%26portal%3DRight%2BMove%26propertyType%3Dresidential%26verificationCode%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwcC5hZ2VudHJlc3BvbnNlLmNvLnVrIiwiaWF0IjoxNzkxOTk0ODI4LCJvZmZpY2VfaWQiOjE2MDksInRlYW1faWQiOjE1NzcsInBvcnRhbCI6IlJpZ2h0IE1vdmUiLCJjaGFzZV9pZCI6ImJjYTM5YjViLTc2YmEtNDE5YS1iZWMzLWM2YzNhZDlkMmI4NSJ9.6eEDkFSmQVdob63KEn78Q-ecfPFqPyJ8kjPnu1Nb9dk/fT1V/dbfIAQ/AQ/280c0d87-4a2f-4d16-a545-b4cea789220e/1/9ijKa18057\nThank you\nThe team at Charles David Casson\n©Agent Response\nThis email was sent to you by Agent Response to help facilitate your property needs based on your initial contact to the Estate Agent who use our system to provided improved service to you. Add noreply@send.agentresponse.co.uk to your address book.\nThe content and views expressed in this email are those of the authors and not necessarily Agent Response, a trading name of isev limited. The information in this message does not constitute specific advice or recommendation and is for general interest only. isev limited is not responsible for the website content or services provided by third parties. You should perform your own research and seek professional advice before making any decision to purchase or invest in property. isev limited is registered in England and Wales, No. 06553217. Registered Office: Unit 6, Stafford Park 12, Telford, Shropshire, TF3 3BJ.",
+    "enquiry": null,
+    "thread_id": "1a13b371a0edcde1"
+   }
+  ],
+  "thread_ids": [
+   "1a13b371a0edcde1"
+  ],
+  "mail_status": "awaiting reply",
+  "agent_email": "noreply@send.agentresponse.co.uk"
  },
  {
   "listing_id": "93588750",
@@ -137,12 +209,38 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "Let agreed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/93588750",
   "agent": "Wenlock & Taylor, London",
   "price": "£462 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": null,
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+    "enquiry": true,
+    "thread_id": "1a13eb7142719c5c"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-15T08:39:03Z",
+    "from": "Nicole@wenlocktaylor.co.uk",
+    "text": "Hi Maria,\nThank you for your enquiry.\nThe Landlord has now accepted an offer for this property so it is no longer available to view.\nIf the letting falls through, we would be happy to let you know and arrange a viewing thereafter.\nBest wishes,\nNicole Woolner\nBA (Hons) MARLA\nT: 020 8969 0122\nW: wenlocktaylor.co.uk\nA: 97 Chamberlayne Road, Kensal Rise\nLondon, NW10 3NN",
+    "enquiry": null,
+    "thread_id": "1a13eb7142719c5c"
+   }
+  ],
+  "thread_ids": [
+   "1a13eb7142719c5c"
+  ],
+  "mail_status": "let agreed",
+  "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+  "agent_email": "Nicole@wenlocktaylor.co.uk",
+  "agent_phone": "020 8969 0122",
+  "agent_contact": "Nicole Woolner"
  },
  {
   "listing_id": "94303230",
@@ -168,7 +266,23 @@
   "url": "https://www.rightmove.co.uk/properties/93543816",
   "agent": "Hello Neighbour, London",
   "price": "£462 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-14T16:14:54Z",
+    "from": "lettings@hello-neighbour.com",
+    "text": "Welcome Maria,\nThank you for your enquiry about 1 Heartwood Boulevard, London, W3 via Rightmove.\nIf you'd like to view the property, use the 'Book a viewing' button below to check out the viewing availability for this property, and get booked in or register interest.\nBook a viewing \n1 Heartwood Boulevard, London, W3\n£2000 per month  1 Bedrooms  1 Bathrooms\nHow viewings work\nYou can book any available 15-minute viewing slot instantly. If no slots are showing, select some time windows that work for you. We'll be in touch as soon as new appointments become available.\nViewings fill up quickly, so we'd recommend sending your request as soon as possible. You'll have 15 minutes to complete the form before it times out.\nFrom,\nThe Hello Neighbour Team\n020 8138 8848\nlettings @hello-neighbour.com ( lettings@hello-neighbour.com?subject=&body= )\nhello-neighbour.com \nunsubscribe from hello neighbour emails",
+    "enquiry": null,
+    "thread_id": "1a13b3207abc1aca"
+   }
+  ],
+  "thread_ids": [
+   "1a13b3207abc1aca"
+  ],
+  "mail_status": "awaiting reply",
+  "agent_email": "lettings@hello-neighbour.com",
+  "agent_phone": "020 8138 8848"
  },
  {
   "listing_id": "94198248",
@@ -176,12 +290,29 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "replied",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94198248",
   "agent": "Dexters, Chiswick",
   "price": "£1,800 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-15T10:08:20Z",
+    "from": "isabellemerecki@dexters.co.uk",
+    "text": "Dexters - London Property / Professionals \nHi Maria, \nI hope you're well. \nI just tried to give you a quick call as you have enquired on one of our properties we have available at the moment. Please could you confirm your phone number for me as unfortunately it wasn't able to ring. \nPlease give me a call back when available so I can get a better understanding of your search and hopefully get you booked in for a viewing.\nKind regards,\nIsabelle Merecki\nLettings Consultant\n020 8995 5439\n Chiswick Office  388 Chiswick High Road\nLondon  W4 5TF\n Sales 020 8995 4321  Lettings 020 8995 5439 \n dexters.co.uk \n If you have a suggestion, things maybe\ndidn't go as planned, or even if you just\nwant to say thanks then click here to\nemail the Managing Director.",
+    "enquiry": null,
+    "thread_id": "1a13f08ca6a27864"
+   }
+  ],
+  "thread_ids": [
+   "1a13f08ca6a27864"
+  ],
+  "mail_status": "replied",
+  "agent_email": "isabellemerecki@dexters.co.uk",
+  "agent_phone": "020 8995 5439",
+  "agent_contact": "Isabelle Merecki"
  },
  {
   "listing_id": "94227381",
@@ -215,12 +346,28 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94299561",
   "agent": "Kinleigh Folkard & Hayward - Lettings, Putney",
   "price": "£438 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-15T09:56:06Z",
+    "from": "diogo.esteves@kfh.co.uk",
+    "text": "Hi Maria,\nI hope you're well.\nThanks for your enquiry on the following:\n1 bedroom terraced house for rent in Matheson Road, London, W14\nTo View - Call me on 020 8780 4932 or reply to this email.\nKind Regards,\nDiogo\nDiogo Esteves\nLettings Senior Negotiator\n1 Putney Hill, Putney London SW15 6BA\nTel 020 8785 3433<tel:020%208785%203433>  Email diogo.esteves@kfh.co.uk  kfh.co.uk\nConnect with me on WhatsApp\nClick to update your requirements or call 020 8785 3433\nRead our latest property news and insights here\nPlease note: All negotiations are subject to contract and references.\nKinleigh Folkard & Hayward is the trading name of Kinleigh Limited, Registered in England 913323. Registered Office 70 St. Mary Axe, London, EC3A 8BE. VAT number 647 8742 89.\nThis email is confidential and is intended for the named addressee only. If you are not the named addressee, you must not copy, print, disseminate, or use the contents in any way. If you have received this email in error, please notify the sender immediately and then delete it.\nKinleigh Folkard & Hayward is the trading name of Kinleigh Limited, Registered in England 913323.",
+    "enquiry": null,
+    "thread_id": "1a13efdb26811a3f"
+   }
+  ],
+  "thread_ids": [
+   "1a13efdb26811a3f"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "diogo.esteves@kfh.co.uk",
+  "agent_phone": "020 8780 4932"
  },
  {
   "listing_id": "93668892",
@@ -254,12 +401,37 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "replied",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/92037608",
   "agent": "Pinnacle Housing Ltd, Pinnacle Group",
   "price": "£413 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": null,
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+    "enquiry": true,
+    "thread_id": "1a13b12d8f5104c4"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-14T15:40:43Z",
+    "from": "buildtorent@pinnaclegroup.co.uk",
+    "text": "Dear Maria,\nThank you for your interest regarding Dudley House, Paddington!\nViewings are being held at the development next week Tuesday – Friday between 11am and 5pm.\nPlease complete the form below in order for us to give you a confirmed viewing appointment:\n 1. Full name & contact number -\n 2. Full current address –\n 3. Number of people moving in –\n 4. Reason for your move -\n 5. Number of bedrooms/bathrooms -\n 6. Maximum Budget -\n 7. How long would you like to take the lease out for? -\n 8. When do you have to move in -\n 9. Do you prefer furnished or unfurnished -\n 10. Job titles of all adults over the age of 18 -\n 11. Company name/University Name -\n 12. Basic household annual income -\n 13. History of adverse credit/bankruptcy/CCJs -\n 14. What are your special requirements -\n 15. Any pets? If yes, please provide name and breed details –\n 16. Any children? If yes, please provide an age -\n 17. Is a guarantor required? –\nImportant disclaimers:\n * Applicants must have lived or worked in Westminster for the last 12 months? Please note this will need to be evidenced.\n * We don’t offer any parking for this development\n * Household Income cannot exceed 90k per annum\nPinnacle Housing Ltd Lettings Agent in Pinnacle Housing Ltd  Rightmove\nLooking forward to hearing back from you!\nKind regards,\nFatima\nPlace by Pinnacle\nAny personal data submitted as part of your application shall be processed fairly and lawfully in accordance with the principles and requirements of the UK GDPR and our Privacy Notice: Privacy & Cookies - Pinnacle Group. You will also receive an e-mail from our property management platform, Qube SLM, asking you to confirm your preferences in relation to marketing communications including our quarterly newsletter.",
+    "enquiry": null,
+    "thread_id": "1a13b12d8f5104c4"
+   }
+  ],
+  "thread_ids": [
+   "1a13b12d8f5104c4"
+  ],
+  "mail_status": "replied",
+  "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+  "agent_email": "buildtorent@pinnaclegroup.co.uk",
+  "agent_contact": "Fatima"
  },
  {
   "listing_id": "94311600",
@@ -272,7 +444,23 @@
   "url": "https://www.rightmove.co.uk/properties/94311600",
   "agent": "Chestertons, Kentish Town",
   "price": "£1,850 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-14T15:48:20Z",
+    "from": "matches@chestertons.co.uk",
+    "text": "Sussex Way,\nUpper Holloway, N19 \n Set within a period conversion on a residential street close to Holloway Road, this spacious one-bedroom apartment features lots of natural light and good transport links into Central London. \n £427 pw £1,850 pcm 1 bedroom\n Dear Maria, \nWe are pleased to confirm your enquiry has been sent to our\n Kentish Town branch.\nEither I or one of my team will be in touch shortly. To book a viewing of this property, please do call the branch on\n +44 (0)20 7267 1010. \nThe details we have on file are:\nemail:\n gowritemasha@gmail.com \ntel:\n +34 (605) 227 2633 \nThank you again for your enquiry and I look forward to speaking with you soon.\nYours sincerely,\nStevie Walton\nlettings.kentishtown.enquiries@chestertons.co.uk\n Office: +44 (0)20 7267 1010\n 225 Kentish Town Road,\nLondon, NW5 2JU\nSimilar properties nearby\nCarleton Road\nLET AGREED\nAnson Road\nLET AGREED\nFairbridge Road\nTO LET\n Chestertons © 2026 \n Registered address: 5th Floor, The Lantern, 75 Hampstead Road, London, NW1 2PL",
+    "enquiry": null,
+    "thread_id": "1a13b19ae8863ba8"
+   }
+  ],
+  "thread_ids": [
+   "1a13b19ae8863ba8"
+  ],
+  "mail_status": "awaiting reply",
+  "agent_email": "matches@chestertons.co.uk",
+  "agent_phone": "+44 (0)20 7267 1010"
  },
  {
   "listing_id": "92257719",
@@ -280,12 +468,28 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/92257719",
   "agent": "Leo Newman, London",
   "price": "£1,750 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-14T20:59:58Z",
+    "from": "zac@leonewman.co.uk",
+    "text": "Hi , hope all is well.\nThanks for enquiry below, we are conducting viewings when would you like to book? and please reply to below questions;\nLocated at Hendon Way, London NW2\nWeb link - https://www.zoopla.co.uk/to-rent/details/74035689/\nPlease kindly first send an email with all qualifying questions answered:\n(for each applicant)\n 1. How many persons would be moving in (if applicable, inclusive of children)?\n 1. When is the earliest for you to start your tenancy?\n 1. What is your work occupation / University?\n 1. What is your combined gross annual salary? (If student – do you have UK guarantor?)\n 1. Are you able to provide: previous landlord reference, job reference stating salary (recent tax return or employment contract or university enrolment for students), last 3 months of bank statements, last three months of payslips, colour scan of passport?\n 1. Have you previously received a CCJ, have you ever been evicted from a property\nWarm regards.\nZac Ben\nLettings Consultant\n07407 031 620\n0207 637 8848\nzac@leonewman.co.uk\nwww.leonewman.co.uk\n<image001.jpg>\n106 Cleveland Street, London, W1T 6NX\n<image002.jpg>\n<image003.jpg>\n<image004.jpg>\n<image005.jpg>\n<image006.jpg>\n<image007.jpg>\n<image008.jpg>\n<image009.jpg>\n<image010.jpg>\n<image011.jpg>\n<image012.jpg>\n<image013.jpg>\n<image014.jpg>\n<image015.jpg>\n<image016.jpg>",
+    "enquiry": null,
+    "thread_id": "1a13c3708e445519"
+   }
+  ],
+  "thread_ids": [
+   "1a13c3708e445519"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "zac@leonewman.co.uk",
+  "agent_phone": "07407 031 620 02"
  },
  {
   "listing_id": "128733527",
@@ -293,12 +497,54 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "replied",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/128733527",
   "agent": "Ambassador Property Services, Abridge",
   "price": "£1,600 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": "2026-10-14T16:29:00+01:00",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+    "enquiry": true,
+    "thread_id": "1a13c21698b023df"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-14T20:36:21Z",
+    "from": "tracey@ambassadorgroup.co.uk",
+    "text": "Hi,\nWhen are you available to view ?\nKind regards\nTracey Ramsay\nThe Coach House\nMarket Place\nAbridge\nEssex\nRM4 1UA\nTel: 020 8500 8855\nFax: 020 8500 8839\nhttp://www.ambassadorgroup.co.uk",
+    "enquiry": null,
+    "thread_id": "1a13c21698b023df"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-14T20:57:48Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "hello, would you mind sharing the floor plan, please?",
+    "enquiry": null,
+    "thread_id": "1a13c21698b023df"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-14T21:12:17Z",
+    "from": "tracey@ambassadorgroup.co.uk",
+    "text": "We don't have a floor plan but can have a video sent to you ?\nKind regards\nTracey Ramsay\nThe Coach House\nMarket Place\nAbridge\nEssex\nRM4 1UA\nTel: 020 8500 8855\nFax: 020 8500 8839\nhttp://www.ambassadorgroup.co.uk",
+    "enquiry": null,
+    "thread_id": "1a13c21698b023df"
+   }
+  ],
+  "thread_ids": [
+   "1a13c21698b023df"
+  ],
+  "mail_status": "replied",
+  "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+  "agent_email": "tracey@ambassadorgroup.co.uk",
+  "agent_phone": "020 8500 8855",
+  "agent_contact": "Tracey Ramsay"
  },
  {
   "listing_id": "94310331",
@@ -306,12 +552,35 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94310331",
   "agent": "Dexters, Muswell Hill",
   "price": "£1,750 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-14T15:58:05Z",
+    "from": "matteodanisi@dexters.co.uk",
+    "text": "Hello Maria,\nI hope all is well.\nAre you happy to do a video call on Friday?\nLet me know what time would suit you.\nAll the best,\nMatteo",
+    "enquiry": null,
+    "thread_id": "1a13b22cd63d401a"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-14T21:00:22Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "sure thing, I can do any time after 12:30.",
+    "enquiry": null,
+    "thread_id": "1a13b22cd63d401a"
+   }
+  ],
+  "thread_ids": [
+   "1a13b22cd63d401a"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "matteodanisi@dexters.co.uk"
  },
  {
   "listing_id": "93330687",
@@ -324,7 +593,31 @@
   "url": "https://www.rightmove.co.uk/properties/93330687",
   "agent": "OpenRent, London",
   "price": "£1,850 pcm",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-10T18:10:33Z",
+    "from": "moredetailsforviewingneeded-donotreply@openrent.co.uk",
+    "text": "Hey Maria,\nThanks for your enquiry about 1 Bed Flat, Old Kent Road, SE1 .\nBefore we can pass this on to the landlord, we just need you to confirm your details. Click below to review your enquiry and confirm:\nConfirm & Send to Landlord \n⏱️ Takes under a minute\n ℹ️ Your message won't be sent to the landlord until you confirm\nEnquiry DetailsProperty 1 Bed Flat, Old Kent Road, SE1 - £1,850 / month View Property → Property 1 Bed Flat, Old Kent Road, SE1 - £1,850 / month View Property → Name\nMaria S.\nEmail\ngowritemasha@gmail.com\nPhone Number\n34605227263\nMessage\nHello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company.\nMy husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of Oc...\nYou can still edit your message before you send it\nPlease Confirm now so your message reaches the landlord.\nKind Regards,\nThe OpenRent Team.",
+    "enquiry": null,
+    "thread_id": "1a12709a019d39dd"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-12T14:09:11Z",
+    "from": "arrangeviewingfollowup-donotreply@openrent.co.uk",
+    "text": "Hello Maria,\nWe've not heard back since you enquired about one of our landlord's properties, namely the 1 Bed Flat, Old Kent Road, SE1.\nIf you're no longer interested, please ignore this email. We won't contact you regarding this property again. If you're just not ready to book a viewing yet, no problem - save this email and come back to us later.\nTo explain if you missed our initial email, we need some more details from you to be able to process a viewing, or to pass your question onto a landlord.\nSo if you did still want to book a viewing or had a question for the landlord, please follow this link:\nBook Viewing \nAsk Question About Property \nReplies to this email will not go to the landlord.\nYou can see the full property details here:\n1 Bed Flat, Old Kent Road, SE1 \nIf you wanted to ask the landlord any questions about the property, you can also do so from the link above.\nGood luck in your search, and remember OpenRent helps tenants by not charging admin fees, and protecting tenant money. Learn more about why OpenRent is great for tenants .\nKind Regards,\nThe OpenRent Team",
+    "enquiry": null,
+    "thread_id": "1a130723995df8d6"
+   }
+  ],
+  "thread_ids": [
+   "1a130723995df8d6",
+   "1a12709a019d39dd"
+  ],
+  "mail_status": "awaiting reply",
+  "agent_email": "arrangeviewingfollowup-donotreply@openrent.co.uk"
  },
  {
   "listing_id": "93497595",
@@ -332,12 +625,29 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/93497595",
   "agent": "Dorrington, Walworth Village",
   "price": "£1,850 pcm",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-08T10:54:20Z",
+    "from": "Kevin.Ip@walworthvillage.co.uk",
+    "text": "Hi Maria\nThank you for your enquiry! The property is still available. For pets, we actually allow one per property but if your dog is a serviced dog then the landlord is happy to allow that.\nPlease let me know if you would like to book a viewing. We can arrange a viewing between 9:30am to 5pm Monday to Friday.\nThe contents of this email are subject to contract\nRegards\nKevin Ip\nLeasing Manager\nEmail: Kevin.Ip@WalworthVillage.co.uk\nTel: 07812 434 444",
+    "enquiry": null,
+    "thread_id": "1a11b266c477b1e7"
+   }
+  ],
+  "thread_ids": [
+   "1a11b266c477b1e7"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "Kevin.Ip@walworthvillage.co.uk",
+  "agent_phone": "07812 434 444",
+  "agent_contact": "Kevin Ip"
  },
  {
   "listing_id": "94136856",
@@ -363,7 +673,24 @@
   "url": "https://www.rightmove.co.uk/properties/93414906",
   "agent": "Chestertons, Hampstead",
   "price": "£1,850 pcm",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-12T09:23:58Z",
+    "from": "Tania.Katz@chestertons.co.uk",
+    "text": "Hi Maria\nThank you for enquiring about our 1 bedroom flat to rent on Worcester Mews, West Hampstead, NW6\nThis property has now been let\nPlease let me know your budget and I can see if we have anything else for you\nKind regards\nTania Katz\nAssociate\nLettings\ntania.katz@chestertons.co.uk\nDirect: +44 (0) 2038611403\nOffice: +44 (0) 20 7794 1125\nSearch for property to rent in Hampstead\n55 - 56 Hampstead High Street, Hampstead, London, NW3 1QH",
+    "enquiry": null,
+    "thread_id": "1a12f6d24c9b56c3"
+   }
+  ],
+  "thread_ids": [
+   "1a12f6d24c9b56c3"
+  ],
+  "mail_status": "let agreed",
+  "agent_email": "Tania.Katz@chestertons.co.uk",
+  "agent_phone": "+44 (0) 2038611403",
+  "agent_contact": "Tania Katz"
  },
  {
   "listing_id": "94137456",
@@ -376,7 +703,22 @@
   "url": "https://www.rightmove.co.uk/properties/94137456",
   "agent": "Emoov, Chelmsford",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-10T18:05:40Z",
+    "from": "lettings@emoov.co.uk",
+    "text": "hi Maria Surkova\nThank you for your enquiry about our rental properties. We are an online Estate Agent so you can view all our properties directly on our website as soon as they become available at https://emoov.co.uk\nIf you have any questions or need assistance, please don't hesitate to contact us.",
+    "enquiry": null,
+    "thread_id": "1a126fe03c8e7f48"
+   }
+  ],
+  "thread_ids": [
+   "1a126fe03c8e7f48"
+  ],
+  "mail_status": "awaiting reply",
+  "agent_email": "lettings@emoov.co.uk"
  },
  {
   "listing_id": "94160553",
@@ -384,12 +726,28 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "replied",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94160553",
   "agent": "haart, Dulwich - Lettings",
   "price": "£438 pw",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-13T16:25:51Z",
+    "from": "Etianne.Wilson@haart.co.uk",
+    "text": "Good afternoon,\nThank you for your time.\nAs discussed, to now proceed with your interest for the property please fill in the template below and send it back to me. Once I have received back the form, I will give you a call to go over the details.\nShould your interest be accepted, the holding deposit required to secure the property will be one week's rent, depending on the rental amount.\nOnce the landlord accepts your offer, we will notify you, and you will need to pay the holding deposit via our lettings portal before proceeding with referencing. You will receive an email with the link to make the payment.\n*Proposed Start Date:*\n*Number of Occupants (including under 18’s):*\n*Periodic tenancy rolling term, different please specify** length:*\n*Proposed Rental Amount: *\n*Additional Requirements:*\n*Pets?: *\n*Tenant 1*\nFull Name:\nCurrent address:\nStatus: (i.e. renting/homeowner/living friends or relatives)\nHow long have you been living at this address?\nContact Number:\nEmail Address:\nAge:\nOccupation and Company:\nAnnual Salary:\nHow long you have been working for the company:\nAre you on a permanent contract?\nIf you are self-employed can you supply at least one year of tax returns?\nAre you aware of any adverse credit history that may affect your referencing?\n*Tenant 2*\nFull Name:\nCurrent address:\nStatus: (i.e. renting/homeowner/living friends or relatives)\nHow long have you been living at this address?\nContact Number:\nEmail Address:\nAge:\nOccupation and Company:\nAnnual Salary:\nHow long you have been working for the company:\nAre you on a permanent contract?\nIf you are self-employed can you supply at least one year of tax returns?\nAre you aware of any adverse credit history that may affect your referencing?\n   Kind regards    Etianne Wilson Negotiator - haart - Dulwich (Lettings) Etianne.Wilson@haart.co.uk[](Etianne.Wilson@haart.co.uk) Office: 020 8693 7038 / Direct: 020 3795 4430  ------------------------------\n Follow us on  []     []     haart is a trading style of Spicerhaart Estate Agents Limited (Registered in England and Wales no. 04430726). This email and any files transmitted with it are convential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error please notify the system manager: servicedesk@spicerhaart.co.uk[](servicedesk@spicerhaart.co.uk) Spicerhaart Group Ltd. Registered Address: Colwyn House, Sheepen Place, Colchester, Essex, CO3 3LD Corporate Website: http://www.spicerhaart.",
+    "enquiry": null,
+    "thread_id": "1a13615aeabc8598"
+   }
+  ],
+  "thread_ids": [
+   "1a13615aeabc8598"
+  ],
+  "mail_status": "replied",
+  "agent_email": "Etianne.Wilson@haart.co.uk",
+  "agent_phone": "020 8693 7038"
  },
  {
   "listing_id": "94152048",
@@ -402,7 +760,41 @@
   "url": "https://www.rightmove.co.uk/properties/94152048",
   "agent": "CBRE Residential, New Developments",
   "price": "£450 pw",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": null,
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the end of October and am ready to move in straigh away, and am ready to make a deposit remotely. My WA is +34605227263. Household's combined yearly income exceed £180,000.",
+    "enquiry": true,
+    "thread_id": "1a130937de123cba"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-12T14:45:24Z",
+    "from": "James.Feltham@cbre.com",
+    "text": "Hello,\nThank you for your recent enquiry; I did try giving you a call.\nWe still have properties available in this development and my colleague India will be on-site all this week. What day/time are you free for a viewing?\nKind regards\nJames\nJames Feltham\nAssociate Director - Assistant Head of Build to Rent\nLiving – Residential Agency\nCBRE Advisory Services\nM +44 738 546 9872\njames.feltham@cbre.com  LinkedIn  Twitter\nFollow CBRE: CBRE.com  LinkedIn  Twitter  Instagram  Facebook  Weibo  WeChat",
+    "enquiry": null,
+    "thread_id": "1a130937de123cba"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-13T20:13:28Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hey! Unfortunately I'm still in Barcelona and can only do online viewings\nthis week.",
+    "enquiry": null,
+    "thread_id": "1a130937de123cba"
+   }
+  ],
+  "thread_ids": [
+   "1a130937de123cba"
+  ],
+  "mail_status": "replied",
+  "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the end of October and am ready to move in straigh away, and am ready to make a deposit remotely. My WA is +34605227263. Household's combined yearly income exceed £180,000.",
+  "agent_email": "James.Feltham@cbre.com",
+  "agent_phone": "+44 738 546 9872",
+  "agent_contact": "James"
  },
  {
   "listing_id": "150171911",
@@ -467,7 +859,33 @@
   "url": "https://www.rightmove.co.uk/properties/93947868",
   "agent": "Bennett & Hall, London",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": null,
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Our dog is a certified service dog (fully trained, not emotional support) and usually out with me. Both are well-behaved and no trouble for neighbors. Happy to chat about this flat or any other you have!",
+    "enquiry": true,
+    "thread_id": "1a11b3751f188ba3"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-08T11:12:47Z",
+    "from": "graham@bennett-hall.co.uk",
+    "text": "Thanks for your enquiry.\nHousehold income of at least £64,000pa plus good credit history required to pass referencing. Single person, couple (with one child max) or two sharers only. Subject to these points, access for viewing may be arranged. PLease note the property is not available to move in to until early December. Bills not included.\nPlease advise.\nKind regards,\nGraham Bettis\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nGraham Bettis FNAEA MARLA\nDirector\nBennett & Hall Estate Agency Ltd\n2 Long Lane, London, N3 2PT\nTel: 020 8346 2208 / Mobile: 07956 261748\ne-mail: graham@bennett-hall.co.uk\nwww.bennett-hall.co.uk\n [ロンドン-東京プロパティ] [ロンドン-東京プロパティ] [The Property Ombudsman]",
+    "enquiry": null,
+    "thread_id": "1a11b3751f188ba3"
+   }
+  ],
+  "thread_ids": [
+   "1a11b3751f188ba3"
+  ],
+  "mail_status": "replied",
+  "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Our dog is a certified service dog (fully trained, not emotional support) and usually out with me. Both are well-behaved and no trouble for neighbors. Happy to chat about this flat or any other you have!",
+  "agent_email": "graham@bennett-hall.co.uk",
+  "agent_phone": "020 8346 2208",
+  "agent_contact": "Graham Bettis"
  },
  {
   "listing_id": "92332098",
@@ -480,7 +898,32 @@
   "url": "https://www.rightmove.co.uk/properties/92332098",
   "agent": "LettingaProperty.com, Nationwide - Lettings",
   "price": "£1,800 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-07T21:49:39Z",
+    "from": "support@lettingaproperty.com",
+    "text": "Hi Maria,\n Your viewing request for St. Ann's Road, London, Greater London, N15 5RP has been sent to the landlord.\n The landlord will contact you directly to arrange a convenient time.\n The landlord will confirm within 24–48 hours . You'll receive an email as soon as they respond.\n What happens next? \n The landlord reviews your request and confirms or proposes an alternative time. \n You receive a confirmation email with the finalised slot. \n Attend your viewing — and if you'd like to apply, your details are already on file. \n Need a reference check? \n Most landlords require employment, previous tenancy, and credit references.\n Check your Experian score for free .\n Kind regards,\nLettingaproperty.com team\n Trusted by landlords & tenants in England, Scotland and Wales \n Something not quite right? Raise a concern and we'll look into it.\n PropMedia Ltd (t/a) LettingaProperty.com, 7 Ardent Court, William James Way, Henley-in-Arden, Warwickshire, B95 5GF. +44(0)333 577 8888. Co Reg: 6679146",
+    "enquiry": null,
+    "thread_id": "1a11857f77522bc1"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-08T10:36:56Z",
+    "from": "ryan@lettingaproperty.com",
+    "text": "Good morning,\nI hope you’re well,\nThank you for your viewing request on the above property, https://www.lettingaproperty.com/property/10092?_gl=111o81ow_gcl_auNjM1MDA1MjY0LjE3ODk1NTg5NDAuMjI3ODY3NzY1LjE3OTE0NTE4OTUuMTc5MTQ1NDQ4OS43MzU3ODAwMzcuMTc5MTQ0OTk3OS4xNzkxNDU0NDg5\nWe are conducting a viewing on this property on: 09/10/2026 @ 17:30\nPlease let me know if this is something you are able to attend.\nI look forward to hearing from you.\nKind regards,\n[X]\nRyan Daines\nTenancy Manager\n[LettingaProperty.com]\nDirect: (+44) 01564 492960\nSupport: (+44) 020 4552 1888\n[Calendar] Book a call in my diary\n[X]Chat on WhatsApp\n[Safeagent] [UKALA] \n[LinkedIn] [Facebook] [Instagram] [TikTok] \nKnow a landlord? Split £200 with them  Landlord Services  Feedback: How did I do?\nPropMedia Ltd Co Reg: 6679146 T/A LettingaProperty.com. 7 Ardent Court, William James Way, Henley in Arden, Warwickshire, B95 5GF  Vat: 938 118118  ICO: Z1913589  FSA Introducer Appointed Reps: 507148 / LARN1903038\nPropMedia Ltd Co Reg: 6679146 T/A LettingaProperty.com. Brook House, Birmingham Road, Henley in Arden, Warwickshire, B95 5QR Vat: 938 118118  ICO: Z1913589  FSA Introducer Appointed Reps: 507148",
+    "enquiry": null,
+    "thread_id": "1a11b167fe9e4c73"
+   }
+  ],
+  "thread_ids": [
+   "1a11b167fe9e4c73",
+   "1a11857f77522bc1"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "ryan@lettingaproperty.com",
+  "agent_phone": "+44) 01564 492960"
  },
  {
   "listing_id": "92113110",
@@ -488,12 +931,37 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/92113110",
   "agent": "Occu, Edenwood House",
   "price": "£2,200 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-08T08:43:05Z",
+    "from": "Erin@occu.ie",
+    "text": "Hi Maria,\nThank you for your enquiry for our brand new development here in Cricklewood.\nCould I kindly ask you to fill me in on the below so that I can be best placed to advise on availability and viewings:\n *\nRooms?\n *\nMax budget?\n *\nPreference in floor level, if any?\n *\nPreference in aspect, if any?\n *\nAny other preferences, if any?\nWe are onsite from Monday to Friday from 9am to 5:00pm holding viewings. If you remain interested, please let me know an ideal day and time for viewing and I can come back with suggested viewing slots.\nLooking forward to hearing back from you!\nBest regards,\nErin\n[Occu_SocialMedia_Profile_Instagram_Profile.png]\nErin Byrne\nLeasing Experience Manager, Leasing\n[icon] +353 (0)1 912 5550<tel:+35319125550> [icon] Erin@occu.ie\n[icon] www.occu.ie\n[icon] 35 Shelbourne Road, Ballsbridge, Dublin 4, D04 A4E0, Ireland\n[facebook]\n[linkedin]\n[twitter]\n[instagram]\n[appstore]\n[googleplay]\nLegal Status: This communication is subject to contract and does not constitute a binding commitment.\nWorking Hours: There is no expectation for you to respond to this message outside of your designated working hours.",
+    "enquiry": null,
+    "thread_id": "1a11aae77e3a6315"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-08T09:01:22Z",
+    "from": "edenwood-house.reply@mail.occu.ie",
+    "text": "[]         # We’ve received your enquiry       Hi Maria, Thanks for your enquiry about Edenwood House. We’ve received it and will be in touch shortly. If it helps, you can save our number in your contacts so you’ll recognise us when we call back and avoid any calls getting marked as spam. Our phone number is +44 203 996 9927. Kind regards, Occu Edenwood House Team                   This email has been sent to you by Occu Living (UK) Limited (\"Occu\"). For more information on how Occu handles your personal information, visit our website. Occu Living (UK) Limited is registered in England and Wales under company number 17003285. Registered address: 56 Leman Street, London, E1 8EU.         35 Shelbourne Road, D04 A4E0, Dublin 4   This email was sent to gowritemasha@gmail.com. To ensure you continue receiving our emails, please add us to your address book or safe list. You can opt out of email notifications from Occu Properties by clicking here[]. You can opt out of all email notifications from Occu Living Ltd by clicking here[].",
+    "enquiry": null,
+    "thread_id": "1a11abeedc6e3ac9"
+   }
+  ],
+  "thread_ids": [
+   "1a11aae77e3a6315",
+   "1a11abeedc6e3ac9"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "Erin@occu.ie",
+  "agent_contact": "Erin"
  },
  {
   "listing_id": "163036916",
@@ -553,12 +1021,54 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94033137",
   "agent": "OpenRent, London",
   "price": "£438 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-07T21:46:51Z",
+    "from": "viewing-request-confirmation@openrent.co.uk",
+    "text": "Hi Maria,\nThanks for stating your availability, we have now passed on your details to the landlord.\nCreate an account to keep things moving\n It only takes a few seconds, and then you'll be able to chat, arrange your viewing and more.\nCreate Account \nOnce you have created an account, you can follow up with the landlord directly using the messaging feature .\nLandlords usually reply within 48 hours. You're currently number 18 in the enquiry list for this property. Still no reply? Let us know and we'll chase it up for you. \nLooking for more places?\nThere are loads of great homes on OpenRent . Here are a few you might like:1 Bed Flat, Penzance Street, W11 \n1 Bed Flat, Penzance Street, W11 \n£2,600.00 / month 1 Bed Flat, Sinclair Road, W14 \n1 Bed Flat, Sinclair Road, W14 \n£2,000.00 / month 1 Bed Flat, Poynter House, W11 \n1 Bed Flat, Poynter House, W11 \n£1,850.00 / month1 Bed Flat, Penzance Street, W11 \n1 Bed Flat, Penzance Street, W11 \n£2,600.00 / month1 Bed Flat, Sinclair Road, W14 \n1 Bed Flat, Sinclair Road, W14 \n£2,000.00 / month1 Bed Flat, Poynter House, W11 \n1 Bed Flat, Poynter House, W11 \n£1,850.00 / monthBrowse more properties \nNeed help with renting?\nOur Tenant Guide covers everything from viewings to deposits, with simple tips to keep things safe and straightforward.\nThat includes basics like never handing over cash, always asking for ID before paying a holding deposit, and letting someone know where you're going - or even better, bringing a friend.\nHope you hear back soon - and thanks for using OpenRent.\nThe OpenRent Team.",
+    "enquiry": null,
+    "thread_id": "1a1185562645e8ba"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-08T06:50:27Z",
+    "from": "property360b3e4f93514047ba876d4bbb53a836@user.openrent.com",
+    "text": "[]            Hi, you have a new message from Randy! 1 Bed Flat, Holland Park Gardens, W14 [] - Ref# 3065685                  HI, Thanks for your interest. As the flat is available from 14th October, I am looking for someone, who a move in that day. Please confirm your exact move in date. Thanks, Randy                View Message & Reply[]        View All My Enquiries[]     You can reply to this email to respond directly to Randy.       Want to book a viewing? To book a viewing, or to secure this property with Rent Now, check it out on OpenRent here[]. How do I respond? If you reply to this message, we will send that to the landlord directly on your behalf. Message contents will be forwarded as sent (so remove any sensitive data), and we will mask your email address. Something unusual? If you notice anything unusual about this listing, please report it to our team by clicking here[].         Follow OpenRent      []   []   []    Community[]  Blog[]  Help Centre[]   E-mail: info@openrent.co.uk[](info@openrent.co.uk) URL: https://www.openrent.co.uk/[] Our mailing address is: OpenRent Ltd, 20 Wenlock Road, London, N1 7GU        Copyright © 2012-2026 OpenRent. OpenRent is making renting safer, faster and cheaper for both landlords[] and tenants[]. Click to unsubscribe[]",
+    "enquiry": null,
+    "thread_id": "1a11a4711f4776ec"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-11T09:14:36Z",
+    "from": "info@openrent.co.uk",
+    "text": "Hi,\nYou have unread messages from landlords on OpenRent.\nView message \nAre OpenRent emails in your spam/junk folder?\n If you missed emails from us because they're in your spam folder, then please now go to your spam/junk folder and mark as \"not spam\". This trains your email provider to deliver future messages correctly.\nYou can also add our email domains as a safe sender. Please go here for guidance on how to do that.\nKind Regards,\nThe OpenRent Team",
+    "enquiry": null,
+    "thread_id": "1a12a3e21f7d0ec9"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-12T15:11:18Z",
+    "from": "nextstepsrentnow-donotreply@openrent.co.uk",
+    "text": "Hi,\nWe can see you requested to view our 1 Bed Flat, Holland Park Gardens, W14 around 4 days ago.\n1 Bed Flat, Holland Park Gardens, W14 \nWe wanted to let you know about the next steps if you would like to apply for the property using Rent Now :\nSubmit an application: if you are interested in proceeding, you can place a holding deposit by clicking \"Rent This Property Now\" belowReferencing: the landlord may wish to conduct referencing, which will include providing proof of income / finance, a credit check, personal details and an ID checkSecure the property: if your application is successful, we'll guide you through the process of signing the tenancy agreement; the tenancy deposit and initial rent will also be required at this stageRent This Property Now \nWe'll never call you with different bank details\n We only take payment through our website, or into the bank details shown in your OpenRent account. If someone calls asking you to pay a different account, it isn't us.\nHaven't heard from the landlord? Get in touch here:\nMessage This Landlord \nYou can keep searching for other properties, and set up search alerts here:\nFind Other Properties \nKind Regards,\nThe OpenRent Team\nWhy use Rent Now?\nSecurity: all money will be securely handled by OpenRent, the UK's largest agent, and your holding deposit will be refunded immediately if the landlord declines your applicationSpeed and flexibility: the whole process can be managed online 24/7, with our team chasing the landlord at each step, saving you time and effortFair, transparent and free: Rent Now is designed to protect the interests of tenants throughout the process, with no admin fees or hidden chargesPeace of mind: OpenRent has let more properties than any other agency in the UK since 2015, and Rent Now is the safest way to proceed, protecting you from potential scamsIf you'd like to learn more about Rent Now and why tenants love OpenRent, see our OpenRent Tenant Guide .",
+    "enquiry": null,
+    "thread_id": "1a130ab0f80e65a4"
+   }
+  ],
+  "thread_ids": [
+   "1a130ab0f80e65a4",
+   "1a12a3e21f7d0ec9",
+   "1a11a4711f4776ec",
+   "1a1185562645e8ba"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "nextstepsrentnow-donotreply@openrent.co.uk"
  },
  {
   "listing_id": "94032756",
@@ -584,7 +1094,22 @@
   "url": "https://www.rightmove.co.uk/properties/93339423",
   "agent": "OpenRent, London",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-12T13:42:44Z",
+    "from": "propertyunderoffer-donotreply@openrent.co.uk",
+    "text": "Hi Maria,\nFollowing your enquiry about our 1 Bed Flat, Highgate Road, NW5, we wanted to inform you that the landlord has accepted a deposit on the property and it is now under offer. As such, it will no longer be available for viewings.\nIn case the landlord re-markets this property, you can see the property status here:\nView Property Status \nIf you are still searching, all of our available properties in the same area can be seen here:\nView Properties in the Same Area \nIn order to see some of the benefits of using OpenRent as a tenant, please take a look at our tenant guide: https://www.openrent.co.uk/tenants.\nWe're aiming to make renting safer, faster and cheaper!\nKind Regards,\nThe OpenRent Team.",
+    "enquiry": null,
+    "thread_id": "1a13059f75c57f86"
+   }
+  ],
+  "thread_ids": [
+   "1a13059f75c57f86"
+  ],
+  "mail_status": "let agreed",
+  "agent_email": "propertyunderoffer-donotreply@openrent.co.uk"
  },
  {
   "listing_id": "94044120",
@@ -618,12 +1143,37 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94045110",
   "agent": "Portico, Hammersmith",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-13T09:57:47Z",
+    "from": "e.heard@portico.com",
+    "text": "[Portico] \nPROPERTY SEARCH\nCONTACT US\nAppointment\nDear Surkova,\nFollowing our recent discussions we are pleased to confirm we have arranged for you to view 22 Cromwell Avenue, London, W6 9LA- on 14th October 2026 at 5:30PM, we will meet you at the Property.\nShould you wish to rearrange please contact us prior to the viewing.\nKind regards,\nEmma Heard\n02087483630\nFOLLOW US ON SOCIAL MEDIA\nportico.com\nIf you no longer wish to receive emails from Portico, please click here to unsubscribe.\nEmma Heard\nTrainee Lettings Consultant\n178 King Street\nHammersmith\nW6 0RA\n0208 768 6374 EXT 24346\nportico.com\nOur bank details will not change during the course of a transaction. If you receive a notification which advises a change in our bank account details or asking for a one-off payment to be paid direct to an account (not through our payment portal), it may be fraudulent and you should contact Portico who will advise you accordingly.\n We are Carbon Neutral and committed to reducing our environmental impact. We've achieved carbon neutrality for our core Scope 1 and Scope 2 emissions, and we're continuing to reduce emissions across every part of our business as we work towards our wider sustainability ambitions for 2030\n Correspondence Address: Building 1, Meadows Business Park, Blackwater, Camberley GU17 9AB. Registered Address: Building 1, Meadows Business Park, Blackwater, Camberley GU17 9AB. Registered in England and Wales 04971609. At Portico Property Ltd we take your data privacy seriously and invite you to view our privacy notice. The information in this email is confidential and intended for the sole use of the addressee. Portico Property Ltd accept no legal responsibility for the content of the message, the contents or opinions contained within this e-mail are solely those of the sender and do not necessarily represent those of Portico Property Ltd or its subsidiaries unless otherwise specifically stated. If you have received this message in error please return it to the sender. Portico Property Ltd may monitor the content of email sent and received via its network for the purposes of ensuring compliance with its policies and procedures. We advise you to carry out your own virus check before opening any attachment as we cannot accept liability for any damage sustained as a result of any software viruses.",
+    "enquiry": null,
+    "thread_id": "1a134b287f5f1ee4"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-14T14:25:44Z",
+    "from": "e.heard@portico.com",
+    "text": "Hi,\nThank you for coming to the viewings.\nPlease find attached the offer form. If you wish to make an offer, kindly complete the form and return it to me once finished.\nI’ve also attached some information regarding Bode contents insurance. Please include your Bode quote when sending your completed offer form — this can be obtained via Tenant Insurance\nIf you encounter any issues on the way to the viewing, feel free to call or WhatsApp me on ( 07706413127 ).\nProperty Details:\n * Address: flat 22 Cromwell Avenue- W6 9LA\n * Available date: 29/11/26\n * Rent: £2000pm\nPlease let me know if you have any questions.\nBelow I have attached the offer form,if you wish to send an offer. Please fill out the below.\nPlease kindly read and confirm the details below to ensure nothing has been missed. Please also write a bit about yourself so the landlord gets an idea of who you are.\nOnce we have your confirmation we will proceed to contact the Landlord with your offer details:\nTENANT DETAILS\nTenant 1:\nName (as appears on Passport): please confirm\nPhone: please confirm\nEmail: please confirm\nDate of Birth: please confirm\nCompany: please confirm\nJob Title: please confirm\nLength of Service: please confirm\nSalary: please confirm\nVisa Expiry Date (if applicable): please confirm\nIf Visa is required, please provide Government Right to Rent Share Code (click here): please confirm\nCurrent Address: please confirm\nTime at Address: please confirm\nDo You have Tenant Contents Insurance: please confirm, if not please follow this link https://bodeinsurancesolutions.co.uk/tenants-insurance/ and for more information click here. We will attach the quote alongside the offer to your landlord.\nReason for move: please confirm\nTenant 2:\nName (as appears on Passport): please confirm\nPhone: please confirm\nEmail: please confirm\nDate of Birth: please confirm\nCompany: please confirm\nJob Title: please confirm\nLength of Service: please confirm\nSalary: please confirm\nVisa Expiry Date (if applicable): please confirm\nIf Visa is required, please provide Government Right to Rent Share Code (click here): please confirm\nCurrent Address: please confirm\nTime at Address: please confirm\nDo You have Tenant Contents Insurance: please confirm, if not please follow this link https://bodeinsurancesolutions.co.uk/tenants-insurance/ and for more information click here. We will attach the quote alongside the offer to your landlord.\nReason for move: please confirm\nGUARANTOR DETAILS (if required)\nName (as appears on Passport):",
+    "enquiry": null,
+    "thread_id": "1a13ace488ec9f82"
+   }
+  ],
+  "thread_ids": [
+   "1a13ace488ec9f82",
+   "1a134b287f5f1ee4"
+  ],
+  "mail_status": "viewing booked",
+  "agent_email": "e.heard@portico.com",
+  "agent_phone": "07706413127"
  },
  {
   "listing_id": "93535440",
@@ -644,12 +1194,28 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "viewing proposed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94047639",
   "agent": "Dutch & Dutch, West Hampstead",
   "price": "£438 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-08T07:19:33Z",
+    "from": "MHeath@dutchanddutch.com",
+    "text": "Dear Maria\nThank you for your enquiry regarding the below property. Please advise when you are next free to view\nhttps://www.rightmove.co.uk/properties/94047639#/?channel=RES_LET\nTo make sure the property will be suitable for you and for any other properties that could be of interest, can you please confirm the below details:\n * Who the property is for -\n * When you are looking/can move -\n * Price range you are looking up to –\n * Minimum bedrooms required -\n * Any furniture requirements -\n * Areas you are looking in -\n * Any pets -\n * Any specific requirements -\nI look forward to hearing back from you.\nKind Regards\nMax Heath\nSenior Residential Negotiator\nDDI: 020 8159 3002<tel:020%208159%203002>\n  M: 0747 089 1352\nE: MHeath@dutchanddutch.com\n  W: www.dutchanddutch.com\nA: 174 West End Lane\n,\nLondon\n,\nNW6 1SW\nDutch & Dutch (Commercial) Limited registered in England, Reg No: 05712153",
+    "enquiry": null,
+    "thread_id": "1a11a61daa824867"
+   }
+  ],
+  "thread_ids": [
+   "1a11a61daa824867"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "MHeath@dutchanddutch.com",
+  "agent_phone": "020 8159 3002"
  },
  {
   "listing_id": "94049103",
@@ -657,12 +1223,29 @@
   "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "awaiting reply",
+  "status": "replied",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94049103",
   "agent": "Barnard Marcus Lettings, Tottenham",
   "price": "£2,250 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-08T08:10:27Z",
+    "from": "Tiana.Nwachukwu@barnardmarcus.co.uk",
+    "text": "Good morning,\nThank you for your recent enquiry regarding one of our properties. We are unable to contact you as the phone number provided is an overseas line. We would like to ensure you receive the information you need.\nPlease contact our office on 0203 053 3306 and ask for Tiana, who will be happy to assist you further and discuss your requirements in detail.\nWe look forward to hearing from you and helping you find the right property.\nRegards,\nTiana Nwachukwu\nTrainee Negotiator\n543 High Road, Tottenham, London, N17 6SB\nT 0203 053 3306\n[email image] [web image] \n[barcode image]\nIf this email is received at a pre contract or tenancy renewal stage,\nits contents are 'Subject to Contract'\nFor your peace of mind, we are members of the Property Ombudsman\nand the Association of Residential Letting Agents\n[Warning]\nCybercrime Warning: Please be aware that there is a risk posed by cyber fraud, specifically affecting emails containing bank account details. If you receive an unexpected email from us informing of changes to bank details, please get in touch with your contact immediately to clarify. Note that our bank details WILL NOT change during the course of a transaction. We cannot accept responsibility if you transfer money into an incorrect account.\nDisclaimer:",
+    "enquiry": null,
+    "thread_id": "1a11a9066f3f6d39"
+   }
+  ],
+  "thread_ids": [
+   "1a11a9066f3f6d39"
+  ],
+  "mail_status": "replied",
+  "agent_email": "Tiana.Nwachukwu@barnardmarcus.co.uk",
+  "agent_phone": "0203 053 3306",
+  "agent_contact": "Tiana Nwachukwu"
  },
  {
   "listing_id": "94047345",
@@ -675,7 +1258,24 @@
   "url": "https://www.rightmove.co.uk/properties/94047345",
   "agent": "Chase Evans, Canary Wharf",
   "price": "£2,050 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-08T08:30:48Z",
+    "from": "ulsi.hajdari@chaseevans.com",
+    "text": "Hi Maria,\nI hope this finds you well.\nI have received your enquiry regarding the apartment below:\n1 bedroom flat for rent in Banbury Point, 1 Cording Street, Poplar, London, E14\nWould you be interested in arranging a viewing? Please let me know your availability.\nBefore arranging the viewing, could you please provide the following details so I can better understand your requirements:\nPreferred move-in date\nLength of tenancy\nFurnished or unfurnished\nAreas you would consider\nNumber of bedrooms required\nMaximum budget (please specify whether this is with or without bills)\nNumber of occupants and their professions\nEmployment status (full-time employment or student)\nIf a student, are you able to provide a UK guarantor/Pay company to act your guarantor?\nTotal annual income\nParking requirements\nPets (if any)\nPlease feel free to call me on 07753 425821 if you would like to discuss your property search.\nI look forward to hearing from you.\nKind regards,\nUlsi\nUlsi Hajdari\nLettings Negotiator\nT:+44 7753 425821Ext:7110\nM: +44 (0)7753 425821\nE:ulsi.hajdari@chaseevans.com\nChase Evans Residential Limited is registered in London. Registered office address: 70 St. Mary Axe, London, EC3A 8BE. Registered company number: 03664031. VAT Number: 769 9784 34. Part of Lomond, a group of leading Lettings and Sales Agents across the UK.Privacy and Confidentiality Notice: This email is confidential and intended solely for the use of the individual to whom it is addressed. Any views or opinions presented are solely those of the author and do not necessarily represent those of Lomond. If you are not the intended recipient, be advised that you have received this email in error and that any use, dissemination, forwarding, printing, or copying of this email is strictly prohibited. If you have received this email in error please contact the sender. Finally, the recipient should check this email and any attachments for the presence of viruses. The company accepts no liability for any damage caused by any virus transmitted by this email.",
+    "enquiry": null,
+    "thread_id": "1a11aa317b0ca383"
+   }
+  ],
+  "thread_ids": [
+   "1a11aa317b0ca383"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "ulsi.hajdari@chaseevans.com",
+  "agent_phone": "07753 425821",
+  "agent_contact": "Ulsi"
  },
  {
   "listing_id": "93983106",
@@ -688,7 +1288,23 @@
   "url": "https://www.rightmove.co.uk/properties/93983106",
   "agent": "Chestertons, Islington",
   "price": "£2,100 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-07T19:03:19Z",
+    "from": "matches@chestertons.co.uk",
+    "text": "St Thomas's Road,\nIslington, N4 \n This spacious one/two bedroom apartment is situated on the ground floor within this impressive period conversion. \n £485 pw £2,100 pcm 1 bedroom\n Dear Maria, \nWe are pleased to confirm your enquiry has been sent to our\n Islington branch.\nEither I or one of my team will be in touch shortly. To book a viewing of this property, please do call the branch on\n +44 (0)20 7226 4221. \nThe details we have on file are:\nemail:\n gowritemasha@gmail.com \ntel:\n +34 (605) 227 2633 \nThank you again for your enquiry and I look forward to speaking with you soon.\nYours sincerely,\nDavid Manning\nlettings.islington.enquiries@chestertons.co.uk\n Office: +44 (0)20 7226 4221\n 327-329 Upper Street,\nIslington,\nLondon, N1 2XQ\nSimilar properties nearby\nAlexandra Grove\nLET AGREED\nTiltman Place\nLET AGREED\nAshburton Triangle\nTO LET\n Chestertons © 2026 \n Registered address: 5th Floor, The Lantern, 75 Hampstead Road, London, NW1 2PL",
+    "enquiry": null,
+    "thread_id": "1a117bfab612815f"
+   }
+  ],
+  "thread_ids": [
+   "1a117bfab612815f"
+  ],
+  "mail_status": "awaiting reply",
+  "agent_email": "matches@chestertons.co.uk",
+  "agent_phone": "+44 (0)20 7226 4221"
  },
  {
   "listing_id": "94022025",
@@ -727,7 +1343,57 @@
   "url": "https://www.rightmove.co.uk/properties/93958821",
   "agent": "Flagstones Property Group, London",
   "price": "£2,200 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-07T18:02:04Z",
+    "from": "info@flagstonespg.co.uk",
+    "text": "Dear Maria Surkova\nThank you for your interest in our services. We will respond to your enquiry as quickly as we can.\nFlagstones Property Group\n14 Havelock Place, Harrow\nLondon\nHA1 1LJ",
+    "enquiry": null,
+    "thread_id": "1a11787969aa2977"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-07T18:03:28Z",
+    "from": "info@flagstonespg.co.uk",
+    "text": "Dear Maria Surkova\nThank you for your interest in our services. We will respond to your enquiry as quickly as we can.\nFlagstones Property Group\n14 Havelock Place, Harrow\nLondon\nHA1 1LJ",
+    "enquiry": null,
+    "thread_id": "1a11787969aa2977"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-07T18:43:46Z",
+    "from": "info@flagstonespg.co.uk",
+    "text": "Dear Maria Surkova\nThank you for your interest in our services. We will respond to your enquiry as quickly as we can.\nFlagstones Property Group\n14 Havelock Place, Harrow\nLondon\nHA1 1LJ",
+    "enquiry": null,
+    "thread_id": "1a11787969aa2977"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-08T08:20:56Z",
+    "from": "luke@flagstonespg.co.uk",
+    "text": "[]       14 Havelock Place Harrow HA1 1LJ 020 8488 6296         Hi, Thanks for your interest in the property. To book a viewing, please reply with:* Move-in date: * Number of tenants:* Number of bedrooms: (Studio / 1 Bed / 2 Bed..)* Employment status:(employed / self‑employed / student, etc.)* Combined annual household income:* Maximum budget:* Furnished or Unfurnished: If you'd like us to suggest similar properties, let us know your preferred areas, and any requirements (pets, parking, etc.). Thanks!             luke@flagstonespg.co.uk[](luke@flagstonespg.co.uk) Lettings       Rightmove []     []  []         Important Notice: This email contains confidential information intended exclusively for the designated recipient. Unauthorised sharing of any or part of this message with a third party is strictly prohibited without prior written consent from Flagstones Property Group Ltd. If you have received this email in error, please respond to this message and promptly delete it to avoid any inadvertent occurrences in the future. Flagstones Property Group Ltd is a private limited company registered in England & Wales with registration number 13977075. The personal data you have provided in your inquiry will be used exclusively for the purpose of your request. For further information on data processing and data protection, please refer to our Privacy Notice[].  You have been contacted because you have registered with us. Please use the *manage your preferences link[]* to control how we contact you.",
+    "enquiry": null,
+    "thread_id": "1a11a99ebccb61ee"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-13T15:32:47Z",
+    "from": "mouad@flagstonespg.co.uk",
+    "text": "[]       14 Havelock Place Harrow HA1 1LJ 020 8488 6296         Hi, Thanks for your interest in the property. To book a viewing, please reply with:* Move-in date: * Number of tenants:* Number of bedrooms: (Studio / 1 Bed / 2 Bed..)* Employment status:(employed / self‑employed / student, etc.)* Combined annual household income:* Maximum budget:* Furnished or Unfurnished: If you'd like us to suggest similar properties, let us know your preferred areas, and any requirements (pets, parking, etc.). Thanks!             mouad@flagstonespg.co.uk[](mouad@flagstonespg.co.uk) Lettings       Rightmove []     []  []         Important Notice: This email contains confidential information intended exclusively for the designated recipient. Unauthorised sharing of any or part of this message with a third party is strictly prohibited without prior written consent from Flagstones Property Group Ltd. If you have received this email in error, please respond to this message and promptly delete it to avoid any inadvertent occurrences in the future. Flagstones Property Group Ltd is a private limited company registered in England & Wales with registration number 13977075. The personal data you have provided in your inquiry will be used exclusively for the purpose of your request. For further information on data processing and data protection, please refer to our Privacy Notice[].  You have been contacted because you have registered with us. Please use the *manage your preferences link[]* to control how we contact you.",
+    "enquiry": null,
+    "thread_id": "1a135e5140e08648"
+   }
+  ],
+  "thread_ids": [
+   "1a135e5140e08648",
+   "1a11a99ebccb61ee",
+   "1a11787969aa2977"
+  ],
+  "mail_status": "viewing proposed",
+  "agent_email": "mouad@flagstonespg.co.uk",
+  "agent_phone": "020 8488 6296"
  },
  {
   "listing_id": "92893338",
@@ -750,5 +1416,74 @@
   "status": "sent",
   "source": "assistant",
   "agent": "Foxtons, Crouch End"
+ },
+ {
+  "listing_id": "chestertons-22214363",
+  "title": "UNCLE Wembley, 3 Park Lane, Wembley HA9 7RH",
+  "agent": "Chestertons Key Clients (Build to Rent)",
+  "url": "https://www.chestertons.co.uk/properties/22214363/lettings",
+  "channel": "chestertons",
+  "price": "£1,800 pcm",
+  "sent_at": "2026-10-14T08:20:57Z",
+  "status": "viewing",
+  "source": "masha",
+  "thread": [
+   {
+    "dir": "agent",
+    "date": "2026-10-13T20:18:26Z",
+    "from": "leads@homeflow.co.uk",
+    "text": "Thank you for your Chestertons enquiry & gowritemasha@gmail.com\n       []       Hello Maria, Thank you for your enquiry. We will be in touch with you shortly. In the meantime, details of the property and others you may be interested in are shown below.     ### Garden Boulevard, Maidenhead, Berkshire, SL6 []   Asking rent £1600 pcm   1 bed   To let  Chestertons, in partnership with Get Living, presents One Maidenhead-a premium rental development blending countryside charm with excellent city connectivity.\n   View property []   ## Contact Us      ### Key Clients 47 South Audley Street Mayfair London W1K 2QA 020 7182 1412 [](020%207182%201412)   ## Similar properties matching your search   []   #### Garden Boulevard, Maidenhead, Berkshire, SL6 []   £1,620 pcm  1 bed  Chestertons, in partnership with Get Living, presents One Maidenhead-a premium rental development blending countryside charm wi...\n []   #### Garden Boulevard, Maidenhead, Berkshire, SL6 []   £1,620 pcm  1 bed  Chestertons, in partnership with Get Living, presents One Maidenhead-a premium rental development blending countryside charm wi...\n   To unsubscribe from our marketing communications, please reply with 'unsubscribe'. View our Privacy Notice[] to find out more about what information we collect and how we use it. Having trouble viewing this email? View in your browser[].  Name: Maria; Address: ; Email: gowritemasha@gmail.com; Phone: +34605227263; Requirements; Has a property to sell: False; Has a property to let: False; Wants more details on this property: False; PropDescription: Chestertons, in partnership with Get Living, presents One Maidenhead-a premium rental development blending countryside charm with excellent city connectivity.; PropAddress: Garden Boulevard, Maidenhead, Berkshire, SL6; PropPrice: Asking rent £1600 pcm; SearchCriteria: Unknown; Comments: Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company.My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November.We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details.We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the beginning of November and am ready to move in straight away, and am ready to make a deposit remotely. We really like this flat, especially",
+    "enquiry": null,
+    "thread_id": "1a136ea9927176f8"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-13T20:20:34Z",
+    "from": "leads@homeflow.co.uk",
+    "text": "Thank you for your Chestertons enquiry & gowritemasha@gmail.com\n       []       Hello Maria, Thank you for your enquiry. We will be in touch with you shortly. In the meantime, details of the property and others you may be interested in are shown below.     ### Park Lane, Wembley, Middlesex, HA9 []   Asking rent £1800 pcm   1 bed   To let  Chestertons is pleased to present an exceptional selection of unfurnished and furnished 1-bedroom apartments at UNCLE Wembley, a beautifully crafted development situated in the vibrant heart of Wem...\n   View property []   ## Contact Us      ### Key Clients 47 South Audley Street Mayfair London W1K 2QA 020 7182 1412 [](020%207182%201412)   ## Similar properties matching your search   []   #### Everdene Path, London, W3 []   £2,250 pcm  1 bed  Situated within a modern new development in Acton, this stylish one-bedroom apartment offers contemporary living with an open-p...\n []   #### Everdene Path, London, W3 []   £2,250 pcm  1 bed  Situated within a modern new development in Acton, this stylish one-bedroom apartment offers contemporary living with an open-p...\n []   #### Artisan Point, 136 Victoria Road, London, W3 []   £2,200 pcm  1 bed  Chestertons is thrilled to offer this selection of interior designed and curated one, two, and three-bedroom apartments in this...\n []   #### Masson House, Pump House Crescent, Brentford, TW8 []   £2,000 pcm  1 bed  A brand new and high specification apartment set within a sought after development situated close to Kew Bridge mainline statio...\n []   #### Kew Bridge Road, Brentford, London, UK, TW8 []   £2,000 pcm  1 bed  Wonderfully situated close to both the Chiswick High Road and Kew Village, with lots of open green spaces nearby, Kew Bridge Ro...\n   To unsubscribe from our marketing communications, please reply with 'unsubscribe'. View our Privacy Notice[] to find out more about what information we collect and how we use it. Having trouble viewing this email? View in your browser[].  Name: Maria; Address: ; Email: gowritemasha@gmail.com; Phone: +34605227263; Requirements; Has a property to sell: False; Has a property to let: False; Wants more details on this property: False; PropDescription: Chestertons is pleased to present an exceptional selection of unfurnished and furnished 1-bedroom apartments at UNCLE Wembley, a beautifully crafted development situated in the vibrant heart of Wembley, only minutes away from tube and overground.; PropAddress: Park Lane, Wembley, Middlesex, HA9; P",
+    "enquiry": null,
+    "thread_id": "1a136ea9927176f8"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-13T20:25:58Z",
+    "from": "leads@homeflow.co.uk",
+    "text": "Thank you for your Chestertons enquiry & gowritemasha@gmail.com\n       []       Hello Maria, Thank you for your enquiry. We will be in touch with you shortly. In the meantime, details of the property and others you may be interested in are shown below.     ### Buckingham House, Desborough Road, High Wycombe, Buckinghamshire, HP11 []   Asking rent £1650 pcm   1 bed   To let  A selection of stunning 1 bedroom apartments, gorgeous furniture, stylish décor, private balconies, 24 hour customer service, on-site concierge and super-fast broadband included. Pet friendly. Park...\n   View property []   ## Contact Us      ### Key Clients 47 South Audley Street Mayfair London W1K 2QA 020 7182 1412 [](020%207182%201412)    Anshul Raja [] Head of Key Clients     ## Similar properties matching your search   []   #### Buckingham House, Desborough Road, High Wycombe, Buckinghamshire, HP11 []   £1,650 pcm  1 bed  A selection of stunning of 1 & 2 bedroom apartments, gorgeous furniture, stylish décor, private balconies, 24 hour customer ser...\n   To unsubscribe from our marketing communications, please reply with 'unsubscribe'. View our Privacy Notice[] to find out more about what information we collect and how we use it. Having trouble viewing this email? View in your browser[].  Name: Maria; Address: ; Email: gowritemasha@gmail.com; Phone: +34605227263; Requirements; Has a property to sell: False; Has a property to let: False; Wants more details on this property: False; PropDescription: A selection of stunning 1 bedroom apartments, gorgeous furniture, stylish décor, private balconies, 24 hour customer service, on-site concierge and super-fast broadband included. Pet friendly. Parking available by separate negotiation.; PropAddress: Buckingham House, Desborough Road, High Wycombe, Buckinghamshire, HP11; PropPrice: Asking rent £1650 pcm; SearchCriteria: Unknown; Comments: Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company.My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November.We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details.We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London from the end of October and can move in straight away; I can also make a deposit remotely. We are open to other similar options up",
+    "enquiry": null,
+    "thread_id": "1a136ea9927176f8"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-14T08:20:57Z",
+    "from": "francesco.caiati@chestertons.co.uk",
+    "text": "[London's Estate Agent]\nDear Ms Surkova,\nPlease find below the details of your forthcoming viewing.",
+    "enquiry": null,
+    "thread_id": "1a139804d4cce33f"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-14T12:33:43Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hey! Will we have a viewing through WhatsApp, or will you send a link to me\nhere?",
+    "enquiry": null,
+    "thread_id": "1a139804d4cce33f"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-14T15:56:45Z",
+    "from": "francesco.caiati@chestertons.co.uk",
+    "text": "Hi Maria,\nPlease find attached the reservation form.\nCould you kindly complete all sections at your earliest convenience?\nKind Regards,\nFrancesco Caiati\nLettings Negotiator - Build to Rent\nKey Clients\nDirect: +44 (0) 20 7182 1435\nOffice: +44 (0) 20 7182 1435\nMobile: +44 (0) 788 9928 843\nfrancesco.caiati@chestertons.co.uk\nchestertons.co.uk\n47 South Audley Street, Mayfair, London, W1K 2QA",
+    "enquiry": null,
+    "thread_id": "1a13b2175c6b9f21"
+   }
+  ],
+  "thread_ids": [
+   "1a13b2175c6b9f21",
+   "1a139804d4cce33f",
+   "1a136ea9927176f8"
+  ],
+  "mail_status": "viewing booked",
+  "agent_email": "francesco.caiati@chestertons.co.uk",
+  "agent_phone": "+44 (0) 20 7182 1435"
  }
 ]
