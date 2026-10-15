@@ -1,5 +1,54 @@
 [
  {
+  "id": "94366500",
+  "title": "Salton Square, E14 — 1-bed modern",
+  "area": "Limehouse, E14",
+  "price": 1950,
+  "size": "56 m² (566–600 sq ft)",
+  "floor": "4th floor",
+  "furnished": "Furnished",
+  "available": "2026-12-01",
+  "commute": "~25–30 min via DLR Limehouse→Bank + Northern to Warren Street",
+  "pets": "Not mentioned (OK)",
+  "url": "https://www.rightmove.co.uk/properties/94366500",
+  "photos": [
+   "photos/94366500_0.jpg",
+   "photos/94366500_1.jpg",
+   "photos/94366500_2.jpg",
+   "photos/94366500_3.jpg",
+   "photos/94366500_4.jpg"
+  ],
+  "status": "new",
+  "notes": "Modern development near Limehouse Basin, bright corner-ish unit, integrated kitchen. Available 1 Dec (a bit after mid-Nov). Furniture is contemporary but bold colours.",
+  "hood": "Crime (Mile End), also painted Rich/Tourists; nearby tags: \"Gandalf's Pub\", \"boaty mcboatface\", \"Swans cartel\", \"yauchts\".",
+  "date_found": "2026-10-15"
+ },
+ {
+  "id": "93448431",
+  "title": "Minster Road, NW2 — 2-bed split-level",
+  "area": "Kilburn / Cricklewood, NW2",
+  "price": 2000,
+  "size": "55 m² (594 sq ft)",
+  "floor": "Split-level: raised ground living + lower-ground bedrooms",
+  "furnished": "Part furnished",
+  "available": "",
+  "commute": "~20–25 min via Jubilee from Kilburn to Regent's Place",
+  "pets": "Not mentioned (OK)",
+  "url": "https://www.rightmove.co.uk/properties/93448431",
+  "photos": [
+   "photos/93448431_0.jpg",
+   "photos/93448431_1.jpg",
+   "photos/93448431_2.jpg",
+   "photos/93448431_3.jpg",
+   "photos/93448431_4.jpg",
+   "photos/93448431_5.jpg"
+  ],
+  "status": "new",
+  "notes": "Bright modern 2-bed/2-bath near The Maple area. Open-plan living with bay window. Bedrooms on lower ground with bay/high windows (not a lightwell) — check light/privacy in person. Availability ask agent.",
+  "hood": "Normies (Fortune Green); nearby tags: \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\", \"gaaaaaaaaaaaaay\".",
+  "date_found": "2026-10-15"
+ },
+ {
   "id": "94340205",
   "title": "Wapping Lane — modern 1-bed with balcony",
   "area": "Wapping, E1W",
