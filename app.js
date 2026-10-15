@@ -96,21 +96,23 @@ function nextBox(e){const n=e.next;if(!n||n.who==='none')return n&&n.text?`<div 
  if(acts.length)h+=`<div class="acts">${acts.join('')}</div>`;
  if(n.draft){const ed=DR[e.listing_id]!=null;h+=`<div class="drf"><div class="drh">Suggested reply${n.reply_to?' → '+esc(n.reply_to):''}${ed?' <i>(edited)</i>':''}</div><pre id="dr-${id}">${esc(drOf(e))}</pre>
   <textarea id="de-${id}" style="display:none" rows="5"></textarea>
-  <div class="acts"><button class="b s" onclick="drCopy('${id}')">Copy</button><button class="b s" onclick="drEdit('${id}')">✏️ Edit</button>${n.reply_to?`<button class="b s big" onclick="drSend('${id}')">Send via…</button>`:''}</div>
+  <div class="acts"><button class="b s" onclick="drCopy('${id}')">Copy</button><button class="b s" onclick="drEdit('${id}')">✏️ Edit</button>${n.reply_to?`${sendBtn(e.listing_id,'b s big','Send via…')}`:''}</div>
   <div class="drn">Nothing is sent until you confirm in the bot chat.</div></div>`}
  return h+'</div>'}
 function drCopy(id){const e=sentOf(id);const t=drOf(e);(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>toast('Скопировано'),()=>toast('Select & copy manually'))}
 function drEdit(id){const ta=document.getElementById('de-'+id),pre=document.getElementById('dr-'+id);
  if(ta.style.display==='none'){ta.value=drOf(sentOf(id));ta.style.display='';pre.style.display='none';ta.focus()}
  else{const v=ta.value.trim();const e=sentOf(id);if(v&&v!==(e.next||{}).draft)DR[id]=v;else delete DR[id];localStorage.setItem(DRK,JSON.stringify(DR));render();if(curTab=='replies')renderR();if(sheetId)openSheet(sheetId);toast('Черновик сохранён на этом устройстве')}}
-function drSend(id){const e=sentOf(id);if(DR[id]!=null){const t=DR[id];const go=()=>{toast('Текст скопирован — вставьте его в чат бота');setTimeout(()=>deep('me_'+id),600)};
-  (navigator.clipboard?navigator.clipboard.writeText('reply '+id+': '+t):Promise.reject()).then(go,()=>{prompt('Copy this and paste in the bot chat:','reply '+id+': '+t);deep('me_'+id)})}
- else deep('m_'+id)}
-const isAs=e=>e.source==='assistant';
-const chanOf=e=>{const a=(e.agent||'').toLowerCase(),c=(e.channel||'').toLowerCase();return a.startsWith('openrent')?'OpenRent':c.includes('whatsapp')?'WhatsApp':c&&c!=='rightmove'?'Email':'Rightmove'};
-const senderTag=e=>`<div class="sndr ${isAs(e)?'s-as':'s-ma'}">${isAs(e)?'🤖 Ассистент':'👩 Маша'} <span>· ${chanOf(e)}${e.sent_at?' · '+fmtD(e.sent_at):''}</span></div>`;
-const whoM=(m,e)=>m.dir==='agent'?`<b class="w-ag">🏢 Агент${m.from?' ('+esc(agName(m.from,e))+')':''}</b>`:((m.by==='assistant'||(m.enquiry&&isAs(e)))?'<b class="w-as">🤖 Ассистент</b>':'<b class="w-ma">👩 Маша</b>');
-const agName=(f,e)=>{const l=(f||'').split('@')[0];if(e.agent_email&&f.toLowerCase()==e.agent_email.toLowerCase()&&e.agent_contact)return e.agent_contact;return /no-?reply|donotreply|^info$|^support$|^leads$/i.test(l)?(f.split('@')[1]||l):l.replace(/[._]/g,' ')};
+const RSK='flatreplysent';const RS=JSON.parse(localStorage.getItem(RSK)||'{}');
+function rSent(id){const e=sentOf(id)||{};const t=drOf(e);const d=e.reply_sent;if(d&&(d.draft==null||d.draft===t))return 'sent';const l=RS[id];return l&&l.t===t?l.st:null}
+function sendBtn(id,cls,label){const st=rSent(id);return st?`<button class="${cls}" id="sb-${esc(id)}" disabled>${st=='sending'?'Отправляется…':'Отправлено ✓'}</button>`:`<button class="${cls}" id="sb-${esc(id)}" onclick="drSend('${esc(id)}',this)">${label}</button>`}
+function drSend(id,btn){if(rSent(id)){toast('Уже отправлено ранее');return}const e=sentOf(id);const t=drOf(e);
+ RS[id]={t,st:'sending',ts:new Date().toISOString()};localStorage.setItem(RSK,JSON.stringify(RS));
+ const bs=btn?[btn]:[];document.querySelectorAll('[id="sb-'+id+'"]').forEach(b=>bs.includes(b)||bs.push(b));bs.forEach(b=>{b.disabled=true;b.textContent='Отправляется…'});
+ const done=()=>{RS[id].st='sent';localStorage.setItem(RSK,JSON.stringify(RS));document.querySelectorAll('[id="sb-'+id+'"]').forEach(b=>{b.disabled=true;b.textContent='Отправлено ✓'});toast('✅ Отправлено боту — подтверждение придёт в Telegram')};
+ if(DR[id]!=null){const go=()=>{toast('Текст скопирован — вставьте его в чат бота');setTimeout(()=>{deep('me_'+id);setTimeout(done,900)},600)};
+  (navigator.clipboard?navigator.clipboard.writeText('reply '+id+': '+t):Promise.reject()).then(go,()=>{prompt('Copy this and paste in the bot chat:','reply '+id+': '+t);deep('me_'+id);setTimeout(done,900)})}
+ else{deep('m_'+id);setTimeout(done,900)}}
 function convC(e){const T=e.thread||[];const enq=T.find(m=>m.enquiry);const txt=(enq&&enq.text)||msgOf(e);
  const ag=T.filter(m=>m.dir==='agent');const last=ag.slice(-2);
  let h='<div class="cv">'+senderTag(e);
@@ -147,7 +149,7 @@ function openSheet(id){const e=sentOf(id);if(!e)return;sheetId=id;const L=data.f
   <div class="cta">${primary(e).replace("openSheet('"+esc(id)+"')","document.getElementById('drf').scrollIntoView()")}</div></div>`;
  if(n.draft){const ed=DR[id]!=null;h+=`<div class="drf" id="drf"><div class="drh">Черновик ответа${n.reply_to?' → '+esc(n.reply_to):''}${ed?' · изменён':''}</div><div class="bt" id="dr-${esc(id)}">${esc(drOf(e))}</div>
   <textarea id="de-${esc(id)}" style="display:none" rows="6"></textarea>
-  <div class="cta">${n.reply_to?`<button class="b pri" onclick="drSend('${esc(id)}')">📨 Отправить через бота</button>`:''}<button class="b sec" onclick="drEdit('${esc(id)}')">✏️</button><button class="b sec" onclick="drCopy('${esc(id)}')">📋</button></div>
+  <div class="cta">${n.reply_to?`${sendBtn(id,'b pri','📨 Отправить через бота')}`:''}<button class="b sec" onclick="drEdit('${esc(id)}')">✏️</button><button class="b sec" onclick="drCopy('${esc(id)}')">📋</button></div>
   <div class="drn">Ничего не уйдёт без подтверждения в чате бота.</div></div>`}
  h+=`<div class="conv2">${bubbles(e)}</div>`;
  const c=[e.agent_contact,e.agent_phone,e.agent_email].filter(Boolean);
