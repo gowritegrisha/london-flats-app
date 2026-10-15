@@ -1,30 +1,31 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8">
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
-<title>London flats</title>
+<title>Квартиры в Лондоне</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<link rel="stylesheet" href="style.css?v=202610152304">
+<link rel="stylesheet" href="style.css?v=v4-1792099118">
 </head><body>
-<header id="hdr"><div id="fhead"><h1>🏠 London flats <span id="cnt" class="cnt"></span></h1>
-<div class="ctl"><span class="lbl">Filter:</span><div class="row" id="filters"></div></div>
-<div class="ctl"><span class="lbl">Sort:</span><select id="sort"><option value="score" selected>Score ↓</option><option value="date">Newest</option><option value="price">Price ↑</option><option value="size">Size ↓</option><option value="commute">Commute ↑</option></select><span id="hidt"></span></div></div></header>
+<header id="hdr"><div id="fhead"><h1>🏠 Квартиры <span id="cnt" class="cnt"></span></h1>
+<div class="ctl"><div class="row" id="filters"></div></div>
+<div class="ctl"><span class="lbl">Сортировка</span><select id="sort"><option value="score" selected>По оценке</option><option value="date">Новые</option><option value="price">Дешевле</option><option value="size">Больше</option><option value="commute">Ближе к офису</option></select><span id="hidt"></span></div></div></header>
 <main id="list"></main>
 <main id="vlist" style="display:none"></main>
 <main id="rlist" style="display:none"></main>
 <nav id="tabs" role="tablist">
-<button type="button" role="tab" data-tab="flats" id="tabF"><span class="ic">🏠</span>Flats</button>
-<button type="button" role="tab" data-tab="viewings" id="tabV"><span class="ic">📅</span>Viewings</button>
-<button type="button" role="tab" data-tab="replies" id="tabR"><span class="ic">✉️</span>Enquiries</button>
+<button type="button" role="tab" data-tab="flats" id="tabF"><span class="ic">🏠</span>Квартиры</button>
+<button type="button" role="tab" data-tab="viewings" id="tabV"><span class="ic">📅</span>Просмотры</button>
+<button type="button" role="tab" data-tab="replies" id="tabR"><span class="ic">✉️</span>Запросы<i id="ubadge"></i></button>
 </nav>
 <div id="dlg"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><b id="dt"></b><button class="b s" onclick="closeD()">✕</button></div>
-<p class="hint1">Edit if you like, then tap <b>Send</b>. The assistant sends it right away via Rightmove as Maria; its status will appear under <b>✉️ Enquiries</b>.</p>
+<p class="hint1">Поправьте текст и нажмите <b>Отправить</b>. Ассистент отправит запрос от имени Маши; статус появится во вкладке <b>✉️ Запросы</b>.</p>
 <textarea id="txt"></textarea>
-<button class="b big full" onclick="sendAct('confirm')">📨 Send</button>
-<div class="acts"><button class="b s" onclick="toggleRegen()">🔄 Rewrite…</button><button class="b s" onclick="copyT()">📋 Copy</button><button class="b s" onclick="openL()">Rightmove ↗</button></div>
-<div id="regen" style="display:none"><textarea id="cmt" style="min-height:70px" placeholder="What should change? e.g. shorter, mention parking, ask about bills"></textarea>
-<div class="acts"><button class="b" onclick="sendAct('regenerate')">Ask assistant to rewrite</button></div></div>
+<button class="b big full" onclick="sendAct('confirm')">📨 Отправить</button>
+<div class="acts"><button class="b s" onclick="toggleRegen()">🔄 Переписать…</button><button class="b s" onclick="copyT()">📋 Копировать</button><button class="b s" onclick="openL()">Rightmove ↗</button></div>
+<div id="regen" style="display:none"><textarea id="cmt" style="min-height:70px" placeholder="Что изменить? Например: короче, спросить про счета"></textarea>
+<div class="acts"><button class="b" onclick="sendAct('regenerate')">Попросить ассистента переписать</button></div></div>
 <p id="sdhint" style="color:#888;font-size:12px;display:none"></p></div>
 <button id="sync" class="b" style="display:none" onclick="syncR()"></button>
+<div id="sheet" onclick="if(event.target===this)sheetClose()"><div class="sbox"><div class="grab"></div><div class="sbody"></div></div></div>
 <div class="toast" id="toast"></div>
-<script src="app.js?v=202610152304"></script>
+<script src="app.js?v=v4-1792099118"></script>
 </body></html>
