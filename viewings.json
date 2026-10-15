@@ -192,5 +192,39 @@
   "calendar_event_id": "9aa0076b7f4847b7bb73d136d6b27c92",
   "source": "masha-calendar",
   "notes": "Masha calendar event titled only “viewing” (14:00 Madrid / 13:00 London). Not matched to a flat from email — possibly phone/WhatsApp. Ask Masha which flat."
+ },
+ {
+  "id": "prop-93958821",
+  "listing_id": "93958821",
+  "title": "38 Aerodrome Road, Colindale | London NW9",
+  "address": "38 Aerodrome Road, Colindale | London NW9",
+  "datetime": null,
+  "agent": "Flagstones Property Group, London",
+  "agent_contact": null,
+  "agent_email": "luke@flagstonespg.co.uk",
+  "agent_phone": "020 8488 6296",
+  "thread_id": "1a11a99ebccb61ee",
+  "status": "proposed",
+  "asked": "2026-10-08T08:20:56Z",
+  "notes": " 14 Havelock Place Harrow HA1 1LJ 020 8488 6296 Hi, Thanks for your interest in the property. To book a viewing, please reply with:* Move-in date: * Number of tenants:* Number of bedrooms: (Studio / 1 Bed / 2 Bed..)* Emp",
+  "source": "masha-mail",
+  "type": null
+ },
+ {
+  "id": "prop-92332098",
+  "listing_id": "92332098",
+  "title": "St. Ann's Road, London, Greater London, N15 5RP",
+  "address": "St. Ann's Road, London, Greater London, N15 5RP",
+  "datetime": null,
+  "agent": "LettingaProperty.com, Nationwide - Lettings",
+  "agent_contact": null,
+  "agent_email": "ryan@lettingaproperty.com",
+  "agent_phone": "+44) 01564 492960",
+  "thread_id": "1a11b167fe9e4c73",
+  "status": "proposed",
+  "asked": "2026-10-08T10:36:56Z",
+  "notes": "Good morning, I hope you’re well, Thank you for your viewing request on the above property, https://www.lettingaproperty.com/property/10092?_gl=111o81ow_gcl_auNjM1MDA1MjY0LjE3ODk1NTg5NDAuMjI3ODY3NzY1LjE3OTE0NTE4OTUuMTc5M",
+  "source": "masha-mail",
+  "type": null
  }
 ]

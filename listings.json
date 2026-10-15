@@ -82,7 +82,8 @@
     "lat": 51.54092,
     "lng": -0.17803,
     "commute_min": 30,
-    "commute_mode": "🚌 bus 113 + bus 18"
+    "commute_mode": "🚌 bus 113 + bus 18",
+    "nbhd": "South Hampstead · St John's Wood NW8"
   },
   {
     "id": "94022025",
@@ -167,7 +168,8 @@
     "lat": 51.570549,
     "lng": -0.221716,
     "commute_min": 46,
-    "commute_mode": "🚌 bus 102 + Northern + Victoria"
+    "commute_mode": "🚌 bus 102 + Northern + Victoria",
+    "nbhd": "Cricklewood NW2"
   },
   {
     "id": "93983106",
@@ -252,7 +254,8 @@
     "lat": 51.561162,
     "lng": -0.105175,
     "commute_min": 27,
-    "commute_mode": "🚇 Victoria"
+    "commute_mode": "🚇 Victoria",
+    "nbhd": "Arsenal · Finsbury Park N4"
   },
   {
     "id": "94047345",
@@ -337,7 +340,8 @@
     "lat": 51.515923,
     "lng": -0.015445,
     "commute_min": 47,
-    "commute_mode": "🚈 DLR + Elizabeth line + Northern"
+    "commute_mode": "🚈 DLR + Elizabeth line + Northern",
+    "nbhd": "Lansbury · Poplar/Canary Wharf E14"
   },
   {
     "id": "94047639",
@@ -422,7 +426,8 @@
     "lat": 51.601802,
     "lng": -0.192593,
     "commute_min": 36,
-    "commute_mode": "🚇 Northern + Victoria"
+    "commute_mode": "🚇 Northern + Victoria",
+    "nbhd": "West Finchley N3"
   },
   {
     "id": "93535440",
@@ -507,7 +512,8 @@
     "lat": 51.58892,
     "lng": -0.21769,
     "commute_min": 48,
-    "commute_mode": "🚌 bus 183 + Northern + Victoria"
+    "commute_mode": "🚌 bus 183 + Northern + Victoria",
+    "nbhd": "Hendon NW4"
   },
   {
     "id": "94045110",
@@ -592,7 +598,13 @@
     "lat": 51.4921,
     "lng": -0.2351,
     "commute_min": 43,
-    "commute_mode": "🚇 District + Victoria"
+    "commute_mode": "🚇 District + Victoria",
+    "agent_facts": {
+      "available": "29 Nov 2026",
+      "price_note": "£2,000 pcm",
+      "src": "Portico email 14 Oct"
+    },
+    "nbhd": "Ravenscourt · Hammersmith W6"
   },
   {
     "id": "92506563",
@@ -677,7 +689,8 @@
     "lat": 51.596844,
     "lng": -0.111627,
     "commute_min": 32,
-    "commute_mode": "🚇 Piccadilly + Victoria"
+    "commute_mode": "🚇 Piccadilly + Victoria",
+    "nbhd": "Noel Park · Wood Green N22"
   },
   {
     "id": "94044120",
@@ -762,7 +775,8 @@
     "lat": 51.589996,
     "lng": -0.161872,
     "commute_min": 37,
-    "commute_mode": "🚌 bus 234 + Northern + Victoria"
+    "commute_mode": "🚌 bus 234 + Northern + Victoria",
+    "nbhd": "East Finchley N2"
   },
   {
     "id": "93339423",
@@ -847,7 +861,8 @@
     "lat": 51.552402,
     "lng": -0.141122,
     "commute_min": 26,
-    "commute_mode": "🚇 Northern + Victoria"
+    "commute_mode": "🚇 Northern + Victoria",
+    "nbhd": "Kentish Town North NW5"
   },
   {
     "id": "94032756",
@@ -932,7 +947,8 @@
     "lat": 51.528845,
     "lng": -0.198322,
     "commute_min": 32,
-    "commute_mode": "🚌 bus 6 + bus 18"
+    "commute_mode": "🚌 bus 6 + bus 18",
+    "nbhd": "Harrow Road · Maida Vale W9"
   },
   {
     "id": "94033137",
@@ -1017,7 +1033,12 @@
     "lat": 51.50475,
     "lng": -0.211418,
     "commute_min": 38,
-    "commute_mode": "🚌 bus 94 + Central + Victoria"
+    "commute_mode": "🚌 bus 94 + Central + Victoria",
+    "agent_facts": {
+      "available": "14 Oct (landlord wants move-in that day)",
+      "src": "OpenRent landlord 8 Oct"
+    },
+    "nbhd": "Holland · West Kensington W14"
   },
   {
     "id": "93814602",
@@ -1102,7 +1123,8 @@
     "lat": 51.501858,
     "lng": -0.243775,
     "commute_min": 45,
-    "commute_mode": "🚌 bus 94 + Circle + bus 18"
+    "commute_mode": "🚌 bus 94 + Circle + bus 18",
+    "nbhd": "Wendell Park · Shepherd's Bush W12"
   },
   {
     "id": "94028445",
@@ -1187,7 +1209,8 @@
     "lat": 51.540546,
     "lng": -0.211417,
     "commute_min": 38,
-    "commute_mode": "🚆 Mildmay + Jubilee + Bakerloo + bus 18"
+    "commute_mode": "🚆 Mildmay + Jubilee + Bakerloo + bus 18",
+    "nbhd": "Brondesbury Park · Kilburn/West Hampstead NW6"
   },
   {
     "id": "93960210",
@@ -1272,7 +1295,8 @@
     "lat": 51.575711,
     "lng": -0.081208,
     "commute_min": 36,
-    "commute_mode": "🚌 bus 259 + Victoria"
+    "commute_mode": "🚌 bus 259 + Victoria",
+    "nbhd": "Woodberry Down · Stoke Newington N16"
   },
   {
     "id": "163036916",
@@ -1357,7 +1381,8 @@
     "lat": 51.507516,
     "lng": -0.230262,
     "commute_min": 37,
-    "commute_mode": "🚇 Circle + bus 18"
+    "commute_mode": "🚇 Circle + bus 18",
+    "nbhd": "White City · Shepherd's Bush W12"
   },
   {
     "id": "92332098",
@@ -1442,7 +1467,8 @@
     "lat": 51.580395,
     "lng": -0.082223,
     "commute_min": 34,
-    "commute_mode": "🚇 Victoria"
+    "commute_mode": "🚇 Victoria",
+    "nbhd": "St Ann's · South Tottenham N15"
   },
   {
     "id": "93947868",
@@ -1527,7 +1553,13 @@
     "lat": 51.589647,
     "lng": -0.172338,
     "commute_min": 41,
-    "commute_mode": "🚇 Northern + Victoria"
+    "commute_mode": "🚇 Northern + Victoria",
+    "agent_facts": {
+      "available": "early December",
+      "criteria": "household income ≥ £64k; bills not included",
+      "src": "Bennett & Hall email 8 Oct"
+    },
+    "nbhd": "East Finchley N2"
   },
   {
     "id": "93217989",
@@ -1612,7 +1644,8 @@
     "lat": 51.547114,
     "lng": -0.233601,
     "commute_min": 38,
-    "commute_mode": "🚌 bus 266 + Jubilee + Metropolitan + bus 18"
+    "commute_mode": "🚌 bus 266 + Jubilee + Metropolitan + bus 18",
+    "nbhd": "Willesden Green NW10"
   },
   {
     "id": "94001658",
@@ -1697,7 +1730,8 @@
     "lat": 51.56138,
     "lng": -0.00409,
     "commute_min": 51,
-    "commute_mode": "🚌 bus 97 + Southeastern + Victoria"
+    "commute_mode": "🚌 bus 97 + Southeastern + Victoria",
+    "nbhd": "Grove Green · Leyton E10"
   },
   {
     "id": "150171911",
@@ -1782,7 +1816,8 @@
     "lat": 51.524074,
     "lng": -0.023782,
     "commute_min": 42,
-    "commute_mode": "🚇 District + Central + Metropolitan"
+    "commute_mode": "🚇 District + Central + Metropolitan",
+    "nbhd": "Bromley North · Bow E3"
   },
   {
     "id": "94152048",
@@ -1867,7 +1902,8 @@
     "lat": 51.571189,
     "lng": -0.222393,
     "commute_min": 48,
-    "commute_mode": "🚌 bus 102 + Northern + Victoria"
+    "commute_mode": "🚌 bus 102 + Northern + Victoria",
+    "nbhd": "Cricklewood NW2"
   },
   {
     "id": "94160553",
@@ -1952,7 +1988,8 @@
     "lat": 51.466805,
     "lng": -0.099929,
     "commute_min": 38,
-    "commute_mode": "🚌 bus 45 + Victoria"
+    "commute_mode": "🚌 bus 45 + Victoria",
+    "nbhd": "Herne Hill/Loughborough Junction · Camberwell SE5"
   },
   {
     "id": "94137456",
@@ -2037,7 +2074,8 @@
     "lat": 51.455774,
     "lng": -0.108356,
     "commute_min": 39,
-    "commute_mode": "🚌 bus 322 + Victoria"
+    "commute_mode": "🚌 bus 322 + Victoria",
+    "nbhd": "Herne Hill/Loughborough Junction SE24"
   },
   {
     "id": "93414906",
@@ -2122,7 +2160,8 @@
     "lat": 51.549743,
     "lng": -0.186497,
     "commute_min": 31,
-    "commute_mode": "🚌 bus 113 + Metropolitan + bus 18"
+    "commute_mode": "🚌 bus 113 + Metropolitan + bus 18",
+    "nbhd": "West Hampstead · Kilburn/West Hampstead NW6"
   },
   {
     "id": "94136856",
@@ -2207,7 +2246,8 @@
     "lat": 51.46383,
     "lng": -0.11402,
     "commute_min": 31,
-    "commute_mode": "🚇 Victoria"
+    "commute_mode": "🚇 Victoria",
+    "nbhd": "Brixton Windrush · Brixton/Stockwell SW9"
   },
   {
     "id": "93497595",
@@ -2292,7 +2332,12 @@
     "lat": 51.48682,
     "lng": -0.08945,
     "commute_min": 45,
-    "commute_mode": "🚌 bus 68 + Bakerloo + Victoria"
+    "commute_mode": "🚌 bus 68 + Bakerloo + Victoria",
+    "agent_facts": {
+      "pets": "one pet per property; service dog OK",
+      "src": "Walworth Village email 8 Oct"
+    },
+    "nbhd": "Faraday · Walworth SE17"
   },
   {
     "id": "93330687",
@@ -2377,7 +2422,8 @@
     "lat": 51.492107,
     "lng": -0.082376,
     "commute_min": 41,
-    "commute_mode": "🚌 bus 21 + Northern + Victoria"
+    "commute_mode": "🚌 bus 21 + Northern + Victoria",
+    "nbhd": "South Bermondsey · Southwark SE1"
   },
   {
     "id": "94310331",
@@ -2462,7 +2508,8 @@
     "lat": 51.593062,
     "lng": -0.147504,
     "commute_min": 45,
-    "commute_mode": "🚌 bus 234 + Northern"
+    "commute_mode": "🚌 bus 234 + Northern",
+    "nbhd": "Fortis Green · Muswell Hill N10"
   },
   {
     "id": "128733527",
@@ -2547,7 +2594,12 @@
     "lat": 51.558018,
     "lng": -0.004885,
     "commute_min": 46,
-    "commute_mode": "🚇 Central + Metropolitan"
+    "commute_mode": "🚇 Central + Metropolitan",
+    "agent_facts": {
+      "size": "no floor plan (video offered)",
+      "src": "Ambassador email 14 Oct"
+    },
+    "nbhd": "Grove Green · Leyton E10"
   },
   {
     "id": "92257719",
@@ -2632,7 +2684,8 @@
     "lat": 51.576926,
     "lng": -0.215743,
     "commute_min": 36,
-    "commute_mode": "🚇 Northern + Victoria"
+    "commute_mode": "🚇 Northern + Victoria",
+    "nbhd": "Golders Green · Cricklewood NW2"
   },
   {
     "id": "94311600",
@@ -2717,7 +2770,8 @@
     "lat": 51.565854,
     "lng": -0.122787,
     "commute_min": 38,
-    "commute_mode": "🚌 bus 253 + Victoria"
+    "commute_mode": "🚌 bus 253 + Victoria",
+    "nbhd": "Tollington · Upper Holloway N19"
   },
   {
     "id": "93267390",
@@ -2802,7 +2856,8 @@
     "lat": 51.54327,
     "lng": -0.19005,
     "commute_min": 34,
-    "commute_mode": "🚇 Jubilee + Bakerloo + bus 18"
+    "commute_mode": "🚇 Jubilee + Bakerloo + bus 18",
+    "nbhd": "South Hampstead · Kilburn/West Hampstead NW6"
   },
   {
     "id": "94299561",
@@ -2887,7 +2942,8 @@
     "lat": 51.493434,
     "lng": -0.205454,
     "commute_min": 40,
-    "commute_mode": "🚇 District + Victoria"
+    "commute_mode": "🚇 District + Victoria",
+    "nbhd": "Avonmore · West Kensington W14"
   },
   {
     "id": "94185309",
@@ -2972,7 +3028,8 @@
     "lat": 51.501791,
     "lng": -0.227365,
     "commute_min": 33,
-    "commute_mode": "🚇 Circle + bus 18"
+    "commute_mode": "🚇 Circle + bus 18",
+    "nbhd": "Grove · Shepherd's Bush W12"
   },
   {
     "id": "94227381",
@@ -3057,7 +3114,8 @@
     "lat": 51.506847,
     "lng": -0.224851,
     "commute_min": 33,
-    "commute_mode": "🚇 Circle + bus 18"
+    "commute_mode": "🚇 Circle + bus 18",
+    "nbhd": "Shepherd's Bush Green W12"
   },
   {
     "id": "94198248",
@@ -3142,7 +3200,8 @@
     "lat": 51.487954,
     "lng": -0.262595,
     "commute_min": 60,
-    "commute_mode": "🚌 bus E3 + District + Victoria"
+    "commute_mode": "🚌 bus E3 + District + Victoria",
+    "nbhd": "Chiswick Gunnersbury W4"
   },
   {
     "id": "93543816",
@@ -3227,7 +3286,8 @@
     "lat": 51.51696,
     "lng": -0.265387,
     "commute_min": 34,
-    "commute_mode": "🚆 Elizabeth line + Northern"
+    "commute_mode": "🚆 Elizabeth line + Northern",
+    "nbhd": "East Acton W3"
   },
   {
     "id": "94303230",
@@ -3312,7 +3372,8 @@
     "lat": 51.52348,
     "lng": -0.26133,
     "commute_min": 39,
-    "commute_mode": "🚇 Central + Victoria"
+    "commute_mode": "🚇 Central + Victoria",
+    "nbhd": "North Acton W3"
   },
   {
     "id": "167679992",
@@ -3397,7 +3458,8 @@
     "lat": 51.551148,
     "lng": -0.206679,
     "commute_min": 36,
-    "commute_mode": "🚌 bus 16 + Jubilee + Bakerloo + bus 18"
+    "commute_mode": "🚌 bus 16 + Jubilee + Bakerloo + bus 18",
+    "nbhd": "Fortune Green · Cricklewood NW2"
   },
   {
     "id": "94258452",
@@ -3482,7 +3544,8 @@
     "lat": 51.55918,
     "lng": -0.12118,
     "commute_min": 32,
-    "commute_mode": "🚌 bus 253 + Victoria"
+    "commute_mode": "🚌 bus 253 + Victoria",
+    "nbhd": "Tollington · Holloway N7"
   },
   {
     "id": "94269069",
@@ -3567,7 +3630,8 @@
     "lat": 51.57707,
     "lng": -0.152471,
     "commute_min": 38,
-    "commute_mode": "🚌 bus 263 + Northern + Victoria"
+    "commute_mode": "🚌 bus 263 + Northern + Victoria",
+    "nbhd": "Highgate N6"
   },
   {
     "id": "94273353",
@@ -3652,7 +3716,8 @@
     "lat": 51.587353,
     "lng": -0.14667,
     "commute_min": 39,
-    "commute_mode": "🚌 bus 43 + Northern + Victoria"
+    "commute_mode": "🚌 bus 43 + Northern + Victoria",
+    "nbhd": "Muswell Hill N10"
   },
   {
     "id": "94294830",
@@ -3737,7 +3802,8 @@
     "lat": 51.590164,
     "lng": -0.14409,
     "commute_min": 42,
-    "commute_mode": "🚌 bus 234 + Northern"
+    "commute_mode": "🚌 bus 234 + Northern",
+    "nbhd": "Muswell Hill N10"
   },
   {
     "id": "93395547",
@@ -3822,7 +3888,8 @@
     "lat": 51.590884,
     "lng": -0.146518,
     "commute_min": 42,
-    "commute_mode": "🚌 bus 234 + Northern"
+    "commute_mode": "🚌 bus 234 + Northern",
+    "nbhd": "Muswell Hill N10"
   },
   {
     "id": "94366500",
@@ -3899,7 +3966,8 @@
     "lat": 51.512793,
     "lng": -0.034187,
     "commute_min": 44,
-    "commute_mode": "🚌 bus 15 + DLR + Northern + Victoria"
+    "commute_mode": "🚌 bus 15 + DLR + Northern + Victoria",
+    "nbhd": "Mile End · Poplar/Canary Wharf E14"
   },
   {
     "id": "93448431",
@@ -3977,7 +4045,8 @@
     "lat": 51.55338,
     "lng": -0.20436,
     "commute_min": 39,
-    "commute_mode": "🚌 bus 32 + Jubilee + Metropolitan"
+    "commute_mode": "🚌 bus 32 + Jubilee + Metropolitan",
+    "nbhd": "Fortune Green · Cricklewood NW2"
   },
   {
     "id": "94340205",
@@ -4053,7 +4122,8 @@
     "lat": 51.509361,
     "lng": -0.058633,
     "commute_min": 39,
-    "commute_mode": "🚈 DLR + Central + bus 24"
+    "commute_mode": "🚈 DLR + Central + bus 24",
+    "nbhd": "St Katharine's/Wapping E1W"
   },
   {
     "id": "92893338",
@@ -4130,7 +4200,8 @@
     "lat": 51.52749,
     "lng": -0.248217,
     "commute_min": 47,
-    "commute_mode": "🚆 Lioness"
+    "commute_mode": "🚆 Lioness",
+    "nbhd": "College Park/Old Oak · Willesden NW10"
   },
   {
     "id": "93668892",
@@ -4213,7 +4284,8 @@
     "lat": 51.560806,
     "lng": -0.19606,
     "commute_min": 38,
-    "commute_mode": "🚌 bus 113 + Metropolitan + bus 18"
+    "commute_mode": "🚌 bus 113 + Metropolitan + bus 18",
+    "nbhd": "Childs Hill · Cricklewood NW2"
   },
   {
     "id": "94314216",
@@ -4290,7 +4362,8 @@
     "lat": 51.58705,
     "lng": -0.12047,
     "commute_min": 42,
-    "commute_mode": "🚌 bus W3 + Victoria"
+    "commute_mode": "🚌 bus W3 + Victoria",
+    "nbhd": "Hornsey · Hornsey/Crouch End N8"
   },
   {
     "id": "123638537",
@@ -4366,7 +4439,8 @@
     "lat": 51.54346,
     "lng": -0.19682,
     "commute_min": 36,
-    "commute_mode": "🚌 bus 139 + Jubilee + Bakerloo + bus 18"
+    "commute_mode": "🚌 bus 139 + Jubilee + Bakerloo + bus 18",
+    "nbhd": "Kilburn · Kilburn/West Hampstead NW6"
   },
   {
     "id": "93180957",
@@ -4443,7 +4517,8 @@
     "lat": 51.55174,
     "lng": -0.2089,
     "commute_min": 35,
-    "commute_mode": "🚌 bus 16 + Jubilee + Bakerloo + bus 205"
+    "commute_mode": "🚌 bus 16 + Jubilee + Bakerloo + bus 205",
+    "nbhd": "Fortune Green · Cricklewood NW2"
   },
   {
     "id": "94306005",
@@ -4527,7 +4602,8 @@
     "lat": 51.569098,
     "lng": -0.220549,
     "commute_min": 47,
-    "commute_mode": "🚌 bus 102 + Northern + Victoria"
+    "commute_mode": "🚌 bus 102 + Northern + Victoria",
+    "nbhd": "Cricklewood NW2"
   },
   {
     "id": "94282248",
@@ -4603,7 +4679,8 @@
     "lat": 51.590419,
     "lng": -0.116175,
     "commute_min": 40,
-    "commute_mode": "🚌 bus 232 + Piccadilly + Victoria"
+    "commute_mode": "🚌 bus 232 + Piccadilly + Victoria",
+    "nbhd": "Hornsey · Hornsey/Crouch End N8"
   },
   {
     "id": "94279875",
@@ -4690,7 +4767,8 @@
     "lat": 51.571189,
     "lng": -0.222393,
     "commute_min": 48,
-    "commute_mode": "🚌 bus 102 + Northern + Victoria"
+    "commute_mode": "🚌 bus 102 + Northern + Victoria",
+    "nbhd": "Cricklewood NW2"
   },
   {
     "id": "94266987",
@@ -4770,7 +4848,8 @@
     "lat": 51.481244,
     "lng": -0.121096,
     "commute_min": 34,
-    "commute_mode": "🚇 Victoria"
+    "commute_mode": "🚇 Victoria",
+    "nbhd": "Oval · Vauxhall SW8"
   },
   {
     "id": "94259382",
@@ -4852,7 +4931,8 @@
     "lat": 51.53468,
     "lng": -0.247001,
     "commute_min": 41,
-    "commute_mode": "🚆 Lioness"
+    "commute_mode": "🚆 Lioness",
+    "nbhd": "Harlesden/Kensal Green · Willesden NW10"
   },
   {
     "id": "148609247",
@@ -4928,7 +5008,8 @@
     "lat": 51.516752,
     "lng": -0.039119,
     "commute_min": 44,
-    "commute_mode": "🚌 bus 309 + District + Elizabeth line + bus 24"
+    "commute_mode": "🚌 bus 309 + District + Elizabeth line + bus 24",
+    "nbhd": "St Dunstan's · Poplar/Canary Wharf E14"
   },
   {
     "id": "99364445",
@@ -5004,7 +5085,8 @@
     "lat": 51.51674,
     "lng": -0.03919,
     "commute_min": 44,
-    "commute_mode": "🚌 bus 309 + District + Elizabeth line + bus 24"
+    "commute_mode": "🚌 bus 309 + District + Elizabeth line + bus 24",
+    "nbhd": "St Dunstan's · Poplar/Canary Wharf E14"
   },
   {
     "id": "92904378",
@@ -5087,7 +5169,8 @@
     "lat": 51.512016,
     "lng": -0.063907,
     "commute_min": 37,
-    "commute_mode": "🚌 bus D3 + Elizabeth line + Northern"
+    "commute_mode": "🚌 bus D3 + Elizabeth line + Northern",
+    "nbhd": "Whitechapel E1"
   },
   {
     "id": "94199361",
@@ -5170,7 +5253,13 @@
     "lat": 51.455322,
     "lng": -0.164475,
     "commute_min": 48,
-    "commute_mode": "🚌 bus G1 + Northern + Victoria"
+    "commute_mode": "🚌 bus G1 + Northern + Victoria",
+    "agent_facts": {
+      "size": "562 sq ft (52 m²)",
+      "available": "next weekend; October move-in only",
+      "src": "Langford email 12 Oct"
+    },
+    "nbhd": "Northcote · Battersea SW11"
   },
   {
     "id": "94221912",
@@ -5245,7 +5334,8 @@
     "lng": -0.110168,
     "features": "",
     "commute_min": 28,
-    "commute_mode": "🚇 Victoria"
+    "commute_mode": "🚇 Victoria",
+    "nbhd": "Stroud Green · Finsbury Park N4"
   },
   {
     "id": "93183198",
@@ -5321,7 +5411,8 @@
     "lat": 51.469198,
     "lng": -0.078138,
     "commute_min": 53,
-    "commute_mode": "🚆 Southeastern + Victoria"
+    "commute_mode": "🚆 Southeastern + Victoria",
+    "nbhd": "Champion Hill · Camberwell SE5"
   },
   {
     "id": "94234530",
@@ -5397,7 +5488,8 @@
     "lat": 51.58916,
     "lng": -0.11793,
     "commute_min": 42,
-    "commute_mode": "🚌 bus 144 + Piccadilly + Victoria"
+    "commute_mode": "🚌 bus 144 + Piccadilly + Victoria",
+    "nbhd": "Hornsey · Hornsey/Crouch End N8"
   },
   {
     "id": "93588750",
@@ -5480,7 +5572,8 @@
     "lat": 51.537261,
     "lng": -0.236341,
     "commute_min": 47,
-    "commute_mode": "🚆 Lioness"
+    "commute_mode": "🚆 Lioness",
+    "nbhd": "Harlesden/Kensal Green · Willesden NW10"
   },
   {
     "id": "94244565",
@@ -5556,6 +5649,7 @@
     "lat": 51.51639,
     "lng": -0.032526,
     "commute_min": 48,
-    "commute_mode": "🚌 bus D7 + Hammersmith & City"
+    "commute_mode": "🚌 bus D7 + Hammersmith & City",
+    "nbhd": "Mile End · Bow E3"
   }
 ]

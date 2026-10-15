@@ -31,17 +31,23 @@ const FL2=[['all','Все'],['notsent','Не писали'],['sent','Напис�
 const seenK='flatseen',lvK='flatlastvisit';const SEEN0=new Set(JSON.parse(localStorage.getItem(seenK)||'null')||[]);const FIRST=!localStorage.getItem(seenK);
 const isNew=l=>!FIRST&&!SEEN0.has(String(l.id));
 function markSeen(){if(!data.length)return;localStorage.setItem(seenK,JSON.stringify(data.map(l=>String(l.id))));localStorage.setItem(lvK,new Date().toISOString())}
-const hoodName=l=>{const h=l.hood||'';const m=h.match(/\(([^)]+)\)/);return m?m[1]:((l.area||'').split(',')[0]||'')};
-const sqm=l=>{const m=(l.size||'').match(/([\d.]+)\s*m²/);return m?Math.round(+m[1])+' m²':'m² ?'};
+const hoodName=l=>{if(l.nbhd)return l.nbhd;const h=l.hood||'';const m=h.match(/\(([^)]+)\)/);return m?m[1]:((l.area||'').split(',')[0]||'')};
+const sqm=l=>{const m=(l.size||'').match(/([\d.]+)\s*m²/);if(m)return Math.round(+m[1])+' m²';const f=l.agent_facts&&l.agent_facts.size;return f?f:'m² —'};
 const furnS=l=>{const f=(l.furnished||'').toLowerCase();return !f?'мебель ?':f.includes('flex')||f.includes('or unfurn')?'с мебелью / без':f.includes('part')?'частично':f.includes('unfurn')?'без мебели':'с мебелью'};
-const availS=l=>!l.available?'с ? (ask)':(l.available<=new Date().toISOString().slice(0,10)?'сейчас':'с '+fmtD(l.available));
+const availS=l=>!l.available?((l.agent_facts&&l.agent_facts.available)?'с '+l.agent_facts.available:'дата —'):(l.available<=new Date().toISOString().slice(0,10)?'сейчас':'с '+fmtD(l.available));
 const commS=l=>l.commute_min?`${l.commute_min} мин · ${esc(l.commute_mode||'')}`:(l.commute?esc(l.commute):'');
+const SRC={rightmove:['Rightmove','#00deb6','#0b2e2a'],openrent:['OpenRent','#e8f5e9','#1b5e20'],onthemarket:['OTM','#e3f2fd','#0d47a1'],foxtons:['Foxtons','#e8f5e9','#2e7d32'],zoopla:['Zoopla','#f3e5f5','#6a1b9a'],chestertons:['Chestertons','#fff8e1','#8d6e00']};
+const srcOf=l=>l.source||(/^or-/.test(l.id)?'openrent':/^otm-/.test(l.id)?'onthemarket':/^fx-/.test(l.id)?'foxtons':/^zp-/.test(l.id)?'zoopla':/^ch-/.test(l.id)?'chestertons':'rightmove');
+const srcName=l=>(SRC[srcOf(l)]||SRC.rightmove)[0];
+const srcBadge=l=>{const [n,bg,fg]=SRC[srcOf(l)]||SRC.rightmove;return `<span class="srcb" style="background:${bg};color:${fg}">${n}</span>`};
+const freshB=l=>l.fresh_days!=null&&!l.stale&&l.fresh_days<=3?` <span class="freshb">≤3d</span>`:'';
+const inFeed=l=>!l.stale||saved.has(String(l.id))||!!sentOf(l.id)||rating(l)==='like';
 const sentD=e=>e&&e.sent_at?fmtD(e.sent_at):'';
 function render(){
- const cnt=k=>k=='all'?data.length:k=='saved'?data.filter(l=>saved.has(String(l.id))).length:k=='sent'?data.filter(l=>sentOf(l.id)).length:k=='notsent'?data.filter(l=>!sentOf(l.id)).length:data.filter(isNew).length;
+ const D2=data.filter(inFeed);const cnt=k=>k=='all'?D2.length:k=='saved'?data.filter(l=>saved.has(String(l.id))).length:k=='sent'?data.filter(l=>sentOf(l.id)).length:k=='notsent'?D2.filter(l=>!sentOf(l.id)).length:D2.filter(isNew).length;
  document.getElementById('filters').innerHTML=FL2.map(([k,lab])=>`<button class="chip ${k==filt?'on':''}" onclick="filt='${k}';render()">${lab} (${cnt(k)})</button>`).join('');
  const nh=data.filter(l=>rating(l)==='dislike').length;
- let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):filt=='sent'?!!sentOf(l.id):filt=='notsent'?!sentOf(l.id):filt=='new'?isNew(l):st(l)==filt));
+ let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='saved'||filt=='sent'||inFeed(l)).filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):filt=='sent'?!!sentOf(l.id):filt=='notsent'?!sentOf(l.id):filt=='new'?isNew(l):st(l)==filt));
  const so=document.getElementById('sort').value;
  const base=so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):so=='commute'?(a,b)=>(a.commute_min||999)-(b.commute_min||999):(a,b)=>(b.date_found||'').localeCompare(a.date_found||'');
  L.sort((a,b)=>(!!sentOf(a.id))-(!!sentOf(b.id))||base(a,b));
@@ -52,10 +58,10 @@ function render(){
  document.getElementById('list').innerHTML=L.map(l=>{const e=sentOf(l.id);let sep='';if(e&&firstSent&&L.some(x=>!sentOf(x.id))){firstSent=false;sep='<div class="day">✉️ Уже написали</div>'}
  return sep+`<div class="card${e?' done':''}" id="c-${esc(l.id)}"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
  <div class="bar"><button class="score" style="background:${scCol(scoreOf(l))}" onclick="this.closest('.card').querySelector('details.more').toggleAttribute('open')" aria-label="Score ${scoreOf(l)} of 100, show details">${l.score!=null?scoreOf(l):'–'}</button>
- <button class="b s rmb" onclick="link('${esc(l.url)}')">Rightmove ↗</button>
+ <button class="b s rmb" onclick="link('${esc(l.url)}')">${srcName(l)} ↗</button>
  <button class="b s rt${rating(l)=='like'?' up':''}" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b s rt${rating(l)=='dislike'?' dn':''}" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>
  <span class="p">£${Number(l.price).toLocaleString()}</span></div>
- <div class="body"><div class="t">${esc(l.title)}${isNew(l)?' <span class="newb">🆕 New</span>':''}</div>
+ <div class="body"><div class="t">${srcBadge(l)}${esc(l.title)}${freshB(l)}${isNew(l)?' <span class="newb">🆕 New</span>':''}</div>
  ${e?`<div><span class="sbadge enq">✉️ Написали ${sentD(e)}${e.source==='masha'?' (Маша)':e.source==='assistant'?' (ассистент)':''}</span></div>`:''}
  ${commS(l)?`<div class="comm">🕘 ${commS(l)}</div>`:''}
  <div class="tags"><span>📍 ${esc(hoodName(l))}</span><span>📅 ${esc(availS(l))}</span><span>📐 ${esc(sqm(l))}</span><span>🛋 ${esc(furnS(l))}</span></div>
@@ -71,7 +77,40 @@ function render(){
  </div></div>`}).join('')||'<p style="text-align:center;color:var(--hint)">No listings</p>';
 }
 function sentBox(l){const e=sentOf(l.id);if(!e)return '';const [lab,cls]=SSTAT[e.status]||SSTAT.sent;
- return msgBox(e,`<span class="sbadge">${esc(enqBadge(e))}</span><span class="badge ${cls}">${lab}</span>`)}
+ return `<div><span class="sbadge">${esc(enqBadge(e))}</span><span class="badge ${cls}">${lab}</span></div>`+nextBox(e)+convC(e)}
+const AGE=n=>n==null?'':n==0?'today':n==1?'1 day':n+' days';
+const nAgo=d=>{if(!d)return null;return Math.max(0,Math.floor((Date.now()-new Date(d))/864e5))};
+const DRK='flatdraft';const DR=JSON.parse(localStorage.getItem(DRK)||'{}');
+const drOf=e=>DR[e.listing_id]!=null?DR[e.listing_id]:((e.next||{}).draft||'');
+function nextBox(e){const n=e.next;if(!n||n.who==='none')return n&&n.text?`<div class="nx nx-none">✔️ ${esc(n.text)}</div>`:'';
+ const us=n.who==='us';const a=nAgo(n.since);const id=esc(e.listing_id);
+ let h=`<div class="nx ${us?'nx-us':'nx-ag'}"><div class="nxh">${us?'👉 Our move':'⏳ Agent\'s move'}${a!=null?` · ${AGE(a)}${n.since?' (since '+fmtD(n.since)+')':''}`:''}</div><div class="nxt">${esc(n.text)}</div>`;
+ const acts=[];if(n.action_url)acts.push(`<button class="b s" onclick="link('${esc(n.action_url)}')">✅ Open OpenRent confirm</button>`);
+ if(us&&n.agent_phone&&n.kind==='call')acts.push(`<a class="b s" href="tel:${esc(n.agent_phone.replace(/[^+\d]/g,''))}">📞 Call ${esc(n.agent_phone)}</a>`);
+ if(acts.length)h+=`<div class="acts">${acts.join('')}</div>`;
+ if(n.draft){const ed=DR[e.listing_id]!=null;h+=`<div class="drf"><div class="drh">Suggested reply${n.reply_to?' → '+esc(n.reply_to):''}${ed?' <i>(edited)</i>':''}</div><pre id="dr-${id}">${esc(drOf(e))}</pre>
+  <textarea id="de-${id}" style="display:none" rows="5"></textarea>
+  <div class="acts"><button class="b s" onclick="drCopy('${id}')">Copy</button><button class="b s" onclick="drEdit('${id}')">✏️ Edit</button>${n.reply_to?`<button class="b s big" onclick="drSend('${id}')">Send via…</button>`:''}</div>
+  <div class="drn">Nothing is sent until you confirm in the bot chat.</div></div>`}
+ return h+'</div>'}
+function drCopy(id){const e=sentOf(id);const t=drOf(e);(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>toast('Copied'),()=>toast('Select & copy manually'))}
+function drEdit(id){const ta=document.getElementById('de-'+id),pre=document.getElementById('dr-'+id);
+ if(ta.style.display==='none'){ta.value=drOf(sentOf(id));ta.style.display='';pre.style.display='none';ta.focus()}
+ else{const v=ta.value.trim();const e=sentOf(id);if(v&&v!==(e.next||{}).draft)DR[id]=v;else delete DR[id];localStorage.setItem(DRK,JSON.stringify(DR));render();if(curTab=='replies')renderR();toast('Draft saved on this device')}}
+function drSend(id){const e=sentOf(id);if(DR[id]!=null){const t=DR[id];const go=()=>{toast('Edited text copied — paste it in the bot chat');setTimeout(()=>deep('me_'+id),600)};
+  (navigator.clipboard?navigator.clipboard.writeText('reply '+id+': '+t):Promise.reject()).then(go,()=>{prompt('Copy this and paste in the bot chat:','reply '+id+': '+t);deep('me_'+id)})}
+ else deep('m_'+id)}
+function convC(e){const T=e.thread||[];const enq=T.find(m=>m.enquiry);const txt=(enq&&enq.text)||msgOf(e);
+ const ag=T.filter(m=>m.dir==='agent');const last=ag.slice(-2);
+ let h='<div class="cv">';
+ h+=txt?`<details class="sent"><summary><span class="more">✉️ Masha's enquiry${e.sent_at?' · '+fmtD(e.sent_at):''}</span></summary><pre>${esc(txt)}</pre></details>`
+   :`<div class="sent" style="font-size:12px;opacity:.8">✉️ Masha's enquiry text unavailable — ${esc(e.text_missing_reason||'sent via Rightmove; no copy in Gmail.')}${ag.length?' Agent reply below.':''}</div>`;
+ const mine=T.filter(m=>m.dir==='masha'&&!m.enquiry);
+ const lastM=T.filter(m=>!m.enquiry).slice(-2);
+ h+=lastM.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${m.dir==='masha'?'✉️ Masha':'🏢 '+esc((m.from||'').split('@')[0])} · ${m.date?fmtD(m.date)+' '+tmZ(m.date,TZ):''}</div><pre class="clip">${esc(m.text||'')}</pre></div>`).join('');
+ if(T.length>lastM.length+(enq?1:0))h+=convBox(e);
+ return h+'</div>'}
+
 function save(id){const l=data.find(x=>x.id==id);const k=String(id);
  if(saved.has(k)){saved.delete(k);localStorage.setItem(svK,JSON.stringify([...saved]));render();toast('Removed from saved');return}
  saved.add(k);localStorage.setItem(svK,JSON.stringify([...saved]));render();
@@ -117,7 +156,7 @@ function vcard(v,past){const L=v.listing_id&&data.find(l=>String(l.id)==String(v
  <div class="facts">${[v.type=='video'?'📹 video':(v.datetime?'🚶 in-person':''),v.agent,v.agent_contact].filter(Boolean).map(esc).join(' · ')}</div>
  <div class="facts">${v.agent_phone?`📞 <a href="tel:${esc(v.agent_phone.replace(/[^+\d]/g,''))}">${esc(v.agent_phone)}</a> `:''}${v.agent_email?`✉️ <a href="mailto:${esc(v.agent_email)}">${esc(v.agent_email)}</a>`:''}</div>
  <div><span class="badge st-${esc(v.status)}">${esc(st)}</span>${v.calendar_event_id?'<span class="badge">📅 in calendar</span>':''}</div>
- ${v.notes?`<div class="notes">${esc(v.notes)}</div>`:''}<div class="acts">${L?`<button class="b s" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${url?`<button class="b s" onclick="link('${esc(url)}')">Rightmove ↗</button>`:''}</div></div></div>`}
+ ${v.notes?`<div class="notes">${esc(v.notes)}</div>`:''}<div class="acts">${L?`<button class="b s" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${url?`<button class="b s" onclick="link('${esc(url)}')">${L?srcName(L):'Listing'} ↗</button>`:''}</div></div></div>`}
 function renderV(){const now=Date.now();const up=[],pa=[],tbc=[];
  V.forEach(v=>{if(!v.datetime)tbc.push(v);else if(new Date(v.datetime)>=now-3600e3&&v.status!='done')up.push(v);else pa.push(v)});
  up.sort((a,b)=>a.datetime.localeCompare(b.datetime));pa.sort((a,b)=>b.datetime.localeCompare(a.datetime));
@@ -135,7 +174,7 @@ const rcard=r=>`<div class="reply"><span style="font-size:12px;color:var(--hint)
  ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div>`;
 const convBox=e=>{const T=e.thread,na=T.filter(m=>m.dir==='agent').length;const c=e.agent_email||e.agent_phone?`<div class="facts">${[e.agent_contact,e.agent_phone,e.agent_email].filter(Boolean).map(esc).join(' · ')}</div>`:'';
  return c+`<details class="sent conv"><summary><span class="more">💬 conversation (${T.length} msg${na?', '+na+' from agent':''})</span></summary>${T.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${m.dir==='masha'?(m.enquiry?'✉️ Masha (enquiry)':'✉️ Masha'):'🏢 '+esc((m.from||'').split('@')[0])} · ${m.date?fmtD(m.date)+' '+new Date(m.date).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'}):''}</div><pre>${esc(m.text||'')}</pre></div>`).join('')}</details>`};
-function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sent_at||''));
+function renderR(){let SS=[...S].sort((a,b)=>((a.action_rank??2)-(b.action_rank??2))||(b.sent_at||'').localeCompare(a.sent_at||''));
  const nAll=SS.length,nLet=SS.filter(e=>e.status==='Let agreed').length,nAct=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market').length;
  if(rFilt==='active')SS=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market');
  else if(rFilt==='let')SS=SS.filter(e=>e.status==='Let agreed');
@@ -149,9 +188,9 @@ function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sen
   return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${L?`<a href="#flat-${esc(L.id)}" class="clink" onclick="openCard('${esc(L.id)}');return false">${esc(e.title||L.title)} ›</a>`:esc(e.title)}</div>
   ${e.agent||e.price?`<div class="facts">${[e.price,e.agent].filter(Boolean).map(esc).join(' · ')}</div>`:''}
   <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span>${e.listing_market?`<span class="badge st-off">${esc(e.listing_market)}</span>`:''}</div>
-  ${e.thread&&e.thread.length?convBox(e):msgBox(e)}
+  ${nextBox(e)}${convC(e)}
   ${rs.length?rs.map(rcard).join(''):(e.status==='awaiting reply'||e.status==='sent'||!e.status?'<div class="notes" style="margin-top:6px">No reply yet</div>':'')}
-  <div class="acts">${L?`<button class="b s opencard" data-id="${esc(L.id)}" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${linkUrl?`<button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button>`:''}</div></div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
+  <div class="acts">${L?`<button class="b s opencard" data-id="${esc(L.id)}" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${linkUrl?`<button class="b s" onclick="link('${esc(linkUrl)}')">${L?srcName(L):'Listing'} ↗</button>`:''}</div></div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
  const other=R.filter(r=>!used.has(r));
  if(other.length&&rFilt==='all')h+='<div class="day">Other replies</div>'+other.map(r=>`<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t">${esc(r.agent)}</div><div>${esc(r.title||'')}</div>
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}

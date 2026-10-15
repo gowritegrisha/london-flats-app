@@ -11,7 +11,14 @@
   "agent": "Coopers, London",
   "price": "£450 pw",
   "rightmove_label": "You enquired on 12th October",
-  "message": "Hello,\n\nWe're very interested in Hodgeson House and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263"
+  "message": "Hello,\n\nWe're very interested in Hodgeson House and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nThank you,\nMaria Surkova\n+34 605 227 263",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2
  },
  {
   "listing_id": "94199361",
@@ -58,12 +65,18 @@
   "mail_status": "rejected",
   "agent_email": "Emma@langfordproperty.co.uk",
   "agent_phone": "020 7036 6010",
-  "notes": "Masha declined 13 Oct: layout not workable."
+  "notes": "Masha declined 13 Oct: layout not workable.",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "We said it's not for us",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2
  },
  {
   "listing_id": "93395547",
   "title": "Princes Avenue, London, N10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -71,12 +84,21 @@
   "url": "https://www.rightmove.co.uk/properties/93395547",
   "agent": "Martyn Gerrard, Muswell Hill",
   "price": "£450 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94294830",
   "title": "Princes Avenue, Muswell Hill, London, N10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -84,12 +106,21 @@
   "url": "https://www.rightmove.co.uk/properties/94294830",
   "agent": "Kinleigh Folkard & Hayward - Lettings, Muswell Hill",
   "price": "£450 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94273353",
   "title": "Muswell Hill Road, London, N10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -97,12 +128,22 @@
   "url": "https://www.rightmove.co.uk/properties/94273353",
   "agent": "OpenRent, London",
   "price": "£392 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "us",
+   "kind": "openrent_confirm",
+   "since": "2026-10-14T16:24:49Z",
+   "age_days": 1,
+   "text": "OpenRent enquiry not confirmed — open the link and press 'Confirm & Send to Landlord' (the landlord hasn't seen it yet)",
+   "action_url": "https://www.openrent.co.uk/bookviewing/48012019?email=gowritemasha@gmail.com&tenantWantsToAskQuestion=False",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94269069",
   "title": "North Hill, London, N6",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -110,12 +151,22 @@
   "url": "https://www.rightmove.co.uk/properties/94269069",
   "agent": "OpenRent, London",
   "price": "£1,600 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "us",
+   "kind": "openrent_confirm",
+   "since": "2026-10-14T16:24:23Z",
+   "age_days": 1,
+   "text": "OpenRent enquiry not confirmed — open the link and press 'Confirm & Send to Landlord' (the landlord hasn't seen it yet)",
+   "action_url": "https://www.openrent.co.uk/bookviewing/48012008?email=gowritemasha@gmail.com&tenantWantsToAskQuestion=False",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94258452",
   "title": "Holloway Road, London",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -123,12 +174,21 @@
   "url": "https://www.rightmove.co.uk/properties/94258452",
   "agent": "Prestige Properties, London Lettings",
   "price": "£392 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94306005",
   "title": "Alder House, 1 Swannell Way, London, NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -161,12 +221,24 @@
   "mail_status": "viewing proposed",
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
   "agent_email": "molly@oakhill.london",
-  "agent_phone": "+44 (0) 20 3544 4443"
+  "agent_phone": "+44 (0) 20 3544 4443",
+  "next": {
+   "reply_to": "molly@oakhill.london",
+   "thread_id": "1a13e9990f6ad33e",
+   "agent_phone": "+44 (0) 20 3544 4443",
+   "who": "us",
+   "since": "2026-10-15T08:06:27Z",
+   "age_days": 0,
+   "kind": "qualify",
+   "text": "Oakhill (Molly) asks qualifying questions + when to view — answer",
+   "draft": "Hey! It's for me and my husband, we're moving early-mid November for at least 12-18 months. Budget up to £2k/month, 1 bed is fine, furnished or unfurnished both ok. I'm a product manager, my husband works in tech remotely, combined income is over £190k. We have a small certified service dog and a cat, both very quiet. I'm in Barcelona until end of October so a video viewing would be great, any weekday after 12:30 works",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0
  },
  {
   "listing_id": "94259382",
   "title": "Edison Court, London, NW10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -174,12 +246,22 @@
   "url": "https://www.rightmove.co.uk/properties/94259382",
   "agent": "OpenRent, London",
   "price": "£438 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "us",
+   "kind": "openrent_confirm",
+   "since": "2026-10-14T16:22:20Z",
+   "age_days": 1,
+   "text": "OpenRent enquiry not confirmed — open the link and press 'Confirm & Send to Landlord' (the landlord hasn't seen it yet)",
+   "action_url": "https://www.openrent.co.uk/bookviewing/48011957?email=gowritemasha@gmail.com&tenantWantsToAskQuestion=False",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "167679992",
   "title": "Fordwych Road, London, NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -202,12 +284,21 @@
    "1a13b371a0edcde1"
   ],
   "mail_status": "awaiting reply",
-  "agent_email": "noreply@send.agentresponse.co.uk"
+  "agent_email": "noreply@send.agentresponse.co.uk",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "93588750",
   "title": "Holland Road, London, NW10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -241,12 +332,18 @@
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
   "agent_email": "Nicole@wenlocktaylor.co.uk",
   "agent_phone": "020 8969 0122",
-  "agent_contact": "Nicole Woolner"
+  "agent_contact": "Nicole Woolner",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2
  },
  {
   "listing_id": "94303230",
   "title": "Rehersal Rooms, Victoria Road",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -254,12 +351,21 @@
   "url": "https://www.rightmove.co.uk/properties/94303230",
   "agent": "Savills Lettings, Rehearsal Rooms",
   "price": "£459 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93543816",
   "title": "1 Heartwood Boulevard, London, W3",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -283,12 +389,21 @@
   ],
   "mail_status": "awaiting reply",
   "agent_email": "lettings@hello-neighbour.com",
-  "agent_phone": "020 8138 8848"
+  "agent_phone": "020 8138 8848",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94198248",
   "title": "Ellesmere Road, Chiswick",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "replied",
@@ -313,12 +428,25 @@
   "mail_status": "replied",
   "agent_email": "isabellemerecki@dexters.co.uk",
   "agent_phone": "020 8995 5439",
-  "agent_contact": "Isabelle Merecki"
+  "agent_contact": "Isabelle Merecki",
+  "next": {
+   "reply_to": "isabellemerecki@dexters.co.uk",
+   "thread_id": "1a13f08ca6a27864",
+   "agent_phone": "020 8995 5439",
+   "who": "us",
+   "since": "2026-10-15T10:08:20Z",
+   "age_days": 0,
+   "kind": "call",
+   "text": "Dexters (Isabelle) asks to call back — call 020 8995 5439 (or reply by email)",
+   "draft": "Hey! Sorry, I'm in Barcelona so calls are tricky. Could we continue here or on WhatsApp +34605227263? Happy to do a video viewing",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94227381",
   "title": "Wood Lane, London, W12",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -326,12 +454,22 @@
   "url": "https://www.rightmove.co.uk/properties/94227381",
   "agent": "OpenRent, London",
   "price": "£462 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "us",
+   "kind": "openrent_confirm",
+   "since": "2026-10-14T16:02:57Z",
+   "age_days": 1,
+   "text": "OpenRent enquiry not confirmed — open the link and press 'Confirm & Send to Landlord' (the landlord hasn't seen it yet)",
+   "action_url": "https://www.openrent.co.uk/bookviewing/48011369?email=gowritemasha@gmail.com&tenantWantsToAskQuestion=False",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94185309",
   "title": "Richford Street, London",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -339,12 +477,21 @@
   "url": "https://www.rightmove.co.uk/properties/94185309",
   "agent": "Kerr and Co, Shepherds Bush & Hammersmith",
   "price": "£360 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94299561",
   "title": "Matheson Road, London, W14",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -368,12 +515,25 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "diogo.esteves@kfh.co.uk",
-  "agent_phone": "020 8780 4932"
+  "agent_phone": "020 8780 4932",
+  "next": {
+   "reply_to": "diogo.esteves@kfh.co.uk",
+   "thread_id": "1a13efdb26811a3f",
+   "agent_phone": "020 8780 4932",
+   "who": "us",
+   "since": "2026-10-15T09:56:06Z",
+   "age_days": 0,
+   "kind": "call",
+   "text": "Kinleigh Folkard & Hayward (Diogo) asks to call back — call 020 8780 4932 (or reply by email)",
+   "draft": "Hey! Sorry, I'm in Barcelona so calls are tricky. Could we continue here or on WhatsApp +34605227263? Happy to do a video viewing",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "93668892",
   "title": "Pattison Road, (MS217), London, NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -381,12 +541,21 @@
   "url": "https://www.rightmove.co.uk/properties/93668892",
   "agent": "Hamways, London",
   "price": "£1,800 pcm",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93267390",
   "title": "Woodchurch Road, South Hampstead NW6",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -394,12 +563,21 @@
   "url": "https://www.rightmove.co.uk/properties/93267390",
   "agent": "Cedar Estates, West Hampstead",
   "price": "£440 pw",
-  "rightmove_label": "You enquired yesterday"
+  "rightmove_label": "You enquired yesterday",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "92037608",
   "title": "Dudley House, North Wharf Road, City Of Westminster, London",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "replied",
@@ -432,12 +610,21 @@
   "mail_status": "replied",
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
   "agent_email": "buildtorent@pinnaclegroup.co.uk",
-  "agent_contact": "Fatima"
+  "agent_contact": "Fatima",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "since": "2026-10-14T15:40:00Z",
+   "text": "Not eligible: Pinnacle requires 12 months living/working in Westminster and household income ≤ £90k (listing blocked)",
+   "source": "manual",
+   "age_days": 1,
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2
  },
  {
   "listing_id": "94311600",
   "title": "Sussex Way, Upper Holloway, N19",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -461,12 +648,21 @@
   ],
   "mail_status": "awaiting reply",
   "agent_email": "matches@chestertons.co.uk",
-  "agent_phone": "+44 (0)20 7267 1010"
+  "agent_phone": "+44 (0)20 7267 1010",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-14",
+   "age_days": 1,
+   "text": "Awaiting agent reply since 13 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "92257719",
   "title": "Hendon Way, Hendon, NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -490,12 +686,25 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "zac@leonewman.co.uk",
-  "agent_phone": "07407 031 620 02"
+  "agent_phone": "07407 031 620 02",
+  "next": {
+   "reply_to": "zac@leonewman.co.uk",
+   "thread_id": "1a13c3708e445519",
+   "agent_phone": "07407 031 620 02",
+   "who": "us",
+   "since": "2026-10-14T20:59:58Z",
+   "age_days": 1,
+   "kind": "qualify",
+   "text": "Leo Newman (Zac) asks qualifying questions + when to view — answer",
+   "draft": "Hey! It's for me and my husband, we're moving early-mid November for at least 12-18 months. Budget up to £2k/month, 1 bed is fine, furnished or unfurnished both ok. I'm a product manager, my husband works in tech remotely, combined income is over £190k. We have a small certified service dog and a cat, both very quiet. I'm in Barcelona until end of October so a video viewing would be great, any weekday after 12:30 works",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "128733527",
   "title": "Trelawn Road, London, E10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "replied",
@@ -545,12 +754,24 @@
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
   "agent_email": "tracey@ambassadorgroup.co.uk",
   "agent_phone": "020 8500 8855",
-  "agent_contact": "Tracey Ramsay"
+  "agent_contact": "Tracey Ramsay",
+  "next": {
+   "reply_to": "tracey@ambassadorgroup.co.uk",
+   "thread_id": "1a13c21698b023df",
+   "agent_phone": "020 8500 8855",
+   "who": "us",
+   "since": "2026-10-14T21:12:17Z",
+   "age_days": 0,
+   "kind": "video",
+   "text": "Ambassador Property Services (Tracey) offers a video — reply",
+   "draft": "Hey! Yes please, a video would be great, thank you!",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0
  },
  {
   "listing_id": "94310331",
   "title": "Kings Avenue, London",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-14",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -581,12 +802,25 @@
    "1a13b22cd63d401a"
   ],
   "mail_status": "viewing proposed",
-  "agent_email": "matteodanisi@dexters.co.uk"
+  "agent_email": "matteodanisi@dexters.co.uk",
+  "next": {
+   "who": "us",
+   "kind": "availability",
+   "since": "2026-10-14T21:00:22Z",
+   "text": "Dexters (Matteo) proposed a video viewing on Fri 16 Oct; Masha said 'any time after 12:30' but no slot is confirmed yet. Send a specific time so it gets booked",
+   "draft": "Hey! Shall we say 1pm UK time tomorrow (Friday) for the video call? Just send me the link or call me on WhatsApp +34605227263",
+   "reply_to": "matteodanisi@dexters.co.uk",
+   "thread_id": "1a13b22cd63d401a",
+   "source": "manual",
+   "age_days": 1,
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "93330687",
   "title": "Old Kent Road, London, SE1",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "Off the market",
@@ -618,12 +852,19 @@
    "1a12709a019d39dd"
   ],
   "mail_status": "awaiting reply",
-  "agent_email": "arrangeviewingfollowup-donotreply@openrent.co.uk"
+  "agent_email": "arrangeviewingfollowup-donotreply@openrent.co.uk",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Off the market — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "93497595",
   "title": "Burton Grove, London",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -648,12 +889,25 @@
   "mail_status": "viewing proposed",
   "agent_email": "Kevin.Ip@walworthvillage.co.uk",
   "agent_phone": "07812 434 444",
-  "agent_contact": "Kevin Ip"
+  "agent_contact": "Kevin Ip",
+  "next": {
+   "reply_to": "Kevin.Ip@walworthvillage.co.uk",
+   "thread_id": "1a11b266c477b1e7",
+   "agent_phone": "07812 434 444",
+   "who": "us",
+   "since": "2026-10-08T10:54:20Z",
+   "age_days": 7,
+   "kind": "availability",
+   "text": "Dorrington (Kevin) asks when we can view — reply with a time",
+   "draft": "Hey! I'm still in Barcelona, could we do a video viewing? Any weekday after 12:30 works for me",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94136856",
   "title": "Beehive Place, Brixton SW9",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -661,12 +915,21 @@
   "url": "https://www.rightmove.co.uk/properties/94136856",
   "agent": "Cedar Estates, West Hampstead",
   "price": "£1,798 pcm",
-  "rightmove_label": "You enquired on 10th October"
+  "rightmove_label": "You enquired on 10th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-10",
+   "age_days": 5,
+   "text": "Awaiting agent reply since 9 Oct (5 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93414906",
   "title": "Worcester Mews, West Hampstead, NW6",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -691,12 +954,19 @@
   "mail_status": "let agreed",
   "agent_email": "Tania.Katz@chestertons.co.uk",
   "agent_phone": "+44 (0) 2038611403",
-  "agent_contact": "Tania Katz"
+  "agent_contact": "Tania Katz",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94137456",
   "title": "Spenser Road, London, SE24",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -719,12 +989,25 @@
    "1a126fe03c8e7f48"
   ],
   "mail_status": "awaiting reply",
-  "agent_email": "lettings@emoov.co.uk"
+  "agent_email": "lettings@emoov.co.uk",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-10",
+   "age_days": 5,
+   "text": "Awaiting agent reply since 9 Oct (5 days) — nudge?",
+   "reply_to": "lettings@emoov.co.uk",
+   "thread_id": "1a126fe03c8e7f48",
+   "agent_phone": null,
+   "draft": "Hey! Just checking if the flat is still available? Happy to do a video viewing",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94160553",
   "title": "Coldharbour Lane, Camberwell, SE5",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "replied",
@@ -748,12 +1031,25 @@
   ],
   "mail_status": "replied",
   "agent_email": "Etianne.Wilson@haart.co.uk",
-  "agent_phone": "020 8693 7038"
+  "agent_phone": "020 8693 7038",
+  "next": {
+   "reply_to": "Etianne.Wilson@haart.co.uk",
+   "thread_id": "1a13615aeabc8598",
+   "agent_phone": "020 8693 7038",
+   "who": "us",
+   "since": "2026-10-13T16:25:51Z",
+   "age_days": 2,
+   "kind": "form",
+   "text": "haart (Etianne): offer/reservation form received 13 Oct — decide, fill in & return",
+   "draft": "Hey! Thank you, I'll fill it in and send it back shortly",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94152048",
   "title": "The Maple, 10 Aviator Drive, NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-10",
   "channel": "rightmove",
   "status": "viewing",
@@ -791,18 +1087,27 @@
   "thread_ids": [
    "1a130937de123cba"
   ],
-  "mail_status": "viewing booked",
+  "mail_status": "replied",
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the end of October and am ready to move in straigh away, and am ready to make a deposit remotely. My WA is +34605227263. Household's combined yearly income exceed £180,000.",
   "agent_email": "James.Feltham@cbre.com",
   "agent_phone": "+44 738 546 9872",
   "agent_contact": "James",
   "listing_market": "Off the market",
-  "notes": "Video viewing booked Thu 16 Oct with India Chattwell Grint (CBRE). Listing may show off-market but other Maple flats available."
+  "notes": "Video viewing booked Thu 16 Oct with India Chattwell Grint (CBRE). Listing may show off-market but other Maple flats available.",
+  "next": {
+   "who": "agent",
+   "kind": "viewing_booked",
+   "since": "2026-10-14T15:05:39Z",
+   "text": "Viewing booked Fri 16 Oct 12:00 London / 13:00 Madrid with India Chattwell Grint (CBRE), in Masha's calendar. Nothing to do before then",
+   "source": "manual",
+   "age_days": 1,
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1
  },
  {
   "listing_id": "150171911",
   "title": "Jensen House, 41 Wellington Way, London, E3",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-08",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -810,12 +1115,21 @@
   "url": "https://www.rightmove.co.uk/properties/150171911",
   "agent": "Winkworth, Bow",
   "price": "£1,750 pcm",
-  "rightmove_label": "You enquired on 8th October"
+  "rightmove_label": "You enquired on 8th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-08",
+   "age_days": 7,
+   "text": "Awaiting agent reply since 7 Oct (7 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94001658",
   "title": "Salisbury Road, Leyton, London",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-08",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -823,12 +1137,21 @@
   "url": "https://www.rightmove.co.uk/properties/94001658",
   "agent": "Waltham Estates, London",
   "price": "£1,650 pcm",
-  "rightmove_label": "You enquired on 8th October"
+  "rightmove_label": "You enquired on 8th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-08",
+   "age_days": 7,
+   "text": "Awaiting agent reply since 7 Oct (7 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93217989",
   "title": "Maybury Gardens, Willesden Green, London, NW10",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-08",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -836,12 +1159,21 @@
   "url": "https://www.rightmove.co.uk/properties/93217989",
   "agent": "Stones Residential, Belsize Park",
   "price": "£1,650 pcm",
-  "rightmove_label": "You enquired on 8th October"
+  "rightmove_label": "You enquired on 8th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-08",
+   "age_days": 7,
+   "text": "Awaiting agent reply since 7 Oct (7 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93878088",
   "title": "80C Sinclair Road, Kensington, London, W14",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-08",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -849,12 +1181,21 @@
   "url": "https://www.rightmove.co.uk/properties/93878088",
   "agent": "Allsop, Auction",
   "price": "£360,000",
-  "rightmove_label": "You enquired on 8th October"
+  "rightmove_label": "You enquired on 8th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-08",
+   "age_days": 7,
+   "text": "Awaiting agent reply since 7 Oct (7 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93947868",
   "title": "CROMWELL CLOSE, EAST FINCHLEY, N2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -888,12 +1229,18 @@
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Our dog is a certified service dog (fully trained, not emotional support) and usually out with me. Both are well-behaved and no trouble for neighbors. Happy to chat about this flat or any other you have!",
   "agent_email": "graham@bennett-hall.co.uk",
   "agent_phone": "020 8346 2208",
-  "agent_contact": "Graham Bettis"
+  "agent_contact": "Graham Bettis",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2
  },
  {
   "listing_id": "92332098",
   "title": "St. Ann's Road, London, Greater London, N15 5RP",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Off the market",
@@ -926,12 +1273,20 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "ryan@lettingaproperty.com",
-  "agent_phone": "+44) 01564 492960"
+  "agent_phone": "+44) 01564 492960",
+  "listing_market": "Off the market",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Off the market — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "92113110",
   "title": "Cricklewood Broadway, London, NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -965,12 +1320,25 @@
   "mail_status": "viewing proposed",
   "agent_email": "edenwood-house.reply@mail.occu.ie",
   "agent_contact": "Erin",
-  "agent_phone": "+44 203 996 9927"
+  "agent_phone": "+44 203 996 9927",
+  "next": {
+   "reply_to": "Erin@occu.ie",
+   "thread_id": "1a11aae77e3a6315",
+   "agent_phone": "+44 203 996 9927",
+   "who": "us",
+   "since": "2026-10-08T08:43:05Z",
+   "age_days": 7,
+   "kind": "qualify",
+   "text": "Occu (Erin) asks qualifying questions + when to view — answer",
+   "draft": "Hey! It's for me and my husband, we're moving early-mid November for at least 12-18 months. Budget up to £2k/month, 1 bed is fine, furnished or unfurnished both ok. I'm a product manager, my husband works in tech remotely, combined income is over £190k. We have a small certified service dog and a cat, both very quiet. I'm in Barcelona until end of October so a video viewing would be great, any weekday after 12:30 works",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "163036916",
   "title": "Loftus Road, London, W12",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -978,12 +1346,21 @@
   "url": "https://www.rightmove.co.uk/properties/163036916",
   "agent": "Winkworth, Shepherds Bush",
   "price": "£1,850 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-07",
+   "age_days": 8,
+   "text": "Awaiting agent reply since 6 Oct (8 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93960210",
   "title": "Vartry Road, London, N15",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -991,12 +1368,21 @@
   "url": "https://www.rightmove.co.uk/properties/93960210",
   "agent": "Oakwood, Stoke Newington",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-07",
+   "age_days": 8,
+   "text": "Awaiting agent reply since 6 Oct (8 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94028445",
   "title": "The Avenue, Queen's Park",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Off the market",
@@ -1004,12 +1390,19 @@
   "url": "https://www.rightmove.co.uk/properties/94028445",
   "agent": "Marsh & Parsons, Queen's Park",
   "price": "£1,750 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Off the market — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93814602",
   "title": "Bassein Park Road, Shepherds Bush",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -1017,12 +1410,21 @@
   "url": "https://www.rightmove.co.uk/properties/93814602",
   "agent": "Marsh & Parsons, Askew Road & Acton",
   "price": "£1,800 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-07",
+   "age_days": 8,
+   "text": "Awaiting agent reply since 6 Oct (8 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94033137",
   "title": "Holland Park Gardens, London, W14",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -1072,12 +1474,25 @@
    "1a1185562645e8ba"
   ],
   "mail_status": "viewing proposed",
-  "agent_email": "nextstepsrentnow-donotreply@openrent.co.uk"
+  "agent_email": "nextstepsrentnow-donotreply@openrent.co.uk",
+  "next": {
+   "who": "us",
+   "kind": "question",
+   "since": "2026-10-08T06:50:00Z",
+   "text": "OpenRent landlord (Randy) wants a tenant moving in 14 Oct and asks for the exact move-in date; we move mid-Nov, so probably not a fit. Reply or drop",
+   "draft": "Hey! We're moving mid November unfortunately, so I guess it's too late for you. Thanks anyway!",
+   "reply_to": "property360b3e4f93514047ba876d4bbb53a836@user.openrent.com",
+   "thread_id": "1a11a4711f4776ec",
+   "source": "manual",
+   "age_days": 7,
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94032756",
   "title": "Saltram Crescent, London, W9",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -1085,15 +1500,22 @@
   "url": "https://www.rightmove.co.uk/properties/94032756",
   "agent": "Kinleigh Folkard & Hayward - Lettings, Queens Park",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93339423",
   "title": "Highgate Road, London, NW5",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "Off the market",
+  "status": "Let agreed",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/93339423",
   "agent": "OpenRent, London",
@@ -1113,12 +1535,19 @@
    "1a13059f75c57f86"
   ],
   "mail_status": "let agreed",
-  "agent_email": "propertyunderoffer-donotreply@openrent.co.uk"
+  "agent_email": "propertyunderoffer-donotreply@openrent.co.uk",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94044120",
   "title": "FORTIS GREEN, EAST FINCHLEY, N2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -1126,12 +1555,21 @@
   "url": "https://www.rightmove.co.uk/properties/94044120",
   "agent": "Bennett & Hall, London",
   "price": "£462 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-07",
+   "age_days": 8,
+   "text": "Awaiting agent reply since 6 Oct (8 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "92506563",
   "title": "Eclipse House, Station Road, Wood Green, N22",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -1139,12 +1577,19 @@
   "url": "https://www.rightmove.co.uk/properties/92506563",
   "agent": "Hobarts, London",
   "price": "£392 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94045110",
   "title": "Cromwell Avenue, London, W6",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "viewed",
@@ -1178,12 +1623,25 @@
   "mail_status": "viewing booked",
   "agent_email": "e.heard@portico.com",
   "agent_phone": "07706413127",
-  "notes": "Viewed 14 Oct with Portico (Cromwell Ave). Offer form received."
+  "notes": "Viewed 14 Oct with Portico (Cromwell Ave). Offer form received.",
+  "next": {
+   "reply_to": "e.heard@portico.com",
+   "thread_id": "1a13ace488ec9f82",
+   "agent_phone": "07706413127",
+   "who": "us",
+   "since": "2026-10-14T14:25:44Z",
+   "age_days": 1,
+   "kind": "form",
+   "text": "Portico (Emma): offer/reservation form received 14 Oct — decide, fill in & return",
+   "draft": "Hey! Thank you, I'll fill it in and send it back shortly",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "93535440",
   "title": "Second Avenue, Hendon, London, NW4",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -1191,12 +1649,21 @@
   "url": "https://www.rightmove.co.uk/properties/93535440",
   "agent": "Foxtons, Temple Fortune",
   "price": "£392 pw",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-07",
+   "age_days": 8,
+   "text": "Awaiting agent reply since 6 Oct (8 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "94047639",
   "title": "Ballards Lane, London, N3",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "viewing proposed",
@@ -1220,12 +1687,25 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "MHeath@dutchanddutch.com",
-  "agent_phone": "020 8159 3002"
+  "agent_phone": "020 8159 3002",
+  "next": {
+   "reply_to": "MHeath@dutchanddutch.com",
+   "thread_id": "1a11a61daa824867",
+   "agent_phone": "020 8159 3002",
+   "who": "us",
+   "since": "2026-10-08T07:19:33Z",
+   "age_days": 7,
+   "kind": "qualify",
+   "text": "Dutch & Dutch (Max) asks qualifying questions + when to view — answer",
+   "draft": "Hey! It's for me and my husband, we're moving early-mid November for at least 12-18 months. Budget up to £2k/month, 1 bed is fine, furnished or unfurnished both ok. I'm a product manager, my husband works in tech remotely, combined income is over £190k. We have a small certified service dog and a cat, both very quiet. I'm in Barcelona until end of October so a video viewing would be great, any weekday after 12:30 works",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94049103",
   "title": "Tower Gardens Road, LONDON",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "replied",
@@ -1250,12 +1730,25 @@
   "mail_status": "replied",
   "agent_email": "Tiana.Nwachukwu@barnardmarcus.co.uk",
   "agent_phone": "0203 053 3306",
-  "agent_contact": "Tiana Nwachukwu"
+  "agent_contact": "Tiana Nwachukwu",
+  "next": {
+   "reply_to": "Tiana.Nwachukwu@barnardmarcus.co.uk",
+   "thread_id": "1a11a9066f3f6d39",
+   "agent_phone": "0203 053 3306",
+   "who": "us",
+   "since": "2026-10-08T08:10:27Z",
+   "age_days": 7,
+   "kind": "call",
+   "text": "Barnard Marcus Lettings (Tiana) asks to call back — call 0203 053 3306 (or reply by email)",
+   "draft": "Hey! Sorry, I'm in Barcelona so calls are tricky. Could we continue here or on WhatsApp +34605227263? Happy to do a video viewing",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94047345",
   "title": "Banbury Point, 1 Cording Street, Poplar, London, E14",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -1280,12 +1773,19 @@
   "mail_status": "viewing proposed",
   "agent_email": "ulsi.hajdari@chaseevans.com",
   "agent_phone": "07753 425821",
-  "agent_contact": "Ulsi"
+  "agent_contact": "Ulsi",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "93983106",
   "title": "St Thomas's Road, Islington, N4",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Let agreed",
@@ -1309,12 +1809,19 @@
   ],
   "mail_status": "awaiting reply",
   "agent_email": "matches@chestertons.co.uk",
-  "agent_phone": "+44 (0)20 7226 4221"
+  "agent_phone": "+44 (0)20 7226 4221",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Let agreed — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "94022025",
   "title": "10 Aviator Drive, The Maple | London NW2",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "awaiting reply",
@@ -1322,12 +1829,21 @@
   "url": "https://www.rightmove.co.uk/properties/94022025",
   "agent": "Flagstones Property Group, London",
   "price": "£2,100 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-07",
+   "age_days": 8,
+   "text": "Awaiting agent reply since 6 Oct (8 days) — nudge?",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93920112",
   "title": "Alexandra Road, St. John's Wood NW8",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Off the market",
@@ -1335,12 +1851,19 @@
   "url": "https://www.rightmove.co.uk/properties/93920112",
   "agent": "Cedar Estates, West Hampstead",
   "price": "£1,842 pcm",
-  "rightmove_label": "You enquired on 7th October"
+  "rightmove_label": "You enquired on 7th October",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Off the market — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
   "listing_id": "93958821",
   "title": "38 Aerodrome Road, Colindale | London NW9",
-  "text": "Sent by Masha via Rightmove (text not available)",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
   "status": "Off the market",
@@ -1398,7 +1921,16 @@
   ],
   "mail_status": "viewing proposed",
   "agent_email": "mouad@flagstonespg.co.uk",
-  "agent_phone": "020 8488 6296"
+  "agent_phone": "020 8488 6296",
+  "listing_market": "Off the market",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "Off the market — nothing to do",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "92893338",
@@ -1409,7 +1941,16 @@
   "channel": "rightmove",
   "status": "sent",
   "source": "assistant",
-  "agent": "Dexters, Queen's Park"
+  "agent": "Dexters, Queen's Park",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-15T20:59:48+02:00",
+   "age_days": 0,
+   "text": "Awaiting agent reply since 15 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1
  },
  {
   "listing_id": "94314216",
@@ -1420,7 +1961,16 @@
   "channel": "rightmove",
   "status": "sent",
   "source": "assistant",
-  "agent": "Foxtons, Crouch End"
+  "agent": "Foxtons, Crouch End",
+  "next": {
+   "who": "agent",
+   "kind": "awaiting",
+   "since": "2026-10-15T22:40:22+02:00",
+   "age_days": 0,
+   "text": "Awaiting agent reply since 15 Oct",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 1
  },
  {
   "listing_id": "chestertons-22214363",
@@ -1490,7 +2040,21 @@
   "mail_status": "viewing booked",
   "agent_email": "francesco.caiati@chestertons.co.uk",
   "agent_phone": "+44 (0) 20 7182 1435",
-  "notes": "Viewed 14 Oct with Chestertons (UNCLE Wembley, video/WhatsApp). Reservation form received."
+  "notes": "Viewed 14 Oct with Chestertons (UNCLE Wembley, video/WhatsApp). Reservation form received.",
+  "next": {
+   "reply_to": "francesco.caiati@chestertons.co.uk",
+   "thread_id": "1a13b2175c6b9f21",
+   "agent_phone": "+44 (0) 20 7182 1435",
+   "who": "us",
+   "since": "2026-10-14T15:56:45Z",
+   "age_days": 1,
+   "kind": "form",
+   "text": "Chestertons Key Clients (Francesco): offer/reservation form received 14 Oct — decide, fill in & return",
+   "draft": "Hey! Thank you, I'll fill it in and send it back shortly",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 0,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  },
  {
   "listing_id": "portico-PCL250388",
@@ -1525,6 +2089,14 @@
   ],
   "mail_status": "rejected",
   "agent_email": "n.grijo@portico.com",
-  "agent_phone": "02075010454"
+  "agent_phone": "02075010454",
+  "next": {
+   "who": "none",
+   "kind": "closed",
+   "text": "We said it's not for us",
+   "updated": "2026-10-15T22:02:07+01:00"
+  },
+  "action_rank": 2,
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
  }
 ]
