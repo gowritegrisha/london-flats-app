@@ -56,3 +56,6 @@ details.bd{margin-top:6px;font-size:12px}details.bd summary{color:var(--link);cu
 .st-await{background:#1565c0;color:#fff}.st-let{background:#2e7d32;color:#fff}.st-off{background:#757575;color:#fff}
 .srcbadge{display:inline-block;font-size:11px;font-weight:600;padding:1px 7px;border-radius:8px;margin-right:4px}
 .src-masha{background:#fce4ec;color:#ad1457}.src-asst{background:#e3f2fd;color:#1565c0}
+
+.card.hl{outline:3px solid #f9a825;outline-offset:2px;transition:outline .3s}
+.clink{color:inherit;text-decoration:underline;text-decoration-color:rgba(127,127,127,.5)}

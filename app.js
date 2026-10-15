@@ -34,7 +34,7 @@ function render(){
  document.getElementById('cnt').textContent=L.length;
  const nq=Object.keys(RQ).length;const sb=document.getElementById('sync');sb.style.display=nq?'':'none';sb.textContent=`🔄 Sync ${nq} rating${nq>1?'s':''}`;
  document.getElementById('hidt').innerHTML=nh?`<button class="chip ${showHid?'on':''}" onclick="showHid=!showHid;render()">👎 ${showHid?'hide':'show'} hidden (${nh})</button>`:'';
- document.getElementById('list').innerHTML=L.map(l=>`<div class="card"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
+ document.getElementById('list').innerHTML=L.map(l=>`<div class="card" id="c-${esc(l.id)}"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}">`).join('')}</div>
  <div class="body"><button class="score" style="background:${scCol(scoreOf(l))}" onclick="this.closest('.body').querySelector('details.bd').toggleAttribute('open')" aria-label="Score ${scoreOf(l)} of 100, show breakdown">${l.score!=null?scoreOf(l):'–'}</button><span class="p">£${Number(l.price).toLocaleString()}</span><div class="t">${esc(l.title)}</div><div>${esc(l.area)}</div>
  <div class="facts">${[l.size,l.floor,l.furnished,l.available&&'Avail '+fmtD(l.available),l.commute&&'🚇 '+l.commute,l.pets&&'🐾 '+l.pets].filter(Boolean).map(esc).join(' · ')}</div>
  <div><span class="badge">${st(l)}</span><span style="font-size:12px;color:var(--hint)">found ${fmtD(l.date_found)} · ${l.photos.length} photos</span></div>
@@ -111,12 +111,12 @@ function renderR(){let SS=[...S].sort((a,b)=>(b.sent_at||'').localeCompare(a.sen
   const src=e.source==='masha'?'by Masha':e.source==='assistant'?'by assistant':'';
   const when=e.sent_at?(e.sent_at.length<=10?fmtD(e.sent_at):fmtD(e.sent_at)+' '+new Date(e.sent_at).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})):'';
   const linkUrl=(L&&L.url)||e.url||'';
-  return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${esc(e.title||L&&L.title)}</div>
+  return `<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${when}</span><div class="t">${L?`<a href="#flat-${esc(L.id)}" class="clink" onclick="openCard('${esc(L.id)}');return false">${esc(e.title||L.title)} ›</a>`:esc(e.title)}</div>
   ${e.agent||e.price?`<div class="facts">${[e.price,e.agent].filter(Boolean).map(esc).join(' · ')}</div>`:''}
   <div><span class="sbadge">Sent ✓</span>${src?`<span class="srcbadge ${e.source==='masha'?'src-masha':'src-asst'}">${src}</span>`:''}<span class="badge ${cls}">${lab}</span></div>
   ${msgBox(e)}
   ${rs.length?rs.map(rcard).join(''):(e.status==='awaiting reply'||e.status==='sent'||!e.status?'<div class="notes" style="margin-top:6px">No reply yet</div>':'')}
-  ${linkUrl?`<div class="acts"><button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button></div>`:''}</div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
+  <div class="acts">${L?`<button class="b s opencard" data-id="${esc(L.id)}" onclick="openCard('${esc(L.id)}')">🏠 Open card</button>`:''}${linkUrl?`<button class="b s" onclick="link('${esc(linkUrl)}')">Rightmove ↗</button>`:''}</div></div></div>`}).join('')||EMPTY('✉️',rFilt==='all'?'No enquiries sent yet':'No enquiries in this filter',rFilt==='all'?'Tap “Send enquiry” on a flat — it will appear here with its status.':'Try All to see everything.');
  const other=R.filter(r=>!used.has(r));
  if(other.length&&rFilt==='all')h+='<div class="day">Other replies</div>'+other.map(r=>`<div class="card"><div class="body"><span class="p" style="font-weight:400;font-size:12px;color:var(--hint)">${r.date?dayK(r.date)+' '+tm(r.date):''}</span><div class="t">${esc(r.agent)}</div><div>${esc(r.title||'')}</div>
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
@@ -136,11 +136,17 @@ function tab(t){if(!TABS[t])t='flats';curTab=t;
 document.querySelectorAll('nav#tabs button').forEach(b=>b.addEventListener('click',()=>tab(b.dataset.tab)));
 document.getElementById('sort').addEventListener('change',render);
 const getJ=f=>fetch(f+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[]);
-getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render()});
+getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render();const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
 Promise.all([getJ('viewings.json'),getJ('replies.json'),getJ('sent.json')]).then(([a,b,c])=>{V=Array.isArray(a)?a:[];R=Array.isArray(b)?b:[];S=Array.isArray(c)?c:[];render();if(curTab=='viewings')renderV();if(curTab=='replies')renderR()});
-const h0=(location.hash||'').slice(1);tab(h0=='viewings'||h0=='replies'?h0:'flats');
+const h0=(location.hash||'').slice(1);if(!/^flat-/.test(h0))tab(h0=='viewings'||h0=='replies'?h0:'flats');
 
 const BOT='Gogi_grot_bot';
 function deep(p){const u='https://t.me/'+BOT+'?start='+p;tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(tg&&tg.openTelegramLink)tg.openTelegramLink(u);else window.open(u,'_blank')}
 async function clip(t){try{await navigator.clipboard.writeText(t);return true}catch(e){const ta=document.createElement('textarea');ta.value=t;document.body.appendChild(ta);ta.select();const ok=document.execCommand('copy');ta.remove();return ok}}
 function hint(m){const e=document.getElementById('sdhint');e.textContent=m;e.style.display='block';toast(m)}
+
+function openCard(id){const l=data.find(x=>String(x.id)==String(id));if(!l){toast('Flat not in list');return}
+ filt='all';if(rating(l)==='dislike')showHid=true;tab('flats');render();
+ const el=document.getElementById('c-'+id);if(!el)return;el.scrollIntoView({block:'start'});window.scrollBy(0,-(document.getElementById('hdr').offsetHeight||0)-6);
+ el.classList.add('hl');setTimeout(()=>el.classList.remove('hl'),2500);
+ try{history.replaceState(null,'','#flat-'+id)}catch(e){}}
