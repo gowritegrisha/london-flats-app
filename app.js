@@ -1,5 +1,5 @@
 const tg=window.Telegram&&Telegram.WebApp;if(tg){tg.ready();tg.expand();}
-const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejected'];const FL=['all','saved',...ST.slice(1)];let data=[],filt='all',cur=null,V=[],R=[],S=[],rFilt='all';
+const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejected'];const FL=['all','saved',...ST.slice(1)];let sFilt='all',data=[],filt='all',cur=null,V=[],R=[],S=[],rFilt='all';
 const svK='flatsaved';const saved=new Set(JSON.parse(localStorage.getItem(svK)||'[]'));
 const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
 const msgOf=e=>{const t=(e&&(e.text||e.message)||'').trim();return t};
@@ -100,14 +100,19 @@ function drEdit(id){const ta=document.getElementById('de-'+id),pre=document.getE
 function drSend(id){const e=sentOf(id);if(DR[id]!=null){const t=DR[id];const go=()=>{toast('Edited text copied — paste it in the bot chat');setTimeout(()=>deep('me_'+id),600)};
   (navigator.clipboard?navigator.clipboard.writeText('reply '+id+': '+t):Promise.reject()).then(go,()=>{prompt('Copy this and paste in the bot chat:','reply '+id+': '+t);deep('me_'+id)})}
  else deep('m_'+id)}
+const isAs=e=>e.source==='assistant';
+const chanOf=e=>{const a=(e.agent||'').toLowerCase(),c=(e.channel||'').toLowerCase();return a.startsWith('openrent')?'OpenRent':c.includes('whatsapp')?'WhatsApp':c&&c!=='rightmove'?'Email':'Rightmove'};
+const senderTag=e=>`<div class="sndr ${isAs(e)?'s-as':'s-ma'}">${isAs(e)?'🤖 Ассистент':'👩 Маша'} <span>· ${chanOf(e)}${e.sent_at?' · '+fmtD(e.sent_at):''}</span></div>`;
+const whoM=(m,e)=>m.dir==='agent'?`<b class="w-ag">🏢 Агент${m.from?' ('+esc(agName(m.from,e))+')':''}</b>`:((m.by==='assistant'||(m.enquiry&&isAs(e)))?'<b class="w-as">🤖 Ассистент</b>':'<b class="w-ma">👩 Маша</b>');
+const agName=(f,e)=>{const l=(f||'').split('@')[0];if(e.agent_email&&f.toLowerCase()==e.agent_email.toLowerCase()&&e.agent_contact)return e.agent_contact;return /no-?reply|donotreply|^info$|^support$|^leads$/i.test(l)?(f.split('@')[1]||l):l.replace(/[._]/g,' ')};
 function convC(e){const T=e.thread||[];const enq=T.find(m=>m.enquiry);const txt=(enq&&enq.text)||msgOf(e);
  const ag=T.filter(m=>m.dir==='agent');const last=ag.slice(-2);
- let h='<div class="cv">';
- h+=txt?`<details class="sent"><summary><span class="more">✉️ Masha's enquiry${e.sent_at?' · '+fmtD(e.sent_at):''}</span></summary><pre>${esc(txt)}</pre></details>`
-   :`<div class="sent" style="font-size:12px;opacity:.8">✉️ Masha's enquiry text unavailable — ${esc(e.text_missing_reason||'sent via Rightmove; no copy in Gmail.')}${ag.length?' Agent reply below.':''}</div>`;
+ let h='<div class="cv">'+senderTag(e);
+ h+=txt?`<details class="sent"><summary><span class="more">✉️ ${isAs(e)?'Текст ассистента':'Текст Маши'}${e.sent_at?' · '+fmtD(e.sent_at):''}</span></summary><pre>${esc(txt)}</pre></details>`
+   :`<div class="sent" style="font-size:12px;opacity:.8">✉️ Текст запроса недоступен — ${esc(e.text_missing_reason||'sent via Rightmove; no copy in Gmail.')}${ag.length?' Agent reply below.':''}</div>`;
  const mine=T.filter(m=>m.dir==='masha'&&!m.enquiry);
  const lastM=T.filter(m=>!m.enquiry).slice(-2);
- h+=lastM.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${m.dir==='masha'?'✉️ Masha':'🏢 '+esc((m.from||'').split('@')[0])} · ${m.date?fmtD(m.date)+' '+tmZ(m.date,TZ):''}</div><pre class="clip">${esc(m.text||'')}</pre></div>`).join('');
+ h+=lastM.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${whoM(m,e)} · ${m.date?fmtD(m.date)+' '+tmZ(m.date,TZ):''}</div><pre class="clip">${esc(m.text||'')}</pre></div>`).join('');
  if(T.length>lastM.length+(enq?1:0))h+=convBox(e);
  return h+'</div>'}
 
@@ -173,14 +178,15 @@ const rcard=r=>`<div class="reply"><span style="font-size:12px;color:var(--hint)
  <div style="margin:4px 0">${esc(r.summary)}</div>${r.needs_reply?'<span class="badge nr">needs reply</span>':'<span class="badge">no reply needed</span>'}
  ${r.suggested_next_step?`<div class="notes">➡️ ${esc(r.suggested_next_step)}</div>`:''}</div>`;
 const convBox=e=>{const T=e.thread,na=T.filter(m=>m.dir==='agent').length;const c=e.agent_email||e.agent_phone?`<div class="facts">${[e.agent_contact,e.agent_phone,e.agent_email].filter(Boolean).map(esc).join(' · ')}</div>`:'';
- return c+`<details class="sent conv"><summary><span class="more">💬 conversation (${T.length} msg${na?', '+na+' from agent':''})</span></summary>${T.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${m.dir==='masha'?(m.enquiry?'✉️ Masha (enquiry)':'✉️ Masha'):'🏢 '+esc((m.from||'').split('@')[0])} · ${m.date?fmtD(m.date)+' '+new Date(m.date).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'}):''}</div><pre>${esc(m.text||'')}</pre></div>`).join('')}</details>`};
+ return c+`<details class="sent conv"><summary><span class="more">💬 conversation (${T.length} msg${na?', '+na+' from agent':''})</span></summary>${T.map(m=>`<div class="msg ${m.dir==='masha'?'me':'ag'}"><div class="mh">${whoM(m,e)}${m.enquiry?' (enquiry)':''} · ${m.date?fmtD(m.date)+' '+new Date(m.date).toLocaleTimeString('en-GB',{timeZone:TZ,hour:'2-digit',minute:'2-digit'}):''}</div><pre>${esc(m.text||'')}</pre></div>`).join('')}</details>`};
 function renderR(){let SS=[...S].sort((a,b)=>((a.action_rank??2)-(b.action_rank??2))||(b.sent_at||'').localeCompare(a.sent_at||''));
  const nAll=SS.length,nLet=SS.filter(e=>e.status==='Let agreed').length,nAct=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market').length;
  if(rFilt==='active')SS=SS.filter(e=>e.status!=='Let agreed'&&e.status!=='Off the market');
  else if(rFilt==='let')SS=SS.filter(e=>e.status==='Let agreed');
- const used=new Set();
+ if(sFilt!=='all')SS=SS.filter(e=>sFilt==='assistant'?isAs(e):!isAs(e));const used=new Set();
  let h=`<h1 style="margin:4px 2px">✉️ Enquiries <span class="cnt">${nAll} sent</span></h1>`;
  h+=`<div class="ctl"><span class="lbl">Filter:</span><div class="row">${[['all','All',nAll],['active','Active',nAct],['let','Let agreed',nLet]].map(([k,lab,n])=>`<button class="chip ${rFilt==k?'on':''}" onclick="rFilt='${k}';renderR()">${lab} (${n})</button>`).join('')}</div></div>`;
+ h+=`<div class="ctl"><span class="lbl">Кто писал:</span><div class="row">${[['all','Все',S.length],['masha','👩 Маша',S.filter(e=>!isAs(e)).length],['assistant','🤖 Ассистент',S.filter(isAs).length]].map(([k,lab,n])=>`<button class="chip ${sFilt==k?'on':''}" onclick="sFilt='${k}';renderR()">${lab} (${n})</button>`).join('')}</div></div>`;
  h+=SS.map(e=>{const L=data.find(l=>String(l.id)==String(e.listing_id));const rs=R.filter(r=>String(r.listing_id)==String(e.listing_id));rs.forEach(r=>used.add(r));const [lab,cls]=SSTAT[e.status]||SSTAT['awaiting reply'];
   const src=e.source==='masha'?'by Masha':e.source==='assistant'?'by assistant':'';
   const when=e.sent_at?(e.sent_at.length<=10?fmtD(e.sent_at):fmtD(e.sent_at)+' '+new Date(e.sent_at).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})):'';
