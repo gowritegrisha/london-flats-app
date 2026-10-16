@@ -69,11 +69,14 @@ function render(){
  document.getElementById('cnt').textContent=L.length;
  const nq=Object.keys(RQ).length;const sb=document.getElementById('sync');sb.style.display=nq?'':'none';sb.textContent=`🔄 Отправить оценки (${nq})`;
  document.getElementById('hidt').innerHTML=nh?`<button class="chip ${showHid?'on':''}" onclick="showHid=!showHid;render()">👎 ${showHid?'скрыть':'показать'} скрытые (${nh})</button>`:'';
- let firstSent=true;
- document.getElementById('list').innerHTML=L.map(l=>{const e=sentOf(l.id);let sep='';if(e&&firstSent&&L.some(x=>!sentOf(x.id))){firstSent=false;sep='<div class="day">✉️ Уже написали</div>'}
- return sep+`<div class="card${e?' done':''}" id="c-${esc(l.id)}"><div class="ph"><div class="car">${l.photos.map(p=>`<img loading="lazy" src="${esc(p)}" alt="">`).join('')}</div>
+ LV=L;fillList(true);
+}
+const PAGE=20;let LV=[],shown=0,loaded=false,listDirty=false,io=null;
+const PH1='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
+function cardHtml(l,sep){const e=sentOf(l.id);const ps=l.photos||[];const pc=l.pc||ps.length;
+ return sep+`<div class="card${e?' done':''}" id="c-${esc(l.id)}"><div class="ph"><div class="car">${ps.map((p,i)=>i?`<img loading="lazy" decoding="async" data-src="${esc(p)}" src="${PH1}" alt="">`:`<img loading="lazy" decoding="async" src="${esc(p)}" alt="">`).join('')}</div>
  <button class="score" style="background:${scCol(scoreOf(l))}" onclick="openMore('${esc(l.id)}')" aria-label="Оценка ${scoreOf(l)} из 100">${l.score!=null?scoreOf(l):'–'}</button>
- <span class="pp">£${Number(l.price).toLocaleString()}</span>${l.photos.length>1?`<span class="pc">📷 ${l.photos.length}</span>`:''}</div>
+ <span class="pp">£${Number(l.price).toLocaleString()}</span>${pc>1?`<span class="pc">📷 ${pc}</span>`:''}</div>
  <div class="body"><div class="t">${esc(l.title)}${isNew(l)?' <span class="newb">Новое</span>':''}</div>
  <div class="sub">📍 ${esc(hoodName(l))}${commS(l)?` · 🕘 ${commS(l)}`:''}</div>
  <div class="tags"><span>📅 ${esc(availS(l))}</span><span>📐 ${esc(sqm(l))}</span><span>🛋 ${esc(furnS(l))}</span><span>🐾 ${esc(petS(l))}</span></div>
@@ -81,8 +84,23 @@ function render(){
  <div class="cta">${e?primary(e):`<button class="b pri" onclick="draft('${l.id}')">✉️ Написать агенту</button>`}
  <button class="b ic rt${rating(l)=='like'?' up':''}" aria-label="Нравится" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b ic rt${rating(l)=='dislike'?' dn':''}" aria-label="Скрыть" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>
  <button class="b ic" aria-label="Ещё" onclick="openMore('${esc(l.id)}')">⋯</button></div>
- </div></div>`}).join('')||EMPTY('🏠','Нет квартир','Попробуйте другой фильтр');
-}
+ </div></div>`}
+function sepFor(i){const l=LV[i];if(!sentOf(l.id))return '';const prev=i>0&&!sentOf(LV[i-1].id);return (i===0?LV.some(x=>!sentOf(x.id)):prev)?'<div class="day">✉️ Уже написали</div>':''}
+function fillList(reset,upto){const el=document.getElementById('list');
+ if(curTab!=='flats'&&!upto){listDirty=true;return}listDirty=false;
+ if(reset){const keep=Math.max(PAGE,Math.min(shown,LV.length));shown=0;el.textContent='';
+  if(!loaded){el.innerHTML='<div id="boot" style="padding:40px 16px;text-align:center;color:#888">⏳ Загрузка…</div>';return}
+  if(!LV.length){el.innerHTML=EMPTY('🏠','Нет квартир','Попробуйте другой фильтр');return}
+  upto=Math.max(upto||0,keep)}
+ const end=Math.min(LV.length,Math.max(upto||0,shown+PAGE));
+ const old=document.getElementById('more');if(old)old.remove();
+ let h='';for(let i=shown;i<end;i++)h+=cardHtml(LV[i],sepFor(i));
+ el.insertAdjacentHTML('beforeend',h);shown=end;
+ if(shown<LV.length){el.insertAdjacentHTML('beforeend',`<button type="button" id="more" class="b sec full" style="margin:12px 0" onclick="fillList()">Показать ещё (${LV.length-shown})</button>`);
+  if('IntersectionObserver' in window){io=io||new IntersectionObserver(es=>{if(es.some(x=>x.isIntersecting))fillList()},{rootMargin:'600px'});io.disconnect();io.observe(document.getElementById('more'))}}}
+// carousel: load other photos only once the user swipes
+document.addEventListener('scroll',ev=>{const c=ev.target;if(!c.classList||!c.classList.contains('car'))return;c.querySelectorAll('img[data-src]').forEach(i=>{i.src=i.dataset.src;i.removeAttribute('data-src')})},true);
+let FULL=null;const full=()=>FULL||(FULL=fetch('listings.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{const m={};(Array.isArray(d)?d:[]).forEach(x=>m[String(x.id)]=x);return m}).catch(()=>{FULL=null;return {}}));
 function sentBox(l){const e=sentOf(l.id);if(!e)return '';const [lab,cls]=SSTAT[e.status]||SSTAT.sent;
  return `<div><span class="sbadge">${esc(enqBadge(e))}</span><span class="badge ${cls}">${lab}</span></div>`+nextBox(e)+convC(e)}
 const AGE=n=>n==null?'':n==0?'today':n==1?'1 day':n+' days';
@@ -157,14 +175,15 @@ function openSheet(id){const e=sentOf(id);if(!e)return;sheetId=id;const L=data.f
  if(c.length)h+=`<div class="sub" style="margin:10px 0">👤 ${c.map(esc).join(' · ')}</div>`;
  h+=`<div class="cta">${L?`<button class="b sec" onclick="sheetClose();openCard('${esc(L.id)}')">🏠 Карточка</button>`:''}${lk?`<button class="b sec" onclick="link('${esc(lk)}')">${linkLbl(e,L)} ↗</button>`:''}</div>`;
  sheetOpen(h)}
-function openMore(id){const l=data.find(x=>String(x.id)==String(id));if(!l)return;const e=sentOf(id);
+function openMore(id,again){const l=data.find(x=>String(x.id)==String(id));if(!l)return;const e=sentOf(id);
+ if(!again&&!l._full){full().then(m=>{const f=m[String(id)];if(f){Object.keys(f).forEach(k=>{if(k!=='photos'&&l[k]===undefined)l[k]=f[k]});l._full=1;if(document.getElementById('sheet').style.display==='flex')openMore(id,1)}})}
  let h=`<div class="shh"><div><div class="t">${esc(l.title)}</div><div class="sub">£${Number(l.price).toLocaleString()} · ${esc(hoodName(l))}</div></div><button class="b ic" onclick="sheetClose()" aria-label="Закрыть">✕</button></div>
  <div class="menu"><button class="b sec" onclick="link('${esc(l.url)}')">${srcName(l)} ↗</button>
  <button class="b sec" onclick="save('${l.id}');sheetClose()">${saved.has(String(l.id))?'❤️ Убрать из избранного':'🤍 В избранное'}</button>
  ${e?`<button class="b sec" onclick="openSheet('${esc(e.listing_id)}')">💬 Переписка</button>`:''}</div>
  <div class="facts">${[l.area,l.floor,l.pets&&'🐾 '+l.pets,l.furnished].filter(Boolean).map(esc).join(' · ')}</div>
  ${l.agent_facts?`<div class="facts">ℹ️ Из писем агента: ${esc(Object.entries(l.agent_facts).filter(([k])=>k!=='src').map(([k,v])=>v).join(' · '))}</div>`:''}
- ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:''}${l.score_breakdown?bdHtml(l):''}
+ ${l.notes?`<div class="notes">${esc(l.notes)}</div>`:(l._full?'':'<div class="sub">⏳ детали…</div>')}${l.score_breakdown?bdHtml(l):''}
  <div class="sub">найдено ${fmtD(l.date_found)} · статус <select onchange="setS('${l.id}',this.value)">${ST.slice(1).map(x=>`<option ${x==st(l)?'selected':''}>${x}</option>`).join('')}</select></div>`;
  sheetOpen(h)}
 function row(e){const L=data.find(l=>String(l.id)==String(e.listing_id));
@@ -252,13 +271,13 @@ function tab(t){if(!TABS[t])t='flats';curTab=t;
  document.querySelectorAll('nav#tabs button').forEach(b=>{const on=b.dataset.tab==t;b.classList.toggle('on',on);b.setAttribute('aria-selected',on)});
  ['list','fhead','vlist','rlist'].forEach(id=>document.getElementById(id).style.display=TABS[t].includes(id)?'':'none');
  document.getElementById('hdr').style.display=t=='flats'?'':'none';
- if(t=='viewings')renderV();if(t=='replies')renderR();window.scrollTo(0,0);
+ if(t=='viewings')renderV();if(t=='replies')renderR();if(t=='flats'&&listDirty)fillList(true);window.scrollTo(0,0);
  try{history.replaceState(null,'',t=='flats'?location.pathname+location.search:'#'+t)}catch(e){}
  tg&&tg.HapticFeedback&&tg.HapticFeedback.selectionChanged&&tg.HapticFeedback.selectionChanged()}
 document.querySelectorAll('nav#tabs button').forEach(b=>b.addEventListener('click',()=>tab(b.dataset.tab)));
 document.getElementById('sort').addEventListener('change',render);
 const getJ=f=>fetch(f+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[]);
-getJ('listings.json').then(d=>{data=Array.isArray(d)?d:[];render();if(curTab=='replies')renderR();if(curTab=='viewings')renderV();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
+fetch('listings_lite.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(()=>getJ('listings.json')).then(d=>{data=Array.isArray(d)?d:[];loaded=true;render();if(curTab=='replies')renderR();if(curTab=='viewings')renderV();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
 Promise.all([getJ('viewings.json'),getJ('replies.json'),getJ('sent.json')]).then(([a,b,c])=>{V=Array.isArray(a)?a:[];R=Array.isArray(b)?b:[];S=Array.isArray(c)?c:[];{const n=S.filter(e=>(e.next||{}).who==='us').length,u=document.getElementById('ubadge');if(u){u.textContent=n;u.style.display=n?'inline-block':'none'}}render();if(curTab=='viewings')renderV();if(curTab=='replies')renderR()});
 const h0=(location.hash||'').slice(1);if(!/^flat-/.test(h0))tab(h0=='viewings'||h0=='replies'?h0:'flats');
 
@@ -269,6 +288,6 @@ function hint(m){const e=document.getElementById('sdhint');e.textContent=m;e.sty
 
 function openCard(id){const l=data.find(x=>String(x.id)==String(id));if(!l){toast('Квартиры нет в списке');return}sheetClose();
  filt='all';if(rating(l)==='dislike')showHid=true;tab('flats');render();
- const el=document.getElementById('c-'+id);if(!el)return;el.scrollIntoView({block:'start'});window.scrollBy(0,-(document.getElementById('hdr').offsetHeight||0)-6);
+ let el=document.getElementById('c-'+id);if(!el){const ix=LV.findIndex(x=>String(x.id)==String(id));if(ix>=0)fillList(false,ix+1);el=document.getElementById('c-'+id)}if(!el)return;el.scrollIntoView({block:'start'});window.scrollBy(0,-(document.getElementById('hdr').offsetHeight||0)-6);
  el.classList.add('hl');setTimeout(()=>el.classList.remove('hl'),2500);
  try{history.replaceState(null,'','#flat-'+id)}catch(e){}}
