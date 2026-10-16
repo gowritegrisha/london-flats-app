@@ -2,13 +2,14 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>Квартиры в Лондоне</title>
+<script>(function(){function show(m){try{var d=document.getElementById('errbox');if(!d){d=document.createElement('pre');d.id='errbox';d.style.cssText='position:fixed;left:0;right:0;top:0;z-index:99999;margin:0;padding:12px;background:#fff;color:#b00;font:12px/1.4 monospace;white-space:pre-wrap;max-height:60vh;overflow:auto';(document.body||document.documentElement).appendChild(d)}d.textContent+='⚠️ '+m+'\n';var l=document.getElementById('boot');if(l)l.remove()}catch(e){}}window.onerror=function(m,src,ln,col,e){show(m+' @'+(src||'').split('/').pop()+':'+ln+':'+col+(e&&e.stack?'\n'+e.stack:''))};window.addEventListener('unhandledrejection',function(e){var r=e.reason;show('Promise: '+(r&&(r.stack||r.message)||r))});setTimeout(function(){if(document.getElementById('boot'))show('App did not render within 15s')},15000)})();</script>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<link rel="stylesheet" href="style.css?v=v4.1-1792099639">
+<link rel="stylesheet" href="style.css?v=v4.2-safari15">
 </head><body>
 <header id="hdr"><div id="fhead"><h1>🏠 Квартиры <span id="cnt" class="cnt"></span></h1>
 <div class="ctl"><div class="row" id="filters"></div></div>
 <div class="ctl"><span class="lbl">Сортировка</span><select id="sort"><option value="score" selected>По оценке</option><option value="date">Новые</option><option value="price">Дешевле</option><option value="size">Больше</option><option value="commute">Ближе к офису</option></select><span id="hidt"></span></div></div></header>
-<main id="list"></main>
+<main id="list"><div id="boot" style="padding:40px 16px;text-align:center;color:#888;background:transparent">⏳ Загрузка…</div></main>
 <main id="vlist" style="display:none"></main>
 <main id="rlist" style="display:none"></main>
 <nav id="tabs" role="tablist">
@@ -27,5 +28,5 @@
 <button id="sync" class="b" style="display:none" onclick="syncR()"></button>
 <div id="sheet" onclick="if(event.target===this)sheetClose()"><div class="sbox"><div class="grab"></div><div class="sbody"></div></div></div>
 <div class="toast" id="toast"></div>
-<script src="app.js?v=v4.1-1792099639"></script>
+<script src="app.js?v=v4.2-safari15"></script>
 </body></html>

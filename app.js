@@ -31,7 +31,7 @@ function rate(id,v){const l=data.find(x=>x.id==id);const k=String(id);const nv=r
 function syncR(){const items=Object.values(RQ);if(!items.length)return;
  if(!canSend()){const cs={like:'u',dislike:'d',unrate:'x'};const toks=items.map(x=>x.id+(cs[x.rating]||'x'));const ch=[];let c='r';
   for(const t of toks){if((c+t).length>64){ch.push(c);c='r'}c+=(c=='r'?'_':'')+t}if(c!='r')ch.push(c);
-  if(ch.length>1){toast('Sending in '+ch.length+' parts — reopen app and tap sync again');ch.length=1;const sent=new Set(ch[0].slice(2).split(/(?<=[udx])/).map(t=>t.slice(0,-1)));items.forEach(x=>{if(sent.has(String(x.id)))delete RQ[x.id]});localStorage.setItem(rqK,JSON.stringify(RQ))}
+  if(ch.length>1){toast('Sending in '+ch.length+' parts — reopen app and tap sync again');ch.length=1;const sent=new Set((ch[0].slice(2).match(/[^udx]*[udx]|[^udx]+$/g)||[]).map(t=>t.slice(0,-1)));items.forEach(x=>{if(sent.has(String(x.id)))delete RQ[x.id]});localStorage.setItem(rqK,JSON.stringify(RQ))}
   else{localStorage.setItem(rqK,'{}');RQ={}}deep(ch[0]);return}
  const p={action:'ratings',items:items.map(x=>({id:x.id,rating:x.rating,title:(x.title||'').slice(0,40),ts:x.ts})),ts:new Date().toISOString()};
  while(new TextEncoder().encode(JSON.stringify(p)).length>4000)p.items.forEach(x=>delete x.title)||p.items.pop();
