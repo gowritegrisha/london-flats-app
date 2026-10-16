@@ -526,7 +526,12 @@
    "text": "Ellesmere Road (Dexters Isabelle): Masha will write herself.",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T21:28:13+01:00"
+   "updated": "2026-10-16T21:28:13+01:00",
+   "reply_to": "isabellemerecki@dexters.co.uk",
+   "thread_id": "1a13f08ca6a27864",
+   "draft": "Hey! thanks for reaching out, but unfortunately it's too far from my office so we'll pass on this one",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1049,8 +1054,10 @@
    "age_days": 8,
    "kind": "availability",
    "text": "Dorrington (Kevin) asks when we can view — reply with a time",
-   "draft": "Hey! I'm still in Barcelona, could we do a video viewing? Any weekday after 12:30 works for me",
-   "updated": "2026-10-16T21:28:13+01:00"
+   "draft": "Hey! i'm still in Spain, could we do a video viewing on WhatsApp? +34605227263, any weekday after 12:30 works. We have a dog and a cat, the dog is a certified service dog",
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1493,8 +1500,10 @@
    "age_days": 8,
    "kind": "qualify",
    "text": "Occu (Erin) asks qualifying questions + when to view — answer",
-   "draft": "Hey! It's for me and my husband, we're moving early-mid November for at least 12-18 months. Budget up to £2k/month, 1 bed is fine, furnished or unfurnished both ok. I'm a product manager, my husband works in tech remotely, combined income is £220k (me £130k, my husband £90k). We have a small certified service dog and a cat, both very quiet. I'm in Barcelona until end of October so a video viewing would be great, any weekday after 12:30 works",
-   "updated": "2026-10-16T21:28:13+01:00"
+   "draft": "Hey! 1 bed, budget up to £2k/month, no preference on floor or aspect, just good light. It's me and my husband plus a dog and a cat, moving mid/late November, our combined income is £220k (me £130k, my husband £90k). i'm in Spain now, could we do a video viewing on WhatsApp? +34605227263",
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1643,12 +1652,14 @@
    "kind": "question",
    "since": "2026-10-08T06:50:00Z",
    "text": "OpenRent landlord (Randy) wants a tenant moving in 14 Oct and asks for the exact move-in date; we move mid-Nov, so probably not a fit. Reply or drop",
-   "draft": "Hey! We're moving mid November unfortunately, so I guess it's too late for you. Thanks anyway!",
+   "draft": "Hey! we're moving mid/late November unfortunately, so i guess it's too late for you. Thanks anyway!",
    "reply_to": "property360b3e4f93514047ba876d4bbb53a836@user.openrent.com",
    "thread_id": "1a11a4711f4776ec",
    "source": "manual",
    "age_days": 8,
-   "updated": "2026-10-16T21:28:13+01:00"
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1877,8 +1888,10 @@
    "age_days": 8,
    "kind": "qualify",
    "text": "Dutch & Dutch (Max) asks qualifying questions + when to view — answer",
-   "draft": "Hey! It's for me and my husband, we're moving early-mid November for at least 12-18 months. Budget up to £2k/month, 1 bed is fine, furnished or unfurnished both ok. I'm a product manager, my husband works in tech remotely, combined income is £220k (me £130k, my husband £90k). We have a small certified service dog and a cat, both very quiet. I'm in Barcelona until end of October so a video viewing would be great, any weekday after 12:30 works",
-   "updated": "2026-10-16T21:28:13+01:00"
+   "draft": "Hey! It's for me and my husband plus a dog and a cat. We move mid/late November, budget up to £2k/month, 1 bed min, furnished or unfurnished both fine, anywhere within 30-40 min of Regent's Park. Combined income is £220k (me £130k, my husband £90k). i'm in Spain now, could we do a video viewing on WhatsApp? +34605227263",
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1919,8 +1932,10 @@
    "age_days": 8,
    "kind": "call",
    "text": "Barnard Marcus Lettings (Tiana) asks to call back — call 0203 053 3306 (or reply by email)",
-   "draft": "Hey! Sorry, I'm in Barcelona so calls are tricky. Could we continue here or on WhatsApp +34605227263? Happy to do a video viewing",
-   "updated": "2026-10-16T21:28:13+01:00"
+   "draft": "Hey! sorry, i'm in Spain so calls are tricky. Could we continue here or on WhatsApp +34605227263? Happy to do a video viewing",
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2522,13 +2537,15 @@
    "kind": "decline",
    "since": "2026-10-16T12:29:35+02:00",
    "text": "NEW: 44 Elmsdale Road E17 (Rooted / Scott via Homeflow) — asks when to view. Commute ~43 min >40 → polite decline.",
-   "draft": "Hey! Thanks for getting back — unfortunately it's a bit too far from my office so we'll pass on this one. Thanks anyway!",
+   "draft": "Hey! i'm in Spain until mid November, could we do a video viewing on WhatsApp? +34605227263, any weekday after 12:30 UK works. We have a dog and a cat, hope that's ok",
    "reply_to": "scott@rootedhomes.co.uk",
    "thread_id": "1a1442f4252fbf3b",
    "agent_phone": null,
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T21:28:13+01:00"
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2614,13 +2631,15 @@
    "kind": "call_requested",
    "since": "2026-10-16T12:03:57Z",
    "text": "Jakub (Barnard Marcus) says Bloemfontein Rd is available, viewings this week, asks to call 0207 603 0000. Calls from Spain don't work for Masha, so reply asking for a WhatsApp video viewing.",
-   "draft": "Hey! I'm still in Spain and calls to UK numbers don't work for me unfortunately. Could we do a video viewing on WhatsApp instead? +34605227263, and are pets ok there?",
+   "draft": "Hey! i'm in Spain and calls to UK numbers don't work for me unfortunately. Could we do a video viewing on WhatsApp instead? +34605227263. Also we have a dog and a cat, is that ok?",
    "reply_to": "Jakub.Lasia@barnardmarcus.co.uk",
    "thread_id": "1a144990a0901eec",
    "agent_phone": "0207 603 0000",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T21:28:13+01:00"
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2654,12 +2673,14 @@
    "kind": "decline",
    "since": "2026-10-16T13:35:59Z",
    "text": "Krish (Foxtons) offered build-to-rent 1-beds in Southall (UNCLE) and Refinery Square near Slough, from 5 Dec. Both well over the 40-min commute to Regent's Place, so probably decline.",
-   "draft": "Hey! thank you so much, but unfortunately it's too far from my office",
+   "draft": "Hey! thank you so much, but unfortunately both are too far from my office so we'll pass on these",
    "reply_to": "Krish.Kirupananthan@foxtons.co.uk",
    "thread_id": "1a144ef5fad51106",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T21:28:13+01:00"
+   "updated": "2026-10-16T21:28:13+01:00",
+   "drafted_at": "2026-10-16T23:10:00+02:00",
+   "draft_note": "answer-all from Masha msg 282"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
