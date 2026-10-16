@@ -1,4 +1,4 @@
-const tg=window.Telegram&&Telegram.WebApp;if(tg){tg.ready();tg.expand();try{document.documentElement.dataset.theme=tg.colorScheme;tg.setHeaderColor&&tg.setHeaderColor('secondary_bg_color')}catch(e){}}
+const tg=window.Telegram&&Telegram.WebApp;DBG('app.js start tg='+(tg?tg.platform+' '+tg.version:'none'));if(tg){try{tg.ready();DBG('tg.ready')}catch(e){DBG('tg.ready err '+e.message)}try{tg.expand()}catch(e){}try{document.documentElement.dataset.theme=tg.colorScheme;tg.setHeaderColor&&tg.setHeaderColor('secondary_bg_color')}catch(e){}}
 const TZ='Europe/London';const ST=['all','new','shortlisted','enquired','rejected'];const FL=['all','saved',...ST.slice(1)];let sFilt='all',data=[],filt='all',cur=null,V=[],R=[],S=[],rFilt='all';
 const svK='flatsaved';const saved=new Set(JSON.parse(localStorage.getItem(svK)||'[]'));
 const sentOf=id=>S.find(x=>String(x.listing_id)==String(id));
@@ -267,19 +267,19 @@ function renderR(){let SS=[...S].sort((a,b)=>((a.action_rank??2)-(b.action_rank?
 
 const EMPTY=(i,t,d)=>`<div class="empty"><div class="e">${i}</div><b>${t}</b><div style="font-size:13px;margin-top:4px">${d}</div></div>`;
 const TABS={flats:['list','fhead'],viewings:['vlist'],replies:['rlist']};let curTab='flats';
-function tab(t){if(!TABS[t])t='flats';curTab=t;
+function tab(t,init){if(!TABS[t])t='flats';curTab=t;
  document.querySelectorAll('nav#tabs button').forEach(b=>{const on=b.dataset.tab==t;b.classList.toggle('on',on);b.setAttribute('aria-selected',on)});
  ['list','fhead','vlist','rlist'].forEach(id=>document.getElementById(id).style.display=TABS[t].includes(id)?'':'none');
  document.getElementById('hdr').style.display=t=='flats'?'':'none';
  if(t=='viewings')renderV();if(t=='replies')renderR();if(t=='flats'&&listDirty)fillList(true);window.scrollTo(0,0);
- try{history.replaceState(null,'',t=='flats'?location.pathname+location.search:'#'+t)}catch(e){}
+ if(!init&&!/tgWebApp/.test(location.hash))try{history.replaceState(null,'',t=='flats'?location.pathname+location.search:'#'+t)}catch(e){}
  tg&&tg.HapticFeedback&&tg.HapticFeedback.selectionChanged&&tg.HapticFeedback.selectionChanged()}
 document.querySelectorAll('nav#tabs button').forEach(b=>b.addEventListener('click',()=>tab(b.dataset.tab)));
 document.getElementById('sort').addEventListener('change',render);
 const getJ=f=>fetch(f+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[]);
-fetch('listings_lite.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(()=>getJ('listings.json')).then(d=>{data=Array.isArray(d)?d:[];loaded=true;render();if(curTab=='replies')renderR();if(curTab=='viewings')renderV();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])});
+DBG('fetch start');fetch('listings_lite.json?v='+Date.now()).then(r=>{DBG('fetch status '+r.status);if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}).then(d=>{data=Array.isArray(d)?d:[];loaded=true;DBG('fetch ok n='+data.length);render();DBG('first render done');if(curTab=='replies')renderR();if(curTab=='viewings')renderV();setTimeout(markSeen,1500);const m=(location.hash||'').match(/^#flat-(\d+)/);if(m)openCard(m[1])}).catch(e=>{DBG('fetch/render ERROR '+(e&&e.message||e));const l=document.getElementById('list');if(l)l.innerHTML='<div style="padding:30px 16px;color:#b00;text-align:center">⚠️ Не удалось загрузить список: '+esc(e&&e.message||e)+'</div>'});
 Promise.all([getJ('viewings.json'),getJ('replies.json'),getJ('sent.json')]).then(([a,b,c])=>{V=Array.isArray(a)?a:[];R=Array.isArray(b)?b:[];S=Array.isArray(c)?c:[];{const n=S.filter(e=>(e.next||{}).who==='us').length,u=document.getElementById('ubadge');if(u){u.textContent=n;u.style.display=n?'inline-block':'none'}}render();if(curTab=='viewings')renderV();if(curTab=='replies')renderR()});
-const h0=(location.hash||'').slice(1);if(!/^flat-/.test(h0))tab(h0=='viewings'||h0=='replies'?h0:'flats');
+const h0=(location.hash||'').slice(1);if(!/^flat-/.test(h0))tab(h0=='viewings'||h0=='replies'?h0:'flats',true);
 
 const BOT='Gogi_grot_bot';
 function deep(p){const u='https://t.me/'+BOT+'?start='+p;tg&&tg.HapticFeedback&&tg.HapticFeedback.notificationOccurred('success');if(tg&&tg.openTelegramLink)tg.openTelegramLink(u);else window.open(u,'_blank')}
