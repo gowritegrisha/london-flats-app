@@ -1,5 +1,166 @@
 [
   {
+    "id": "fx-2636942",
+    "title": "38b Park Avenue — 2-bed",
+    "area": "38b Park Avenue, Wood Green N22 7EX",
+    "price": 1900,
+    "size": "55 m²",
+    "floor": "1st floor",
+    "furnished": "Unfurnished",
+    "available": "",
+    "commute": "40 min · 🚌 bus W3 + Piccadilly + Victoria (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.foxtons.co.uk/properties-to-rent/n22/chpk2636942",
+    "source": "foxtons",
+    "photos": [
+      "photos/fx-2636942_0.jpg",
+      "photos/fx-2636942_1.jpg",
+      "photos/fx-2636942_2.jpg",
+      "photos/fx-2636942_3.jpg",
+      "photos/fx-2636942_4.jpg",
+      "photos/fx-2636942_5.jpg"
+    ],
+    "status": "enquired",
+    "notes": "🎥 Video tour from Aliyya (Foxtons) 16 Oct, matched to Foxtons CHPK2636942 (N22 7EX). Victorian conversion, 590 sq ft (55 m²), 2 double beds, £1,900 pcm (reduced <14 days). Video: empty and mid-touch-up (tools on floor), white walls, two different laminate floors, narrow galley kitchen with washing machine, small basic white-tiled bathroom, long narrow hallway, normal ceilings, no outdoor space. Listing photos (previous tenant) look brighter and nicer than the video.",
+    "hood": "",
+    "date_found": "2026-10-16",
+    "masha_enquired": true,
+    "features": "Superb 2 bedroom 1st floor flat; reception with dining; separate eat-in kitchen; 2 double bedrooms",
+    "lat": 51.59885,
+    "lng": -0.116683,
+    "agent": "Foxtons Walthamstow (Aliyya Aziz, WhatsApp +44 7875 800728, Aliyya.Aziz@foxtons.co.uk)",
+    "commute_min": 40,
+    "commute_mode": "🚌 bus W3 + Piccadilly + Victoria",
+    "score": 48,
+    "score_breakdown": {
+      "style": {
+        "points": 11.3,
+        "max": 22,
+        "reason": "keywords: bright(+2), conversion(+1), basic(-2)"
+      },
+      "size": {
+        "points": 9.0,
+        "max": 15,
+        "reason": "55 m²"
+      },
+      "commute": {
+        "points": 13.0,
+        "max": 20,
+        "reason": "40 min door-to-door (TfL): 🚌 bus W3 + Piccadilly + Victoria"
+      },
+      "hood": {
+        "points": 7.5,
+        "max": 15,
+        "reason": "no Hoodmaps data"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 2.8,
+        "max": 5,
+        "reason": "unfurnished (fine — Masha enquired on many)"
+      },
+      "price": {
+        "points": 0.6,
+        "max": 3,
+        "reason": "£1,900"
+      },
+      "extras": {
+        "points": 0,
+        "max": 4,
+        "reason": "none mentioned"
+      },
+      "outdoor": {
+        "points": 0,
+        "max": 6,
+        "reason": "no outdoor space mentioned"
+      }
+    }
+  },
+  {
+    "id": "fx-4646196",
+    "title": "Flat 5, Century House — 1-bed",
+    "area": "Century House, 2 St Marys Road, Hornsey N8 7GB",
+    "price": 1900,
+    "size": "51 m²",
+    "floor": "2nd floor · balcony",
+    "furnished": "Unfurnished",
+    "available": "",
+    "commute": "41 min · 🚌 bus W3 + Victoria (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.foxtons.co.uk/properties-to-rent/n8/nwhm4646196",
+    "source": "foxtons",
+    "photos": [
+      "photos/fx-4646196_0.jpg",
+      "photos/fx-4646196_1.jpg",
+      "photos/fx-4646196_2.jpg",
+      "photos/fx-4646196_3.jpg",
+      "photos/fx-4646196_4.jpg"
+    ],
+    "status": "enquired",
+    "notes": "🎥 Video tour from Aliyya (Foxtons) 16 Oct, matched to Foxtons NWHM4646196 (same postcode N8 7GB; video interiors match listing photos). Built c.2020 conversion, 552 sq ft (51 m²), £1,900 pcm. Video: long bright open-plan living/kitchen with engineered-wood-look floor, glossy grey kitchen with integrated oven + hob, French doors to a private balcony with table, modern bathroom (bath with shower, wood-effect tiles, LED mirror), carpeted double bedroom with mirrored sliding wardrobe, big windows. Listing copy says 2nd floor (key features say 1st). Hornsey / Crouch End edge, near Hornsey rail and Turnpike Lane.",
+    "hood": "",
+    "date_found": "2026-10-16",
+    "masha_enquired": true,
+    "features": "1 bedroom apartment; Private balcony; Tavern conversion; open plan living; contemporary; modern; bright",
+    "lat": 51.586862,
+    "lng": -0.121005,
+    "agent": "Foxtons Walthamstow (Aliyya Aziz, WhatsApp +44 7875 800728, Aliyya.Aziz@foxtons.co.uk)",
+    "commute_min": 41,
+    "commute_mode": "🚌 bus W3 + Victoria",
+    "score": 61,
+    "score_breakdown": {
+      "style": {
+        "points": 22,
+        "max": 22,
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), conversion(+1)"
+      },
+      "size": {
+        "points": 6.6,
+        "max": 15,
+        "reason": "51 m²"
+      },
+      "commute": {
+        "points": 12.2,
+        "max": 20,
+        "reason": "41 min door-to-door (TfL): 🚌 bus W3 + Victoria"
+      },
+      "hood": {
+        "points": 7.5,
+        "max": 15,
+        "reason": "no Hoodmaps data"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 2.8,
+        "max": 5,
+        "reason": "unfurnished (fine — Masha enquired on many)"
+      },
+      "price": {
+        "points": 0.6,
+        "max": 3,
+        "reason": "£1,900"
+      },
+      "extras": {
+        "points": 2.0,
+        "max": 4,
+        "reason": "balcony"
+      },
+      "outdoor": {
+        "points": 3.0,
+        "max": 6,
+        "reason": "balcony/terrace"
+      }
+    }
+  },
+  {
     "id": "fx-5248284",
     "title": "B207 Icon Heights — 1-bed",
     "area": "Icon Heights, 14 Bury Road, Wood Green N22",
