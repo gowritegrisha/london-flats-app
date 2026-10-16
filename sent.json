@@ -2178,7 +2178,13 @@
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
   "message": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company.My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November.We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details.We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the beginning of November and am ready to move in straight away, and am ready to make a deposit remotely. We really like this flat, especially the gym and coworking aspects in the building. My WA is +34605227263. Household combined yearly income exceeds £180,000.",
-  "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company.My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November.We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details.We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the beginning of November and am ready to move in straight away, and am ready to make a deposit remotely. We really like this flat, especially the gym and coworking aspects in the building. My WA is +34605227263. Household combined yearly income exceeds £180,000."
+  "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company.My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November.We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details.We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the beginning of November and am ready to move in straight away, and am ready to make a deposit remotely. We really like this flat, especially the gym and coworking aspects in the building. My WA is +34605227263. Household combined yearly income exceeds £180,000.",
+  "reply_sent": {
+   "hash": "f8503f67d75b4a74",
+   "draft": "Hey! Thank you so much for the viewing and the form — unfortunately Wembley is a bit too far for us from the office, so we'll have to pass. Thanks anyway!",
+   "at": "2026-10-16T11:48:10+02:00",
+   "to": "francesco.caiati@chestertons.co.uk"
+  }
  },
  {
   "listing_id": "portico-PCL250388",
