@@ -15,7 +15,7 @@
   "photos": [],
   "status": "new",
   "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Cazenove); nearby tags: \"good beer garden pub\", \"new old station!\".",
   "date_found": "2026-10-16",
   "features": "",
   "listed": "2026-10-12",
@@ -24,7 +24,7 @@
   "agent": "OpenRent (private landlord)",
   "commute_min": 48,
   "commute_mode": "🚌 bus 254 + Victoria",
-  "score": 38,
+  "score": 42,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -42,9 +42,9 @@
     "reason": "48 min (TfL): 🚌 bus 254 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 4.0,
@@ -90,7 +90,7 @@
   "photos": [],
   "status": "new",
   "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (North End); nearby tags: \"dirty\", \"joije\", \"Rough\".",
   "date_found": "2026-10-16",
   "features": "",
   "listed": "2026-10-16",
@@ -99,7 +99,7 @@
   "agent": "OpenRent (private landlord)",
   "commute_min": 38,
   "commute_mode": "🚌 bus 306 + District + Victoria",
-  "score": 44,
+  "score": 50,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -117,9 +117,9 @@
     "reason": "38 min (TfL): 🚌 bus 306 + District + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 6.0,
@@ -165,7 +165,7 @@
   "photos": [],
   "status": "new",
   "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Kensal Green), also painted Normies; nearby tags: \"Crackheads\".",
   "date_found": "2026-10-16",
   "features": "",
   "listed": "2026-10-16",
@@ -174,7 +174,7 @@
   "agent": "OpenRent (private landlord)",
   "commute_min": 46,
   "commute_mode": "🚌 bus 18 + Lioness",
-  "score": 39,
+  "score": 41,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -192,9 +192,9 @@
     "reason": "46 min (TfL): 🚌 bus 18 + Lioness — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 10.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich; negative tags: crack"
    },
    "availability": {
     "points": 6.0,
@@ -246,7 +246,7 @@
   ],
   "status": "new",
   "notes": "[Foxtons] Foxtons Bow. Situated within a secure building, this lovely 1 bedroom flat offers a comfortable living space with a bright reception room, generous bedroom and a superb location for amenities and transport links. Fairfield Road is ideally located close to both Bow Road and Bow Church stations, with easy access to the A12 the green open spaces of Victoria park and the Green Line.",
-  "hood": "",
+  "hood": "Hoodmaps: Tourists (Bow East), also painted Hipsters/Normies; nearby tags: \"alabala\".",
   "date_found": "2026-10-16",
   "features": "Fantastic 1 bedroom flat; Bright and airy reception room with dining space; Modern kitchen with fitted appliances; Well-proportioned bedroom; Smart shower room; Lovely private balcony; Moments from amenities and transport links",
   "listed": "2026-10-16",
@@ -255,7 +255,7 @@
   "agent": "Foxtons Bow",
   "commute_min": 47,
   "commute_mode": "🚇 District + Central + Metropolitan",
-  "score": 47,
+  "score": 48,
   "score_breakdown": {
    "style": {
     "points": 16.8,
@@ -273,9 +273,9 @@
     "reason": "47 min door-to-door (TfL): 🚇 District + Central + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 9.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Tourists"
    },
    "availability": {
     "points": 4.0,
@@ -321,7 +321,7 @@
   "photos": [],
   "status": "new",
   "notes": "[OTM] Andersons Estates - London. This two bed Flat features two double bedrooms, open plan lounge/kitchen and modern bathroom and is conveniently located close to the tube station. It is available now, making it an ideal option for immediate occupancy. Viewings are highly recommended to fully appreciate the accommodation on offer.",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (Mapesbury); nearby tags: \"shisha street\".",
   "date_found": "2026-10-16",
   "features": "",
   "listed": "2026-10-16",
@@ -330,7 +330,7 @@
   "agent": "Andersons Estates - London",
   "commute_min": 38,
   "commute_mode": "🚇 Jubilee + Bakerloo + bus 18",
-  "score": 41,
+  "score": 42,
   "score_breakdown": {
    "style": {
     "points": 14.0,
@@ -348,9 +348,9 @@
     "reason": "38 min (TfL): 🚇 Jubilee + Bakerloo + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 4.0,
@@ -402,7 +402,7 @@
   ],
   "status": "new",
   "notes": "[OTM] Andrew Lloyd Estates - Tottenham. Welcome to this beautifully presented two bedroom flat, available to rent in the highly sought-after NW9 area. The property has been recently refurbished throughout, offering a fresh, modern finish and exceptional comfort from the moment you step inside. Boasting two generous double bedrooms, this flat provides ample space for sharers, couples wishing to enjoy extra room. The bright and airy living space is complemented by contemporary décor, while the well-appointed bathroom is both stylish and practical. The location is ideal, situated within the vibrant community of NW9. Residents benefit from a wealth of local amenities, with supermarkets, cafés, and restaurants just a short stroll away. For outdoor enthusiasts, the picturesque Fryent Country Park and the wide open spaces of Welsh Harp Reservoir are nearby, perfect for weekend walks or picnics. Excellent transport links connect you s",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (Colindale), also painted Rich; no user tags within ~450 m.",
   "date_found": "2026-10-16",
   "features": "",
   "listed": "2026-10-16",
@@ -429,9 +429,9 @@
     "reason": "41 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 8.5,
@@ -483,7 +483,7 @@
   ],
   "status": "new",
   "notes": "[OTM] Bryan & Keegan - Hither Green. A newly refurbished one bedroom ground floor flat that is located on a popular road in the Brockley conservation area and within minutes of transport links and Hillyfields Park. Key features include a modern high gloss kitchen, white bathroom suite and a shared rear garden. The property is located on a quiet road within the Brockley conservation area and immediately opposite Hillyfields Park. Zone 2 transport links such as Brockley Overground or Lewisham DLR are within half a mile. Ladywell & St Johns stations are also excellent alternatives with trains to Charing Cross & Cannon Street. EPC Rating: D Council Tax Band: A (Lewisham Council) ",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Ladywell); nearby tags: \"Posh dog owners picking up 💩\", \"Trash Cemetery\", \"da hood\".",
   "date_found": "2026-10-16",
   "features": "Ground Floor Garden Flat; Opposite Hilly Fields; Modern kitchen; Lovely Building; Double Bedroom; Private Garden; Gas Central Heating; Available Immediately; Unfurnished; Brockley Conservation Area",
   "listed": "2026-10-16",
@@ -492,7 +492,7 @@
   "agent": "Bryan & Keegan - Hither Green",
   "commute_min": 54,
   "commute_mode": "🚌 bus 484 + Windrush + Jubilee + Bakerloo + bus 18",
-  "score": 61,
+  "score": 65,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -510,9 +510,9 @@
     "reason": "54 min (TfL): 🚌 bus 484 + Windrush + Jubilee + Bakerloo + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 10,
@@ -562,7 +562,7 @@
   ],
   "status": "new",
   "notes": "[OTM] Martyn Gerrard - East Finchley. NO DEPOSIT OPTION AVAILABLE Martyn Gerrard are pleased to present this one-bedroom, purpose-built flat, situated on the second floor of Lucas Gardens. The property comprises a spacious living room, a fully fitted kitchen, a double bedroom and a bathroom. Ideally located for access to both Finchley Central and East Finchley Underground stations, the property also offers convenient access to the North Circular Road. Additional benefits include all-electric heating and hot water, with water rates included in the rent. The property is offered unfurnished and would be ideal for a single professional or a couple. Early viewings are highly recommended.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (East Finchley); nearby tags: \"sdsdsdsds   \".",
   "date_found": "2026-10-16",
   "features": "One bedroom; One living room; Separate kitchen; One bathroom; Unfurnished; Council Tax Band B",
   "listed": "2026-10-16",
@@ -571,7 +571,7 @@
   "agent": "Martyn Gerrard - East Finchley",
   "commute_min": 46,
   "commute_mode": "🚌 bus 263 + Northern",
-  "score": 49,
+  "score": 54,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -589,9 +589,9 @@
     "reason": "46 min (TfL): 🚌 bus 263 + Northern — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -643,7 +643,7 @@
   ],
   "status": "new",
   "notes": "[OTM] Knights Residential - Tottenham. NEW! Knights are delighted to offer to let this new decorated two bedroom flat located within close proximity to transport links. The ground floor flat boasts separate lounge/diner, bathroom suite, electric heating, double glazing, fitted kitchen, laminated flooring, shared access to garden, own front door and unfurnished. EPC RATING: D COUNCIL TAX BAND: B",
-  "hood": "",
+  "hood": "Hoodmaps: Crime (Upper Edmonton), also painted Normies; nearby tags: \"hospital for crackheads\".",
   "date_found": "2026-10-16",
   "features": "One/two bedroom flat; Ground floor; Newly decorated; Own front door; Shared access to garden; Laminated flooring; Fitted kitchen; Off street parking for one car; Close to transport links; Available now!",
   "listed": "2026-10-16",
@@ -652,7 +652,7 @@
   "agent": "Knights Residential - Tottenham",
   "commute_min": 44,
   "commute_mode": "🚆 Weaver + Victoria",
-  "score": 54,
+  "score": 46,
   "score_breakdown": {
    "style": {
     "points": 11.3,
@@ -670,9 +670,9 @@
     "reason": "44 min door-to-door (TfL): 🚆 Weaver + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Crime; negative tags: crack"
    },
    "availability": {
     "points": 4.0,
@@ -724,7 +724,7 @@
   ],
   "status": "new",
   "notes": "[OTM] Carter Jonas - Fulham. The flat is located on the ground floor of a period conversion. Comprising of good sized front reception room with bay window, one double bedroom, one bathroom and eat in kitchen to the rear with access to large patio garden. Beryl Road is situated off the Fulham Palace Road and well located for the transport links and shopping amenities of Hammersmith. Holding deposit: 1 week's rent Security deposit: 5 weeks' rent Minimum term: 12 months Council tax: Band D Parking: on street via a permit Pets are considered",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Fulham Reach); nearby tags: \"nice neighbourhood but noisy sirens\".",
   "date_found": "2026-10-16",
   "features": "Ground floor flat; One bedroom; Eat in kitchen; Private garden; Convenient location; EPC rating D",
   "listed": "2026-10-16",
@@ -733,7 +733,7 @@
   "agent": "Carter Jonas - Fulham",
   "commute_min": 43,
   "commute_mode": "🚌 bus 295 + Hammersmith & City + bus 18",
-  "score": 52,
+  "score": 58,
   "score_breakdown": {
    "style": {
     "points": 14.0,
@@ -751,9 +751,9 @@
     "reason": "43 min (TfL): 🚌 bus 295 + Hammersmith & City + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -805,7 +805,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Mays Management, London. A well-presented second-floor two-bedroom flat available to rent on Wilton Road, London N10 1LU. Offering well-proportioned accommodation extending to approximately 613.54 sq. ft., the property features two double bedrooms, a separate reception room, a separate kitchen and a private balcony accessed directly from the reception room. The flat provides a practical layout, with clearly defined living and sleeping areas, making it an appealing choice for professional tenants, couples or a small family. Both bedrooms are doubles, offering comfortable accommodation and flexibility for a home office or additional storage. The separate reception room provides a welcoming space for relaxing and entertaining, with direct access to the private balcony, ideal for enjoying some outdoor space. The separate kitchen offers a dedicated area for cooking, while the bathroom completes the internal accommoda",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Coppetts); no user tags within ~450 m.",
   "date_found": "2026-10-16",
   "features": "Two Double Bedrooms – Well-proportioned bedrooms offering comfortable accommodation.; Second-Floor Flat – Situated on the second floor of a residential building.; Separate Reception Room – Bright living space with access to a private balcony.; Separate Kitchen – A dedicated kitchen separate from the reception room.; Private Balcony – Outdoor space accessible directly from the reception room.; Bathroom – A separate bathroom serving the property.; Double Glazing – Double-glazed windows throughout the flat.; Council Tax Band B – Located within the London Borough of Barnet.; 613.54 sq. ft. – Approximate total internal floor area.; Second-Floor Access – Please note there is no lift in the building.",
   "listed": "2026-10-16",
@@ -814,7 +814,7 @@
   "agent": "Mays Management, London",
   "commute_min": 50,
   "commute_mode": "🚌 bus 234 + Northern + Victoria",
-  "score": 48,
+  "score": 54,
   "score_breakdown": {
    "style": {
     "points": 15.4,
@@ -832,9 +832,9 @@
     "reason": "50 min (TfL): 🚌 bus 234 + Northern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 6.0,
@@ -886,7 +886,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Foxtons, Temple Fortune. LONG LET. This great 1 bedroom ground floor flat is located in a peaceful neighbourhood and benefits from spacious, well-arranged interiors. The property is located in a quiet neighbourhood in close proximity to Middlesex University, with amenities in Hendon and the green spaces of Sunny Hill Park close by. Please use the reference CHPK0936584 when contacting Foxtons.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Hendon), also painted Normies; nearby tags: \"Come for kiddush\", \"G104 grove building unite\".",
   "date_found": "2026-10-16",
   "features": "Great 1 bedroom ground floor flat; Peaceful neighbourhood; Spacious interiors; Good-sized reception room; Separate kitchen; Double bedroom; Purpose-built block",
   "listed": "2026-10-16",
@@ -895,7 +895,7 @@
   "agent": "Foxtons, Temple Fortune",
   "commute_min": 48,
   "commute_mode": "🚌 bus 113 + Northern + Victoria",
-  "score": 36,
+  "score": 42,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -913,9 +913,9 @@
     "reason": "48 min (TfL): 🚌 bus 113 + Northern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 4.0,
@@ -967,7 +967,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Nova Realty, London. One bedroom ground floor purpose built flat situated in a fantastic location in Islington just off Essex Road and within a 10 minute walk from Angel tube. The property is offered furnished, neutrally decorated throughout, with wood laminate floors, quality fitted separate kitchen and bathroom. The flat has access to a shared courtyard with outside storage available.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (St. Mary's); nearby tags: \" architecture studios\", \"Frenchies\", \"Corbynistas\", \"crack baby\".",
   "date_found": "2026-10-16",
   "features": "Spacious; Good Lighting; Good storage; Fantastic transport links",
   "listed": "2026-10-16",
@@ -976,7 +976,7 @@
   "agent": "Nova Realty, London",
   "commute_min": 32,
   "commute_mode": "🚆 Great Northern + Victoria",
-  "score": 54,
+  "score": 56,
   "score_breakdown": {
    "style": {
     "points": 11.3,
@@ -994,9 +994,9 @@
     "reason": "32 min door-to-door (TfL): 🚆 Great Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 10.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich; negative tags: crack"
    },
    "availability": {
     "points": 6.0,
@@ -1048,7 +1048,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Nova Realty, London. Two bedroom (lounge to be used as second bedroom) ground floor purpose built flat situated in a fantastic location in Islington just off Essex Road and within a 10 minute walk from Angel tube. The property is offered furnished, neutrally decorated throughout, with wood laminate floors, quality fitted separate kitchen and bathroom. The flat has access to a shared courtyard with outside storage available. Available 29th September 2023.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (St. Mary's); nearby tags: \" architecture studios\", \"Frenchies\", \"Corbynistas\", \"crack baby\".",
   "date_found": "2026-10-16",
   "features": "",
   "listed": "2026-10-16",
@@ -1057,7 +1057,7 @@
   "agent": "Nova Realty, London",
   "commute_min": 32,
   "commute_mode": "🚆 Great Northern + Victoria",
-  "score": 52,
+  "score": 55,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -1075,9 +1075,9 @@
     "reason": "32 min door-to-door (TfL): 🚆 Great Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 10.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich; negative tags: crack"
    },
    "availability": {
     "points": 6.0,
@@ -1129,7 +1129,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Drivers & Norris, Islington- Lettings. Two bedroom UPPER FLOOR FLAT set within MODERN GATED DEVELOPMENT and just a short walk from HORNSEY STATION. Benefitting from MODERN KITCHEN, spacious lounge, two double bedrooms and bathroom. UNFURNISHED. ",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Hornsey), also painted Normies; no user tags within ~450 m.",
   "date_found": "2026-10-16",
   "features": "- Gated Development; - Parking space £600 per year; - Double Glazed; - Central Heating; - Wooden Floors; - Two Double Bedrooms",
   "listed": "2026-10-16",
@@ -1138,7 +1138,7 @@
   "agent": "Drivers & Norris, Islington- Lettings",
   "commute_min": 38,
   "commute_mode": "🚌 bus 41 + Piccadilly + Victoria",
-  "score": 48,
+  "score": 53,
   "score_breakdown": {
    "style": {
     "points": 14.0,
@@ -1156,9 +1156,9 @@
     "reason": "38 min (TfL): 🚌 bus 41 + Piccadilly + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -1210,7 +1210,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Drivers & Norris, Islington- Lettings. We are delighted to present this Two Double bedroom modern apartment to rent. Set back in a purpose built block back off Nether Street and within walking distance to West Finchley Tube Station. The property benefits from double glazing, gas fired central heating, a modern three piece bathroom, communal gardens, allocated parking and is in the catchment area for Moss Hall Primary School. Offered furnished. ",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"posh and wierd\".",
   "date_found": "2026-10-16",
   "features": "-Large Lounge; -Two Doubles; -Modern Kitchen &amp; Bathroom; -Double Glazing",
   "listed": "2026-10-16",
@@ -1219,7 +1219,7 @@
   "agent": "Drivers & Norris, Islington- Lettings",
   "commute_min": 44,
   "commute_mode": "🚇 Northern + Victoria",
-  "score": 58,
+  "score": 63,
   "score_breakdown": {
    "style": {
     "points": 15.4,
@@ -1237,9 +1237,9 @@
     "reason": "44 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 4.0,
@@ -1291,7 +1291,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Your City Property, London. Your City Property are delighted to present to the market this light, spacious and stylish 2 bedroom apartment in a beautiful converted Fire Station. Finished to an immaculate standard throughout, the property boasts 2 good sized double bedrooms, light and airy reception room, high spec fully fitted kitchen, and sleek family bathroom. The flat is neutrally decorated with laminate flooring throughout and is offered fully furnished. Rotherhithe and Canada Water Stations are both within close proximity as are local amenities and would be perfect for 2 professional sharers or a family. Early viewings strongly recommended. Council Tax Band TBC",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Surrey Docks), also painted Tourists; nearby tags: \"Gandalf's Pub\", \"Quiet\", \"best views\".",
   "date_found": "2026-10-16",
   "features": "Fully Furnished; Shops and amenities nearby; River view",
   "listed": "2026-10-16",
@@ -1300,7 +1300,7 @@
   "agent": "Your City Property, London",
   "commute_min": 48,
   "commute_mode": "🚌 bus C10 + Jubilee + Victoria",
-  "score": 40,
+  "score": 46,
   "score_breakdown": {
    "style": {
     "points": 18.1,
@@ -1318,9 +1318,9 @@
     "reason": "48 min (TfL): 🚌 bus C10 + Jubilee + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 1.5,
@@ -1372,7 +1372,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Acorn, Kennington. Irving House, located on Doddington Grove SE17, offers a beautifully refurbished one-bedroom apartment that combines modern design with practicality, perfect for those seeking comfort and convenience in a prime South East London location. This bright and airy flat has been thoughtfully renovated to an exceptional standard, offering a stylish yet functional living space. The separate, well-proportioned living room provides a spacious area for both relaxation and entertaining, with large windows that flood the space with natural light, creating a warm and welcoming atmosphere. The separate kitchen is modern and fully equipped with high-quality appliances, offering plenty of space for cooking and meal preparation. The spacious double bedroom provides a peaceful retreat, with ample storage options to keep your living space organized and clutter-free. The bathroom has been fitted with sleek, ",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Newington), also painted Rich; nearby tags: \"Rappers\", \"Kennington where it started\".",
   "date_found": "2026-10-16",
   "features": "Beautifully refurbished one-bedroom apartment; Spacious living room with ample natural light; Modern separate kitchen with high-quality appliances; Generously sized double bedroom with plenty of storage; Sleek, contemporary bathroom with modern fixtures; Stylish hardwood flooring and neutral décor throughout; Prime location near local amenities, cafes, and shops; Excellent transport links to Central London within walking distance",
   "listed": "2026-10-16",
@@ -1381,7 +1381,7 @@
   "agent": "Acorn, Kennington",
   "commute_min": 32,
   "commute_mode": "🚇 Northern",
-  "score": 68,
+  "score": 72,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -1399,9 +1399,9 @@
     "reason": "32 min door-to-door (TfL): 🚇 Northern"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 6.8,
@@ -1453,7 +1453,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] OpenRent, London. Property Reference: 3077118. A sleek and contemporary one bedroom, one bath, fifth floor flat within a modern development. Available from November and comprises a private balcony to rear aspect, lift access to all floors and furniture flexible. Summary & Exclusions: - Rent Amount: £1,600.00 per month (£369.23 per week) - Deposit / Bond: £1,846.15 - 1 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 16 November 2026 - Maximum number of tenants is 2 - Students welcome to enquire - Smokers considered - Bills not included - No Parking Available - Property has garden access - EPC Rating: B If calling, please quote reference: 3077118 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlord show you round! ** Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week. ",
-  "hood": "",
+  "hood": "Hoodmaps: Crime (Upper Edmonton); no user tags within ~450 m.",
   "date_found": "2026-10-16",
   "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3077118",
   "listed": "2026-10-16",
@@ -1462,7 +1462,7 @@
   "agent": "OpenRent, London",
   "commute_min": 45,
   "commute_mode": "🚌 bus 149 + Victoria",
-  "score": 60,
+  "score": 54,
   "score_breakdown": {
    "style": {
     "points": 19.5,
@@ -1480,9 +1480,9 @@
     "reason": "45 min (TfL): 🚌 bus 149 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 2.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Crime"
    },
    "availability": {
     "points": 10,
@@ -1534,7 +1534,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Relo Redac Strattons, North London Office. A bright, modern one-bedroom garden flat within a period conversion on Princes Avenue, N3. Refurbished throughout and has its own access to the garden, and features high ceilings, the property offers a welcoming home ideal for a couple, with its own garden providing space to relax outdoors",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"Tehran\", \"The Irish...\".",
   "date_found": "2026-10-16",
   "features": "Gas hob; Modern fitted kitchen; Bathtub; Residential parking; Wooden flooring - bedroom; Wooden flooring - reception",
   "listed": "2026-10-16",
@@ -1543,7 +1543,7 @@
   "agent": "Relo Redac Strattons, North London Office",
   "commute_min": 41,
   "commute_mode": "🚌 bus 125 + Northern + Victoria",
-  "score": 62,
+  "score": 68,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -1561,9 +1561,9 @@
     "reason": "41 min (TfL): 🚌 bus 125 + Northern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 6.0,
@@ -1615,7 +1615,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Assure Move Estate Agents, London.  Welcome to Olive Tree Court – an exceptional collection of beautifully crafted one and two-bedroom apartments, perfectly positioned within the sought-after Cranbrook Mews development, just moments from the vibrant heart of Walthamstow Village. Designed with modern living in mind, every apartment has been finished to an outstanding specification, offering bright, contemporary interiors, spacious open-plan living areas and premium fixtures and fittings throughout. Many homes benefit from private balconies, providing the perfect space to relax and enjoy the surrounding views. The stylish kitchens feature sleek cabinetry, integrated appliances and quality worktops, seamlessly flowing into generous living and dining spaces ideal for both everyday living and entertaining. Bedrooms are well-proportioned, with selected apartments offering luxurious en-suite shower rooms alongside beautifully ap",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (High Street); nearby tags: \"Dumped mattresses\".",
   "date_found": "2026-10-16",
   "features": "Brand new collection of one &amp; two-bedroom apartments; Finished to an exceptional contemporary specification; Selected apartments with private balconies; Spacious open-plan kitchen/living/dining areas; Stylish integrated kitchens with premium appliances; Luxury bathrooms with selected en-suite shower rooms; Moments from Walthamstow Village &amp; Walthamstow Central Station; Ideal for first-time buyers, professionals and investors",
   "listed": "2026-10-09",
@@ -1624,7 +1624,7 @@
   "agent": "Assure Move Estate Agents, London",
   "commute_min": 40,
   "commute_mode": "🚌 bus 230 + Victoria",
-  "score": 51,
+  "score": 52,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -1642,9 +1642,9 @@
     "reason": "40 min (TfL): 🚌 bus 230 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 7.8,
@@ -1696,7 +1696,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Knights Residential, London. NEW! Knights are delighted to offer to let this newly decorated two double bedroom maisonette located close to transport links and local amenities. This first floor property boasts two double bedrooms, gas central heating, double glazing, own front door, separate w/c and is available to move in from end of November onwards. VIEWINGS ADVISED! Council Tax: C EPC: D",
-  "hood": "",
+  "hood": "Hoodmaps: Crime (Tottenham Hale), also painted Normies; nearby tags: \"Furniture\".",
   "date_found": "2026-10-16",
   "features": "TWO BEDROOM MAISONETTE; FIRST FLOOR; OWN FRONT DOOR; DOUBLE BEDROOMS; FITTED KITCHEN; NEWLY DECORATED; CLOSE TO TRANSPORT LINKS; SEPARATE LOUNGE/DINER; GAS CENTRAL HEATING; AVAILABLE FROM END OF NOVEMBER 2026",
   "listed": "2026-10-16",
@@ -1705,7 +1705,7 @@
   "agent": "Knights Residential, London",
   "commute_min": 42,
   "commute_mode": "🚌 bus 149 + Victoria",
-  "score": 40,
+  "score": 35,
   "score_breakdown": {
    "style": {
     "points": 11.3,
@@ -1723,9 +1723,9 @@
     "reason": "42 min (TfL): 🚌 bus 149 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 2.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Crime"
    },
    "availability": {
     "points": 6.0,
@@ -1773,7 +1773,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] London Habitat, West Hampstead. London Habitat is pleased to present this spacious and charming two-bedroom apartment, ideally located in the heart of Hendon, within easy reach of Hendon Central Station, local shops, amenities and excellent transport links. Perfectly suited to a small family or professional sharers, the property offers two generously sized bedrooms with ample storage space, complemented by wooden flooring throughout for a practical and low-maintenance finish. The bright open-plan kitchen and reception area provides a versatile living space, with a well-proportioned kitchen offering plenty of worktop space and a practical layout. The property also benefits from a spacious, fully tiled family bathroom featuring a bathtub. Combining comfortable living with a convenient location, this apartment is an excellent choice for those looking to enjoy everything Hendon has to offer. Contact Sharon today to arrange",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Hendon), also painted Normies; nearby tags: \"Come for kiddush\".",
   "date_found": "2026-10-16",
   "features": "Two Generous Double Bedrooms; First-Floor Apartment;   Open plan kitchen/living room; Attractive Red-Brick Edwardian Conversion;   Wooden flooring throughout; Well-Maintained Communal Entrance; 1 bathroom; Amazing 2 bedroom flat; Bus routes of Hendon Way; Few minutes’ walk from Hendon Central &amp; Brent Street shops",
   "listed": "2026-10-16",
@@ -1782,7 +1782,7 @@
   "agent": "London Habitat, West Hampstead",
   "commute_min": 47,
   "commute_mode": "🚌 bus 113 + Northern + Victoria",
-  "score": 45,
+  "score": 50,
   "score_breakdown": {
    "style": {
     "points": 15.4,
@@ -1800,9 +1800,9 @@
     "reason": "47 min (TfL): 🚌 bus 113 + Northern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -1854,7 +1854,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Foxtons, Temple Fortune. LONG LET. Arranged on the eighth floor, this bright 1 bedroom apartment offers an expansive open-plan reception/kitchen, a generously sized double bedroom with storage, a winter garden and far-reaching views. Conveniently located for the shops, cafés and supermarkets of Colindale, with nearby Colindale Underground Station providing easy access across London. A selection of local parks and recreation facilities are also close by. Please use the reference CHPK4328401 when contacting Foxtons.",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (Colindale), also painted Rich; nearby tags: \"banging asian food\".",
   "date_found": "2026-10-16",
   "features": "Bright 1 bedroom apartment arranged on the eighth floor; Contemporary high rise development; Expansive open-plan reception room/kitchen; Generous double bedroom with fitted wardrobes; Winter garden with far-reaching views; Large contemporary bathroom; Secure building with lift access; Colindale Underground Station within easy reach",
   "listed": "2026-10-16",
@@ -1881,9 +1881,9 @@
     "reason": "46 min (TfL): 🚌 bus 204 + Northern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 4.0,
@@ -1935,7 +1935,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Foxtons, Temple Fortune. LONG LET. Set within Thistle House at Hendon Waterside, this brand new fifth floor apartment offers a bright, expansive open-plan living space opening onto a balcony, with a well-proportioned bedroom and modern bathroom. Close to local shops, cafes and amenities, with Hendon Station and Hendon Central within easy reach. Hendon Waterside also offers access to waterside walks, landscaped green spaces and the Welsh Harp Reservoir. Please use the reference CHPK4617200 when contacting Foxtons.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (West Hendon); no user tags within ~450 m.",
   "date_found": "2026-10-16",
   "features": "Brand new 1 bedroom apartment; Set within Thistle House at Hendon Waterside; Arranged on the fifth floor; Expansive open-plan reception room and kitchen; Private balcony; Well-proportioned bedroom with fitted wardrobes; Concierge and residents’ communal gym; Landscaped communal gardens",
   "listed": "2026-10-16",
@@ -1944,7 +1944,7 @@
   "agent": "Foxtons, Temple Fortune",
   "commute_min": 47,
   "commute_mode": "🚌 bus SL10 + Northern",
-  "score": 47,
+  "score": 52,
   "score_breakdown": {
    "style": {
     "points": 18.1,
@@ -1962,9 +1962,9 @@
     "reason": "47 min (TfL): 🚌 bus SL10 + Northern — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 4.0,
@@ -2016,7 +2016,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Oliver Jaques, Surrey Quays.  Situated conveniently for the transport links and amenities at Canada Water and Rotherhithe, this well-presented one bedroom first floor apartment is available for immediate occupation on a furnished basis. Benefiting from solid oak flooring throughout, double-glazing, gas central heating and permitted off-street parking, the property further boasts a large three piece bathroom suite, and living room with electric fire-effect fireplace with 2KW heating capability and a lacquered wood surround with black marble base. EPC Rating: C",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Rotherhithe); nearby tags: \"Decathlon\", \"Men in their 30s on skateboards\", \"New developments-Canada Water Masterplan\", \"Under Construction\".",
   "date_found": "2026-10-16",
   "features": "One Bedroom; Canada Water Underground Station (0.4 Miles); Recently Refurbished Kitchen; Rotherhithe Overground Station (0.1 Mile); Permit Parking Available; Southwark Park (0.5 Miles)",
   "listed": "2026-10-16",
@@ -2025,7 +2025,7 @@
   "agent": "Oliver Jaques, Surrey Quays",
   "commute_min": 42,
   "commute_mode": "🚇 Jubilee + Northern",
-  "score": 53,
+  "score": 58,
   "score_breakdown": {
    "style": {
     "points": 18.1,
@@ -2043,9 +2043,9 @@
     "reason": "42 min door-to-door (TfL): 🚇 Jubilee + Northern"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 7.8,
@@ -2097,7 +2097,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Oaks Estate Agents, Streatham Lettings. Oaks Estate Agents are delighted to present this charming two-bedroom split-level apartment, situated within an impressive Victorian building on the highly sought-after Palace Road and offered to the market with no onward chain. Take a look at this charming two-bedroom, two-bathroom ground floor apartment, ideally situated on the popular Palace Road in Tulse Hill. Offering approximately 708 sq. ft. of living space, this well-presented property boasts a spacious reception room with high ceilings, wooden flooring and ample space for both relaxing and dining. The separate fitted kitchen offers generous worktop space, modern cabinetry and integrated appliances. The property further benefits from two well-proportioned bedrooms, two bathrooms, a walk-in wardrobe and additional storage throughout. A standout feature is the generous rear garden, perfect for entertaining guests or enjoying the wa",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Streatham Hill), also painted Rich; nearby tags: \"GhostTown Bloods and Crips 2008 lol\".",
   "date_found": "2026-10-16",
   "features": "Chain free; Communal gardens; Off street parking; Premier road; Excellent transport links to The City; EPC rating: D",
   "listed": "2026-10-16",
@@ -2106,7 +2106,7 @@
   "agent": "Oaks Estate Agents, Streatham Lettings",
   "commute_min": 48,
   "commute_mode": "🚌 bus 432 + Victoria",
-  "score": 64,
+  "score": 68,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -2124,9 +2124,9 @@
     "reason": "48 min (TfL): 🚌 bus 432 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 8.0,
