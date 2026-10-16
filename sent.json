@@ -763,7 +763,13 @@
    "thread_id": "1a13c3708e445519"
   },
   "action_rank": 0,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "69f616ccde755d3b",
+   "draft": "Hey Zac! Happy to answer:\n1. Two adults (no children), plus a well-behaved adult cat and a dog\n2. From 9 November 2026\n3. I'm joining Synthesia in London as a Product Manager (Skilled Worker visa); my husband Grigorii is also a product manager\n4. Our combined gross income is £190,000 a year\n5. Yes. Since we don't have UK payroll history yet, we can provide my Spanish tax returns, a savings statement and my Synthesia contract, plus a reference from our Barcelona landlord (we've rented the same flat for three years) and passport scans\n6. No CCJs, never been evicted\nCould we do a video viewing? I'm free after 13:30 UK most weekdays.\nThanks,\nMaria",
+   "at": "2026-10-16T11:48:07+02:00",
+   "to": "zac@leonewman.co.uk"
+  }
  },
  {
   "listing_id": "128733527",
