@@ -1735,7 +1735,13 @@
    "thread_id": "1a13ace488ec9f82"
   },
   "action_rank": 2,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "fe39b7df5406faac",
+   "draft": "Hi,\nThank you so much for showing us the flat on Cromwell Avenue and for sending over the offer form. We've had a think and decided it's not quite the right fit for us, so we won't be making an offer this time.\nThanks again for your time and help, and if anything similar comes up, we'd love to hear about it!\nBest regards,\nMaria Surkova\n+34 605 227 263",
+   "at": "2026-10-16T11:48:14+02:00",
+   "to": "e.heard@portico.com"
+  }
  },
  {
   "listing_id": "93535440",
