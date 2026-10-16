@@ -1132,7 +1132,13 @@
    "thread_id": "1a13615aeabc8598"
   },
   "action_rank": 2,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "27c8bb074aa68e19",
+   "draft": "Hi Etianne,\nThank you for sending the form! We're really interested in the flat on Coldharbour Lane, but before making an offer we'd love to see it properly. Could you send us a video walkthrough, and could we book a viewing? A video call works great as we're still in Barcelona, and I'm free after 13:30 UK most weekdays.\nA bit about us: we're Maria and Grigorii, a couple moving from Barcelona, where we've rented the same flat for the past three years. I'm joining Synthesia in London as a Product Manager, our combined income is £190,000 a year, and we have a well-behaved adult cat and a dog. We're hoping to move in around 9 November.\nBest regards,\nMaria Surkova\n+34 605 227 263",
+   "at": "2026-10-16T11:48:12+02:00",
+   "to": "Etianne.Wilson@haart.co.uk"
+  }
  },
  {
   "listing_id": "94152048",
