@@ -2416,5 +2416,19 @@
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+ },
+ {
+  "listing_id": "94120101",
+  "title": "Greatfield Close — 1-bed",
+  "text": "Hello,\n\nWe're very interested in Greatfield Close — 1-bed and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nI see it's available from 7 Nov. Would it be possible to hold it until mid-November?\n\nThank you,\nMaria Surkova\n+34 605 227 263\n",
+  "message": "Hello,\n\nWe're very interested in Greatfield Close — 1-bed and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.\n\nI see it's available from 7 Nov. Would it be possible to hold it until mid-November?\n\nThank you,\nMaria Surkova\n+34 605 227 263\n",
+  "sent_at": "2026-10-16T13:15:17+02:00",
+  "channel": "rightmove",
+  "status": "sent",
+  "source": "assistant",
+  "agent": "Drivers & Norris, Islington- Lettings",
+  "url": "https://www.rightmove.co.uk/properties/94120101",
+  "price": "£1,950 pcm",
+  "address": "Greatfield Close, Archway, London, N19"
  }
 ]
