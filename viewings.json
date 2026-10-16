@@ -273,10 +273,12 @@
   "agent_email": "matteodanisi@dexters.co.uk",
   "agent_phone": null,
   "thread_id": "1a13b22cd63d401a",
-  "status": "confirmed",
+  "status": "cancelled",
   "source": "masha-mail",
   "calendar_event_id": "dmmtbn3kt3qn2vh12g0k98jbrk",
   "calendar_link": "https://www.google.com/calendar/event?eid=ZG1tdGJuM2t0M3FuMnZoMTJnMGs5OGpicmsgZ293cml0ZW1hc2hhQG0",
-  "url": "https://www.rightmove.co.uk/properties/94310331"
+  "url": "https://www.rightmove.co.uk/properties/94310331",
+  "postponed": true,
+  "notes": "Postponed: Matteo called 16 Oct — they lost the keys; he'll reschedule when they have them."
  }
 ]
