@@ -747,13 +747,14 @@
   "next": {
    "who": "us",
    "kind": "question",
-   "since": "2026-10-16T11:15:43.911863+02:00",
-   "text": "Masha: answer Hendon Way (Leo Newman / Zac) qualifying questions; draft ready for approval.",
-   "draft": "Hey! Happy to answer:\n1. Two adults (no children)\n2. Mid-November 2026\n3. I'm a product manager at a tech company; my husband works in tech remotely\n4. Combined gross ~£190k+/year\n5. Yes — landlord reference, employment refs, bank statements, payslips, passport scans all fine\n6. No CCJs, never been evicted, no adverse credit\nWe also have a quiet dog and cat. Could we do a video viewing? I'm free after 13:30 UK most weekdays.",
+   "since": "2026-10-16T11:25:50+02:00",
+   "text": "Masha: answer Hendon Way (Leo Newman / Zac) qualifying questions — updated with \"about us\" info from the Princes Avenue offer. Ready for Grisha's Send.",
+   "draft": "Hey Zac! Happy to answer:\n1. Two adults (no children), plus a well-behaved adult cat and a dog\n2. From 9 November 2026\n3. I'm joining Synthesia in London as a Product Manager (Skilled Worker visa); my husband Grigorii is also a product manager\n4. Our combined gross income is £190,000 a year\n5. Yes. Since we don't have UK payroll history yet, we can provide my Spanish tax returns, a savings statement and my Synthesia contract, plus a reference from our Barcelona landlord (we've rented the same flat for three years) and passport scans\n6. No CCJs, never been evicted\nCould we do a video viewing? I'm free after 13:30 UK most weekdays.\nThanks,\nMaria",
    "reply_to": "zac@leonewman.co.uk",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T10:22:25+01:00"
+   "updated": "2026-10-16T11:25:50+02:00",
+   "thread_id": "1a13c3708e445519"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1094,14 +1095,17 @@
   "agent_email": "Etianne.Wilson@haart.co.uk",
   "agent_phone": "020 8693 7038",
   "next": {
-   "who": "masha",
-   "kind": "offer_form",
-   "since": "2026-10-16T11:15:43.911863+02:00",
-   "text": "Coldharbour Lane (haart) offer form — Masha asked for the listing link; she decides on offer herself.",
+   "who": "us",
+   "kind": "viewing",
+   "since": "2026-10-16T11:25:50+02:00",
+   "text": "Masha (msg 196): Coldharbour — needs a video and a viewing before any offer. Ask Etianne (haart) for both.",
    "url": "https://www.rightmove.co.uk/properties/94160553",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T10:22:25+01:00"
+   "updated": "2026-10-16T11:25:50+02:00",
+   "draft": "Hi Etianne,\nThank you for sending the form! We're really interested in the flat on Coldharbour Lane, but before making an offer we'd love to see it properly. Could you send us a video walkthrough, and could we book a viewing? A video call works great as we're still in Barcelona, and I'm free after 13:30 UK most weekdays.\nA bit about us: we're Maria and Grigorii, a couple moving from Barcelona, where we've rented the same flat for the past three years. I'm joining Synthesia in London as a Product Manager, our combined income is £190,000 a year, and we have a well-behaved adult cat and a dog. We're hoping to move in around 9 November.\nBest regards,\nMaria Surkova\n+34 605 227 263",
+   "reply_to": "Etianne.Wilson@haart.co.uk",
+   "thread_id": "1a13615aeabc8598"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1688,14 +1692,17 @@
   "agent_phone": "07706413127",
   "notes": "Viewed 14 Oct with Portico (Cromwell Ave). Offer form received.",
   "next": {
-   "who": "masha",
-   "kind": "offer_form",
-   "since": "2026-10-16T11:15:43.911863+02:00",
-   "text": "Cromwell Avenue (Portico) offer form — Masha asked for the listing link; she decides on offer herself.",
+   "who": "us",
+   "kind": "decline",
+   "since": "2026-10-16T11:25:50+02:00",
+   "text": "Masha (msg 196): Cromwell — no offer, not a fan. Friendly decline to Portico.",
    "url": "https://www.rightmove.co.uk/properties/94045110",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-16T10:22:25+01:00"
+   "updated": "2026-10-16T11:25:50+02:00",
+   "draft": "Hi,\nThank you so much for showing us the flat on Cromwell Avenue and for sending over the offer form. We've had a think and decided it's not quite the right fit for us, so we won't be making an offer this time.\nThanks again for your time and help, and if anything similar comes up, we'd love to hear about it!\nBest regards,\nMaria Surkova\n+34 605 227 263",
+   "reply_to": "e.heard@portico.com",
+   "thread_id": "1a13ace488ec9f82"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
