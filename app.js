@@ -12,6 +12,10 @@ const pill=e=>{const [l,c]=SSTAT[e.status]||SSTAT.sent;return `<span class="pill
 const av=e=>`<span class="av ${e.source==='assistant'?'av-as':'av-ma'}" title="${e.source==='assistant'?'Ассистент':'Маша'}">${e.source==='assistant'?'🤖':'👩'}</span>`;
 const isOR=e=>e&&(e.channel==='openrent'||(e.agent||'').toLowerCase().startsWith('openrent'));
 const isAs=e=>!!e&&e.source==='assistant';
+const chanOf=e=>{const a=(e.agent||'').toLowerCase(),c=(e.channel||'').toLowerCase();return a.startsWith('openrent')?'OpenRent':c.includes('whatsapp')?'WhatsApp':c&&c!=='rightmove'?'Email':'Rightmove'};
+const agName=(f,e)=>{const l=(f||'').split('@')[0];if(e.agent_email&&f.toLowerCase()==e.agent_email.toLowerCase()&&e.agent_contact)return e.agent_contact;return /no-?reply|donotreply|^info$|^support$|^leads$/i.test(l)?(f.split('@')[1]||l):l.replace(/[._]/g,' ')};
+const whoM=(m,e)=>m.dir==='agent'?`<b class="w-ag">🏢 Агент${m.from?' ('+esc(agName(m.from,e))+')':''}</b>`:((m.by==='assistant'||(m.enquiry&&isAs(e)))?'<b class="w-as">🤖 Ассистент</b>':'<b class="w-ma">👩 Маша</b>');
+const senderTag=e=>`<div class="sndr ${isAs(e)?'s-as':'s-ma'}">${isAs(e)?'🤖 Ассистент':'👩 Маша'} <span>· ${chanOf(e)}${e.sent_at?' · '+fmtD(e.sent_at):''}</span></div>`;
 const linkOf=(e,L)=>isOR(e)?(e.openrent_url||'https://www.openrent.co.uk/myenquiries'):((L&&L.url)||e.url||'');
 const linkLbl=(e,L)=>isOR(e)?'OpenRent':(L?srcName(L):'Rightmove');
 const areaOf=(e,L)=>{if(L)return hoodName(L);const t=(e.title||'').split(',');return (t.length>1?t[t.length-1]:'').trim()};

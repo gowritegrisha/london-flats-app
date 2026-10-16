@@ -2,10 +2,21 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>Квартиры в Лондоне</title>
-<script>(function(){var K='dbglog',P=[];try{P=JSON.parse(localStorage.getItem(K)||'[]')}catch(e){}var prev=P.slice(-12),cur=[],t0=Date.now();function save(){try{localStorage.setItem(K,JSON.stringify(P.slice(-60)))}catch(e){}}function paint(){var d=document.getElementById('dbgp');if(!d){if(!document.body)return;d=document.createElement('pre');d.id='dbgp';d.style.cssText='position:fixed;left:0;right:0;bottom:64px;z-index:99998;margin:0;padding:4px 6px;background:rgba(0,0,0,.75);color:#0f0;font:9px/1.25 monospace;white-space:pre-wrap;max-height:30vh;overflow:auto;pointer-events:auto';d.onclick=function(){d.style.display='none'};document.body.appendChild(d)}d.textContent='[prev session]\n'+prev.join('\n')+'\n[now v4.4]\n'+cur.join('\n')}window.DBG=function(m){var s=new Date().toISOString().slice(11,19)+' +'+(Date.now()-t0)+'ms '+m;cur.push(s);P.push(s);save();paint()};DBG('---- boot '+location.pathname+' hash='+(location.hash||'').slice(0,20));document.addEventListener('DOMContentLoaded',function(){DBG('html parsed');paint()});addEventListener('pagehide',function(){DBG('pagehide')});addEventListener('beforeunload',function(){DBG('beforeunload')});document.addEventListener('visibilitychange',function(){DBG('visibility '+document.visibilityState)});addEventListener('error',function(e){DBG('ERR '+e.message+' @'+(e.filename||'').split('/').pop()+':'+e.lineno)});addEventListener('unhandledrejection',function(e){DBG('REJ '+(e.reason&&e.reason.message||e.reason))});})();</script>
+<script>(function(){var K='dbglog',P=[];try{P=JSON.parse(localStorage.getItem(K)||'[]')}catch(e){}var prev=P.slice(-12),cur=[],t0=Date.now();
+var show=(location.hash+location.search).toLowerCase().indexOf('debug')>=0;
+function save(){try{localStorage.setItem(K,JSON.stringify(P.slice(-60)))}catch(e){}}
+function paint(){if(!show)return;var d=document.getElementById('dbgp');if(!d){if(!document.body)return;d=document.createElement('pre');d.id='dbgp';d.style.cssText='position:fixed;left:0;right:0;bottom:64px;z-index:99998;margin:0;padding:4px 6px;background:rgba(0,0,0,.75);color:#0f0;font:9px/1.25 monospace;white-space:pre-wrap;max-height:30vh;overflow:auto;pointer-events:auto';d.onclick=function(){d.style.display='none'};document.body.appendChild(d)}d.style.display='';d.textContent='[prev session]\n'+prev.join('\n')+'\n[now v4.5]\n'+cur.join('\n')}
+window.DBG=function(m){var s=new Date().toISOString().slice(11,19)+' +'+(Date.now()-t0)+'ms '+m;cur.push(s);P.push(s);save();paint()};
+DBG('---- boot '+location.pathname+' hash='+(location.hash||'').slice(0,20)+' dbg='+show);
+document.addEventListener('DOMContentLoaded',function(){DBG('html parsed');paint();var taps=0,last=0;var hdr=document.getElementById('hdr');if(hdr)hdr.addEventListener('click',function(){var n=Date.now();if(n-last>2000)taps=0;last=n;if(++taps>=5){taps=0;show=true;DBG('debug panel unlocked');paint()}})});
+addEventListener('pagehide',function(){DBG('pagehide')});addEventListener('beforeunload',function(){DBG('beforeunload')});
+document.addEventListener('visibilitychange',function(){DBG('visibility '+document.visibilityState)});
+addEventListener('error',function(e){DBG('ERR '+e.message+' @'+(e.filename||'').split('/').pop()+':'+e.lineno)});
+addEventListener('unhandledrejection',function(e){DBG('REJ '+(e.reason&&e.reason.message||e.reason))});
+})();</script>
 <script>(function(){function show(m){try{var d=document.getElementById('errbox');if(!d){d=document.createElement('pre');d.id='errbox';d.style.cssText='position:fixed;left:0;right:0;top:0;z-index:99999;margin:0;padding:12px;background:#fff;color:#b00;font:12px/1.4 monospace;white-space:pre-wrap;max-height:60vh;overflow:auto';(document.body||document.documentElement).appendChild(d)}d.textContent+='⚠️ '+m+'\n';var l=document.getElementById('boot');if(l)l.remove()}catch(e){}}window.onerror=function(m,src,ln,col,e){show(m+' @'+(src||'').split('/').pop()+':'+ln+':'+col+(e&&e.stack?'\n'+e.stack:''))};window.addEventListener('unhandledrejection',function(e){var r=e.reason;show('Promise: '+(r&&(r.stack||r.message)||r))});setTimeout(function(){if(document.getElementById('boot'))show('App did not render within 15s')},15000)})();</script>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<link rel="stylesheet" href="style.css?v=v4.4-dbg">
+<link rel="stylesheet" href="style.css?v=v4.5">
 </head><body>
 <header id="hdr"><div id="fhead"><h1>🏠 Квартиры <span id="cnt" class="cnt"></span></h1>
 <div class="ctl"><div class="row" id="filters"></div></div>
@@ -29,5 +40,5 @@
 <button id="sync" class="b" style="display:none" onclick="syncR()"></button>
 <div id="sheet" onclick="if(event.target===this)sheetClose()"><div class="sbox"><div class="grab"></div><div class="sbody"></div></div></div>
 <div class="toast" id="toast"></div>
-<script src="app.js?v=v4.4-dbg"></script>
+<script src="app.js?v=v4.5"></script>
 </body></html>

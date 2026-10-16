@@ -2430,5 +2430,21 @@
   "url": "https://www.rightmove.co.uk/properties/94120101",
   "price": "£1,950 pcm",
   "address": "Greatfield Close, Archway, London, N19"
+ },
+ {
+  "listing_id": "fx-5248284",
+  "title": "B207 Icon Heights, 14 Bury Road, Wood Green N22",
+  "agent": "Foxtons (Aliyya Aziz)",
+  "url": "https://www.foxtons.co.uk/properties-to-rent/n22/ptny5248284",
+  "channel": "whatsapp",
+  "price": "£1,950 pcm",
+  "address": "B207 Icon Heights, 14 Bury Road, London N22",
+  "sent_at": "2026-10-16T13:20:25+02:00",
+  "status": "replied",
+  "source": "masha",
+  "agent_phone": "+44 7875 800728",
+  "agent_email": "Aliyya.Aziz@foxtons.co.uk",
+  "text_missing_reason": "Masha is talking to Aliyya on WhatsApp from her phone; that chat isn't in our WhatsApp export yet.",
+  "note": "💜 Masha (16 Oct): \"B207 Icon Heights is amazing\". 2nd floor, private balcony, 50 m², EPC B, ~33 min to Regent's Place (Piccadilly + Victoria)."
  }
 ]
