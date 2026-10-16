@@ -1,5 +1,410 @@
 [
  {
+  "id": "otm-4860874",
+  "title": "Mildenhall Road — 1-bed",
+  "area": "Mildenhall Road, Lower Clapton, London, Hackney, E5",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-27",
+  "commute": "49 min · 🚌 bus 253 + Mildmay + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/4860874/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-4860874_0.jpg",
+   "photos/otm-4860874_1.jpg",
+   "photos/otm-4860874_2.jpg",
+   "photos/otm-4860874_3.jpg",
+   "photos/otm-4860874_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Dimension Estates - Hackney. This property has character and charm in abundance and is bathed in natural light, boasting bright and spacious interiors. Composed of a charming open plan fitted kitchen with a reception room/dining, which offers direct access to a cosy patio garden (a fantastic sun-trap in the warmer months), a well-proportioned principal bedroom and a new, modern family bathroom. The property hugely benefits from being refurbished to a very high specification, high ceilings with original features and presented to a very high standard with wood floors throughout. Situated on a tranquil tree-lined residential road, you have access to the open green spaces of Millfields Park and also a short stroll to Hackney Downs Park. Clapton Rail, Hackney Central, Hackney Downs and Homerton Overground stations are all just a 6/8 minutes walking distance offering easy access into Central London. Furthermore only 12-17",
+  "hood": "Hoodmaps: Hipsters (Lea Bridge), also painted Rich; nearby tags: \"Where trendies get robbed\", \"GTA server 24/7\", \"best pain au shock\", \"G-uchi\".",
+  "date_found": "2026-10-16",
+  "features": "Ideally Situated Only Moments To Hackney Central And Hackney Downs Overground Stations; Newly Renovated To A High Spec; Situated On The Lower Ground Of This Imposing Victorian Building; Moments Away From Clapton Rail Station; Beautifully Appointed In This Sought After Residential Street In Hackney; Access To A Lovely Small Patio Garden; Moments From The Open Green Spaces Of Hackney Downs Park And Millfields Park; Neatly Tucked Away From Bustling Lower Clapton Road; Stunning One Bedroom Period Conversion Flat; Rent Includes Internet Access Only",
+  "listed": "2026-10-16",
+  "lat": 51.55687,
+  "lng": -0.052225,
+  "agent": "Dimension Estates - Hackney",
+  "commute_min": 49,
+  "commute_mode": "🚌 bus 253 + Mildmay + Victoria",
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), refurbished(+2), light(+1), wood floors(+1), high ceilings(+2), high ceiling(+1), conversion(+1), period(+1), character(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "49 min (TfL): 🚌 bus 253 + Mildmay + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "27 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20572121",
+  "title": "Wells House Road — 1-bed",
+  "area": "Wells House Road, London, NW10",
+  "price": 1450,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-26",
+  "commute": "51 min · 🚇 Central + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20572121/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20572121_0.jpg",
+   "photos/otm-20572121_1.jpg",
+   "photos/otm-20572121_2.jpg",
+   "photos/otm-20572121_3.jpg",
+   "photos/otm-20572121_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] OpenRent - UK. Property Reference: 3077181. A One bedroom flat, modern with a private terrace and kept in good condition. Walking distance to East Acton and Willesden Junction stations, A40 nearby for motorists. Available end of November/ start of December the property is mostly unfurnished Summary & Exclusions: - Rent Amount: £1,450.00 per month (£334.62 per week) - Deposit / Bond: £1,673.07 - 1 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 26 November 2026 - Maximum number of tenants is 2 - Students welcome to enquire - Pets considered / by arrangement - Smokers considered - Not Suitable for Families / Children - Bills not included - Property has parking - Property has garden access - EPC Rating: C If calling, please quote reference: 3077181 Fees: You will not be charged any admin fees. * Contact today to book a viewing and have the landlord show you round! * Request",
+  "hood": "Hoodmaps: Rich (East Acton), also painted Normies; nearby tags: \"Train spotters\", \"Poor mansCanary Wharf \".",
+  "date_found": "2026-10-16",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3077181",
+  "listed": "2026-10-16",
+  "lat": 51.523801,
+  "lng": -0.253551,
+  "agent": "OpenRent - UK",
+  "commute_min": 51,
+  "commute_mode": "🚇 Central + Victoria",
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 5.4,
+    "max": 20,
+    "reason": "51 min door-to-door (TfL): 🚇 Central + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "26 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 3,
+    "max": 3,
+    "reason": "£1,450"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, terrace"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94416690",
+  "title": "Penywern Road — 1-bed",
+  "area": "Penywern Road, Earls Court",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-10",
+  "commute": "31 min · 🚇 District + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94416690",
+  "source": "rightmove",
+  "photos": [
+   "photos/94416690_0.jpg",
+   "photos/94416690_1.jpg",
+   "photos/94416690_2.jpg",
+   "photos/94416690_3.jpg",
+   "photos/94416690_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] With Us Property, London. Charming 1 bedroom flat located on the fourth (top) floor of a period property. Consists of 1 bedroom with ample built in storage, open plan kitchen and living room, bathroom. The flat has wooden floors throughout, all appliances (washer/dryer, dishwasher). Located in Penywern Rd, SW5, 2 minutes walk from Earls Court tube station. The property benefits from a small terrace. Price: £2,000 pcm. Bills excluded. EPC: C.",
+  "hood": "Hoodmaps: Rich (Earl's Court); nearby tags: \"Filipino Area\", \"most expensive property in UK\".",
+  "date_found": "2026-10-16",
+  "features": "",
+  "listed": "2026-10-16",
+  "lat": 51.490401,
+  "lng": -0.194784,
+  "agent": "With Us Property, London",
+  "commute_min": 31,
+  "commute_mode": "🚇 District + Victoria",
+  "score": 71,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 19.4,
+    "max": 20,
+    "reason": "31 min door-to-door (TfL): 🚇 District + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "10 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94417377",
+  "title": "Stroud Green Road — 1-bed",
+  "area": "Stroud Green Road, Finsbury Park",
+  "price": 1700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-23",
+  "commute": "28 min · 🚌 bus W7 + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94417377",
+  "source": "rightmove",
+  "photos": [
+   "photos/94417377_0.jpg",
+   "photos/94417377_1.jpg",
+   "photos/94417377_2.jpg",
+   "photos/94417377_3.jpg",
+   "photos/94417377_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Barroque, London. Nestled in the vibrant heart of Stroud Green, this charming first-floor apartment offers a delightful blend of comfort and convenience. With one spacious bedroom and a well-appointed bathroom, this period property above a shop is perfect for those seeking a stylish urban retreat. The apartment boasts an abundance of natural light, creating a warm and inviting atmosphere throughout. The reception room provides a versatile space that can be tailored to your lifestyle, whether you prefer a cosy living area or a functional workspace. Living here means you are just a short five-minute stroll from an array of local amenities. Enjoy the diverse selection of restaurants and cafes that line the streets, perfect for leisurely brunches or evening meals. For those who appreciate the outdoors, nearby parks offer a tranquil escape from the hustle and bustle of city life. Additionally, convenience stor",
+  "hood": "Hoodmaps: Rich (Stroud Green); no user tags within ~450 m.",
+  "date_found": "2026-10-16",
+  "features": "Bright and spacious flat; First floor period charm; Heart of Stroud Green; 5 mins walk to restaurants; Close to cafes and parks; Near convenience stores; Walk to wine bars; Finsbury Park Train Station nearby; Crouch Hill Overground also within walking distance; Viewing recommended &amp; available NOW",
+  "listed": "2026-10-16",
+  "lat": 51.569999,
+  "lng": -0.113632,
+  "agent": "Barroque, London",
+  "commute_min": 28,
+  "commute_mode": "🚌 bus W7 + Victoria",
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: stylish(+3), bright(+2), light(+1), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 8.0,
+    "max": 20,
+    "reason": "28 min (TfL): 🚌 bus W7 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94418511",
+  "title": "The Mall Ealing W5 — 1-bed",
+  "area": "The Mall Ealing W5",
+  "price": 1650,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-14",
+  "commute": "37 min · 🚆 Elizabeth line + Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94418511",
+  "source": "rightmove",
+  "photos": [
+   "photos/94418511_0.jpg",
+   "photos/94418511_1.jpg",
+   "photos/94418511_2.jpg",
+   "photos/94418511_3.jpg",
+   "photos/94418511_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Rolfe East, Acton. A well presented second floor one bedroom apartment located in a sought after position on The Mall. The property offers a bright and modern open plan kitchen and reception room, a large double bedroom, offering plenty of space for bedroom furniture and storage and a modern fully tiled shower room. The property further boasts wood flooring throughout. The Mall is within easy reach of the amenities and attractions of Ealing Broadway. A wide selection of shops, cafés, restaurants, bars and everyday conveniences are all close by, making it a convenient location for both work and leisure. Ealing Broadway Station is also within easy reach, providing excellent transport connections across London, including access to the Elizabeth line, Central and District lines, as well as National Rail services. Please call Rolfe East on to arrange a viewing. ",
+  "hood": "Hoodmaps: Rich (Ealing Broadway); nearby tags: \"New shops, sometimes market stalls \", \"poland\", \"Great lover and friemd of the stats\".",
+  "date_found": "2026-10-16",
+  "features": "Available Mid December; Furnished; Second floor flat; Wood flooring; EPC rating: C / council tax band: C; Approx. two minutes walk to Ealing Broadway Station",
+  "listed": "2026-10-16",
+  "lat": 51.514232,
+  "lng": -0.30093,
+  "agent": "Rolfe East, Acton",
+  "commute_min": 37,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), well presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚆 Elizabeth line + Northern"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "14 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 2.1,
+    "max": 3,
+    "reason": "£1,650"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "or-3002459",
   "title": "1 Bed Flat — 1-bed",
   "area": "1 Bed Flat, Rossendale House, E5",
