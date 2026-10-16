@@ -11,6 +11,7 @@ const SSTAT={not_sent:['Не отправлено','pl-red'],sent:['Ждём о�
 const pill=e=>{const [l,c]=SSTAT[e.status]||SSTAT.sent;return `<span class="pill ${c}">${l}</span>`};
 const av=e=>`<span class="av ${e.source==='assistant'?'av-as':'av-ma'}" title="${e.source==='assistant'?'Ассистент':'Маша'}">${e.source==='assistant'?'🤖':'👩'}</span>`;
 const isOR=e=>e&&(e.channel==='openrent'||(e.agent||'').toLowerCase().startsWith('openrent'));
+const isAs=e=>!!e&&e.source==='assistant';
 const linkOf=(e,L)=>isOR(e)?(e.openrent_url||'https://www.openrent.co.uk/myenquiries'):((L&&L.url)||e.url||'');
 const linkLbl=(e,L)=>isOR(e)?'OpenRent':(L?srcName(L):'Rightmove');
 const areaOf=(e,L)=>{if(L)return hoodName(L);const t=(e.title||'').split(',');return (t.length>1?t[t.length-1]:'').trim()};
