@@ -23263,7 +23263,7 @@
       "photos/94295292_4.jpg"
     ],
     "status": "new",
-    "notes": "[Rightmove] Foxtons, Shepherds Bush. LONG LET. A beautifully presented 1 bedroom apartment offering bright living space, a contemporary kitchen, modern bathroom and excellent natural light, ideally located on a popular residential road in Hammersmith. Southerton Road is moments from Stamford Brook and Ravenscourt Park stations, with King Street and Chiswick High Road offering an excellent choice of cafés, restaurants and shops. Ravenscourt Park and the Thames Path are also nearby. Please use the reference SHEP6430956 when contacting Foxtons.",
+    "notes": "[Rightmove] Foxtons, Shepherds Bush. LONG LET. A beautifully presented 1 bedroom apartment offering bright living space, a contemporary kitchen, modern bathroom and excellent natural light, ideally located on a popular residential road in Hammersmith. Southerton Road is moments from Stamford Brook and Ravenscourt Park stations, with King Street and Chiswick High Road offering an excellent choice of cafés, restaurants and shops. Ravenscourt Park and the Thames Path are also nearby. Please use the reference SHEP6430956 when contacting Foxtons.\nFoxtons SB phone (Masha 16 Oct): +2 weeks deposit for pets; agent also pitched Kidbrooke (she has not applied).",
     "hood": "Hoodmaps: Rich (Hammersmith Broadway); nearby tags: \"Expensive Yogurt and Salmon\", \"Carlson Gracie BJJ\", \"Eddie and Richie lived here\", \"druggies\".",
     "date_found": "2026-10-16",
     "features": "Bright and well presented 1 bedroom apartment; Spacious reception room with room to dine and entertain; Contemporary fitted kitchen with ample storage; Well proportioned double bedroom; Modern bathroom suite; Excellent natural light throughout; Sought-after residential location in Hammersmith; Close to Stamford Brook station, Ravenscourt Park and Chiswick High Road amenities",
@@ -23322,7 +23322,9 @@
       }
     },
     "nbhd": "Grove · Hammersmith W6",
-    "fresh_days": 2
+    "fresh_days": 2,
+    "pet_deposit_extra_weeks": 2,
+    "feedback_link": "Masha Telegram 209/213"
   },
   {
     "id": "94296900",
