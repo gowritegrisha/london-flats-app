@@ -1054,10 +1054,10 @@
    "age_days": 8,
    "kind": "availability",
    "text": "Dorrington (Kevin) asks when we can view — reply with a time",
-   "draft": "Hey! i'm still in Spain, could we do a video viewing on WhatsApp? +34605227263, any weekday after 12:30 works. We have a dog and a cat, the dog is a certified service dog",
+   "draft": "Hey! i'm still in Spain, could we do a video viewing on WhatsApp? +34605227263, any weekday after 12:30 works. We have a dog and a cat",
    "updated": "2026-10-16T21:28:13+01:00",
-   "drafted_at": "2026-10-16T23:10:00+02:00",
-   "draft_note": "answer-all from Masha msg 282"
+   "drafted_at": "2026-10-16T23:05:00+02:00",
+   "draft_note": "revised per Masha msg 294 (partner, no service dog, £190k no breakdown)"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1500,10 +1500,10 @@
    "age_days": 8,
    "kind": "qualify",
    "text": "Occu (Erin) asks qualifying questions + when to view — answer",
-   "draft": "Hey! 1 bed, budget up to £2k/month, no preference on floor or aspect, just good light. It's me and my husband plus a dog and a cat, moving mid/late November, our combined income is £220k (me £130k, my husband £90k). i'm in Spain now, could we do a video viewing on WhatsApp? +34605227263",
+   "draft": "Hey! 1 bed, budget up to £2k/month, no preference on floor or aspect, just good light. It's me and my partner plus a dog and a cat, moving mid/late November, our combined income is £190k. i'm in Spain now, could we do a video viewing on WhatsApp? +34605227263",
    "updated": "2026-10-16T21:28:13+01:00",
-   "drafted_at": "2026-10-16T23:10:00+02:00",
-   "draft_note": "answer-all from Masha msg 282"
+   "drafted_at": "2026-10-16T23:05:00+02:00",
+   "draft_note": "revised per Masha msg 294 (partner, no service dog, £190k no breakdown)"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1888,10 +1888,10 @@
    "age_days": 8,
    "kind": "qualify",
    "text": "Dutch & Dutch (Max) asks qualifying questions + when to view — answer",
-   "draft": "Hey! It's for me and my husband plus a dog and a cat. We move mid/late November, budget up to £2k/month, 1 bed min, furnished or unfurnished both fine, anywhere within 30-40 min of Regent's Park. Combined income is £220k (me £130k, my husband £90k). i'm in Spain now, could we do a video viewing on WhatsApp? +34605227263",
+   "draft": "Hey! It's for me and my partner plus a dog and a cat. We move mid/late November, budget up to £2k/month, 1 bed min, furnished or unfurnished both fine, anywhere within 30-40 min of Regent's Park. Combined income is £190k. i'm in Spain now, could we do a video viewing on WhatsApp? +34605227263",
    "updated": "2026-10-16T21:28:13+01:00",
-   "drafted_at": "2026-10-16T23:10:00+02:00",
-   "draft_note": "answer-all from Masha msg 282"
+   "drafted_at": "2026-10-16T23:05:00+02:00",
+   "draft_note": "revised per Masha msg 294 (partner, no service dog, £190k no breakdown)"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2673,14 +2673,15 @@
    "kind": "decline",
    "since": "2026-10-16T13:35:59Z",
    "text": "Krish (Foxtons) offered build-to-rent 1-beds in Southall (UNCLE) and Refinery Square near Slough, from 5 Dec. Both well over the 40-min commute to Regent's Place, so probably decline.",
-   "draft": "Hey! thank you so much, but unfortunately both are too far from my office so we'll pass on these",
+   "draft": null,
    "reply_to": "Krish.Kirupananthan@foxtons.co.uk",
    "thread_id": "1a144ef5fad51106",
    "source": "manual",
    "age_days": 0,
    "updated": "2026-10-16T21:28:13+01:00",
    "drafted_at": "2026-10-16T23:10:00+02:00",
-   "draft_note": "answer-all from Masha msg 282"
+   "draft_note": "Masha 23:01: don't send, she already talked to Krish herself",
+   "skip_send": true
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."

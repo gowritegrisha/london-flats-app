@@ -204,7 +204,7 @@ function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));rend
 function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
 function draft(id){if(sentOf(id)){toast(enqBadge(sentOf(id)));return}cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
  const name=cur.title.split(',')[0];
- let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange an online viewing (we are still in Barcelona and can't visit in person). My partner and I are moving to London in mid-November 2026 for a long-term let. I move to work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat.\nAnd make around 220k pounds annually.\n\nCould you confirm the floor area and the earliest move-in date?`;
+ let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange an online viewing (we are still in Barcelona and can't visit in person). My partner and I are moving to London in mid-November 2026 for a long-term let. I move to work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat.\nOur combined income is around £190k.\n\nCould you confirm the floor area and the earliest move-in date?`;
  if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
  t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263 (available by phone and WhatsApp)`;
  document.getElementById('dt').textContent='Enquiry: '+cur.title;document.getElementById('txt').value=t;cur._orig=t;document.getElementById('dlg').style.display='flex';
