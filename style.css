@@ -136,3 +136,5 @@ html,body{max-width:100%;overflow-x:hidden}
 .vrow .cta,.vrow button{max-width:100%;box-sizing:border-box}
 .vrow .cta,.vrow .acts{display:flex;gap:8px;width:100%}.vrow .cta>*:first-child,.vrow .acts>*:first-child{flex:1;min-width:0}.vrow .cta>*:not(:first-child),.vrow .acts>*:not(:first-child){flex:0 0 44px;padding:0;min-height:44px}
 .b:disabled{opacity:.6;cursor:default;filter:grayscale(.4)}
+
+.t.tl{cursor:pointer}.t.tl .lk{color:var(--link,#2481cc);font-weight:600}

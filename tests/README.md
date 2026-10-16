@@ -20,7 +20,7 @@ node tests/smoke.mjs http://127.0.0.1:8765/
 node tests/smoke.mjs https://gowritegrisha.github.io/london-flats-app/
 ```
 
-Env: `FLATS_TEST_PORT` (default `8765`), `FLATS_APP_URL`, `FLATS_EXPECT_VER` (default `v4.5`), `FLATS_PAGES_WAIT` (seconds, default `120`).
+Env: `FLATS_TEST_PORT` (default `8765`), `FLATS_APP_URL`, `FLATS_EXPECT_VER` (default `v4.6`), `FLATS_PAGES_WAIT` (seconds, default `120`).
 
 ## Wired into ship path
 

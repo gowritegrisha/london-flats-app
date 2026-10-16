@@ -81,7 +81,7 @@ function cardHtml(l,sep){const e=sentOf(l.id);const ps=l.photos||[];const pc=l.p
  return sep+`<div class="card${e?' done':''}" id="c-${esc(l.id)}"><div class="ph"><div class="car">${ps.map((p,i)=>i?`<img loading="lazy" decoding="async" data-src="${esc(p)}" src="${PH1}" alt="">`:`<img loading="lazy" decoding="async" src="${esc(p)}" alt="">`).join('')}</div>
  <button class="score" style="background:${scCol(scoreOf(l))}" onclick="openMore('${esc(l.id)}')" aria-label="Оценка ${scoreOf(l)} из 100">${l.score!=null?scoreOf(l):'–'}</button>
  <span class="pp">£${Number(l.price).toLocaleString()}</span>${pc>1?`<span class="pc">📷 ${pc}</span>`:''}</div>
- <div class="body"><div class="t">${esc(l.title)}${isNew(l)?' <span class="newb">Новое</span>':''}</div>
+ <div class="body"><div class="t tl" role="link" tabindex="0" onclick="link('${esc(l.url)}')">${esc(l.title)} <span class="lk">↗</span>${isNew(l)?' <span class="newb">Новое</span>':''}</div>
  <div class="sub">📍 ${esc(hoodName(l))}${commS(l)?` · 🕘 ${commS(l)}`:''}</div>
  <div class="tags"><span>📅 ${esc(availS(l))}</span><span>📐 ${esc(sqm(l))}</span><span>🛋 ${esc(furnS(l))}</span><span>🐾 ${esc(petS(l))}</span></div>
  ${e?`<div class="enqline" onclick="openSheet('${esc(e.listing_id)}')">${av(e)}${pill(e)}<span class="nx1">${esc(nx1(e))}</span></div>`:''}
