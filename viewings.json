@@ -63,23 +63,6 @@
   "type": null
  },
  {
-  "id": "prop-94306005",
-  "listing_id": "94306005",
-  "title": "Alder House, 1 Swannell Way, London, NW2",
-  "address": "Alder House, 1 Swannell Way, London, NW2",
-  "datetime": null,
-  "agent": "Oakhill, London",
-  "agent_contact": null,
-  "agent_email": "molly@oakhill.london",
-  "agent_phone": null,
-  "thread_id": "1a13e9990f6ad33e",
-  "status": "proposed",
-  "asked": "2026-10-15T08:06:27Z",
-  "notes": "Hi Maria, I hope you are well, if you would like to book in a viewing please let me know the below questions. 1. Who is the property for? 2. When do you need to move? 3. Max rent per week/month? 4. How many bedrooms mini",
-  "source": "masha-mail",
-  "type": null
- },
- {
   "id": "prop-94310331",
   "listing_id": "94310331",
   "title": "Kings Avenue, London",
@@ -279,5 +262,22 @@
   "calendar_link": "https://www.google.com/calendar/event?eid=ZTBkOTg2MTIyMjk1NDQ4N2FiOTAxYTk2OGI0ZDJlZWYgZ293cml0ZW1hc2hhQG0",
   "source": "masha-calendar",
   "notes": "Masha added 'Foxtons viewing of some other flat with +44 20 3728 2307' (arranged by phone). Number = Aliyya Aziz, who emailed video tours of Century House N8 and 38b Park Avenue N22 at 09:31 London. Which flat is uncertain."
+ },
+ {
+  "id": "prop-93944946",
+  "listing_id": "93944946",
+  "title": "44 Elmsdale Road, Walthamstow, E17 6PW",
+  "address": "44 Elmsdale Road, Walthamstow, E17 6PW",
+  "datetime": null,
+  "agent": "Rooted Homes (Scott Jacobs via Homeflow)",
+  "agent_contact": null,
+  "agent_email": "reply@homeflow.co.uk",
+  "agent_phone": null,
+  "thread_id": "1a1442f4252fbf3b",
+  "status": "proposed",
+  "asked": "2026-10-16T10:08:29Z",
+  "notes": "We've received your enquiry Dear Maria, Thank you for the enquiry. When would suit you best to view this week or next? Thanks, 44 Elmsdale Road, Elmsdale Road, Walthamstow, London, E17 6PW £1,800 pcm https://www.rightmov",
+  "source": "masha-mail",
+  "type": null
  }
 ]
