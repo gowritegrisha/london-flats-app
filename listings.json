@@ -78,7 +78,8 @@
         "max": 6,
         "reason": "no outdoor space mentioned"
       }
-    }
+    },
+    "nbhd": "Woodside · Wood Green N22"
   },
   {
     "id": "fx-4646196",
@@ -158,7 +159,8 @@
         "max": 6,
         "reason": "balcony/terrace"
       }
-    }
+    },
+    "nbhd": "Hornsey · Hornsey/Crouch End N8"
   },
   {
     "id": "fx-5248284",
