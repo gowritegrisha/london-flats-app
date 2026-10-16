@@ -204,9 +204,9 @@ function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));rend
 function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
 function draft(id){if(sentOf(id)){toast(enqBadge(sentOf(id)));return}cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
  const name=cur.title.split(',')[0];
- let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange a viewing. My partner Grisha and I are moving to London in mid-November 2026 for a long-term let. I work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat, and we're happy to discuss a pet deposit or any references you need.\n\nCould you confirm the floor area and the earliest move-in date? Video viewings would also work for us.`;
+ let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange an online viewing (we are still in Barcelona and can't visit in person). My partner and I are moving to London in mid-November 2026 for a long-term let. I move to work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat.\nAnd make around 220k pounds annually.\n\nCould you confirm the floor area and the earliest move-in date?`;
  if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
- t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263`;
+ t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263 (available by phone and WhatsApp)`;
  document.getElementById('dt').textContent='Enquiry: '+cur.title;document.getElementById('txt').value=t;cur._orig=t;document.getElementById('dlg').style.display='flex';
  document.getElementById('cmt').value='';document.getElementById('regen').style.display='none';document.getElementById('sdhint').style.display='none';
  if(tg&&tg.BackButton){tg.BackButton.show();tg.BackButton.onClick(closeD)}}
@@ -220,7 +220,8 @@ async function sendAct(a){if(!cur)return;if(sentOf(cur.id)){toast(enqBadge(sentO
  if(a=='regenerate'&&!comment){toast('Say what to change');document.getElementById('regen').style.display='block';return}
  if(!canSend()){const id=String(cur.id);const edited=document.getElementById('txt').value!==cur._orig;
   if(a=='regenerate'){await clip('regen '+id+': '+comment);hint('Opening bot chat. Your comment was copied — paste it there.');deep('g_'+id);return}
-  if(edited){await clip('draft '+id+': '+document.getElementById('txt').value);hint('Opening bot chat. Your edited draft was copied — paste it there.')}
+  if(edited){await clip('draft '+id+': '+document.getElementById('txt').value);hint('Opening bot chat. Your edited draft was copied — paste it there. Grisha still needs to press Send before we contact the agent.')}
+  else hint('Opening bot chat to queue the draft — Grisha still needs to press Send before we contact the agent.');
   deep('c_'+id);return}
  let draft=document.getElementById('txt').value;const p={action:a,id:String(cur.id),title:cur.title,url:cur.url,draft,comment,ts:new Date().toISOString()};
  const enc=o=>new TextEncoder().encode(JSON.stringify(o)).length;
