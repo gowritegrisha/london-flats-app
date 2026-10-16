@@ -257,11 +257,27 @@
   "datetime": "2026-10-16T15:30:00+01:00",
   "agent": "Foxtons (?)",
   "agent_email": null,
-  "agent_phone": null,
+  "agent_phone": "+44 20 7386 6544",
   "type": "in-person",
   "status": "confirmed",
   "calendar_event_id": "4dc17ce2fcba4a3b8adbcc770398619c",
   "source": "masha-calendar",
-  "notes": "Masha calendar: 'viewing new apartment from Foxtons available from January' (15:30 Madrid). Uncertain match — candidates: High Street Hornsey 94314216 (Foxtons Crouch End, enquired 15 Oct); Press Road NW10 CHPK5008286 (Max WhatsApp)."
+  "notes": "Masha calendar: 'viewing new apartment from Foxtons available from January' (15:30 Madrid). Uncertain match — candidates: High Street Hornsey 94314216 (Foxtons Crouch End, enquired 15 Oct); Press Road NW10 CHPK5008286 (Max WhatsApp). Masha added phone +44 20 7386 6544 (Foxtons direct line, branch unconfirmed)."
+ },
+ {
+  "id": "cal-e0d9861222954487ab901a968b4d2eef",
+  "listing_id": "foxtons-walthamstow-videos",
+  "title": "St Marys Rd N8 / Park Ave N22 (?) · Foxtons (Aliyya)",
+  "address": "Flat 5, Century House, 2 St Marys Road, London N8 7GB (?) or 38b Park Avenue, London N22 7EX",
+  "datetime": "2026-10-16T13:00:00+01:00",
+  "agent": "Foxtons Walthamstow (Aliyya Aziz)",
+  "agent_email": "Aliyya.Aziz@foxtons.co.uk",
+  "agent_phone": "020 3728 2307",
+  "type": "video?",
+  "status": "confirmed",
+  "calendar_event_id": "e0d9861222954487ab901a968b4d2eef",
+  "calendar_link": "https://www.google.com/calendar/event?eid=ZTBkOTg2MTIyMjk1NDQ4N2FiOTAxYTk2OGI0ZDJlZWYgZ293cml0ZW1hc2hhQG0",
+  "source": "masha-calendar",
+  "notes": "Masha added 'Foxtons viewing of some other flat with +44 20 3728 2307' (arranged by phone). Number = Aliyya Aziz, who emailed video tours of Century House N8 and 38b Park Avenue N22 at 09:31 London. Which flat is uncertain."
  }
 ]
