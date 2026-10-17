@@ -1,5 +1,572 @@
 [
  {
+  "id": "otm-20573318",
+  "title": "Wrigglesworth Street — 1-bed",
+  "area": "Wrigglesworth Street, London SE14",
+  "price": 1600,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "",
+  "commute": "52 min · 🚌 bus 453 + Windrush + Jubilee + Bakerloo + bus 205 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20573318/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20573318_0.jpg",
+   "photos/otm-20573318_1.jpg",
+   "photos/otm-20573318_2.jpg",
+   "photos/otm-20573318_3.jpg",
+   "photos/otm-20573318_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Dexters - New Cross. A one double bedroom first floor Victorian conversion. Including a large living space, modern features and ample storage throughout. Wrigglesworth Street is situated in the popular Hatcham Park Conservation Area close to the desirable Monson School and also within easy reach of a range of local amenities including New Cross Gate and Queens Road Peckham Overground Stations and a Sainsbury's. Security Deposit: £1,846 Council Tax Band: B ",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "Victorian Conversion; First Floor Flat; One Double Bedroom; Close To Station; Large Living Space; Furnished",
+  "listed": "2026-10-17",
+  "lat": 51.478647,
+  "lng": -0.048254,
+  "agent": "Dexters - New Cross",
+  "commute_min": 52,
+  "commute_mode": "🚌 bus 453 + Windrush + Jubilee + Bakerloo + bus 205",
+  "score": 40,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: modern(+3), conversion(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "52 min (TfL): 🚌 bus 453 + Windrush + Jubilee + Bakerloo + bus 205 — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,600"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-13987743",
+  "title": "King Edwards Place — 1-bed",
+  "area": "King Edwards Place, London, W3",
+  "price": 1050,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-19",
+  "commute": "51 min · 🚌 bus 207 + Elizabeth line + Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/13987743/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-13987743_0.jpg",
+   "photos/otm-13987743_1.jpg",
+   "photos/otm-13987743_2.jpg",
+   "photos/otm-13987743_3.jpg",
+   "photos/otm-13987743_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Visum - Leicestershire.  Property number 49739. Enquire through OnTheMarket's messaging system and we'll respond within 5 minutes, 24/7 Rent includes all utility bills, council tax & wireless broadband. This is a freshly decorated very large, bright, clean, fully furnished double room, with new carpet, that is in a comfortable, well equipped & presented 4-bed, 2-bath, modernised period maisonette. Located within 5-8 mins walk to Acton Town and Ealing Common tube stations, both Zone 3. Additionally, West Acton station is approx. 15 mins walk away (Zone 3). Rent is inclusive of all utility bills, council tax and broadband wi-fi. The property has 2 full bathrooms, lounge/diner, gas central heating & a small terrace. The room is only suitable for a single non-smoking professional and you would share the rest of the property with a maximum of 3 other single professionals. SUMMARY OF FEATURES & FACILITIES • A propert",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "Central heating; Double glazed; Washing machine; White goods; Utilities included; Broadband/ADSL",
+  "listed": "2026-10-17",
+  "lat": 51.508365,
+  "lng": -0.282005,
+  "agent": "Visum - Leicestershire",
+  "commute_min": 51,
+  "commute_mode": "🚌 bus 207 + Elizabeth line + Northern",
+  "score": 53,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "51 min (TfL): 🚌 bus 207 + Elizabeth line + Northern — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 6.8,
+    "max": 10,
+    "reason": "19 Oct: 13 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 3,
+    "max": 3,
+    "reason": "£1,050"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20573621",
+  "title": "Uxbridge Road — 2-bed",
+  "area": "Uxbridge Road, London W12",
+  "price": 1825,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-01",
+  "commute": "39 min · 🚌 bus 207 + Hammersmith & City (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20573621/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20573621_0.jpg",
+   "photos/otm-20573621_1.jpg",
+   "photos/otm-20573621_2.jpg",
+   "photos/otm-20573621_3.jpg",
+   "photos/otm-20573621_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Oaklands Estates - Shepherds Bush.  Oaklands Estates are pleased to present this Spacious 2 double bedroom flat in a great location. The Flat boasts excellent living space, with laminate flooring throughout. Recently refurbished this flat is in great condition with a fully fitted kitchen, large family bathroom and 2 great size bedrooms, fully furnished with some outdoor space. Located on Uxbridge Road in Shepherds Bush, this property has great transport links with Shepherds Bush Market, Shepherds Bush Central Line and Westfield only 10 minutes away, also 24 hour bus routes on your doorstep. With great local amenities open till late such as grocery stores, great pubs and bars. AVAILABLE 1st Dec 2026 ",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "Close to Westfield Shopping Centre; Great Location; AVAILABLE 1st Dec 2026",
+  "listed": "2026-10-17",
+  "lat": 51.506296,
+  "lng": -0.238197,
+  "agent": "Oaklands Estates - Shepherds Bush",
+  "commute_min": 39,
+  "commute_mode": "🚌 bus 207 + Hammersmith & City",
+  "score": 43,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: recently refurbished(+2), refurbished(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 5.5,
+    "max": 20,
+    "reason": "39 min (TfL): 🚌 bus 207 + Hammersmith & City — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "01 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.0,
+    "max": 3,
+    "reason": "£1,825"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20573629",
+  "title": "Uxbridge Road — 1-bed",
+  "area": "Uxbridge Road, London W12",
+  "price": 1599,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-16",
+  "commute": "39 min · 🚌 bus 207 + Hammersmith & City (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20573629/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20573629_0.jpg",
+   "photos/otm-20573629_1.jpg",
+   "photos/otm-20573629_2.jpg",
+   "photos/otm-20573629_3.jpg",
+   "photos/otm-20573629_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Oaklands Estates - Shepherds Bush.  Oaklands Estates are pleased to present this spacious one double bedroom flat. Excellently located on the Uxbridge Road in Shepherds Bush benefiting from transport links such as 24 hour bus routes on your doorstep and 10 minutes walk from Shepherds Bush Station, Goldhawk Road, White City and Westfield. The flat comprises one double bedroom, fully furnished, separate living room with sofa set and dining table, good size kitchen with all appliances and a large bathroom with bath tub and shower attachment. Suitable for singles or couples. AVAILABLE 16th Nov 2026 ",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "Excellently located; Close to westfield shopping centre; Good size kitchen",
+  "listed": "2026-10-17",
+  "lat": 51.506296,
+  "lng": -0.238197,
+  "agent": "Oaklands Estates - Shepherds Bush",
+  "commute_min": 39,
+  "commute_mode": "🚌 bus 207 + Hammersmith & City",
+  "score": 48,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 5.5,
+    "max": 20,
+    "reason": "39 min (TfL): 🚌 bus 207 + Hammersmith & City — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "16 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,599"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20573898",
+  "title": "High Street — 1-bed",
+  "area": "High Street, Stratford, E15",
+  "price": 1700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Available as furnished or unfurnished",
+  "available": "2026-11-30",
+  "commute": "48 min · 🚈 DLR + Elizabeth line + Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20573898/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20573898_0.jpg",
+   "photos/otm-20573898_1.jpg",
+   "photos/otm-20573898_2.jpg",
+   "photos/otm-20573898_3.jpg",
+   "photos/otm-20573898_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Highcastle Estates - Stratford.  1-Bedroom Apartment with Balcony – Central House, Stratford High Street, E15 A well-presented one-bedroom apartment with a private balcony , situated on the 9th floor of Central House on Stratford High Street, E15 . The property offers a bright and modern living space, complemented by a private balcony providing an excellent spot to relax and enjoy the elevated outlook. The apartment benefits from a contemporary open-plan living and kitchen area, a comfortable double bedroom, and a modern bathroom. Located in the heart of Stratford, the property is ideally positioned for access to an excellent selection of shops, restaurants, cafés and leisure facilities, with Stratford’s extensive transport connections also within easy reach. Property features: One double bedroom 9th-floor apartment Private balcony Bright and spacious living area Modern fitted kitchen Contemporary bathroom Excellent St",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "",
+  "listed": "2026-10-17",
+  "lat": 51.5317543,
+  "lng": -0.0114831,
+  "agent": "Highcastle Estates - Stratford",
+  "commute_min": 48,
+  "commute_mode": "🚈 DLR + Elizabeth line + Northern",
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), well-presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 7.2,
+    "max": 20,
+    "reason": "48 min door-to-door (TfL): 🚈 DLR + Elizabeth line + Northern"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "30 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94425996",
+  "title": "Kingsland High Street — 2-bed",
+  "area": "Kingsland High Street, London, E8",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-12-01",
+  "commute": "33 min · 🚌 bus 149 + Mildmay + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94425996",
+  "source": "rightmove",
+  "photos": [
+   "photos/94425996_0.jpg",
+   "photos/94425996_1.jpg",
+   "photos/94425996_2.jpg",
+   "photos/94425996_3.jpg",
+   "photos/94425996_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3077764. We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location. Available to move in from 01 December 2026. Property is offered unfurnished. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! Summary Rent £1,950.00 per month (£450.00 per week) Deposit / Bond is £1,961.53 Maximum number of tenants is 3 Summary & Exclusions: - Rent Amount: £1,950.00 per month (£450.00 per week) - Deposit / Bond: £1,961.53 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 December 2026 - Maximum number of tenants is 3 - Students welcome to enquire - No Smokers - Bills not included - No Parking Available - No Garden Access - EPC Rating: D If calling, please quote reference: 3077764 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlo",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3077764",
+  "listed": "2026-10-17",
+  "lat": 51.55015,
+  "lng": -0.074986,
+  "agent": "OpenRent, London",
+  "commute_min": 33,
+  "commute_mode": "🚌 bus 149 + Mildmay + Victoria",
+  "score": 44,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 7.3,
+    "max": 20,
+    "reason": "33 min (TfL): 🚌 bus 149 + Mildmay + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "01 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94426590",
+  "title": "London — 1-bed",
+  "area": "London, Battersea, SW11",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-02",
+  "commute": "39 min · 🚆 South Western Railway + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94426590",
+  "source": "rightmove",
+  "photos": [
+   "photos/94426590_0.jpg",
+   "photos/94426590_1.jpg",
+   "photos/94426590_2.jpg",
+   "photos/94426590_3.jpg",
+   "photos/94426590_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Kinleigh Folkard & Hayward - Lettings, Battersea. Stunning one bed apartment in a modern development opposite Clapham Junction Station. Open plan modern kitchen and living area, lift access and large storage unit. ",
+  "hood": "",
+  "date_found": "2026-10-17",
+  "features": "-\tModern development; -\tSpacious and bright bedroom; -\tSeparate large storage unit; -\tBike storage; -\tLift Access; -\tPhotos may differ between apartments",
+  "listed": "2026-10-17",
+  "lat": 51.463402,
+  "lng": -0.168839,
+  "agent": "Kinleigh Folkard & Hayward - Lettings, Battersea",
+  "commute_min": 39,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚆 South Western Railway + Victoria"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "02 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "lift"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20573405",
   "title": "Ladbroke Grove — 1-bed",
   "area": "Ladbroke Grove, London, W10",
@@ -78,7 +645,8 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Golborne W10"
  },
  {
   "id": "94214811",
@@ -159,7 +727,8 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5
+  "fresh_days": 5,
+  "nbhd": "East Putney SW15"
  },
  {
   "id": "otm-20522528",
