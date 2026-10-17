@@ -1,329 +1,5 @@
 [
  {
-  "id": "otm-16155472",
-  "title": "The Sphere — 1-bed",
-  "area": "The Sphere, 1 Hallsville Road, Canning Town, London, E16",
-  "price": 1850,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-12-11",
-  "commute": "47 min · 🚇 Jubilee + Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/16155472/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-16155472_0.jpg",
-   "photos/otm-16155472_1.jpg",
-   "photos/otm-16155472_2.jpg",
-   "photos/otm-16155472_3.jpg",
-   "photos/otm-16155472_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Chase Evans - Docklands. Modern well-presented one bedroom furnished apartment set within The Sphere, close to Canning Town station E16. The property comes with a bright living area with floor-to-ceiling windows, contemporary open-plan kitchen with fully integrated appliances, a spacious bedroom and a fully tiled modern bathroom. The Sphere benefits from a 24-hour porter service, lift access, a video entry system and an on-site supermarket and restaurant. The Keir Hardie Recreation Ground is within walking distance offering ample amounts of green space for a variety of leisure activities. The property is located only moments from Canning Town Jubilee and DLR stations with excellent links to Canary Wharf, the City and beyond. Deposit: Equivalent to 5 weeks’ rent Council: Newham London - Tax Band C Client Money Protection (CMP) provided by: Propertymark The Property Ombudsman Scheme, Membership No: T02100 ",
-  "hood": "",
-  "date_found": "2026-10-17",
-  "features": "One bedroom; Furnished; 24 hour porter service; Lift access; Video entry system; On site supermarket & restaurant; Close to the keir hardie recreation ground; 0.1 mi to canning town station",
-  "listed": "2026-10-16",
-  "lat": 51.512684,
-  "lng": 0.010807,
-  "agent": "Chase Evans - Docklands",
-  "commute_min": 47,
-  "commute_mode": "🚇 Jubilee + Northern",
-  "score": 54,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), well-presented(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 7.8,
-    "max": 20,
-    "reason": "47 min door-to-door (TfL): 🚇 Jubilee + Northern"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "11 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.9,
-    "max": 3,
-    "reason": "£1,850"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "lift"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 1
- },
- {
-  "id": "otm-20572446",
-  "title": "Coningham Road W12 — 1-bed",
-  "area": "Coningham Road W12",
-  "price": 1850,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-12-04",
-  "commute": "42 min · 🚌 bus SL8 + Hammersmith & City + bus 18 (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20572446/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20572446_0.jpg",
-   "photos/otm-20572446_1.jpg",
-   "photos/otm-20572446_2.jpg",
-   "photos/otm-20572446_3.jpg",
-   "photos/otm-20572446_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Philip Wooller - Shepherd's Bush and Hammersmith. A good sized first floor flat with good natural light within this imposing Victorian building. The flat, which is well presented throughout, has a reception at the back overlooking gardens below, with kitchen off - and large double bedroom with fitted wardrobes, and bathroom.Coningham Road runs between Goldhawk and Uxbridge Road and the flat is located in the wider tree lined section of the street north of the junction with Findon Road. Ravenscourt Park is within a short walk, as is Wendell Park, numerous good schools and the shopping and transport hubs of Hammersmith and Westfield. East-West bus routes, Shepherd's Bush Market tube and Uxbridge Road's eclectic mix of shops, restaurants and theatres are all within a few minutes walk. Council Tax Band: C",
-  "hood": "",
-  "date_found": "2026-10-17",
-  "features": "Double bedroom; Reception room; Kitchen; Bathroom; Good natural light; Aspect over gardens at rear; EPC - C",
-  "listed": "2026-10-16",
-  "lat": 51.50504,
-  "lng": -0.235349,
-  "agent": "Philip Wooller - Shepherd's Bush and Hammersmith",
-  "commute_min": 42,
-  "commute_mode": "🚌 bus SL8 + Hammersmith & City + bus 18",
-  "score": 40,
-  "score_breakdown": {
-   "style": {
-    "points": 14.0,
-    "max": 22,
-    "reason": "keywords: light(+1), well presented(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "42 min (TfL): 🚌 bus SL8 + Hammersmith & City + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "04 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0.9,
-    "max": 3,
-    "reason": "£1,850"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 1
- },
- {
-  "id": "otm-20572970",
-  "title": "London N13 — 2-bed",
-  "area": "London N13",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Available as furnished or unfurnished",
-  "available": "2026-10-23",
-  "commute": "45 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20572970/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20572970_0.jpg",
-   "photos/otm-20572970_1.jpg",
-   "photos/otm-20572970_2.jpg",
-   "photos/otm-20572970_3.jpg",
-   "photos/otm-20572970_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Zen Homes - London. Zen Homes are proud to present this spacious two-bedroom flat in the sought-after N13 area. The property is in great condition throughout and benefits from two good-sized double bedrooms, offering comfortable and versatile living space. Ideally located close to Palmers Green and Green Lanes, the property is surrounded by a wide range of shops, cafés, restaurants, supermarkets and local amenities. Excellent transport links are only a short walk away, including Palmers Green and Bowes Park stations, making this a well-connected and convenient home. Council Tax Band: D Parking options: Residents ",
-  "hood": "",
-  "date_found": "2026-10-17",
-  "features": "2 Bedroom Maisonette; Available Now; Bowes Park Station; Excellent Transport Links; Fitted Kitchen; Local Shops and Amenities Close Reach ; Palmers Green; Parking",
-  "listed": "2026-10-16",
-  "lat": 51.61004,
-  "lng": -0.11646,
-  "agent": "Zen Homes - London",
-  "commute_min": 45,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "score": 44,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 9.0,
-    "max": 20,
-    "reason": "45 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 7.8,
-    "max": 10,
-    "reason": "23 Oct: 9 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 1
- },
- {
-  "id": "otm-20572998",
-  "title": "Streatham High Road — 1-bed",
-  "area": "Streatham High Road",
-  "price": 1500,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "",
-  "commute": "53 min · 🚌 bus 249 + Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20572998/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20572998_0.jpg",
-   "photos/otm-20572998_1.jpg",
-   "photos/otm-20572998_2.jpg",
-   "photos/otm-20572998_3.jpg",
-   "photos/otm-20572998_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Holmes Estate Agents - London. Ideally positioned within easy reach of a wide range of shops, cafés, restaurants and supermarkets, the property also benefits from excellent transport links, providing convenient access into Central London and the surrounding areas. Available from mid- November Perfect for professionals or couples seeking a well-located home, this apartment is available for immediate occupation. Council Tax Band: Band B Holding Deposit: £346",
-  "hood": "",
-  "date_found": "2026-10-17",
-  "features": "",
-  "listed": "2026-10-16",
-  "lat": 51.42834,
-  "lng": -0.130788,
-  "agent": "Holmes Estate Agents - London",
-  "commute_min": 53,
-  "commute_mode": "🚌 bus 249 + Northern + Victoria",
-  "score": 35,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "53 min (TfL): 🚌 bus 249 + Northern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,500"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 1
- },
- {
   "id": "otm-20573405",
   "title": "Ladbroke Grove — 1-bed",
   "area": "Ladbroke Grove, London, W10",
@@ -345,7 +21,7 @@
   ],
   "status": "new",
   "notes": "[OTM] OpenRent - UK. Property Reference: 2639875. Delightful 1 double bedroom first floor flat with bright and airy feel with fantastically high ceilings. Spacious lounge and separate recently refurbished kitchen and bathroom. 5 min walk from Ladbroke Grove station and large Sainsbury's, with vibrant Portobello market also nearby. Unfurnished. A residential parking permit is available for the tenant to obtain directly from the council if required. Private landlord. No agencies. Summary & Exclusions: - Rent Amount: £2,100.00 per month (£484.62 per week) - Deposit / Bond: £2,423.07 - 1 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 17 October 2026 - Maximum number of tenants is 2 - No Students - Pets considered / by arrangement - No Smokers - Family Friendly - Bills not included - Property has parking - No Garden Access - EPC Rating: C If calling, please quote reference: 263987",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Golborne); nearby tags: \"it's the hood but ppl are rich too\".",
   "date_found": "2026-10-17",
   "features": "No Agent Fees; Property Reference Number: 2639875",
   "listed": "2026-10-17",
@@ -354,7 +30,7 @@
   "agent": "OpenRent - UK",
   "commute_min": 33,
   "commute_mode": "🚌 bus 23 + Circle + bus 18",
-  "score": 57,
+  "score": 62,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -372,9 +48,9 @@
     "reason": "33 min (TfL): 🚌 bus 23 + Circle + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 4.0,
@@ -426,7 +102,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Brinkleys Estate Agents, Putney. Set within a sought-after residential area, this inviting one-bedroom apartment provides an ideal home for professionals or couples seeking excellent transport links in an ideal area. Located just a short stroll from local Train and Tube stations, commuting into Central London could not be easier, making this property perfectly positioned. Boasting an impressive 609 square feet, the apartment is characterised by bright and airy interiors, enhanced by generous windows that flood the space with natural light, neutrally decoarted throughout. The spacious kitchen comes well-equipped and offers ample room for dining and entertaining, while the large double bedroom also had excellent built-in storage options. The modern white bathroom features a full-sized bath. Additional features include residents’ access to beautifully maintained communal gardens, and allocated underground parking, rare ben",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (East Putney); nearby tags: \"“I once met a poor”\".",
   "date_found": "2026-10-17",
   "features": "One double bedroom; Large reception room; One bathroom; Communal gardens; Underground parking; Location &amp; good transport links",
   "listed": "2026-10-12",
@@ -435,7 +111,7 @@
   "agent": "Brinkleys Estate Agents, Putney",
   "commute_min": 59,
   "commute_mode": "🚇 District + Victoria",
-  "score": 58,
+  "score": 64,
   "score_breakdown": {
    "style": {
     "points": 19.5,
@@ -453,9 +129,9 @@
     "reason": "59 min door-to-door (TfL): 🚇 District + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -484,86 +160,6 @@
    }
   },
   "fresh_days": 5
- },
- {
-  "id": "94424103",
-  "title": "Wrigglesworth Street — 1-bed",
-  "area": "Wrigglesworth Street, New Cross",
-  "price": 1600,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Part furnished",
-  "available": "",
-  "commute": "52 min · 🚌 bus 453 + Windrush + Jubilee + Bakerloo + bus 205 (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94424103",
-  "source": "rightmove",
-  "photos": [
-   "photos/94424103_0.jpg",
-   "photos/94424103_1.jpg",
-   "photos/94424103_2.jpg",
-   "photos/94424103_3.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Dexters, New Cross. A one double bedroom first floor Victorian conversion. Including a large living space, modern features and ample storage throughout. Wrigglesworth Street is situated in the popular Hatcham Park Conservation Area close to the desirable Monson School and also within easy reach of a range of local amenities including New Cross Gate and Queens Road Peckham Overground Stations and a Sainsbury's. Security Deposit: £1,846 Council Tax Band: B ",
-  "hood": "",
-  "date_found": "2026-10-17",
-  "features": "Victorian Conversion; First Floor Flat; One Double Bedroom; Close To Station; Large Living Space; Furnished",
-  "listed": "2026-10-17",
-  "lat": 51.478647,
-  "lng": -0.048254,
-  "agent": "Dexters, New Cross",
-  "commute_min": 52,
-  "commute_mode": "🚌 bus 453 + Windrush + Jubilee + Bakerloo + bus 205",
-  "score": 40,
-  "score_breakdown": {
-   "style": {
-    "points": 15.4,
-    "max": 22,
-    "reason": "keywords: modern(+3), conversion(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "52 min (TfL): 🚌 bus 453 + Windrush + Jubilee + Bakerloo + bus 205 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 3.5,
-    "max": 5,
-    "reason": "part furnished"
-   },
-   "price": {
-    "points": 2.4,
-    "max": 3,
-    "reason": "£1,600"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 0
  },
  {
   "id": "otm-20522528",
