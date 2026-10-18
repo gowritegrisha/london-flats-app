@@ -1,5 +1,560 @@
 [
  {
+  "id": "or-3078064",
+  "title": "1 Bed Flat — 1-bed",
+  "area": "1 Bed Flat, Allom House, W11",
+  "price": 1899,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "33 min · 🚇 Circle + bus 18 (TfL, arrive 09:00)",
+  "pets": "Pets allowed (listing)",
+  "url": "https://www.openrent.co.uk/3078064",
+  "source": "openrent",
+  "photos": [],
+  "status": "new",
+  "notes": "[OpenRent] OpenRent (private landlord). London We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location. Available to move in from 15 November 2026. Property is offered furnished. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "",
+  "listed": "2026-10-17",
+  "lat": 51.513565,
+  "lng": -0.2117444,
+  "agent": "OpenRent (private landlord)",
+  "commute_min": 33,
+  "commute_mode": "🚇 Circle + bus 18",
+  "score": 45,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 7.3,
+    "max": 20,
+    "reason": "33 min (TfL): 🚇 Circle + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,899"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "pets allowed"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "or-3077387",
+  "title": "2 Bed Flat — 2-bed",
+  "area": "2 Bed Flat, Maiden Lane, WC2E",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-18",
+  "commute": "21 min · 🚌 bus 24 (TfL, arrive 09:00)",
+  "pets": "Pets allowed (listing)",
+  "url": "https://www.openrent.co.uk/3077387",
+  "source": "openrent",
+  "photos": [],
+  "status": "new",
+  "notes": "[OpenRent] OpenRent (private landlord). London We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location. Available to move in from 17 October 2026. Property is offered furnished. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "",
+  "listed": "2026-10-16",
+  "lat": 51.510895,
+  "lng": -0.1230152,
+  "agent": "OpenRent (private landlord)",
+  "commute_min": 21,
+  "commute_mode": "🚌 bus 24",
+  "score": 48,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 8.0,
+    "max": 20,
+    "reason": "21 min (TfL): 🚌 bus 24 — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 6.5,
+    "max": 10,
+    "reason": "18 Oct: 14 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "pets allowed"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 2
+ },
+ {
+  "id": "otm-20575470",
+  "title": "Newington Green Road — 2-bed",
+  "area": "Newington Green Road, London, N1",
+  "price": 1750,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Available as furnished or unfurnished",
+  "available": "2026-11-01",
+  "commute": "34 min · 🚆 Mildmay + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20575470/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20575470_0.jpg",
+   "photos/otm-20575470_1.jpg",
+   "photos/otm-20575470_2.jpg",
+   "photos/otm-20575470_3.jpg",
+   "photos/otm-20575470_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] OpenRent - UK. Property Reference: 3078150. 2-bedroom flat near Canonbury, Dalston and Highbury - £1,750 per month We are pleased to offer this two-bedroom, one-bathroom flat on Newington Green Road, N1, in a well-connected location close to Canonbury, Dalston and Highbury. The property is available from 1 November 2026 and can be offered furnished or unfurnished, depending on the tenant's preference. Newington Green's shops, cafes and restaurants are close by, with Dalston's restaurants, bars and entertainment venues within walking distance. Highbury and Islington's shops and amenities are also within easy reach. The flat benefits from convenient transport links: Canonbury station: approximately 5-10 minutes' walk, with London Overground services on the Mildmay and Windrush lines. Dalston Kingsland and Dalston Junction stations: approximately 15-20 minutes' walk, providing further Overground connectio",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3078150",
+  "listed": "2026-10-17",
+  "lat": 51.548767,
+  "lng": -0.087648,
+  "agent": "OpenRent - UK",
+  "commute_min": 34,
+  "commute_mode": "🚆 Mildmay + Victoria",
+  "score": 57,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚆 Mildmay + Victoria"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.5,
+    "max": 3,
+    "reason": "£1,750"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "otm-20575588",
+  "title": "Fulham Palace Road — 1-bed",
+  "area": "Fulham Palace Road, London, SW6",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Available as furnished or unfurnished",
+  "available": "",
+  "commute": "47 min · 🚇 District + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20575588/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20575588_0.jpg",
+   "photos/otm-20575588_1.jpg",
+   "photos/otm-20575588_2.jpg",
+   "photos/otm-20575588_3.jpg",
+   "photos/otm-20575588_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] OpenRent - UK. Property Reference: 3078305. STYLISH 1-BEDROOM FLAT TO RENT Available immediately! Looking for a fresh, modern home? This beautifully updated flat is ready for its new tenant! Property Features: One-bedroom flat Separate living room, with the flexibility to use as an additional bedroom Small private balcony Completely brand-new bathroom Brand-new kitchen New carpets throughout Fresh, modern feel throughout the property Rent: £2,100 per month Availability: Immediately A fantastic opportunity to move into a freshly updated property and make it your own! Summary & Exclusions: - Rent Amount: £2,100.00 per month (£484.62 per week) - Deposit / Bond: £2,423.07 - 1 Bedrooms - 1 Bathrooms - Property comes furnished or unfurnished (tenant can decide) - Available to move in from 18 October 2026 - Maximum number of tenants is 2 - Students welcome to enquire - Pets considered / by arrangement - Smoke",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3078305",
+  "listed": "2026-10-18",
+  "lat": 51.472577,
+  "lng": -0.211677,
+  "agent": "OpenRent - UK",
+  "commute_min": 47,
+  "commute_mode": "🚇 District + Victoria",
+  "score": 49,
+  "score_breakdown": {
+   "style": {
+    "points": 12.6,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), dated(-4)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 7.8,
+    "max": 20,
+    "reason": "47 min door-to-door (TfL): 🚇 District + Victoria"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 6.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94289595",
+  "title": "Three Bridges — 1-bed",
+  "area": "Three Bridges, London, SE1",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-10",
+  "commute": "39 min · 🚌 bus 381 + Jubilee + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94289595",
+  "source": "rightmove",
+  "photos": [
+   "photos/94289595_0.jpg",
+   "photos/94289595_1.jpg",
+   "photos/94289595_2.jpg",
+   "photos/94289595_3.jpg",
+   "photos/94289595_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3069311. Modern Furnished One-Bedroom Flat to Rent – London Bridge, SE1 New flooring and furniture! A stylish one-bedroom ground-floor flat in a sought-after private development, ideally located just off the fashionable Bermondsey Street and within easy walking distance of London Bridge Station. The flat features modern décor, new flooring and contemporary furnishings, offering comfortable living in a fantastic central London location. The accommodation comprises a spacious reception room, a well-sized fitted kitchen, a double bedroom and a bathroom with shower. Residents also benefit from access to a communal garden. Perfectly suited to professionals, the property is ideally positioned close to the vibrant bars, restaurants, cafés and shops of Bermondsey Street, as well as Guy’s Hospital, The Shard and Tower Bridge. Excellent transport links provide convenient access",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3069311",
+  "listed": "2026-10-14",
+  "lat": 51.50142,
+  "lng": -0.080142,
+  "agent": "OpenRent, London",
+  "commute_min": 39,
+  "commute_mode": "🚌 bus 381 + Jubilee + Victoria",
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), contemporary(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 5.5,
+    "max": 20,
+    "reason": "39 min (TfL): 🚌 bus 381 + Jubilee + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "10 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 4
+ },
+ {
+  "id": "94435608",
+  "title": "Queen Alexandra Mansions — 1-bed",
+  "area": "Queen Alexandra Mansions, London, WC1H",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-19",
+  "commute": "20 min · 🚌 bus 18 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94435608",
+  "source": "rightmove",
+  "photos": [
+   "photos/94435608_0.jpg",
+   "photos/94435608_1.jpg",
+   "photos/94435608_2.jpg",
+   "photos/94435608_3.jpg",
+   "photos/94435608_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3051085. We are proud to offer this delightful 1 bedroom, 1 bathroom Edwardian flat in a highly maintained mansion block with her own stayed in caretaker. The location is enviable. being just a few mins walk to Kings cross/ St Pancras station as well as British Library. UCL is 8 mins walk to the west of the flat and there are a myraid of transport connections across london and beyond. Shopping is found at nearby Brunswick and Marchmont street populated with small boutique cafes and shops. The rent is inclusive of cold water supply which is worth approx. £50 Flat is vacant and is available to move in 19th Nov. This property benefits from central courtyard and roof access. Property is offered furnished. Viewing highly recommended. Contact OpenRent today for more details. Summary & Exclusions: - Rent Amount: £2,100.00 per month (£484.62 per week) - Deposit / Bond: £2,100",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3051085",
+  "listed": "2026-10-17",
+  "lat": 51.52866,
+  "lng": -0.125442,
+  "agent": "OpenRent, London",
+  "commute_min": 20,
+  "commute_mode": "🚌 bus 18",
+  "score": 49,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 8.0,
+    "max": 20,
+    "reason": "20 min (TfL): 🚌 bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "19 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "94435995",
+  "title": "Newington Green Road — 1-bed",
+  "area": "Newington Green Road, London, N1",
+  "price": 1650,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished or unfurnished, landlord is flexible",
+  "available": "2026-11-01",
+  "commute": "34 min · 🚆 Mildmay + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94435995",
+  "source": "rightmove",
+  "photos": [
+   "photos/94435995_0.jpg",
+   "photos/94435995_1.jpg",
+   "photos/94435995_2.jpg",
+   "photos/94435995_3.jpg",
+   "photos/94435995_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3078170. 1-bedroom flat near Canonbury, Dalston and Highbury – £1,650 per month We are pleased to offer this one-bedroom, one-bathroom flat in a well-connected location close to Newington Green, Canonbury, Dalston and Highbury. The property is available from 1 November 2026 and can be offered furnished or unfurnished, depending on the tenant’s preference. Newington Green’s shops, cafés and restaurants are close by, with Dalston’s restaurants, bars and entertainment venues within walking distance. Highbury and Islington’s shops and amenities are also within easy reach. The flat benefits from convenient transport links: Canonbury station: approximately 5–10 minutes’ walk, with London Overground services on the Mildmay and Windrush lines. Dalston Kingsland and Dalston Junction stations: approximately 15–20 minutes’ walk, providing further Overground connections. Highbury",
+  "hood": "",
+  "date_found": "2026-10-18",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3078170",
+  "listed": "2026-10-18",
+  "lat": 51.548717,
+  "lng": -0.08768,
+  "agent": "OpenRent, London",
+  "commute_min": 34,
+  "commute_mode": "🚆 Mildmay + Victoria",
+  "score": 59,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚆 Mildmay + Victoria"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 4.0,
+    "max": 5,
+    "reason": "Furnished or unfurnished, landlord is flexible"
+   },
+   "price": {
+    "points": 2.1,
+    "max": 3,
+    "reason": "£1,650"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "94433601",
   "title": "Vale Road — 1-bed",
   "area": "Vale Road, London, N4",
@@ -78,7 +633,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 1
  },
  {
   "id": "otm-20574500",
@@ -155,7 +710,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 1
  },
  {
   "id": "94430841",
@@ -236,7 +791,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 1
  },
  {
   "id": "otm-20574035",
@@ -317,7 +872,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Kentish Town South NW5"
  },
  {
@@ -399,7 +954,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Ealing Common W5"
  },
  {
@@ -481,7 +1036,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Bounds Green · Wood Green N22"
  },
  {
@@ -563,7 +1118,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Greenwich Creekside SE8"
  },
  {
@@ -645,7 +1200,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Finchley Church End N3"
  },
  {
@@ -727,7 +1282,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Stratford E15"
  },
  {
@@ -809,7 +1364,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Lavender · Battersea SW11"
  },
  {
@@ -891,7 +1446,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Golborne W10"
  },
  {
@@ -973,7 +1528,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "East Putney SW15"
  },
  {
@@ -1055,7 +1610,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Abbey Road · St John's Wood NW8"
  },
  {
@@ -1137,7 +1692,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Childs Hill NW11"
  },
  {
@@ -1219,7 +1774,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Palmers Green N13"
  },
  {
@@ -1301,7 +1856,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Totteridge/Woodside NW7"
  },
  {
@@ -1383,7 +1938,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Lea Bridge E5"
  },
  {
@@ -1465,7 +2020,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "North Acton · Willesden NW10"
  },
  {
@@ -1547,7 +2102,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Earl's Court SW5"
  },
  {
@@ -1629,7 +2184,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Stroud Green · Finsbury Park N4"
  },
  {
@@ -1711,7 +2266,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Ealing Broadway W5"
  },
  {
@@ -1787,7 +2342,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Cazenove E5"
  },
  {
@@ -1863,7 +2418,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Kensington W14"
  },
  {
@@ -1939,7 +2494,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Harlesden/Kensal Green · Willesden NW10"
  },
  {
@@ -2021,7 +2576,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bow East E3"
  },
  {
@@ -2097,7 +2652,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Willesden Green · Cricklewood NW2"
  },
  {
@@ -2179,7 +2734,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Colindale North NW9"
  },
  {
@@ -2261,7 +2816,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Ladywell SE4"
  },
  {
@@ -2341,7 +2896,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "East Finchley N2"
  },
  {
@@ -2423,7 +2978,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Upper Edmonton N18"
  },
  {
@@ -2505,7 +3060,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hammersmith Broadway W6"
  },
  {
@@ -2587,7 +3142,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Friern Barnet · Muswell Hill N10"
  },
  {
@@ -2669,7 +3224,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hendon NW4"
  },
  {
@@ -2751,7 +3306,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Mary's/St James' N1"
  },
  {
@@ -2833,7 +3388,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Mary's/St James' N1"
  },
  {
@@ -2915,7 +3470,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hornsey · Hornsey/Crouch End N8"
  },
  {
@@ -2997,7 +3552,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Finchley N12"
  },
  {
@@ -3079,7 +3634,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Surrey Docks SE16"
  },
  {
@@ -3161,7 +3716,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Newington · Walworth SE17"
  },
  {
@@ -3243,7 +3798,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Upper Edmonton N18"
  },
  {
@@ -3325,7 +3880,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Finchley N3"
  },
  {
@@ -3407,7 +3962,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Northumberland Park · Tottenham N17"
  },
  {
@@ -3485,7 +4040,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hendon NW4"
  },
  {
@@ -3567,7 +4122,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Colindale South NW9"
  },
  {
@@ -3649,7 +4204,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Hendon · Colindale NW9"
  },
  {
@@ -3731,7 +4286,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Rotherhithe SE16"
  },
  {
@@ -3813,7 +4368,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Martin's SW2"
  },
  {
@@ -3889,7 +4444,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Willesden Green · Cricklewood NW2"
  },
  {
@@ -3965,7 +4520,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Forest · Leyton E10"
  },
  {
@@ -4047,7 +4602,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Battersea Park SW11"
  },
  {
@@ -4129,7 +4684,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Addison · Shepherd's Bush W12"
  },
  {
@@ -4211,7 +4766,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Canary Wharf · Poplar/Canary Wharf E14"
  },
  {
@@ -4293,7 +4848,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Ravenscourt · Hammersmith W6"
  },
  {
@@ -4375,7 +4930,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Herne Hill/Loughborough Junction SE24"
  },
  {
@@ -4457,7 +5012,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bounds Green N11"
  },
  {
@@ -4539,7 +5094,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Fortune Green · Cricklewood NW2"
  },
  {
@@ -4621,7 +5176,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Barnsbury N1"
  },
  {
@@ -4703,7 +5258,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "South Balham SW17"
  },
  {
@@ -4785,7 +5340,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Junction · Upper Holloway N19"
  },
  {
@@ -4867,7 +5422,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hendon NW4"
  },
  {
@@ -4947,7 +5502,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "South Bermondsey SE16"
  },
  {
@@ -5029,7 +5584,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Clapham East · Brixton/Stockwell SW9"
  },
  {
@@ -5111,7 +5666,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "New Cross Gate SE14"
  },
  {
@@ -5193,7 +5748,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "West Hampstead NW3"
  },
  {
@@ -5275,7 +5830,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Shadwell · Whitechapel E1"
  },
  {
@@ -5357,7 +5912,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Streatham Wells SW16"
  },
  {
@@ -5439,7 +5994,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Island Gardens · Poplar/Canary Wharf E14"
  },
  {
@@ -5521,7 +6076,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Grove Green · Leyton E10"
  },
  {
@@ -5603,7 +6158,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Blackheath SE10"
  },
  {
@@ -5685,7 +6240,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bruce Castle · Tottenham N17"
  },
  {
@@ -5767,7 +6322,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Lansbury · Poplar/Canary Wharf E14"
  },
  {
@@ -5849,7 +6404,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Peckham SE15"
  },
  {
@@ -5931,7 +6486,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hendon NW4"
  },
  {
@@ -6013,7 +6568,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "London Fields E8"
  },
  {
@@ -6095,7 +6650,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bounds Green · Wood Green N22"
  },
  {
@@ -6177,7 +6732,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Streatham St Leonard's SW16"
  },
  {
@@ -6259,7 +6814,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Cricklewood NW2"
  },
  {
@@ -6341,7 +6896,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Streatham St Leonard's SW16"
  },
  {
@@ -6417,7 +6972,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Junction · Upper Holloway N19"
  },
  {
@@ -6493,7 +7048,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Holloway N7"
  },
  {
@@ -6575,7 +7130,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Cazenove · Stoke Newington N16"
  },
  {
@@ -6657,7 +7212,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Finchley N3"
  },
  {
@@ -6739,7 +7294,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Hendon · Colindale NW9"
  },
  {
@@ -6821,7 +7376,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Grove · Hammersmith W6"
  },
  {
@@ -6903,7 +7458,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Brook Green · West Kensington W14"
  },
  {
@@ -6985,7 +7540,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Wormholt · Shepherd's Bush W12"
  },
  {
@@ -7067,7 +7622,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Lavender · Battersea SW11"
  },
  {
@@ -7149,7 +7704,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Palmers Green N13"
  },
  {
@@ -7231,7 +7786,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Regent's Park · St John's Wood NW8"
  },
  {
@@ -7313,7 +7868,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Totteridge/Woodside N12"
  },
  {
@@ -7395,7 +7950,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Abingdon W8"
  },
  {
@@ -7477,7 +8032,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Brondesbury Park · Kilburn/West Hampstead NW6"
  },
  {
@@ -7559,7 +8114,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Wimbledon Park SW19"
  },
  {
@@ -7641,7 +8196,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Peter's/Canalside EC1V"
  },
  {
@@ -7723,7 +8278,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Dunstan's · Whitechapel E1"
  },
  {
@@ -7805,7 +8360,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "East Greenwich SE10"
  },
  {
@@ -7887,7 +8442,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bow East E3"
  },
  {
@@ -7969,7 +8524,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Friern Barnet N20"
  },
  {
@@ -8051,7 +8606,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14"
  },
  {
@@ -8133,7 +8688,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Oval · Brixton/Stockwell SW9"
  },
  {
@@ -8215,7 +8770,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Dollis Hill · Willesden NW10"
  },
  {
@@ -8297,7 +8852,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Wembley Central HA0"
  },
  {
@@ -8381,7 +8936,7 @@
    }
   },
   "nbhd": "Woodside · Wood Green N22",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "fx-4646196",
@@ -8463,7 +9018,7 @@
    }
   },
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "fx-5248284",
@@ -8551,7 +9106,7 @@
   },
   "rating": "like",
   "nbhd": "Noel Park · Wood Green N22",
-  "fresh_days": 30,
+  "fresh_days": 31,
   "stale": true
  },
  {
@@ -8627,7 +9182,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Redcliffe SW10"
  },
  {
@@ -8703,7 +9258,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Crouch End · Hornsey/Crouch End N8"
  },
  {
@@ -8779,7 +9334,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hanger Hill W5"
  },
  {
@@ -8861,7 +9416,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Stoke Newington N16"
  },
  {
@@ -8943,7 +9498,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Wembley Hill HA9"
  },
  {
@@ -9025,7 +9580,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Highbury N5"
  },
  {
@@ -9107,7 +9662,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Stroud Green · Finsbury Park N4"
  },
  {
@@ -9188,7 +9743,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Tottenham Hale N17"
  },
  {
@@ -9270,7 +9825,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Wembley Hill HA9"
  },
  {
@@ -9352,7 +9907,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "East Greenwich SE10"
  },
  {
@@ -9434,7 +9989,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Katharine's/Wapping E1W"
  },
  {
@@ -9516,7 +10071,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Rotherhithe SE16"
  },
  {
@@ -9596,7 +10151,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Fulham Reach · Hammersmith W6"
  },
  {
@@ -9678,7 +10233,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Shadwell · Whitechapel E1"
  },
  {
@@ -9760,7 +10315,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hoe Street E17"
  },
  {
@@ -9842,7 +10397,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Tooting Broadway SW17"
  },
  {
@@ -9924,7 +10479,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "West Putney SW15"
  },
  {
@@ -10006,7 +10561,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Avonmore · West Kensington W14"
  },
  {
@@ -10088,7 +10643,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Lea Bridge E5"
  },
  {
@@ -10170,7 +10725,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Addison · Shepherd's Bush W12"
  },
  {
@@ -10252,7 +10807,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Lea Bridge · Leyton E10"
  },
  {
@@ -10334,7 +10889,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St Martin's SE27"
  },
  {
@@ -10416,7 +10971,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Telegraph Hill SE14"
  },
  {
@@ -10498,7 +11053,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14"
  },
  {
@@ -10580,7 +11135,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Clapham Town · Vauxhall SW8"
  },
  {
@@ -10662,7 +11217,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hendon NW4"
  },
  {
@@ -10744,7 +11299,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "South Balham SW17"
  },
  {
@@ -10823,7 +11378,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Colindale South NW9"
  },
  {
@@ -10905,7 +11460,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Brentford East TW8"
  },
  {
@@ -10987,7 +11542,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Finchley N12"
  },
  {
@@ -11065,7 +11620,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Evelyn SE8"
  },
  {
@@ -11147,7 +11702,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Royal Victoria E16"
  },
  {
@@ -11229,7 +11784,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Wimbledon Park SW19"
  },
  {
@@ -11311,7 +11866,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Lewisham Central SE13"
  },
  {
@@ -11393,7 +11948,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Brockley SE4"
  },
  {
@@ -11475,7 +12030,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Finsbury Park N4"
  },
  {
@@ -11557,7 +12112,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Totteridge/Woodside N12"
  },
  {
@@ -11639,7 +12194,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Hill SW19"
  },
  {
@@ -11721,7 +12276,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "White City · Shepherd's Bush W12"
  },
  {
@@ -11803,7 +12358,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Hendon NW4"
  },
  {
@@ -11885,7 +12440,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Lewisham Central SE13"
  },
  {
@@ -11967,7 +12522,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Evelyn SE8"
  },
  {
@@ -12049,7 +12604,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Woodhouse N12"
  },
  {
@@ -12131,7 +12686,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Cazenove · Stoke Newington N16"
  },
  {
@@ -12213,7 +12768,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Holloway N7"
  },
  {
@@ -12295,7 +12850,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Wimbledon Park SW19"
  },
  {
@@ -12377,7 +12932,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Grove Green · Leyton E10"
  },
  {
@@ -12459,7 +13014,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Cricklewood NW2"
  },
  {
@@ -12536,7 +13091,7 @@
    }
   },
   "nbhd": "Belsize NW3",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "ch-22204880",
@@ -12612,7 +13167,7 @@
    }
   },
   "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "ch-22216632",
@@ -12688,7 +13243,7 @@
    }
   },
   "nbhd": "Junction · Upper Holloway N19",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3071616",
@@ -12764,7 +13319,7 @@
    }
   },
   "nbhd": "Fulham Reach · Hammersmith W6",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "or-3071160",
@@ -12840,7 +13395,7 @@
    }
   },
   "nbhd": "South Bermondsey · Southwark SE1",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "or-3073884",
@@ -12916,83 +13471,7 @@
    }
   },
   "nbhd": "Walham Green SW6",
-  "fresh_days": 3
- },
- {
-  "id": "or-3069970",
-  "title": "1 Bed Flat — 1-bed",
-  "area": "1 Bed Flat, Warwick Gardens, N4",
-  "price": 1700,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "",
-  "commute": "40 min · 🚌 bus 141 + Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/3069970",
-  "source": "openrent",
-  "photos": [],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). London We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location. Available to move in from 18 November 2026, this property benefits from available parking, and garden access. Property is offered unfurnished. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!",
-  "hood": "",
-  "date_found": "2026-10-16",
-  "features": "",
-  "listed": "2026-10-10",
-  "lat": 51.580517,
-  "lng": -0.0933843,
-  "agent": "OpenRent (private landlord)",
-  "commute_min": 40,
-  "commute_mode": "🚌 bus 141 + Piccadilly + Victoria",
-  "score": 48,
-  "score_breakdown": {
-   "style": {
-    "points": 11.3,
-    "max": 22,
-    "reason": "keywords: light(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 5.2,
-    "max": 20,
-    "reason": "40 min (TfL): 🚌 bus 141 + Piccadilly + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 1.8,
-    "max": 3,
-    "reason": "£1,700"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "garden, pets allowed"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "nbhd": "Hermitage/Gardens · Finsbury Park N4",
-  "fresh_days": 7
+  "fresh_days": 4
  },
  {
   "id": "or-3070456",
@@ -13068,7 +13547,7 @@
    }
   },
   "nbhd": "North Bermondsey SE16",
-  "fresh_days": 6
+  "fresh_days": 7
  },
  {
   "id": "or-3070475",
@@ -13144,7 +13623,7 @@
    }
   },
   "nbhd": "East Finchley N2",
-  "fresh_days": 6
+  "fresh_days": 7
  },
  {
   "id": "or-3070950",
@@ -13220,7 +13699,7 @@
    }
   },
   "nbhd": "Willesden Green · Cricklewood NW2",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "or-3071612",
@@ -13296,7 +13775,7 @@
    }
   },
   "nbhd": "White City · Shepherd's Bush W12",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "or-3074739",
@@ -13372,7 +13851,7 @@
    }
   },
   "nbhd": "Garden Suburb · East Finchley N2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3074507",
@@ -13448,7 +13927,7 @@
    }
   },
   "nbhd": "Garden Suburb · East Finchley N2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3076278",
@@ -13524,7 +14003,7 @@
    }
   },
   "nbhd": "Stoke Newington N16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "or-3075792",
@@ -13600,7 +14079,7 @@
    }
   },
   "nbhd": "North Walworth SE17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "or-3073756",
@@ -13676,7 +14155,7 @@
    }
   },
   "nbhd": "North Bermondsey · Southwark SE1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3075524",
@@ -13752,7 +14231,7 @@
    }
   },
   "nbhd": "Stoke Newington N16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "or-3072218",
@@ -13828,7 +14307,7 @@
    }
   },
   "nbhd": "Stoke Newington N16",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "or-3073229",
@@ -13904,7 +14383,7 @@
    }
   },
   "nbhd": "Stroud Green · Finsbury Park N4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "or-3074465",
@@ -13980,7 +14459,7 @@
    }
   },
   "nbhd": "Oval SE11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3074427",
@@ -14056,7 +14535,7 @@
    }
   },
   "nbhd": "Brondesbury Park · Cricklewood NW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3073019",
@@ -14132,7 +14611,7 @@
    }
   },
   "nbhd": "De Beauvoir N1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "or-3075348",
@@ -14208,7 +14687,7 @@
    }
   },
   "nbhd": "De Beauvoir N1",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "or-3074973",
@@ -14284,159 +14763,7 @@
    }
   },
   "nbhd": "Queen's Park W10",
-  "fresh_days": 3
- },
- {
-  "id": "or-3069861",
-  "title": "1 Bed Flat — 1-bed",
-  "area": "1 Bed Flat, St. Julians Road, NW6",
-  "price": 1900,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-10-15",
-  "commute": "37 min · 🚌 bus 98 + Lioness (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/3069861",
-  "source": "openrent",
-  "photos": [],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
-  "date_found": "2026-10-16",
-  "features": "",
-  "listed": "2026-10-10",
-  "lat": 51.541172,
-  "lng": -0.1992938,
-  "agent": "OpenRent (private landlord)",
-  "commute_min": 37,
-  "commute_mode": "🚌 bus 98 + Lioness",
-  "score": 44,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 6.2,
-    "max": 20,
-    "reason": "37 min (TfL): 🚌 bus 98 + Lioness — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 5.8,
-    "max": 10,
-    "reason": "15 Oct: 17 days before Nov"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.6,
-    "max": 3,
-    "reason": "£1,900"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "pets allowed"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
-  "fresh_days": 7
- },
- {
-  "id": "or-2622394",
-  "title": "1 Bed Flat — 1-bed",
-  "area": "1 Bed Flat, Kings Court, NW6",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-10-15",
-  "commute": "35 min · 🚌 bus 98 + bus 18 (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/2622394",
-  "source": "openrent",
-  "photos": [],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
-  "date_found": "2026-10-16",
-  "features": "",
-  "listed": "2026-10-10",
-  "lat": 51.54147,
-  "lng": -0.1968497,
-  "agent": "OpenRent (private landlord)",
-  "commute_min": 35,
-  "commute_mode": "🚌 bus 98 + bus 18",
-  "score": 45,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 6.8,
-    "max": 20,
-    "reason": "35 min (TfL): 🚌 bus 98 + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 5.8,
-    "max": 10,
-    "reason": "15 Oct: 17 days before Nov"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "pets allowed"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
-  "fresh_days": 7
+  "fresh_days": 4
  },
  {
   "id": "or-3074214",
@@ -14512,83 +14839,7 @@
    }
   },
   "nbhd": "St Peter's/Canalside N1",
-  "fresh_days": 3
- },
- {
-  "id": "or-3069339",
-  "title": "1 Bed Flat — 1-bed",
-  "area": "1 Bed Flat, Porchester Road, W2",
-  "price": 1600,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "",
-  "commute": "24 min · 🚇 Circle + bus 18 (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/3069339",
-  "source": "openrent",
-  "photos": [],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
-  "date_found": "2026-10-16",
-  "features": "",
-  "listed": "2026-10-10",
-  "lat": 51.51821,
-  "lng": -0.1888232,
-  "agent": "OpenRent (private landlord)",
-  "commute_min": 24,
-  "commute_mode": "🚇 Circle + bus 18",
-  "score": 44,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 8.0,
-    "max": 20,
-    "reason": "24 min (TfL): 🚇 Circle + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 2.4,
-    "max": 3,
-    "reason": "£1,600"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "pets allowed"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "nbhd": "Bayswater · Paddington W2",
-  "fresh_days": 7
+  "fresh_days": 4
  },
  {
   "id": "or-3074235",
@@ -14664,7 +14915,7 @@
    }
   },
   "nbhd": "Tufnell Park · Holloway N7",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "or-3072528",
@@ -14740,7 +14991,7 @@
    }
   },
   "nbhd": "St Mary's/St James' N1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "or-3073829",
@@ -14816,83 +15067,7 @@
    }
   },
   "nbhd": "Holloway N7",
-  "fresh_days": 3
- },
- {
-  "id": "or-3069644",
-  "title": "1 Bed Flat — 1-bed",
-  "area": "1 Bed Flat, Caledonian Road, N7",
-  "price": 1750,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "",
-  "commute": "29 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/3069644",
-  "source": "openrent",
-  "photos": [],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "",
-  "date_found": "2026-10-16",
-  "features": "",
-  "listed": "2026-10-10",
-  "lat": 51.547688,
-  "lng": -0.1177825,
-  "agent": "OpenRent (private landlord)",
-  "commute_min": 29,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "score": 57,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 20,
-    "max": 20,
-    "reason": "29 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 1.5,
-    "max": 3,
-    "reason": "£1,750"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "pets allowed"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "nbhd": "Laycock · Holloway N7",
-  "fresh_days": 7
+  "fresh_days": 4
  },
  {
   "id": "or-3070390",
@@ -14968,7 +15143,7 @@
    }
   },
   "nbhd": "Tufnell Park · Holloway N7",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "or-3075619",
@@ -15044,7 +15219,7 @@
    }
   },
   "nbhd": "Abbey Road · St John's Wood NW8",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "or-2501856",
@@ -15120,89 +15295,7 @@
    }
   },
   "nbhd": "St Pancras/Somers Town NW1",
-  "fresh_days": 5
- },
- {
-  "id": "otm-12010031",
-  "title": "WEMBLEY PARK DRIVE — 2-bed",
-  "area": "WEMBLEY PARK DRIVE, WEMBLEY, MIDDLESEX, HA9 8HP",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Available as furnished or unfurnished",
-  "available": "",
-  "commute": "34 min · 🚌 bus 182 + Metropolitan + bus 18 (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/12010031/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-12010031_0.jpg",
-   "photos/otm-12010031_1.jpg",
-   "photos/otm-12010031_2.jpg",
-   "photos/otm-12010031_3.jpg",
-   "photos/otm-12010031_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] SH Properties -  Hendon. AVAILABLE JANUARY 7TH 2027! SH Properties Are Pleased To Offer This 2 Bedroom Flat. The Property Is In EXCELLENT Condition & Is Available FURNISHED/UNFURNISHED. SPACIOUS Through all Lounge/Dining. SEPARATE FULLY FITTED MODERN Kitchen With Appliances. SEPARATE MODERN Bathroom With WC Combined. DOUBLE GLAZED Windows. GAS CENTRAL Heating. LAMINATED Flooring. Close To Public Transport & Shops. Prefer WORKING Tenants. MUST BE SEEN! CALL US NOW FOR VIEWINGS OR FOR MORE INFORMATION ON[use Contact Agent Button].",
-  "hood": "",
-  "date_found": "2026-10-16",
-  "features": "",
-  "listed": "2026-10-10",
-  "lat": 51.561745,
-  "lng": -0.282912,
-  "agent": "SH Properties -  Hendon",
-  "commute_min": 34,
-  "commute_mode": "🚌 bus 182 + Metropolitan + bus 18",
-  "score": 39,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "keywords: modern(+3), wembley(-3)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 7.0,
-    "max": 20,
-    "reason": "34 min (TfL): 🚌 bus 182 + Metropolitan + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "nbhd": "Wembley Hill HA9",
-  "fresh_days": 7
+  "fresh_days": 6
  },
  {
   "id": "otm-20546502",
@@ -15284,7 +15377,7 @@
    }
   },
   "nbhd": "Herne Hill/Loughborough Junction SE24",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20546901",
@@ -15366,7 +15459,7 @@
    }
   },
   "nbhd": "Tooting Broadway SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20547958",
@@ -15448,7 +15541,7 @@
    }
   },
   "nbhd": "St Martin's SE21",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20547971",
@@ -15530,7 +15623,7 @@
    }
   },
   "nbhd": "Childs Hill · Cricklewood NW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20548356",
@@ -15612,7 +15705,7 @@
    }
   },
   "nbhd": "Palace/Hurlingham SW6",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20548599",
@@ -15694,7 +15787,7 @@
    }
   },
   "nbhd": "Streatham St Leonard's SW16",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20549099",
@@ -15776,7 +15869,7 @@
    }
   },
   "nbhd": "Evelyn SE8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-18637039",
@@ -15858,7 +15951,7 @@
    }
   },
   "nbhd": "Trinity SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-17671715",
@@ -15940,7 +16033,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20550470",
@@ -16018,7 +16111,7 @@
    }
   },
   "nbhd": "Bruce Castle · Tottenham N17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20550482",
@@ -16100,7 +16193,7 @@
    }
   },
   "nbhd": "West Hill SW19",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-17555800",
@@ -16182,7 +16275,7 @@
    }
   },
   "nbhd": "Munster SW6",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20551120",
@@ -16264,7 +16357,7 @@
    }
   },
   "nbhd": "Brownswood · Finsbury Park N4",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20394849",
@@ -16346,7 +16439,7 @@
    }
   },
   "nbhd": "Leyton E10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20551276",
@@ -16428,7 +16521,7 @@
    }
   },
   "nbhd": "Northumberland Park · Tottenham N17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20551318",
@@ -16510,7 +16603,7 @@
    }
   },
   "nbhd": "Roundwood · Willesden NW10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20551564",
@@ -16592,7 +16685,7 @@
    }
   },
   "nbhd": "Harlesden/Kensal Green · Willesden NW10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20552923",
@@ -16674,7 +16767,7 @@
    }
   },
   "nbhd": "Stamford Hill West · Stoke Newington N16",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20553161",
@@ -16756,7 +16849,7 @@
    }
   },
   "nbhd": "Canary Wharf · Poplar/Canary Wharf E14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-5034932",
@@ -16838,7 +16931,7 @@
    }
   },
   "nbhd": "Northumberland Park · Tottenham N17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20553887",
@@ -16920,7 +17013,7 @@
    }
   },
   "nbhd": "Southfield · Chiswick W4",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20553985",
@@ -17002,7 +17095,7 @@
    }
   },
   "nbhd": "West Green · Tottenham N17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20554333",
@@ -17084,7 +17177,7 @@
    }
   },
   "nbhd": "East Putney SW15",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20554785",
@@ -17166,7 +17259,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20555010",
@@ -17248,7 +17341,7 @@
    }
   },
   "nbhd": "Knightsbridge/Belgravia SW7",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-3092596",
@@ -17330,7 +17423,7 @@
    }
   },
   "nbhd": "Bromley North · Bow E3",
-  "fresh_days": 6
+  "fresh_days": 7
  },
  {
   "id": "otm-20555322",
@@ -17409,7 +17502,7 @@
    }
   },
   "nbhd": "Haggerston E2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20555323",
@@ -17488,7 +17581,7 @@
    }
   },
   "nbhd": "Bethnal Green West E2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20555516",
@@ -17570,7 +17663,7 @@
    }
   },
   "nbhd": "Totteridge/Woodside NW7",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-19812587",
@@ -17652,7 +17745,7 @@
    }
   },
   "nbhd": "Furzedown SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "otm-20555864",
@@ -17734,7 +17827,7 @@
    }
   },
   "nbhd": "Herne Hill/Loughborough Junction SE24",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20555901",
@@ -17816,7 +17909,7 @@
    }
   },
   "nbhd": "Tokyngton HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-8697834",
@@ -17898,7 +17991,7 @@
    }
   },
   "nbhd": "Lansbury · Poplar/Canary Wharf E14",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20327146",
@@ -17979,7 +18072,7 @@
    }
   },
   "nbhd": "Totteridge/Woodside N12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20557421",
@@ -18061,7 +18154,7 @@
    }
   },
   "nbhd": "Chiswick Riverside W4",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20557425",
@@ -18143,7 +18236,7 @@
    }
   },
   "nbhd": "Southfield · Chiswick W4",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20558093",
@@ -18225,7 +18318,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20558403",
@@ -18303,7 +18396,7 @@
    }
   },
   "nbhd": "Newington · Walworth SE17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20558860",
@@ -18385,7 +18478,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20559767",
@@ -18467,7 +18560,7 @@
    }
   },
   "nbhd": "Royal Victoria E16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20560398",
@@ -18549,7 +18642,7 @@
    }
   },
   "nbhd": "Hoe Street E17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20560768",
@@ -18631,7 +18724,7 @@
    }
   },
   "nbhd": "High Street E17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20560797",
@@ -18713,7 +18806,7 @@
    }
   },
   "nbhd": "West Finchley N12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20560833",
@@ -18795,7 +18888,7 @@
    }
   },
   "nbhd": "Dollis Hill · Cricklewood NW2",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20560898",
@@ -18877,7 +18970,7 @@
    }
   },
   "nbhd": "Caledonian N1",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20561156",
@@ -18959,7 +19052,7 @@
    }
   },
   "nbhd": "Queens Park · Willesden NW10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20561395",
@@ -19041,7 +19134,7 @@
    }
   },
   "nbhd": "King's Park E9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-15595536",
@@ -19123,7 +19216,7 @@
    }
   },
   "nbhd": "William Morris E17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20561896",
@@ -19205,7 +19298,7 @@
    }
   },
   "nbhd": "Kentish Town South NW5",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20562108",
@@ -19287,7 +19380,7 @@
    }
   },
   "nbhd": "Northumberland Park · Tottenham N17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20561493",
@@ -19369,7 +19462,7 @@
    }
   },
   "nbhd": "Fortune Green · Cricklewood NW2",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20563027",
@@ -19451,7 +19544,7 @@
    }
   },
   "nbhd": "Herne Hill/Loughborough Junction SE24",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20563083",
@@ -19533,7 +19626,7 @@
    }
   },
   "nbhd": "Woodhouse N12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20563301",
@@ -19615,7 +19708,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20563648",
@@ -19697,7 +19790,7 @@
    }
   },
   "nbhd": "Tokyngton HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-4929394",
@@ -19779,7 +19872,7 @@
    }
   },
   "nbhd": "Palmers Green N13",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20563923",
@@ -19858,7 +19951,7 @@
    }
   },
   "nbhd": "Willesden Green NW10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20564032",
@@ -19936,7 +20029,7 @@
    }
   },
   "nbhd": "Muswell Hill N10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-2554989",
@@ -20018,7 +20111,7 @@
    }
   },
   "nbhd": "Tooting Broadway SW17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20564180",
@@ -20100,7 +20193,7 @@
    }
   },
   "nbhd": "Plaistow West/Canning Town East E13",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20564195",
@@ -20182,7 +20275,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "otm-20564392",
@@ -20264,7 +20357,7 @@
    }
   },
   "nbhd": "West Hendon · Colindale NW9",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "otm-20564467",
@@ -20346,7 +20439,7 @@
    }
   },
   "nbhd": "Herne Hill/Loughborough Junction SE24",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "otm-20564489",
@@ -20428,7 +20521,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "otm-20564502",
@@ -20510,89 +20603,7 @@
    }
   },
   "nbhd": "North Acton W3",
-  "fresh_days": 1
- },
- {
-  "id": "otm-8357279",
-  "title": "Horn Lane — 1-bed",
-  "area": "Horn Lane, Acton, London W3",
-  "price": 1350,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Available as furnished or unfurnished",
-  "available": "2026-10-14",
-  "commute": "34 min · 🚆 Elizabeth line + Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/8357279/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-8357279_0.jpg",
-   "photos/otm-8357279_1.jpg",
-   "photos/otm-8357279_2.jpg",
-   "photos/otm-8357279_3.jpg",
-   "photos/otm-8357279_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Taylor Smith - Acton.  A well-presented and generously sized one-bedroom first-floor flat situated on a popular residential road in Acton. The property offers a spacious double bedroom, a modern newly fitted kitchen, and a separate living room. The WC is located on the same floor, just outside the flat. Ideally located for commuters, the property is within easy reach of North Acton Underground Station (Central Line) and Acton Main Line station, providing convenient transport links into Central London and beyond. The A40 is also easily accessible, making this property ideal for those travelling by car. Available immediately, this property offers well-proportioned accommodation in a convenient West London location, ideal for a professional individual or couple ",
-  "hood": "Hoodmaps: Rich (Acton Central); nearby tags: \"Little New Zealand!\", \"nothing be here\", \"anilll\", \"The worst landlord in the world\".",
-  "date_found": "2026-10-16",
-  "features": "Spacious One-Bedroom First Floor Flat; Generous Double Bedroom; WC Located on the Same Floor Outside the Flat; Separate Kitchen; North Acton & Acton Main Line Station; Within Easy Reach of North Acton &Acton  Main Line Station ; Excellent Transport Links to Central London",
-  "listed": "2026-10-10",
-  "lat": 51.517842,
-  "lng": -0.266025,
-  "agent": "Taylor Smith - Acton",
-  "commute_min": 34,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "score": 66,
-  "score_breakdown": {
-   "style": {
-    "points": 16.8,
-    "max": 22,
-    "reason": "keywords: modern(+3), well-presented(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 17.6,
-    "max": 20,
-    "reason": "34 min door-to-door (TfL): 🚆 Elizabeth line + Northern"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 5.5,
-    "max": 10,
-    "reason": "14 Oct: 18 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,350"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "nbhd": "North Acton W3",
-  "fresh_days": 7
+  "fresh_days": 2
  },
  {
   "id": "94218096",
@@ -20674,7 +20685,7 @@
    }
   },
   "nbhd": "Palmers Green N13",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94218468",
@@ -20756,7 +20767,7 @@
    }
   },
   "nbhd": "Stonebridge · Willesden NW10",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94220070",
@@ -20838,7 +20849,7 @@
    }
   },
   "nbhd": "Woodberry Down · Finsbury Park N4",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94298781",
@@ -20920,7 +20931,7 @@
    }
   },
   "nbhd": "Abbey Road · St John's Wood NW8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94221861",
@@ -21002,7 +21013,7 @@
    }
   },
   "nbhd": "Leyton E10",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94222020",
@@ -21084,7 +21095,7 @@
    }
   },
   "nbhd": "Hendon NW4",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94222155",
@@ -21166,7 +21177,7 @@
    }
   },
   "nbhd": "Alperton HA0",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94223301",
@@ -21248,7 +21259,7 @@
    }
   },
   "nbhd": "Highbury N5",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94223697",
@@ -21330,7 +21341,7 @@
    }
   },
   "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94227678",
@@ -21412,7 +21423,7 @@
    }
   },
   "nbhd": "Bowes N13",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94228512",
@@ -21494,7 +21505,7 @@
    }
   },
   "nbhd": "Southfields SW18",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94229361",
@@ -21576,7 +21587,7 @@
    }
   },
   "nbhd": "Bruce Castle · Tottenham N17",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94232841",
@@ -21658,7 +21669,7 @@
    }
   },
   "nbhd": "St Giles · Camberwell SE5",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94234911",
@@ -21740,7 +21751,7 @@
    }
   },
   "nbhd": "Trinity SW12",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94235946",
@@ -21822,7 +21833,7 @@
    }
   },
   "nbhd": "Hackney Downs · Stoke Newington N16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94236444",
@@ -21904,7 +21915,7 @@
    }
   },
   "nbhd": "Whitechapel E1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94236654",
@@ -21986,7 +21997,7 @@
    }
   },
   "nbhd": "Dulwich Hill SE22",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239633",
@@ -22068,7 +22079,7 @@
    }
   },
   "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239693",
@@ -22150,7 +22161,7 @@
    }
   },
   "nbhd": "Woodhouse N12",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239729",
@@ -22232,7 +22243,7 @@
    }
   },
   "nbhd": "Brixton Acre Lane SW2",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239738",
@@ -22314,7 +22325,7 @@
    }
   },
   "nbhd": "Streatham Hill East SW2",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239885",
@@ -22396,7 +22407,7 @@
    }
   },
   "nbhd": "Evelyn SE8",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239963",
@@ -22478,7 +22489,7 @@
    }
   },
   "nbhd": "Evelyn SE8",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94239969",
@@ -22560,7 +22571,7 @@
    }
   },
   "nbhd": "High Street E17",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94240479",
@@ -22642,7 +22653,7 @@
    }
   },
   "nbhd": "West Hill SW19",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94240650",
@@ -22724,7 +22735,7 @@
    }
   },
   "nbhd": "Greenwich Park SE10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94241733",
@@ -22804,7 +22815,7 @@
    }
   },
   "nbhd": "Stonebridge · Willesden NW10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94241964",
@@ -22886,7 +22897,7 @@
    }
   },
   "nbhd": "Rotherhithe SE16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94242201",
@@ -22968,7 +22979,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94243053",
@@ -23049,7 +23060,7 @@
    }
   },
   "nbhd": "Old Kent Road · Camberwell SE5",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94243185",
@@ -23131,7 +23142,7 @@
    }
   },
   "nbhd": "Harringay · Hornsey/Crouch End N8",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94243551",
@@ -23213,7 +23224,7 @@
    }
   },
   "nbhd": "Stratford E15",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94244826",
@@ -23295,7 +23306,7 @@
    }
   },
   "nbhd": "Streatham Wells SW16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94245393",
@@ -23377,7 +23388,7 @@
    }
   },
   "nbhd": "East Greenwich SE10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94245669",
@@ -23459,7 +23470,7 @@
    }
   },
   "nbhd": "Wandsworth Town SW18",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94245696",
@@ -23541,7 +23552,7 @@
    }
   },
   "nbhd": "Fortune Green · Kilburn/West Hampstead NW6",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94246551",
@@ -23623,7 +23634,7 @@
    }
   },
   "nbhd": "Hendon NW4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94246905",
@@ -23705,7 +23716,7 @@
    }
   },
   "nbhd": "Spitalfields/Banglatown · Whitechapel E1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94247268",
@@ -23787,7 +23798,7 @@
    }
   },
   "nbhd": "West Kensington W14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94247391",
@@ -23869,7 +23880,7 @@
    }
   },
   "nbhd": "Nunhead/Queen's Road SE15",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94247442",
@@ -23951,7 +23962,7 @@
    }
   },
   "nbhd": "Hanger Hill W5",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94247574",
@@ -24033,7 +24044,7 @@
    }
   },
   "nbhd": "Lansbury · Poplar/Canary Wharf E14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94247991",
@@ -24115,7 +24126,7 @@
    }
   },
   "nbhd": "Island Gardens · Poplar/Canary Wharf E14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94248243",
@@ -24197,7 +24208,7 @@
    }
   },
   "nbhd": "Lewisham Central SE13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94248570",
@@ -24279,7 +24290,7 @@
    }
   },
   "nbhd": "Preston HA9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94248699",
@@ -24360,7 +24371,7 @@
    }
   },
   "nbhd": "West Putney SW15",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94248879",
@@ -24442,7 +24453,7 @@
    }
   },
   "nbhd": "St Katharine's/Wapping E1W",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94247370",
@@ -24523,7 +24534,7 @@
    }
   },
   "nbhd": "South Tottenham N17",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94250115",
@@ -24605,7 +24616,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94250364",
@@ -24687,7 +24698,7 @@
    }
   },
   "nbhd": "Bounds Green N11",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94183401",
@@ -24769,7 +24780,7 @@
    }
   },
   "nbhd": "Homerton E9",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94251201",
@@ -24851,7 +24862,7 @@
    }
   },
   "nbhd": "New Southgate N11",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94251918",
@@ -24933,7 +24944,7 @@
    }
   },
   "nbhd": "Shacklewell · Stoke Newington N16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94251606",
@@ -25015,7 +25026,7 @@
    }
   },
   "nbhd": "Forest Gate South E7",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94249335",
@@ -25097,7 +25108,7 @@
    }
   },
   "nbhd": "West Hendon NW4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94252842",
@@ -25179,7 +25190,7 @@
    }
   },
   "nbhd": "East Putney SW18",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94253565",
@@ -25261,7 +25272,7 @@
    }
   },
   "nbhd": "Shacklewell · Stoke Newington N16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94255131",
@@ -25343,7 +25354,7 @@
    }
   },
   "nbhd": "Evelyn SE8",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94255293",
@@ -25425,7 +25436,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94255599",
@@ -25507,7 +25518,7 @@
    }
   },
   "nbhd": "Chiswick Homefields W4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94256190",
@@ -25589,7 +25600,7 @@
    }
   },
   "nbhd": "Bromley North · Bow E3",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94256349",
@@ -25671,7 +25682,7 @@
    }
   },
   "nbhd": "Dollis Hill · Willesden NW10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94203753",
@@ -25753,7 +25764,7 @@
    }
   },
   "nbhd": "Whitechapel E1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94257168",
@@ -25835,7 +25846,7 @@
    }
   },
   "nbhd": "New Southgate · Wood Green N22",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94257345",
@@ -25917,7 +25928,7 @@
    }
   },
   "nbhd": "White Hart Lane · Wood Green N22",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94258683",
@@ -25999,7 +26010,7 @@
    }
   },
   "nbhd": "Leyton E10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94257996",
@@ -26081,7 +26092,7 @@
    }
   },
   "nbhd": "Woodhouse N12",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94258635",
@@ -26163,7 +26174,7 @@
    }
   },
   "nbhd": "Leyton E10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94258725",
@@ -26245,7 +26256,7 @@
    }
   },
   "nbhd": "Southfield · Chiswick W4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94258743",
@@ -26323,7 +26334,7 @@
    }
   },
   "nbhd": "Bromley North · Bow E3",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94259061",
@@ -26405,7 +26416,7 @@
    }
   },
   "nbhd": "London Bridge/West Bermondsey · Southwark SE1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94259208",
@@ -26487,7 +26498,7 @@
    }
   },
   "nbhd": "Forest Gate South E15",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94259361",
@@ -26569,7 +26580,7 @@
    }
   },
   "nbhd": "Telegraph Hill SE4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94259505",
@@ -26651,89 +26662,7 @@
    }
   },
   "nbhd": "Brixton Rush Common SW2",
-  "fresh_days": 4
- },
- {
-  "id": "94161357",
-  "title": "River Heights — 1-bed",
-  "area": "River Heights, 90 High Street, Stratford, E15",
-  "price": 2000,
-  "size": "51 m²",
-  "floor": "",
-  "furnished": "",
-  "available": "2026-11-07",
-  "commute": "47 min · 🚌 bus 25 + Elizabeth line + Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94161357",
-  "source": "rightmove",
-  "photos": [
-   "photos/94161357_0.jpg",
-   "photos/94161357_1.jpg",
-   "photos/94161357_2.jpg",
-   "photos/94161357_3.jpg",
-   "photos/94161357_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Ernest Brooks International, Canary Wharf. A well-positioned one-bedroom apartment set on the 19th floor of the popular River Heights development, offering approximately 550 sq ft of internal living space and far-reaching views across the River Lea, Queen Elizabeth Olympic Park and Olympic Village. The apartment is finished to a high specification throughout, featuring a bright open-plan living area, modern kitchen and a well-proportioned double bedroom. A private balcony provides an ideal space to enjoy the elevated views and surrounding East London skyline, making this an attractive option for city living. River Heights is a well-regarded development offering residents a concierge service, fully equipped gym and landscaped roof gardens, providing a strong lifestyle offering alongside practical convenience. The property is ideally located for connectivity, within walking distance of Pudding Mill Lane DLR, Stratford Underground (",
-  "hood": "Hoodmaps: Rich (Stratford and New Town), also painted Tourists/Hipsters; nearby tags: \"flooding 2021\", \"YouTubers \", \"eeeeeee\".",
-  "date_found": "2026-10-16",
-  "features": "Prime 19th floor position with expansive views over the River Lea, Olympic Park &amp; Village; One-bedroom apartment spanning approx. 550 sq ft; Finished to a high standard with private balcony; Residents' amenities include concierge, gym, and roof gardens; Walking distance to Stratford International, Pudding Mill Lane &amp; Jubilee Line; Just 6 minutes to St Pancras via Stratford International; Short walk to Westfield Stratford City &amp; Stratford Centre; Surrounded by restaurants, hotels, cinemas &amp; cultural venues such as Theatre Royal and Stratford Circus",
-  "listed": "2026-10-10",
-  "lat": 51.533969,
-  "lng": -0.007657,
-  "agent": "Ernest Brooks International, Canary Wharf",
-  "commute_min": 47,
-  "commute_mode": "🚌 bus 25 + Elizabeth line + Northern",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 18.1,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), open-plan(+1)"
-   },
-   "size": {
-    "points": 6.6,
-    "max": 15,
-    "reason": "51 m²"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "47 min (TfL): 🚌 bus 25 + Elizabeth line + Northern — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "07 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "balcony, garden, concierge, gym"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "nbhd": "Stratford E15",
-  "fresh_days": 7
+  "fresh_days": 5
  },
  {
   "id": "94260159",
@@ -26814,7 +26743,7 @@
    }
   },
   "nbhd": "West Hendon · Colindale NW9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94260651",
@@ -26896,7 +26825,7 @@
    }
   },
   "nbhd": "Golders Green NW11",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94260894",
@@ -26976,7 +26905,7 @@
    }
   },
   "nbhd": "Colindale South NW9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94260993",
@@ -27058,7 +26987,7 @@
    }
   },
   "nbhd": "Mile End · Poplar/Canary Wharf E14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94260684",
@@ -27140,7 +27069,7 @@
    }
   },
   "nbhd": "Brixton Rush Common SW2",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94066596",
@@ -27222,7 +27151,7 @@
    }
   },
   "nbhd": "Goose Green SE22",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94262388",
@@ -27304,7 +27233,7 @@
    }
   },
   "nbhd": "West Finchley N12",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94262802",
@@ -27386,7 +27315,7 @@
    }
   },
   "nbhd": "Coningham · Shepherd's Bush W12",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94263459",
@@ -27468,7 +27397,7 @@
    }
   },
   "nbhd": "Hermitage/Gardens · Finsbury Park N4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94264275",
@@ -27550,7 +27479,7 @@
    }
   },
   "nbhd": "Shadwell · Whitechapel E1",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94343040",
@@ -27632,7 +27561,7 @@
    }
   },
   "nbhd": "Bowes N13",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94265460",
@@ -27714,7 +27643,7 @@
    }
   },
   "nbhd": "Myatt's Fields · Brixton/Stockwell SW9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94266432",
@@ -27796,7 +27725,7 @@
    }
   },
   "nbhd": "Wembley Hill HA9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94266747",
@@ -27878,7 +27807,7 @@
    }
   },
   "nbhd": "Rye Lane SE15",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94266840",
@@ -27960,7 +27889,7 @@
    }
   },
   "nbhd": "North Acton W3",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94269114",
@@ -28042,7 +27971,7 @@
    }
   },
   "nbhd": "Cann Hall E11",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94269228",
@@ -28124,7 +28053,7 @@
    }
   },
   "nbhd": "Hanger Hill W5",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94269549",
@@ -28206,7 +28135,7 @@
    }
   },
   "nbhd": "Childs Hill NW11",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94314900",
@@ -28288,7 +28217,7 @@
    }
   },
   "nbhd": "Northumberland Park · Tottenham N17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94270635",
@@ -28370,7 +28299,7 @@
    }
   },
   "nbhd": "East Putney SW15",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94271226",
@@ -28452,7 +28381,7 @@
    }
   },
   "nbhd": "East Putney SW18",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94271829",
@@ -28534,7 +28463,7 @@
    }
   },
   "nbhd": "Tufnell Park · Holloway N7",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94272495",
@@ -28616,7 +28545,7 @@
    }
   },
   "nbhd": "Royal Victoria E16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94272627",
@@ -28698,7 +28627,7 @@
    }
   },
   "nbhd": "Stockwell East · Brixton/Stockwell SW9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94272690",
@@ -28780,7 +28709,7 @@
    }
   },
   "nbhd": "Tollington · Finsbury Park N4",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94273347",
@@ -28861,7 +28790,7 @@
    }
   },
   "nbhd": "Furzedown SW16",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94274703",
@@ -28943,7 +28872,7 @@
    }
   },
   "nbhd": "Mile End · Poplar/Canary Wharf E14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94274994",
@@ -29025,7 +28954,7 @@
    }
   },
   "nbhd": "Golders Green NW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94275909",
@@ -29105,7 +29034,7 @@
    }
   },
   "nbhd": "St Martin's SE21",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94278741",
@@ -29187,7 +29116,7 @@
    }
   },
   "nbhd": "Brondesbury Park · Cricklewood NW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94279569",
@@ -29269,7 +29198,7 @@
    }
   },
   "nbhd": "Hendon NW4",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94280553",
@@ -29351,7 +29280,7 @@
    }
   },
   "nbhd": "Finchley Church End NW7",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94281717",
@@ -29433,7 +29362,7 @@
    }
   },
   "nbhd": "Tooting Bec SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94281927",
@@ -29515,7 +29444,7 @@
    }
   },
   "nbhd": "Harringay · Hornsey/Crouch End N8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94282251",
@@ -29597,7 +29526,7 @@
    }
   },
   "nbhd": "West Finchley N3",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94279188",
@@ -29679,7 +29608,7 @@
    }
   },
   "nbhd": "Tooting Broadway SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94283013",
@@ -29760,7 +29689,7 @@
    }
   },
   "nbhd": "Stratford E15",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94283208",
@@ -29842,7 +29771,7 @@
    }
   },
   "nbhd": "Bow East E3",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94283253",
@@ -29924,7 +29853,7 @@
    }
   },
   "nbhd": "East Putney SW18",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94284249",
@@ -30005,7 +29934,7 @@
    }
   },
   "nbhd": "King's Cross WC1X",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94284297",
@@ -30087,7 +30016,7 @@
    }
   },
   "nbhd": "Camden Square NW1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94284417",
@@ -30169,7 +30098,7 @@
    }
   },
   "nbhd": "Camberwell Green SE5",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94284390",
@@ -30251,7 +30180,7 @@
    }
   },
   "nbhd": "South Tottenham N15",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94284756",
@@ -30332,7 +30261,7 @@
    }
   },
   "nbhd": "West Putney SW15",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94283640",
@@ -30414,7 +30343,7 @@
    }
   },
   "nbhd": "Hackney Wick E9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94285038",
@@ -30496,7 +30425,7 @@
    }
   },
   "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94285491",
@@ -30578,7 +30507,7 @@
    }
   },
   "nbhd": "Streatham Hill East SW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94285527",
@@ -30660,7 +30589,7 @@
    }
   },
   "nbhd": "Queen's Park · Maida Vale W9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94285674",
@@ -30742,7 +30671,7 @@
    }
   },
   "nbhd": "West Hill SW19",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94286340",
@@ -30824,7 +30753,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94287102",
@@ -30906,7 +30835,7 @@
    }
   },
   "nbhd": "Hendon NW4",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94287177",
@@ -30988,7 +30917,7 @@
    }
   },
   "nbhd": "St Martin's SW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94287570",
@@ -31064,7 +30993,7 @@
    }
   },
   "nbhd": "Hanger Hill W5",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94287651",
@@ -31146,7 +31075,7 @@
    }
   },
   "nbhd": "Cathall E15",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94287990",
@@ -31228,7 +31157,7 @@
    }
   },
   "nbhd": "West Hampstead · Kilburn/West Hampstead NW6",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94288920",
@@ -31310,7 +31239,7 @@
    }
   },
   "nbhd": "William Morris E17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94289622",
@@ -31392,7 +31321,7 @@
    }
   },
   "nbhd": "Bow East E3",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94120101",
@@ -31474,7 +31403,7 @@
    }
   },
   "nbhd": "Junction · Upper Holloway N19",
-  "fresh_days": 8,
+  "fresh_days": 9,
   "stale": true
  },
  {
@@ -31557,7 +31486,7 @@
    }
   },
   "nbhd": "Bow East E3",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94290291",
@@ -31639,7 +31568,7 @@
    }
   },
   "nbhd": "Childs Hill NW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94290687",
@@ -31721,7 +31650,7 @@
    }
   },
   "nbhd": "South Acton W3",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94291434",
@@ -31803,7 +31732,7 @@
    }
   },
   "nbhd": "Telegraph Hill SE14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94291860",
@@ -31883,7 +31812,7 @@
    }
   },
   "nbhd": "Ealing Broadway W5",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94291908",
@@ -31965,7 +31894,7 @@
    }
   },
   "nbhd": "Friern Barnet · Muswell Hill N10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94292028",
@@ -32047,7 +31976,7 @@
    }
   },
   "nbhd": "Greenwich Park SE10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94292295",
@@ -32129,7 +32058,7 @@
    }
   },
   "nbhd": "Chaucer · Southwark SE1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94292985",
@@ -32211,7 +32140,7 @@
    }
   },
   "nbhd": "Ravenscourt · Hammersmith W6",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94294167",
@@ -32293,7 +32222,7 @@
    }
   },
   "nbhd": "New Southgate N11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94294572",
@@ -32375,7 +32304,7 @@
    }
   },
   "nbhd": "Evelyn SE8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94295178",
@@ -32457,7 +32386,7 @@
    }
   },
   "nbhd": "Garden Suburb NW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94295199",
@@ -32539,7 +32468,7 @@
    }
   },
   "nbhd": "Limehouse · Poplar/Canary Wharf E14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94295292",
@@ -32621,7 +32550,7 @@
    }
   },
   "nbhd": "Grove · Hammersmith W6",
-  "fresh_days": 3,
+  "fresh_days": 4,
   "pet_deposit_extra_weeks": 2,
   "feedback_link": "Masha Telegram 209/213"
  },
@@ -32705,7 +32634,7 @@
    }
   },
   "nbhd": "Streatham Hill East SW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94297767",
@@ -32787,7 +32716,7 @@
    }
   },
   "nbhd": "Shacklewell E8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94201446",
@@ -32869,7 +32798,7 @@
    }
   },
   "nbhd": "Cricklewood/Mapesbury NW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94247967",
@@ -32951,7 +32880,7 @@
    }
   },
   "nbhd": "Clapham Town · Vauxhall SW8",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94298361",
@@ -33033,7 +32962,7 @@
    }
   },
   "nbhd": "Borough/Bankside · Southwark SE1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94298424",
@@ -33115,7 +33044,7 @@
    }
   },
   "nbhd": "Highgate N6",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94298454",
@@ -33197,7 +33126,7 @@
    }
   },
   "nbhd": "St Dunstan's · Poplar/Canary Wharf E14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94298478",
@@ -33279,7 +33208,7 @@
   "nbhd": "Island Gardens · Poplar/Canary Wharf E14",
   "commute_min": 53,
   "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94299636",
@@ -33361,7 +33290,7 @@
    }
   },
   "nbhd": "St Katharine's/Wapping E1W",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94299855",
@@ -33443,7 +33372,7 @@
    }
   },
   "nbhd": "Golders Green NW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94299888",
@@ -33525,7 +33454,7 @@
    }
   },
   "nbhd": "Brentford East TW8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94300116",
@@ -33607,7 +33536,7 @@
    }
   },
   "nbhd": "Falconbrook · Battersea SW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94300533",
@@ -33689,7 +33618,7 @@
    }
   },
   "nbhd": "Woodhouse N12",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94300944",
@@ -33771,7 +33700,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94301520",
@@ -33853,7 +33782,7 @@
    }
   },
   "nbhd": "Brixton Rush Common SW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94301922",
@@ -33931,7 +33860,7 @@
    }
   },
   "nbhd": "East Greenwich SE10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94301865",
@@ -34013,7 +33942,7 @@
    }
   },
   "nbhd": "Canning Town North E16",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94302183",
@@ -34095,7 +34024,7 @@
    }
   },
   "nbhd": "Lewisham Central SE13",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94302204",
@@ -34174,7 +34103,7 @@
    }
   },
   "nbhd": "West Hendon · Colindale NW9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94302924",
@@ -34256,7 +34185,7 @@
    }
   },
   "nbhd": "Chaucer · Southwark SE1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94179969",
@@ -34338,7 +34267,7 @@
    }
   },
   "nbhd": "Clapham Town · Vauxhall SW8",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94304214",
@@ -34420,7 +34349,7 @@
    }
   },
   "nbhd": "Herne Hill/Loughborough Junction SE24",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94304343",
@@ -34502,7 +34431,7 @@
    }
   },
   "nbhd": "Alperton HA0",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94305708",
@@ -34584,7 +34513,7 @@
    }
   },
   "nbhd": "East Greenwich SE10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94306215",
@@ -34666,7 +34595,7 @@
    }
   },
   "nbhd": "Brockley SE8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94307232",
@@ -34748,7 +34677,7 @@
    }
   },
   "nbhd": "West Hendon · Colindale NW9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94307256",
@@ -34830,7 +34759,7 @@
    }
   },
   "nbhd": "Stockwell East · Brixton/Stockwell SW9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94306086",
@@ -34912,7 +34841,7 @@
    }
   },
   "nbhd": "Tooting Bec SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94307760",
@@ -34994,7 +34923,7 @@
    }
   },
   "nbhd": "South Balham SW17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94307805",
@@ -35076,7 +35005,7 @@
    }
   },
   "nbhd": "Alperton HA0",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94308495",
@@ -35158,7 +35087,7 @@
    }
   },
   "nbhd": "Alperton HA0",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94309230",
@@ -35236,7 +35165,7 @@
    }
   },
   "nbhd": "Muswell Hill N10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94310295",
@@ -35318,7 +35247,7 @@
    }
   },
   "nbhd": "Brixton Acre Lane SW2",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94312380",
@@ -35400,7 +35329,7 @@
    }
   },
   "nbhd": "Hendon NW4",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94313163",
@@ -35482,7 +35411,7 @@
    }
   },
   "nbhd": "South Bermondsey · Southwark SE1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94313691",
@@ -35564,7 +35493,7 @@
    }
   },
   "nbhd": "Junction · Upper Holloway N19",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94314558",
@@ -35646,7 +35575,7 @@
    }
   },
   "nbhd": "Alperton HA0",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94314792",
@@ -35728,7 +35657,7 @@
    }
   },
   "nbhd": "Childs Hill NW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94314915",
@@ -35810,7 +35739,7 @@
    }
   },
   "nbhd": "Streatham Wells SW16",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94314714",
@@ -35892,7 +35821,7 @@
    }
   },
   "nbhd": "Hackney Downs E5",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94315695",
@@ -35974,7 +35903,7 @@
    }
   },
   "nbhd": "Falconbrook · Battersea SW11",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94316205",
@@ -36056,7 +35985,7 @@
    }
   },
   "nbhd": "Northumberland Park · Tottenham N17",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94317009",
@@ -36135,7 +36064,7 @@
    }
   },
   "nbhd": "Holloway N7",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94318584",
@@ -36217,7 +36146,7 @@
    }
   },
   "nbhd": "Stonebridge · Willesden NW10",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94318602",
@@ -36299,7 +36228,7 @@
    }
   },
   "nbhd": "Chaucer · Southwark SE1",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94318734",
@@ -36381,7 +36310,7 @@
    }
   },
   "nbhd": "Woodside · Wood Green N22",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94318800",
@@ -36463,7 +36392,7 @@
    }
   },
   "nbhd": "Deptford SE8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94319541",
@@ -36545,7 +36474,7 @@
    }
   },
   "nbhd": "Crouch End · Hornsey/Crouch End N8",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94319598",
@@ -36627,7 +36556,7 @@
    }
   },
   "nbhd": "Brockley SE4",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94320114",
@@ -36709,7 +36638,7 @@
    }
   },
   "nbhd": "Junction · Upper Holloway N19",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94322607",
@@ -36791,7 +36720,7 @@
    }
   },
   "nbhd": "Champion Hill · Camberwell SE5",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94324620",
@@ -36873,7 +36802,7 @@
    }
   },
   "nbhd": "Canary Wharf · Poplar/Canary Wharf E14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94326186",
@@ -36955,7 +36884,7 @@
    }
   },
   "nbhd": "Stoke Newington N16",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94327695",
@@ -37037,7 +36966,7 @@
    }
   },
   "nbhd": "West Ham E15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94328739",
@@ -37118,7 +37047,7 @@
    }
   },
   "nbhd": "Streatham St Leonard's SW16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94237530",
@@ -37200,7 +37129,7 @@
    }
   },
   "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94194807",
@@ -37282,7 +37211,7 @@
    }
   },
   "nbhd": "Lansbury · Poplar/Canary Wharf E14",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94333449",
@@ -37364,7 +37293,7 @@
    }
   },
   "nbhd": "Streatham St Leonard's SW16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94336629",
@@ -37446,7 +37375,7 @@
    }
   },
   "nbhd": "West Finchley N12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94337916",
@@ -37528,7 +37457,7 @@
    }
   },
   "nbhd": "College Park/Old Oak W10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94338978",
@@ -37610,7 +37539,7 @@
    }
   },
   "nbhd": "Palmers Green N13",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94339563",
@@ -37692,7 +37621,7 @@
    }
   },
   "nbhd": "Clapham Town · Vauxhall SW8",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94339980",
@@ -37774,7 +37703,7 @@
    }
   },
   "nbhd": "West Hendon NW4",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94340355",
@@ -37856,7 +37785,7 @@
    }
   },
   "nbhd": "St Katharine's/Wapping E1W",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94340736",
@@ -37938,7 +37867,7 @@
    }
   },
   "nbhd": "Bow East E3",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94340814",
@@ -38020,7 +37949,7 @@
    }
   },
   "nbhd": "South Balham SW17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94341252",
@@ -38102,7 +38031,7 @@
    }
   },
   "nbhd": "Bow East E3",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94341519",
@@ -38184,7 +38113,7 @@
    }
   },
   "nbhd": "Wandle SW18",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94342218",
@@ -38266,7 +38195,7 @@
    }
   },
   "nbhd": "Oval · Vauxhall SW8",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94342305",
@@ -38348,7 +38277,7 @@
    }
   },
   "nbhd": "Finsbury Park · Holloway N7",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94342545",
@@ -38430,7 +38359,7 @@
    }
   },
   "nbhd": "Leyton E10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94342740",
@@ -38512,7 +38441,7 @@
    }
   },
   "nbhd": "Bromley North · Bow E3",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94344057",
@@ -38594,7 +38523,7 @@
    }
   },
   "nbhd": "Dulwich Wood SE22",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94344099",
@@ -38676,7 +38605,7 @@
    }
   },
   "nbhd": "Forest · Leyton E10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94344750",
@@ -38758,7 +38687,7 @@
    }
   },
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94346538",
@@ -38840,7 +38769,7 @@
    }
   },
   "nbhd": "South Tottenham N15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94346679",
@@ -38922,7 +38851,7 @@
    }
   },
   "nbhd": "West Dulwich SE27",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94347570",
@@ -39004,7 +38933,7 @@
    }
   },
   "nbhd": "Markhouse E17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94348779",
@@ -39086,7 +39015,7 @@
    }
   },
   "nbhd": "Telegraph Hill SE4",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94349520",
@@ -39168,7 +39097,7 @@
    }
   },
   "nbhd": "Brockley SE8",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94349508",
@@ -39250,7 +39179,7 @@
    }
   },
   "nbhd": "Canary Wharf · Poplar/Canary Wharf E14",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94350051",
@@ -39332,7 +39261,7 @@
    }
   },
   "nbhd": "Surrey Docks SE16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94351086",
@@ -39414,7 +39343,7 @@
    }
   },
   "nbhd": "Childs Hill · Cricklewood NW2",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94198530",
@@ -39496,7 +39425,7 @@
    }
   },
   "nbhd": "Colindale South NW9",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94335951",
@@ -39578,7 +39507,7 @@
    }
   },
   "nbhd": "King's Park E9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94351887",
@@ -39660,7 +39589,7 @@
    }
   },
   "nbhd": "William Morris E17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94351902",
@@ -39742,7 +39671,7 @@
    }
   },
   "nbhd": "Lewisham Central SE13",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94351908",
@@ -39824,7 +39753,7 @@
    }
   },
   "nbhd": "Lewisham Central SE13",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94351950",
@@ -39906,7 +39835,7 @@
    }
   },
   "nbhd": "Canning Town North E16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94352301",
@@ -39988,7 +39917,7 @@
    }
   },
   "nbhd": "Brentford East TW8",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94352322",
@@ -40070,7 +39999,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94352391",
@@ -40152,7 +40081,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94352871",
@@ -40234,7 +40163,7 @@
    }
   },
   "nbhd": "Herne Hill/Loughborough Junction SE24",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94353051",
@@ -40316,7 +40245,7 @@
    }
   },
   "nbhd": "Poplar · Poplar/Canary Wharf E14",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94258596",
@@ -40398,7 +40327,7 @@
    }
   },
   "nbhd": "Colindale South NW9",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94354383",
@@ -40480,7 +40409,7 @@
    }
   },
   "nbhd": "Wandle SW18",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94354956",
@@ -40562,7 +40491,7 @@
    }
   },
   "nbhd": "Woodhouse N12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94355427",
@@ -40644,7 +40573,7 @@
    }
   },
   "nbhd": "West Ham E15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94355655",
@@ -40726,7 +40655,7 @@
    }
   },
   "nbhd": "Childs Hill NW11",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94355910",
@@ -40808,7 +40737,7 @@
    }
   },
   "nbhd": "Streatham St Leonard's SW16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94356975",
@@ -40890,7 +40819,7 @@
    }
   },
   "nbhd": "Shepherd's Bush Green W12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94357041",
@@ -40972,7 +40901,7 @@
    }
   },
   "nbhd": "Wembley Park HA9",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94357494",
@@ -41054,7 +40983,7 @@
    }
   },
   "nbhd": "Forest Hill SE23",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94357590",
@@ -41136,7 +41065,7 @@
    }
   },
   "nbhd": "St Martin's SW2",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94357677",
@@ -41218,7 +41147,7 @@
    }
   },
   "nbhd": "Stratford E15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94358415",
@@ -41300,7 +41229,7 @@
    }
   },
   "nbhd": "Bethnal Green West E2",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94358607",
@@ -41382,7 +41311,7 @@
    }
   },
   "nbhd": "Roehampton SW15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94360146",
@@ -41464,7 +41393,7 @@
    }
   },
   "nbhd": "White City · Shepherd's Bush W12",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94363071",
@@ -41546,7 +41475,7 @@
    }
   },
   "nbhd": "Rye Lane SE15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94361211",
@@ -41628,7 +41557,7 @@
    }
   },
   "nbhd": "Streatham St Leonard's SW16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94361244",
@@ -41710,7 +41639,7 @@
    }
   },
   "nbhd": "Streatham Wells SW16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94361766",
@@ -41792,7 +41721,7 @@
    }
   },
   "nbhd": "Telegraph Hill SE4",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94361853",
@@ -41874,7 +41803,7 @@
    }
   },
   "nbhd": "East Greenwich SE10",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94361871",
@@ -41956,7 +41885,7 @@
    }
   },
   "nbhd": "North Bermondsey SE16",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94361994",
@@ -42038,7 +41967,7 @@
    }
   },
   "nbhd": "Spitalfields/Banglatown · Whitechapel E1",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94344711",
@@ -42120,7 +42049,7 @@
    }
   },
   "nbhd": "Lea Bridge E5",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94362282",
@@ -42202,7 +42131,7 @@
    }
   },
   "nbhd": "Camberwell Green SE5",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94270704",
@@ -42284,7 +42213,7 @@
    }
   },
   "nbhd": "Blackheath SE10",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94364523",
@@ -42366,7 +42295,7 @@
    }
   },
   "nbhd": "Camberwell Green SE5",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94366371",
@@ -42448,7 +42377,7 @@
    }
   },
   "nbhd": "Telegraph Hill SE14",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94356528",
@@ -42530,7 +42459,7 @@
    }
   },
   "nbhd": "Hanger Hill W5",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94366986",
@@ -42612,7 +42541,7 @@
    }
   },
   "nbhd": "West Hill SW19",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94179780",
@@ -42694,7 +42623,7 @@
    }
   },
   "nbhd": "Forest Hill SE23",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94367919",
@@ -42776,7 +42705,7 @@
    }
   },
   "nbhd": "St James E17",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94368024",
@@ -42858,7 +42787,7 @@
    }
   },
   "nbhd": "Mildmay N1",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94368117",
@@ -42940,7 +42869,7 @@
    }
   },
   "nbhd": "Highgate N6",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94368429",
@@ -43022,7 +42951,7 @@
    }
   },
   "nbhd": "Alperton HA0",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94368660",
@@ -43104,7 +43033,7 @@
    }
   },
   "nbhd": "Friern Barnet N11",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94369170",
@@ -43186,7 +43115,7 @@
    }
   },
   "nbhd": "West Hill SW19",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94370076",
@@ -43268,7 +43197,7 @@
    }
   },
   "nbhd": "South Acton W3",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94370985",
@@ -43350,7 +43279,7 @@
    }
   },
   "nbhd": "Golders Green NW11",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94371882",
@@ -43432,7 +43361,7 @@
    }
   },
   "nbhd": "Brixton Acre Lane SW2",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "94371894",
@@ -43511,7 +43440,7 @@
    }
   },
   "nbhd": "Goose Green SE22",
-  "fresh_days": 1
+  "fresh_days": 2
  },
  {
   "id": "94305873",
@@ -43593,7 +43522,7 @@
    }
   },
   "nbhd": "Colindale South NW9",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "93920112",
@@ -43682,7 +43611,7 @@
   "nbhd": "South Hampstead · St John's Wood NW8",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94022025",
@@ -43772,7 +43701,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -43863,7 +43792,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 06/10/2026",
   "listed": "2026-10-06",
-  "fresh_days": 11,
+  "fresh_days": 12,
   "stale": true
  },
  {
@@ -43954,7 +43883,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -44045,7 +43974,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -44232,7 +44161,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -44414,7 +44343,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -44504,7 +44433,7 @@
   "nbhd": "Kentish Town North NW5",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94032756",
@@ -44594,7 +44523,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -44689,7 +44618,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 10,
+  "fresh_days": 11,
   "stale": true
  },
  {
@@ -44870,7 +44799,7 @@
   "nbhd": "Brondesbury Park · Kilburn/West Hampstead NW6",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "93960210",
@@ -45141,7 +45070,7 @@
   "nbhd": "St Ann's · South Tottenham N15",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "93947868",
@@ -45236,7 +45165,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 05/10/2026",
   "listed": "2026-10-05",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "stale": true
  },
  {
@@ -45418,7 +45347,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 06/10/2026",
   "listed": "2026-10-06",
-  "fresh_days": 11,
+  "fresh_days": 12,
   "stale": true
  },
  {
@@ -45509,7 +45438,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 05/10/2026",
   "listed": "2026-10-05",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "stale": true
  },
  {
@@ -45599,7 +45528,7 @@
   "nbhd": "Cricklewood NW2",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94160553",
@@ -45689,7 +45618,8 @@
   "source": "rightmove",
   "listed_reason": "Added on 10/10/2026",
   "listed": "2026-10-10",
-  "fresh_days": 7
+  "fresh_days": 8,
+  "stale": true
  },
  {
   "id": "94137456",
@@ -45779,7 +45709,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 09/10/2026",
   "listed": "2026-10-09",
-  "fresh_days": 8,
+  "fresh_days": 9,
   "stale": true
  },
  {
@@ -45870,7 +45800,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 22/09/2026",
   "listed": "2026-09-22",
-  "fresh_days": 25,
+  "fresh_days": 26,
   "stale": true
  },
  {
@@ -45961,7 +45891,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 09/10/2026",
   "listed": "2026-10-09",
-  "fresh_days": 8,
+  "fresh_days": 9,
   "stale": true
  },
  {
@@ -46056,7 +45986,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 23/09/2026",
   "listed": "2026-09-23",
-  "fresh_days": 24,
+  "fresh_days": 25,
   "stale": true
  },
  {
@@ -46146,7 +46076,7 @@
   "nbhd": "South Bermondsey · Southwark SE1",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94310331",
@@ -46236,7 +46166,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "128733527",
@@ -46330,7 +46260,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "92257719",
@@ -46511,7 +46441,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "93267390",
@@ -46692,7 +46622,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94185309",
@@ -46782,7 +46712,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94227381",
@@ -46872,7 +46802,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94198248",
@@ -46962,7 +46892,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "93543816",
@@ -47143,7 +47073,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94258452",
@@ -47233,7 +47163,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94269069",
@@ -47323,7 +47253,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94273353",
@@ -47413,7 +47343,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94294830",
@@ -47503,7 +47433,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "93395547",
@@ -47676,7 +47606,7 @@
   "source": "rightmove",
   "listed_reason": "Added yesterday",
   "listed": "2026-10-15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "94340205",
@@ -47757,7 +47687,7 @@
   "source": "rightmove",
   "listed_reason": "Added yesterday",
   "listed": "2026-10-15",
-  "fresh_days": 2
+  "fresh_days": 3
  },
  {
   "id": "92893338",
@@ -48011,7 +47941,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "123638537",
@@ -48092,7 +48022,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "93180957",
@@ -48173,7 +48103,7 @@
   "nbhd": "Fortune Green · Cricklewood NW2",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94282248",
@@ -48254,7 +48184,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94279875",
@@ -48345,7 +48275,7 @@
   "nbhd": "Cricklewood NW2",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 3
+  "fresh_days": 4
  },
  {
   "id": "94266987",
@@ -48430,7 +48360,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "94259382",
@@ -48517,7 +48447,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "148609247",
@@ -48598,7 +48528,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "99364445",
@@ -48679,7 +48609,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "92904378",
@@ -48860,7 +48790,7 @@
   "nbhd": "Northcote · Battersea SW11",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94221912",
@@ -48940,7 +48870,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 5
+  "fresh_days": 6
  },
  {
   "id": "94234530",
@@ -49021,7 +48951,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  },
  {
   "id": "93588750",
@@ -49191,6 +49121,6 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 4
+  "fresh_days": 5
  }
 ]
