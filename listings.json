@@ -1,5 +1,86 @@
 [
  {
+  "id": "otm-20575480",
+  "title": "Newington Green Road — 1-bed",
+  "area": "Newington Green Road, London, N1",
+  "price": 1650,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Available as furnished or unfurnished",
+  "available": "2026-11-01",
+  "commute": "34 min · 🚆 Mildmay + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20575480/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20575480_0.jpg",
+   "photos/otm-20575480_1.jpg",
+   "photos/otm-20575480_2.jpg",
+   "photos/otm-20575480_3.jpg",
+   "photos/otm-20575480_4.jpg"
+  ],
+  "status": "new",
+  "notes": "⚠️ Photos show the bed on a mezzanine gallery over the living room; looks small and basic. [OTM] OpenRent - UK. Property Reference: 3078170. 1-bedroom flat near Canonbury, Dalston and Highbury - £1,650 per month We are pleased to offer this one-bedroom, one-bathroom flat in a well-connected location close to Newington Green, Canonbury, Dalston and Highbury. The property is available from 1 November 2026 and can be offered furnished or unfurnished, depending on the tenant's preference. Newington Green's shops, cafes and restaurants are close by, with Dalston's restaurants, bars and entertainment venues within walking distance. Highbury and Islington's shops and amenities are also within easy reach. The flat benefits from convenient transport links: Canonbury station: approximately 5-10 minutes' walk, with London Overground services on the Mildmay and Windrush lines. Dalston Kingsland and Dalston Junction stations: approximately 15-20 minutes' walk, providing further Overground connections. Highbury",
+  "hood": "Hoodmaps: Rich (Mildmay), also painted Hipsters; nearby tags: \"aesthetic coffee place\", \"ig lots of hipsters and drug stuff\", \"aesthetic coffee place\", \"pretty normal ig\".",
+  "date_found": "2026-10-18",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3078170",
+  "listed": "2026-10-17",
+  "lat": 51.548767,
+  "lng": -0.087648,
+  "agent": "OpenRent - UK",
+  "commute_min": 34,
+  "commute_mode": "🚆 Mildmay + Victoria",
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚆 Mildmay + Victoria"
+   },
+   "hood": {
+    "points": 11.0,
+    "max": 15,
+    "reason": "Rich; negative tags: drug"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 2.1,
+    "max": 3,
+    "reason": "£1,650"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
   "id": "94289595",
   "title": "Three Bridges — 1-bed",
   "area": "Three Bridges, London, SE1",
@@ -30,7 +111,7 @@
   "agent": "OpenRent, London",
   "commute_min": 39,
   "commute_mode": "🚌 bus 381 + Jubilee + Victoria",
-  "score": 64,
+  "score": 70,
   "score_breakdown": {
    "style": {
     "points": 20.9,
@@ -48,9 +129,9 @@
     "reason": "39 min (TfL): 🚌 bus 381 + Jubilee + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -78,7 +159,8 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4
+  "fresh_days": 4,
+  "nbhd": "London Bridge/West Bermondsey · Southwark SE1"
  },
  {
   "id": "94433601",
@@ -159,7 +241,8 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Hermitage/Gardens · Finsbury Park N4"
  },
  {
   "id": "otm-20574500",
@@ -236,7 +319,8 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Addison · Shepherd's Bush W12"
  },
  {
   "id": "94430841",
@@ -317,7 +401,8 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Forest · Leyton E10"
  },
  {
   "id": "otm-20574035",
