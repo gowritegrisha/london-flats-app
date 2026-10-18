@@ -1,86 +1,5 @@
 [
  {
-  "id": "otm-20523459",
-  "title": "London E11 — 1-bed",
-  "area": "London E11",
-  "price": 1600,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "",
-  "commute": "44 min · 🚆 Suffragette + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20523459/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20523459_0.jpg",
-   "photos/otm-20523459_1.jpg",
-   "photos/otm-20523459_2.jpg",
-   "photos/otm-20523459_3.jpg",
-   "photos/otm-20523459_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] In Estates - Leytonstone. * Available to View Now * One Bedroom Flat * First Floor * Spacious Open Plan Reception Room * Fully Fitted Kitchen * Three Piece Bathroom * Double Glazed * Gas Central Heating * Wooden Flooring * Walking Distance To Leytonstone Underground Station (Zone 3) * Fantastic Transport Links * Excellent Local Amenities * Residential Sought Location * A Must View * Early Viewing Recommended * Nestled on a lovely, tree-lined residential street in Leytonstone, this property combines everyday suburban charm with effortless London connectivity. Situated in one of the capital's most sought-after neighbourhoods, the location is a dream for commuters. Leytonstone Tube Station (Central Line, Zone 3) is just a short stroll away, whisking you to Liverpool Street in 14 minutes and Tottenham Court Road in 23 minutes. Exceptional transit options continue with Leytonstone High Road Overground Station nearby, ",
-  "hood": "",
-  "date_found": "2026-10-18",
-  "features": "Spacious One Bedroom Flat; First Floor; Bright Open Plan Kitchen & Living Room; Walking Distance To Leytonstone Station (Zone 3); Fully Fitted Kitchen & Bathroom; Residential Location; Modern & Contemporary Flat; Fantastic Transport Links & Local Amenities; Double Glazed   Gas Central Heating   Wooden Flooring; Available To View Now!",
-  "listed": "2026-10-13",
-  "lat": 51.563528,
-  "lng": 0.010477,
-  "agent": "In Estates - Leytonstone",
-  "commute_min": 44,
-  "commute_mode": "🚆 Suffragette + Victoria",
-  "score": 54,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), contemporary(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 9.8,
-    "max": 20,
-    "reason": "44 min door-to-door (TfL): 🚆 Suffragette + Victoria"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 2.4,
-    "max": 3,
-    "reason": "£1,600"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 5
- },
- {
   "id": "94439733",
   "title": "Highgate — 1-bed",
   "area": "Highgate, London, N6",
@@ -101,7 +20,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] OpenRent, London. Property Reference: 3077805. A bright and spacious one-bedroom apartment occupying the first floor of an attractive period conversion, ideally situated within easy walking distance of Highgate Underground Station. Filled with natural light, the well-proportioned accommodation comprises a generous south facing reception room, a large double bedroom, a semi open-plan fitted kitchen and a modern bathroom. Perfectly positioned, the property is within walking distance of both Highgate Village and the green open spaces of Waterlow Park, Highgate Wood and Queen's Wood. While the beautiful Parkland Walk nature trail is just moments away, providing a peaceful escape from city life. Material Information Gas central heating Ultrafast broadband available Mains electricity, water and sewerage connected Mobile phone coverage available Controlled Parking Zone (CPZ) street parking Council Tax: London Bo",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Highgate); nearby tags: \"My neighbour Cocoro\", \"Shaun of the Dead\".",
   "date_found": "2026-10-18",
   "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3077805",
   "listed": "2026-10-18",
@@ -110,7 +29,7 @@
   "agent": "OpenRent, London",
   "commute_min": 36,
   "commute_mode": "🚇 Northern + Victoria",
-  "score": 68,
+  "score": 74,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -128,9 +47,9 @@
     "reason": "36 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
