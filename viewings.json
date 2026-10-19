@@ -63,23 +63,6 @@
   "type": null
  },
  {
-  "id": "prop-92257719",
-  "listing_id": "92257719",
-  "title": "Hendon Way, Hendon, NW2",
-  "address": "Hendon Way, Hendon, NW2",
-  "datetime": null,
-  "agent": "Leo Newman, London",
-  "agent_contact": null,
-  "agent_email": "zac@leonewman.co.uk",
-  "agent_phone": null,
-  "thread_id": "1a13c3708e445519",
-  "status": "proposed",
-  "asked": "2026-10-14T20:59:58Z",
-  "notes": "Hi , hope all is well. Thanks for enquiry below, we are conducting viewings when would you like to book? and please reply to below questions; Located at Hendon Way, London NW2 Web link - https://www.zoopla.co.uk/to-rent/",
-  "source": "masha-mail",
-  "type": null
- },
- {
   "id": "prop-93497595",
   "listing_id": "93497595",
   "title": "Burton Grove, London",
@@ -284,10 +267,10 @@
  {
   "id": "mail-1a153cf7a4dddf51",
   "listing_id": "94361766",
-  "title": "St. Asaph Road, Brockley — 2-bed",
+  "title": "St. Asaph Road — 2-bed",
   "address": "68b St. Asaph Road, Brockley, London, SE4 2EL",
   "datetime": "2026-10-20T12:00:00+01:00",
-  "agent": "Dexters New Cross (Angel Hewson)",
+  "agent": "Dexters, New Cross",
   "agent_email": "angelhewson@dexters.co.uk",
   "agent_phone": "020 7313 3661",
   "thread_id": "1a153cf7a4dddf51",
