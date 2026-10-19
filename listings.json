@@ -78,7 +78,8 @@
         "reason": "balcony/terrace"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Bromley North · Bow E3"
   },
   {
     "id": "otm-19705497",
@@ -159,7 +160,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Streatham Wells SW16"
   },
   {
     "id": "94450146",
@@ -240,7 +242,8 @@
         "reason": "balcony/terrace"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Southfield · Chiswick W4"
   },
   {
     "id": "94452795",
@@ -321,7 +324,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Colindale South NW9"
   },
   {
     "id": "94454268",
@@ -402,7 +406,8 @@
         "reason": "balcony/terrace"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Kilburn · St John's Wood NW8"
   },
   {
     "id": "94455222",
@@ -480,7 +485,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Hanger Hill W5"
   },
   {
     "id": "94455147",
@@ -561,7 +567,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Bow West E3"
   },
   {
     "id": "94456032",
@@ -640,7 +647,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Marylebone W1H"
   },
   {
     "id": "otm-17605206",

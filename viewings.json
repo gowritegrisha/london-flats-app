@@ -256,10 +256,10 @@
   "agent_contact": null,
   "agent_email": "reply@homeflow.co.uk",
   "agent_phone": null,
-  "thread_id": "1a153aa54cb78621",
+  "thread_id": "1a1442f4252fbf3b",
   "status": "proposed",
-  "asked": "2026-10-19T10:17:13Z",
-  "notes": "We've received your enquiry Dear Maria, I just wanted to follow up from my previous email. Was the below property on Elmsdale Road still of interest to view this week? Thanks 44 Elmsdale Road, Elmsdale Road, Walthamstow,",
+  "asked": "2026-10-16T10:08:29Z",
+  "notes": "We've received your enquiry Dear Maria, Thank you for the enquiry. When would suit you best to view this week or next? Thanks, 44 Elmsdale Road, Elmsdale Road, Walthamstow, London, E17 6PW £1,800 pcm https://www.rightmov",
   "source": "masha-mail",
   "type": null
  },
@@ -280,5 +280,22 @@
   "url": "https://www.rightmove.co.uk/properties/94310331",
   "postponed": true,
   "notes": "Postponed: Matteo called 16 Oct — they lost the keys; he'll reschedule when they have them."
+ },
+ {
+  "id": "mail-1a153cf7a4dddf51",
+  "listing_id": "94361766",
+  "title": "St. Asaph Road, Brockley — 2-bed",
+  "address": "68b St. Asaph Road, Brockley, London, SE4 2EL",
+  "datetime": "2026-10-20T12:00:00+01:00",
+  "agent": "Dexters New Cross (Angel Hewson)",
+  "agent_email": "angelhewson@dexters.co.uk",
+  "agent_phone": "020 7313 3661",
+  "thread_id": "1a153cf7a4dddf51",
+  "status": "confirmed",
+  "source": "masha-mail",
+  "agent_contact": "Angel Hewson",
+  "notes": "Viewing confirmation from Dexters; no earlier thread (likely booked by phone or Rightmove). £1,900 pcm.",
+  "calendar_event_id": "a2lgdtv3ih6h0dk04p66r0uer4",
+  "calendar_link": "https://www.google.com/calendar/event?eid=YTJsZ2R0djNpaDZoMGRrMDRwNjZyMHVlcjQgZ293cml0ZW1hc2hhQG0"
  }
 ]
