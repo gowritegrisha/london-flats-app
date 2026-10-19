@@ -54,7 +54,9 @@ const hoodName=l=>{if(l.nbhd)return l.nbhd;const h=l.hood||'';const m=h.match(/\
 const sqm=l=>{const m=(l.size||'').match(/([\d.]+)\s*m²/);if(m)return Math.round(+m[1])+' m²';const f=l.agent_facts&&l.agent_facts.size;return f?f:'m² —'};
 const furnS=l=>{const f=(l.furnished||'').toLowerCase();return !f?'мебель ?':f.includes('flex')||f.includes('or unfurn')?'с мебелью / без':f.includes('part')?'частично':f.includes('unfurn')?'без мебели':'с мебелью'};
 const availS=l=>!l.available?((l.agent_facts&&l.agent_facts.available)?'с '+l.agent_facts.available:'дата —'):(l.available<=new Date().toISOString().slice(0,10)?'сейчас':'с '+fmtD(l.available));
-const commS=l=>l.commute_min?`${l.commute_min} мин · ${esc(l.commute_mode||'')}`:(l.commute?esc(l.commute):'');
+// Masha 19 Oct: only all-metro routes, or bus-only up to 30 min; never bus+metro mixes; nothing over 45 min
+const commBad=l=>!!(l.commute_none||(l.commute_min&&l.commute_min>45)||(l.commute_ok===undefined&&/\bbus\b/i.test(l.commute_mode||'')&&/\+/.test(l.commute_mode||'')));
+const commS=l=>commBad(l)?'больше 45 мин на метро':l.commute_min?`${l.commute_min} мин · ${esc(l.commute_mode||'')}`:(l.commute?esc(l.commute):'');
 const SRC={rightmove:['Rightmove','#00deb6','#0b2e2a'],openrent:['OpenRent','#e8f5e9','#1b5e20'],onthemarket:['OTM','#e3f2fd','#0d47a1'],foxtons:['Foxtons','#e8f5e9','#2e7d32'],zoopla:['Zoopla','#f3e5f5','#6a1b9a'],chestertons:['Chestertons','#fff8e1','#8d6e00']};
 const srcOf=l=>l.source||(/^or-/.test(l.id)?'openrent':/^otm-/.test(l.id)?'onthemarket':/^fx-/.test(l.id)?'foxtons':/^zp-/.test(l.id)?'zoopla':/^ch-/.test(l.id)?'chestertons':'rightmove');
 const srcName=l=>(SRC[srcOf(l)]||SRC.rightmove)[0];
@@ -68,7 +70,7 @@ function render(){
  const nh=data.filter(l=>rating(l)==='dislike').length;
  let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='saved'||filt=='sent'||inFeed(l)).filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):filt=='sent'?!!sentOf(l.id):filt=='notsent'?!sentOf(l.id):filt=='new'?isNew(l):st(l)==filt));
  const so=document.getElementById('sort').value;
- const base=so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):so=='commute'?(a,b)=>(a.commute_min||999)-(b.commute_min||999):(a,b)=>(b.date_found||'').localeCompare(a.date_found||'');
+ const base=so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):so=='commute'?(a,b)=>((commBad(a)?900:0)+(a.commute_min||999))-((commBad(b)?900:0)+(b.commute_min||999)):(a,b)=>(b.date_found||'').localeCompare(a.date_found||'');
  L.sort((a,b)=>(!!sentOf(a.id))-(!!sentOf(b.id))||base(a,b));
  document.getElementById('cnt').textContent=L.length;
  const nq=Object.keys(RQ).length;const sb=document.getElementById('sync');sb.style.display=nq?'':'none';sb.textContent=`🔄 Отправить оценки (${nq})`;
