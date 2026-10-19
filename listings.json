@@ -1,86 +1,5 @@
 [
  {
-  "id": "otm-20576877",
-  "title": "Marmora Road — 1-bed",
-  "area": "Marmora Road, London SE22",
-  "price": 1900,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "",
-  "available": "",
-  "commute": "59 min · 🚌 bus 63 + Thameslink + Metropolitan (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20576877/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20576877_0.jpg",
-   "photos/otm-20576877_1.jpg",
-   "photos/otm-20576877_2.jpg",
-   "photos/otm-20576877_3.jpg",
-   "photos/otm-20576877_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Dexters - East Dulwich. A charming one-bedroom Victorian conversion on the highly sought-after Marmora Road, SE22, offering generous ground-floor accommodation, impressive high ceilings, a private garden and an abundance of natural light. Positioned moments from Peckham Rye Park, this characterful home combines classic period features with a bright, well-proportioned layout and excellent practical space. The spacious reception and dining room forms the heart of the property, with plenty of room for comfortable seating and a dining table. A large bay window floods the room with natural light, while the separate kitchen provides a practical and well-appointed space for everyday cooking, with direct access onto the private rear garden. The garden provides a wonderful extension of the living space and an ideal setting for outdoor dining, entertaining or simply relaxing. To the rear of the property, the generously s",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "Ground Floor Flat; Spacious Reception Area; Bight & Airy; Separate Kitchen; Humongous Cellar; Private Rear Garden; Prime Location",
-  "listed": "2026-10-19",
-  "lat": 51.451605517,
-  "lng": -0.063989874,
-  "agent": "Dexters - East Dulwich",
-  "commute_min": 59,
-  "commute_mode": "🚌 bus 63 + Thameslink + Metropolitan",
-  "score": 52,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: bright(+2), light(+1), high ceilings(+2), high ceiling(+1), conversion(+1), period(+1), character(+1), private garden(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "59 min (TfL): 🚌 bus 63 + Thameslink + Metropolitan — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0.6,
-    "max": 3,
-    "reason": "£1,900"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "fresh_days": 0
- },
- {
   "id": "otm-17605206",
   "title": "Craig House — 1-bed",
   "area": "Craig House, 263 High Street, Walthamstow",
@@ -102,7 +21,7 @@
   ],
   "status": "new",
   "notes": "[OTM] Churchill Estates - Walthamstow. Available Mid November | One Double Bedroom | Fourth Floor Apartment | Immaculate Condition | Balcony | Modern Bathroom | Kitchen with Appliances | Underfloor Heating | Central Location | Station/Market & Bus Routes Nearby Nestled in the heart of Walthamstow, Craig House offers a splendid opportunity to reside in a modern fourth-floor flat that is both stylish and functional. This immaculate one-bedroom apartment is perfect for individuals or couples seeking a comfortable urban lifestyle. Upon entering, you will be greeted by a well-designed reception room that provides a welcoming space for relaxation and entertainment. The flat boasts a spacious double bedroom, ensuring a peaceful retreat at the end of the day. The modern bathroom is equipped with contemporary fixtures, adding a touch of luxury to your daily routine. The kitchen comes complete with essential appliances, making it a del",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (High Street), also painted Hipsters; nearby tags: \"the (model) village\", \"Deliveroo drivers\", \"Crackstow\".",
   "date_found": "2026-10-19",
   "features": "Available Mid November; One Double Bedroom; Fourth Floor Apartment; Immaculate Condition; Balcony; Modern Bathroom; Kitchen with Appliances; Underfloor Heating; Central Location; Station/Market & Bus Routes Nearby",
   "listed": "2026-10-19",
@@ -111,7 +30,7 @@
   "agent": "Churchill Estates - Walthamstow",
   "commute_min": 36,
   "commute_mode": "🚇 Victoria",
-  "score": 72,
+  "score": 70,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -129,9 +48,9 @@
     "reason": "36 min door-to-door (TfL): 🚇 Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 5.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies; negative tags: crack"
    },
    "availability": {
     "points": 10,
@@ -162,330 +81,6 @@
   "fresh_days": 0
  },
  {
-  "id": "otm-20230922",
-  "title": "Dollis Park — 1-bed",
-  "area": "Dollis Park, Finchley Central, N3",
-  "price": 1375,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-10-24",
-  "commute": "38 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20230922/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20230922_0.jpg",
-   "photos/otm-20230922_1.jpg",
-   "photos/otm-20230922_2.jpg",
-   "photos/otm-20230922_3.jpg",
-   "photos/otm-20230922_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Addison Townsend - Southgate. Addison Townsend are pleased to offer this one bedroom ground floor flat with its own front door situated in Finchley Central, within a five minute walk to the Finchley Central tube station, Northern Line, zone 4 and a range of shops and restaurants. The flat offers; bedroom, fitted kitchen and en suite shower room. Rent Includes Water. Available 24th October PLEASE [use Contact Agent Button] ",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "Oven/Hob; Double Bedrooms",
-  "listed": "2026-10-19",
-  "lat": 51.6015218,
-  "lng": -0.1957111,
-  "agent": "Addison Townsend - Southgate",
-  "commute_min": 38,
-  "commute_mode": "🚇 Northern + Victoria",
-  "score": 53,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 14.6,
-    "max": 20,
-    "reason": "38 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 8.0,
-    "max": 10,
-    "reason": "24 Oct: 8 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,375"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 0
- },
- {
-  "id": "otm-20577136",
-  "title": "Victoria Mews — 1-bed",
-  "area": "Victoria Mews, London, NW6",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-10-24",
-  "commute": "36 min · 🚌 bus 98 + Lioness (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20577136/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20577136_0.jpg",
-   "photos/otm-20577136_1.jpg",
-   "photos/otm-20577136_2.jpg",
-   "photos/otm-20577136_3.jpg",
-   "photos/otm-20577136_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Savills - St John's Wood & Regent's Park. A newly decorated and well presented one double bedroom first floor maisonette on a quiet Mews. Description This very well presented and spacious maisonette is situated on the first floor of this cobbled mews with its own private entrance. Consisting of one large double bedroom with good storage, fully fitted modern kitchen and reception/dining room. The property also has a fully fitted shower room. NB - Please note the furniture is CGI generated and does not come with the house. Location Kilburn Park Station 0.5 miles Kilburn High Road Station 0.4 miles Queen's Park Station 0.7 miles ",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "EPC Rating = D",
-  "listed": "2026-10-19",
-  "lat": 51.539028,
-  "lng": -0.197994,
-  "agent": "Savills - St John's Wood & Regent's Park",
-  "commute_min": 36,
-  "commute_mode": "🚌 bus 98 + Lioness",
-  "score": 49,
-  "score_breakdown": {
-   "style": {
-    "points": 16.8,
-    "max": 22,
-    "reason": "keywords: modern(+3), well presented(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 6.5,
-    "max": 20,
-    "reason": "36 min (TfL): 🚌 bus 98 + Lioness — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 8.0,
-    "max": 10,
-    "reason": "24 Oct: 8 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 0
- },
- {
-  "id": "otm-20577197",
-  "title": "Lytham Street Walworth SE17 — 1-bed",
-  "area": "Lytham Street Walworth SE17",
-  "price": 1700,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "",
-  "commute": "45 min · 🚇 Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20577197/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20577197_0.jpg",
-   "photos/otm-20577197_1.jpg",
-   "photos/otm-20577197_2.jpg",
-   "photos/otm-20577197_3.jpg",
-   "photos/otm-20577197_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Acorn - Kennington. Placed within a well maintained development in SE17, Acorn are pleased to offer this superb one bedroom apartment to let. Offered fully furnished, the property is available from early September and would ideally suit anybody in need of good city transport. Neutrally decorated, accommodation comprises a master bedroom, modern fitted kitchen, bathroom, and large reception room. The apartment also has a private balcony. To arrange your viewing, please call today! Local Authority Southwark Tax Band A Energy Efficiency Rating C. Reception 17'2 x 11'7 Kitchen 10'7 x 6'8 Bedroom 13'10 x 8'7 Bathroom pending verification Deposit payable is £1,961. A Holding Deposit of £392.31, , this is based on the advertised rent, this will be required to reserve this property. Broadband and Mobile Phone: Ofcom suggest that Ultrafast broadband is available to this property and 5g Mobile signal may be available",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "Furnished; Great Central Location; Small Development; Close To transport; Spacious Rooms; Private Balcony; Energy Efficiency Rating C",
-  "listed": "2026-10-19",
-  "lat": 51.48511,
-  "lng": -0.091077,
-  "agent": "Acorn - Kennington",
-  "commute_min": 45,
-  "commute_mode": "🚇 Northern",
-  "score": 54,
-  "score_breakdown": {
-   "style": {
-    "points": 14.0,
-    "max": 22,
-    "reason": "keywords: modern(+3)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 9.0,
-    "max": 20,
-    "reason": "45 min door-to-door (TfL): 🚇 Northern"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 1.8,
-    "max": 3,
-    "reason": "£1,700"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "balcony"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 0
- },
- {
-  "id": "94444869",
-  "title": "Wendover Court — 2-bed",
-  "area": "Wendover Court, London, W3",
-  "price": 1850,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished or unfurnished, landlord is flexible",
-  "available": "2026-10-19",
-  "commute": "50 min · 🚌 bus 95 + Central + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94444869",
-  "source": "rightmove",
-  "photos": [
-   "photos/94444869_0.jpg",
-   "photos/94444869_1.jpg",
-   "photos/94444869_2.jpg",
-   "photos/94444869_3.jpg",
-   "photos/94444869_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] OpenRent, London. Property Reference: 3075753. A well-proportioned two-bedroom flat offering a bright living/dining room, two bedrooms, a separate fitted kitchen, family bathroom and entrance hallway. The inventory shows the property furnished with a sofa, dining table and chairs, while the kitchen is equipped with an oven, hob, extractor hood, microwave, fridge and washing machine. Property Features Two bedrooms Spacious separate living/dining room Separate fitted kitchen Oven, hob and extractor Microwave, fridge and washing machine Bathroom with bath Furnished accommodation Useful hallway/storage space Location Situated on Western Avenue in Acton, Wendover Court provides a convenient West London base with access to the shops, supermarkets and everyday amenities of Acton and the surrounding area. The location also offers useful transport connections for travel towards Central London and other parts of We",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3075753",
-  "listed": "2026-10-19",
-  "lat": 51.525837,
-  "lng": -0.271764,
-  "agent": "OpenRent, London",
-  "commute_min": 50,
-  "commute_mode": "🚌 bus 95 + Central + Victoria",
-  "score": 39,
-  "score_breakdown": {
-   "style": {
-    "points": 12.6,
-    "max": 22,
-    "reason": "keywords: bright(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "50 min (TfL): 🚌 bus 95 + Central + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 6.8,
-    "max": 10,
-    "reason": "19 Oct: 13 days before Nov"
-   },
-   "furnished": {
-    "points": 4.0,
-    "max": 5,
-    "reason": "Furnished or unfurnished, landlord is flexible"
-   },
-   "price": {
-    "points": 0.9,
-    "max": 3,
-    "reason": "£1,850"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 0
- },
- {
   "id": "94244181",
   "title": "Vanbrugh Court — 1-bed",
   "area": "Vanbrugh Court, Wincott Street, London",
@@ -507,7 +102,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Brothers Property Management Ltd, London. A bright and spacious one double bedroom apartment, set within a quiet and secure development. The property comprises; a spacious entrance hall, a large reception room with a private balcony overlooking beautifully maintained communal gardens, a good sized double bedroom and bathroom. Further benefits include; large windows, lots of light, modern appliances and ample storage. Council Tax Band - C Vanbrugh Court is set in the heart of Kennington close to local restaurants, pubs and easy access to Kennington, Lambeth North and Elephant & Castle Underground Stations. ",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Prince's), also painted Hipsters; nearby tags: \"Gay Disneyland\", \"Where gay couples live\", \"Rappers\", \"LSBU student accommodations\".",
   "date_found": "2026-10-19",
   "features": "Top Floor Flat; Spacious One Bedroom Flat; Large Living Room; Private Balcony; Ample Storage; Communal Gardens; Convenient Location",
   "listed": "2026-10-13",
@@ -516,7 +111,7 @@
   "agent": "Brothers Property Management Ltd, London",
   "commute_min": 39,
   "commute_mode": "🚌 bus 415 + Northern",
-  "score": 62,
+  "score": 67,
   "score_breakdown": {
    "style": {
     "points": 18.1,
@@ -534,9 +129,9 @@
     "reason": "39 min (TfL): 🚌 bus 415 + Northern — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -567,249 +162,6 @@
   "fresh_days": 6
  },
  {
-  "id": "94445058",
-  "title": "The Drake Apartments — 2-bed",
-  "area": "The Drake Apartments, 390 Evelyn Street, Deptford",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-10-19",
-  "commute": "47 min · 🚆 Thameslink + Hammersmith & City (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94445058",
-  "source": "rightmove",
-  "photos": [
-   "photos/94445058_0.jpg",
-   "photos/94445058_1.jpg",
-   "photos/94445058_2.jpg",
-   "photos/94445058_3.jpg",
-   "photos/94445058_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Blueprint Estate Agents Ltd, CM14. 2 DOUBLE BEDROOM APARTMENT | ONE PRIVATE PARKING SPACE | BALCONY | SHORT WALK TO DEPTFORD STATION | AVAILABLE 4TH OCTOBER 2023. This two double bedroom apartment is located on the 4th floor of the Drake Apartments on Evelyn Street. The property has its own private balcony and lift access in the building. A parking space is included in the property and it has a communal space for bikes. It is only a short walk to Deptford station which can take you into the heart of London. Call now to arrange a viewing. Property Rooms Info - Title: Disclaimer Desc: These particulars are for guidance only and do not form part of any contract. Whilst care has been taken in their preparation we do not hold ourselves responsible for any inaccuracies. They are issued on the understanding that all negotiations will be conducted through this firm. Computer generated images indicative only. Consequently, these p",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "LUXURY DEVELOPMENT; 2 DOUBLE BEDROOMS; CLOSE TO STATIONS; FANTASTIC TRANSPORT LINKS; FULLY FITTED KITCHEN; WOOD FLOORING",
-  "listed": "2026-10-19",
-  "lat": 51.481708,
-  "lng": -0.027971,
-  "agent": "Blueprint Estate Agents Ltd, CM14",
-  "commute_min": 47,
-  "commute_mode": "🚆 Thameslink + Hammersmith & City",
-  "score": 53,
-  "score_breakdown": {
-   "style": {
-    "points": 11.3,
-    "max": 22,
-    "reason": "keywords: luxury(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 7.8,
-    "max": 20,
-    "reason": "47 min door-to-door (TfL): 🚆 Thameslink + Hammersmith & City"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 6.8,
-    "max": 10,
-    "reason": "19 Oct: 13 days before Nov"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "balcony, lift"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 0
- },
- {
-  "id": "94445148",
-  "title": "Marmora Road — 1-bed",
-  "area": "Marmora Road, East Dulwich",
-  "price": 1900,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "",
-  "available": "",
-  "commute": "61 min · 🚌 bus P12 + Southeastern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94445148",
-  "source": "rightmove",
-  "photos": [
-   "photos/94445148_0.jpg",
-   "photos/94445148_1.jpg",
-   "photos/94445148_2.jpg",
-   "photos/94445148_3.jpg",
-   "photos/94445148_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Dexters, East Dulwich. A charming one-bedroom Victorian conversion on the highly sought-after Marmora Road, SE22, offering generous ground-floor accommodation, impressive high ceilings, a private garden and an abundance of natural light. Positioned moments from Peckham Rye Park, this characterful home combines classic period features with a bright, well-proportioned layout and excellent practical space. The spacious reception and dining room forms the heart of the property, with plenty of room for comfortable seating and a dining table. A large bay window floods the room with natural light, while the separate kitchen provides a practical and well-appointed space for everyday cooking, with direct access onto the private rear garden. The garden provides a wonderful extension of the living space and an ideal setting for outdoor dining, entertaining or simply relaxing. To the rear of the property, the generously s",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "Ground Floor Flat; Spacious Reception Area; Bight &amp; Airy; Separate Kitchen; Humongous Cellar; Private Rear Garden; Prime Location",
-  "listed": "2026-10-19",
-  "lat": 51.451653,
-  "lng": -0.055894,
-  "agent": "Dexters, East Dulwich",
-  "commute_min": 61,
-  "commute_mode": "🚌 bus P12 + Southeastern + Victoria",
-  "score": 52,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: bright(+2), light(+1), high ceilings(+2), high ceiling(+1), conversion(+1), period(+1), character(+1), private garden(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "61 min (TfL): 🚌 bus P12 + Southeastern + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0.6,
-    "max": 3,
-    "reason": "£1,900"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "fresh_days": 0
- },
- {
-  "id": "94445469",
-  "title": "8 Viney Court 78 Kings Avenue — 1-bed",
-  "area": "8 Viney Court 78 Kings Avenue",
-  "price": 1700,
-  "size": "42 m²",
-  "floor": "",
-  "furnished": "Part furnished",
-  "available": "2026-11-27",
-  "commute": "41 min · 🚌 bus 355 + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94445469",
-  "source": "rightmove",
-  "photos": [
-   "photos/94445469_0.jpg",
-   "photos/94445469_1.jpg",
-   "photos/94445469_2.jpg",
-   "photos/94445469_3.jpg",
-   "photos/94445469_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Akelius Residential Ltd, London.  special offer - Available with Zero Deposit costs - base rent: £1700 - deposit: £1961.54 apartment - number of bedrooms: 1 - size: 455.5 sq ft - apartment type: apartment - pet restrictions, please enquire - floor: 1 - heating type: gas - fully integrated kitchen - part-furnished - stove: electrical - washer dryer - number of bathrooms: 1 - EPC Rating: C local amenities - closest underground station: Clapham Common Tenancy terms - local Renters Right Act terms apply.",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "Available with Zero Deposit; 24 Hours Maintenance Team; Inhouse Property Management; Better Living; Private Landlord",
-  "listed": "2026-10-19",
-  "lat": 51.45304,
-  "lng": -0.13058,
-  "agent": "Akelius Residential Ltd, London",
-  "commute_min": 41,
-  "commute_mode": "🚌 bus 355 + Victoria",
-  "score": 30,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 0,
-    "max": 15,
-    "reason": "42 m²"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "41 min (TfL): 🚌 bus 355 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 7.0,
-    "max": 10,
-    "reason": "27 Nov: late Nov"
-   },
-   "furnished": {
-    "points": 3.5,
-    "max": 5,
-    "reason": "part furnished"
-   },
-   "price": {
-    "points": 1.8,
-    "max": 3,
-    "reason": "£1,700"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 0
- },
- {
   "id": "94445508",
   "title": "High Street — 2-bed",
   "area": "High Street, Walthamstow, E17",
@@ -831,7 +183,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Churchill Estates, Walthamstow & Leyton. Available Now | Unfurnished | Two Bedrooms | Split Level | Brand New Refurbishment | Modern Throughout | Close Proximity to St James Street Station | Balcony | Gas Central Heating | Double Glazed Nestled on the vibrant High Street in Walthamstow, this splendid split level flat offers a perfect blend of modern living and convenience. Recently refurbished to an exceptional standard, the property boasts two well-appointed bedrooms and two contemporary bathrooms, making it an ideal choice for professionals or small families seeking a stylish home. As you enter, you are greeted by a spacious reception room that exudes warmth and comfort, perfect for relaxing or entertaining guests. The split-level design enhances the sense of space, while the modern finishes throughout create an inviting atmosphere. The property is unfurnished, allowing you the freedom to personalise your new home to your tas",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (High Street), also painted Hipsters; nearby tags: \"Dumped mattresses\", \"best bus route (158)\".",
   "date_found": "2026-10-19",
   "features": "Available Now; Unfurnished; Two Bedrooms; Split Level; Brand New Refurbishment; Modern Throughout; Close Proximity to St James Street Station; Balcony; Gas Central Heating; Double Glazed",
   "listed": "2026-10-19",
@@ -840,7 +192,7 @@
   "agent": "Churchill Estates, Walthamstow & Leyton",
   "commute_min": 40,
   "commute_mode": "🚌 bus W11 + Victoria",
-  "score": 63,
+  "score": 64,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -858,9 +210,9 @@
     "reason": "40 min (TfL): 🚌 bus W11 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 6.8,
@@ -891,87 +243,6 @@
   "fresh_days": 0
  },
  {
-  "id": "94389420",
-  "title": "Wickham Road — 1-bed",
-  "area": "Wickham Road, London, SE4",
-  "price": 1500,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-11-06",
-  "commute": "52 min · 🚌 bus 21 + Southeastern + bus 24 (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94389420",
-  "source": "rightmove",
-  "photos": [
-   "photos/94389420_0.jpg",
-   "photos/94389420_1.jpg",
-   "photos/94389420_2.jpg",
-   "photos/94389420_3.jpg",
-   "photos/94389420_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Reeds Rains, Catford. Wickham Road SE4 Reed Rains are proud to present this stylish 1 bedroom property on the desirable Wickham Road. This property comes unfurnished is available from early November. Bright and airy throughout. Separate kitchen and reception room. Close to all local amenities, excellent transport links with St Johns overhead station and Lewisham DLR and overhead station a short walk away. Viewings highly recommend! Lewisham Council Tax band B EPC -D IMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS: We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements ",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "Double Bedroom; Well Maintained Communal Garden; Close To Transport Links; Available NOW; EPC GRADE: D",
-  "listed": "2026-10-16",
-  "lat": 51.467441,
-  "lng": -0.029325,
-  "agent": "Reeds Rains, Catford",
-  "commute_min": 52,
-  "commute_mode": "🚌 bus 21 + Southeastern + bus 24",
-  "score": 52,
-  "score_breakdown": {
-   "style": {
-    "points": 16.8,
-    "max": 22,
-    "reason": "keywords: stylish(+3), bright(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "52 min (TfL): 🚌 bus 21 + Southeastern + bus 24 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "06 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,500"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 3
- },
- {
   "id": "94445550",
   "title": "Holden Road — 1-bed",
   "area": "Holden Road, Woodside Park, N12",
@@ -993,7 +264,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Adam Hayes Estate Agents, North Finchley, N12. A lovely, modern and recently redecorated one-bedroom first-floor conversion, ideally situated in this sought-after location within easy reach of Woodside Park Underground Station (Northern Line) and the vibrant North Finchley High Road, offering an excellent selection of supermarkets, shops, cafés, restaurants and local amenities. The property offers bright, modern and well-proportioned accommodation throughout, comprising an approximately 14 ft reception room with plenty of natural light, a generous approximately 14 ft bedroom and a separate modern fitted kitchen. Further benefits include laminate wood flooring, gas central heating and double glazing. Offered part furnished. To fully appreciate the size, condition and convenient location, an early internal viewing is highly recommended. ",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"posh and wierd\", \"rich and boring\".",
   "date_found": "2026-10-19",
   "features": "Recently Redecorated Throughout; Modern One Bedroom; First Floor Conversion; 14ft Reception; Good Size Bedroom; Separate Fitted Kitchen; Near Woodside Park Tube; Note: New Double Glazed Windows To Be Fitted In Kitchen in 4 weeks.",
   "listed": "2026-10-19",
@@ -1002,7 +273,7 @@
   "agent": "Adam Hayes Estate Agents, North Finchley, N12",
   "commute_min": 41,
   "commute_mode": "🚇 Northern + Victoria",
-  "score": 55,
+  "score": 61,
   "score_breakdown": {
    "style": {
     "points": 19.5,
@@ -1020,9 +291,9 @@
     "reason": "41 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 8.0,
@@ -1053,87 +324,6 @@
   "fresh_days": 0
  },
  {
-  "id": "94445442",
-  "title": "Church Road — 2-bed",
-  "area": "Church Road, Tottenham, Haringey, London",
-  "price": 1900,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-10-19",
-  "commute": "46 min · 🚌 bus 149 + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94445442",
-  "source": "rightmove",
-  "photos": [
-   "photos/94445442_0.jpg",
-   "photos/94445442_1.jpg",
-   "photos/94445442_2.jpg",
-   "photos/94445442_3.jpg",
-   "photos/94445442_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] KEY HAVEN ESTATES LTD, London. Spacious two bedroom ground floor maisonette with its own private entrance and private garden. Unfurnished. Kitchen with gas hob, washing machine and fridge freezer, separate bathroom with bath, and a bright reception room. Available now.",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "",
-  "listed": "2026-10-19",
-  "lat": 51.602255,
-  "lng": -0.0718,
-  "agent": "KEY HAVEN ESTATES LTD, London",
-  "commute_min": 46,
-  "commute_mode": "🚌 bus 149 + Victoria",
-  "score": 47,
-  "score_breakdown": {
-   "style": {
-    "points": 14.0,
-    "max": 22,
-    "reason": "keywords: bright(+2), private garden(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "46 min (TfL): 🚌 bus 149 + Victoria — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 6.8,
-    "max": 10,
-    "reason": "19 Oct: 13 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0.6,
-    "max": 3,
-    "reason": "£1,900"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "fresh_days": 0
- },
- {
   "id": "94445946",
   "title": "Woods Road — 1-bed",
   "area": "Woods Road, Peckham, London, SE15",
@@ -1155,7 +345,7 @@
   ],
   "status": "new",
   "notes": "[Rightmove] Pedder, Peckham. A luxury one double bedroom apartment with a private balcony, set in a gated development ideally located between Queens Road and Peckham Rye stations. The property boasts a bright open-plan living area that leads onto a private balcony, a generously sized double bedroom with built in wardrobes and a sleek modern bathroom. Finished to a high specification, the apartment benefits from ample storage and an abundance of natural light throughout. Residents also enjoy access to secure bike storage and lift access within the gated development. This flat is extremely well placed for the amenities, entertainment and connections of Peckham. Both Queens Road and Peckham Rye stations are within half a mile making it ideal for commuting into the City. The area is brimming with independent restaurants, cafes, galleries, and boutique shops, while green spaces are also within easy reach. EPC: B | Counci",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Nunhead); nearby tags: \"Insta Peeps View of London\".",
   "date_found": "2026-10-19",
   "features": "Modern development; One bedroom; Private balcony; Communal grounds &amp; bike storage; 0.3mi to Queens Road Peckham Station; 0.5mi to Peckham Rye Station; Unfurnished; Available from end of November",
   "listed": "2026-10-19",
@@ -1164,7 +354,7 @@
   "agent": "Pedder, Peckham",
   "commute_min": 52,
   "commute_mode": "🚆 Southern + Jubilee + Northern",
-  "score": 59,
+  "score": 63,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -1182,9 +372,9 @@
     "reason": "52 min door-to-door (TfL): 🚆 Southern + Jubilee + Northern"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 7.0,
@@ -1210,87 +400,6 @@
     "points": 3.0,
     "max": 6,
     "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 0
- },
- {
-  "id": "94446450",
-  "title": "Flat 26 Gerard Court — 1-bed",
-  "area": "Flat 26 Gerard Court",
-  "price": 1700,
-  "size": "46 m²",
-  "floor": "",
-  "furnished": "",
-  "available": "2026-11-22",
-  "commute": "38 min · 🚇 Jubilee + Bakerloo + bus 18 (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94446450",
-  "source": "rightmove",
-  "photos": [
-   "photos/94446450_0.jpg",
-   "photos/94446450_1.jpg",
-   "photos/94446450_2.jpg",
-   "photos/94446450_3.jpg",
-   "photos/94446450_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Akelius Residential Ltd, London.  costs - base rent: £1700 - deposit: £1961.54 apartment - number of bedrooms: 1 - size: 492 sq ft - apartment type: apartment - all pets allowed - floor: 2 - heating type: electric - fully integrated kitchen - stove: induction - open plan kitchen - washer dryer - refurbished - wooden flooring - EPC Rating: B building - communal garden Tenancy terms - local Renters Right Act terms apply.",
-  "hood": "",
-  "date_found": "2026-10-19",
-  "features": "24 Hours Maintenance Team; Inhouse Property Management; Better Living; Private Landlord",
-  "listed": "2026-10-19",
-  "lat": 51.55285,
-  "lng": -0.21679,
-  "agent": "Akelius Residential Ltd, London",
-  "commute_min": 38,
-  "commute_mode": "🚇 Jubilee + Bakerloo + bus 18",
-  "score": 47,
-  "score_breakdown": {
-   "style": {
-    "points": 12.6,
-    "max": 22,
-    "reason": "keywords: refurbished(+2)"
-   },
-   "size": {
-    "points": 1.9,
-    "max": 15,
-    "reason": "46 m²"
-   },
-   "commute": {
-    "points": 5.8,
-    "max": 20,
-    "reason": "38 min (TfL): 🚇 Jubilee + Bakerloo + bus 18 — 🚌 bus leg, unreliable (Masha: metro only)"
-   },
-   "hood": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "no Hoodmaps data"
-   },
-   "availability": {
-    "points": 7.0,
-    "max": 10,
-    "reason": "22 Nov: late Nov"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 1.8,
-    "max": 3,
-    "reason": "£1,700"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "garden, pets allowed"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
    }
   },
   "fresh_days": 0
