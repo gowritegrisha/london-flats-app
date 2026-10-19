@@ -5171,7 +5171,7 @@
     "agent": "Foxtons, Bow",
     "commute_min": 40,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "score": 70,
+    "score": 78,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -5217,12 +5217,18 @@
         "points": 3.0,
         "max": 6,
         "reason": "balcony/terrace"
+      },
+      "feedback": {
+        "points": 8,
+        "max": 8,
+        "reason": "👍 liked"
       }
     },
     "listed_reason": "Added today",
     "listed": "2026-10-19",
     "fresh_days": 0,
-    "nbhd": "Bromley North · Bow E3"
+    "nbhd": "Bromley North · Bow E3",
+    "rating": "like"
   },
   {
     "id": "94459932",
@@ -5254,7 +5260,7 @@
     "agent": "Akelius Residential Ltd, London",
     "commute_min": 39,
     "commute_mode": "🚇 Jubilee + Metropolitan",
-    "score": 56,
+    "score": 64,
     "score_breakdown": {
       "style": {
         "points": 12.6,
@@ -5300,12 +5306,18 @@
         "points": 6,
         "max": 6,
         "reason": "ground floor + garden (Princes Ave-like)"
+      },
+      "feedback": {
+        "points": 8,
+        "max": 8,
+        "reason": "👍 liked"
       }
     },
     "listed_reason": "Added today",
     "listed": "2026-10-19",
     "fresh_days": 0,
-    "nbhd": "Cricklewood/Mapesbury NW2"
+    "nbhd": "Cricklewood/Mapesbury NW2",
+    "rating": "like"
   },
   {
     "id": "94446495",
@@ -5337,7 +5349,7 @@
     "agent": "Savills Lettings, St John's Wood & Regent's Park",
     "commute_min": 36,
     "commute_mode": "🚆 Lioness",
-    "score": 64,
+    "score": 72,
     "score_breakdown": {
       "style": {
         "points": 16.8,
@@ -5383,12 +5395,18 @@
         "points": 0,
         "max": 6,
         "reason": "no outdoor space mentioned"
+      },
+      "feedback": {
+        "points": 8,
+        "max": 8,
+        "reason": "👍 liked"
       }
     },
     "listed_reason": "Added today",
     "listed": "2026-10-19",
     "fresh_days": 0,
-    "nbhd": "Kilburn · Kilburn/West Hampstead NW6"
+    "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
+    "rating": "like"
   },
   {
     "id": "94446669",
@@ -5420,7 +5438,7 @@
     "agent": "John D Wood & Co. Lettings, Primrose Hill",
     "commute_min": 32,
     "commute_mode": "🚇 Metropolitan",
-    "score": 71,
+    "score": 79,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -5466,12 +5484,18 @@
         "points": 0,
         "max": 6,
         "reason": "no outdoor space mentioned"
+      },
+      "feedback": {
+        "points": 8,
+        "max": 8,
+        "reason": "👍 liked"
       }
     },
     "listed_reason": "Added today",
     "listed": "2026-10-19",
     "fresh_days": 0,
-    "nbhd": "West Hampstead NW3"
+    "nbhd": "West Hampstead NW3",
+    "rating": "like"
   },
   {
     "id": "or-3079557",
@@ -37725,88 +37749,6 @@
       }
     },
     "nbhd": "Cathall E15",
-    "fresh_days": 5
-  },
-  {
-    "id": "94287990",
-    "title": "Loveridge Road — 2-bed",
-    "area": "Loveridge Road,  Brondesbury, NW6",
-    "price": 2000,
-    "size": "45 m²",
-    "floor": "",
-    "furnished": "Part furnished",
-    "available": "2026-11-04",
-    "commute": "30 min · 🚇 Jubilee + Metropolitan + bus 205 (TfL, arrive 09:00)",
-    "pets": "Not mentioned",
-    "url": "https://www.rightmove.co.uk/properties/94287990",
-    "source": "rightmove",
-    "photos": [
-      "photos/94287990_0.jpg",
-      "photos/94287990_1.jpg",
-      "photos/94287990_2.jpg",
-      "photos/94287990_3.jpg",
-      "photos/94287990_4.jpg"
-    ],
-    "status": "new",
-    "notes": "[Rightmove] Chestertons, Hampstead. Two bedroom flat with wooden floors throughout, comprising of living room, two double bedrooms, bathroom and well equipped separate kitchen. This property is ideally located to access Kilburn Underground Station (Jubilee Line) and all of the shops and amenities is Kilburn High Road. Our China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat ( ChestertonsLettings )",
-    "hood": "",
-    "date_found": "2026-10-16",
-    "features": "Two Bedroom ; Close To Amenities ; Currently Unfurnished ; Good Condition; Seperate Kitchen",
-    "listed": "2026-10-14",
-    "lat": 51.546459,
-    "lng": -0.202315,
-    "agent": "Chestertons, Hampstead",
-    "commute_min": 30,
-    "commute_mode": "🚇 Jubilee + Metropolitan + bus 205",
-    "score": 40,
-    "score_breakdown": {
-      "style": {
-        "points": 9.9,
-        "max": 22,
-        "reason": "no style cues in notes"
-      },
-      "size": {
-        "points": 1.4,
-        "max": 15,
-        "reason": "45 m²"
-      },
-      "commute": {
-        "points": 8.0,
-        "max": 20,
-        "reason": "30 min (TfL): 🚇 Jubilee + Metropolitan + bus 205 — 🚌 bus leg, unreliable (Masha: metro only)"
-      },
-      "hood": {
-        "points": 7.5,
-        "max": 15,
-        "reason": "no Hoodmaps data"
-      },
-      "availability": {
-        "points": 10,
-        "max": 10,
-        "reason": "04 Nov: mid-Nov ✓"
-      },
-      "furnished": {
-        "points": 3.5,
-        "max": 5,
-        "reason": "part furnished"
-      },
-      "price": {
-        "points": 0,
-        "max": 3,
-        "reason": "£2,000"
-      },
-      "extras": {
-        "points": 0,
-        "max": 4,
-        "reason": "none mentioned"
-      },
-      "outdoor": {
-        "points": 0,
-        "max": 6,
-        "reason": "no outdoor space mentioned"
-      }
-    },
-    "nbhd": "West Hampstead · Kilburn/West Hampstead NW6",
     "fresh_days": 5
   },
   {
