@@ -241,6 +241,27 @@ if (await scoreBtn.count()) {
   await page.evaluate(() => { try { sheetClose(); } catch (_) {} });
 } else fail('no score button');
 
+// Commute >45 min cards (hidden:true, Grisha 19 Oct) are not shown by default; toggle reveals them
+const far = await page.evaluate(() => {
+  const f = new Set(data.filter(isFar).map(l => String(l.id)));
+  const leak = LV.filter(l => f.has(String(l.id))).length + [...document.querySelectorAll('.card')].filter(c => f.has(c.id.slice(2))).length;
+  const kept = data.filter(l => l.hidden && !isFar(l)).every(l => LV.includes(l) || l.stale || rating(l) === 'dislike');
+  return { nf: f.size, leak, kept, tgl: !!document.getElementById('fartgl') };
+});
+if (far.leak) fail(`hidden (>45 min) cards visible by default: ${far.leak}`);
+if (far.nf && !far.tgl) fail('no toggle for hidden >45 min cards');
+if (!far.kept) fail('hidden-flagged card with local activity (like/save/sent) not shown');
+console.log(`smoke: hidden >45 min by default: ${far.nf}`);
+if (far.nf && far.tgl) {
+  await page.locator('#fartgl').tap();
+  await page.waitForTimeout(200);
+  const shownFar = await page.evaluate(() => LV.filter(isFar).length);
+  if (shownFar !== far.nf) fail(`toggle showed ${shownFar}/${far.nf} hidden cards`);
+  await page.locator('#fartgl').tap();
+  await page.waitForTimeout(200);
+  if (await page.evaluate(() => LV.filter(isFar).length)) fail('toggle off did not re-hide >45 min cards');
+}
+
 // Scroll / load more (one page only — keep gate fast)
 const before = await page.locator('.card').count();
 await page.evaluate(() => { try { fillList(); } catch (_) {} });

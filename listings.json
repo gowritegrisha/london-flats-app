@@ -241,7 +241,9 @@
     "nbhd": "Deptford SE8",
     "commute_min": 47,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94486251",
@@ -572,7 +574,9 @@
     "nbhd": "Wandsworth Town SW18",
     "commute_min": 56,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94476951",
@@ -655,7 +659,9 @@
     "nbhd": "Crofton Park SE23",
     "commute_min": 61,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94477380",
@@ -985,7 +991,9 @@
     "nbhd": "St Ann's · South Tottenham N15",
     "commute_min": 49,
     "commute_mode": "🚇 Piccadilly + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "or-3012573",
@@ -1234,7 +1242,9 @@
     "nbhd": "Streatham Hill East SW2",
     "commute_min": 53,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-11289750",
@@ -1400,7 +1410,9 @@
     "nbhd": "Furzedown SW17",
     "commute_min": 57,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20580182",
@@ -1483,7 +1495,9 @@
     "nbhd": "Wembley Hill HA9",
     "commute_min": 48,
     "commute_mode": "🚇 Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20580277",
@@ -1732,7 +1746,9 @@
     "nbhd": "Dollis Hill · Cricklewood NW2",
     "commute_min": 51,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-14781732",
@@ -1815,7 +1831,9 @@
     "nbhd": "Thamesfield SW15",
     "commute_min": 53,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-17657478",
@@ -1898,7 +1916,9 @@
     "nbhd": "Hoe Street E17",
     "commute_min": 49,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581012",
@@ -1981,7 +2001,9 @@
     "nbhd": "West Green · Tottenham N17",
     "commute_min": 46,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581172",
@@ -2064,7 +2086,9 @@
     "nbhd": "Leyton E10",
     "commute_min": 56,
     "commute_mode": "🚆 Suffragette + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-16172518",
@@ -2147,7 +2171,9 @@
     "nbhd": "Thamesfield SW18",
     "commute_min": 52,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581355",
@@ -2230,7 +2256,9 @@
     "nbhd": "Ealing Common W5",
     "commute_min": 60,
     "commute_mode": "🚇 Piccadilly + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581432",
@@ -2313,7 +2341,9 @@
     "nbhd": "Chiswick Riverside TW8",
     "commute_min": 59,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581548",
@@ -2396,7 +2426,9 @@
     "nbhd": "Northumberland Park · Tottenham N17",
     "commute_min": 46,
     "commute_mode": "🚆 Greater Anglia + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581671",
@@ -2645,7 +2677,9 @@
     "nbhd": "Telegraph Hill SE14",
     "commute_min": 52,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20581349",
@@ -2811,7 +2845,9 @@
     "nbhd": "Streatham St Leonard's SW16",
     "commute_min": 54,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94465560",
@@ -2894,7 +2930,9 @@
     "nbhd": "Southfield · Acton W3",
     "commute_min": 56,
     "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94466004",
@@ -2977,7 +3015,9 @@
     "nbhd": "West Finchley N3",
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94466253",
@@ -3226,7 +3266,9 @@
     "nbhd": "Brockley SE4",
     "commute_min": 54,
     "commute_mode": "🚆 Southeastern + Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94466568",
@@ -3309,7 +3351,9 @@
     "nbhd": "Ealing Common W5",
     "commute_min": 48,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94466613",
@@ -3392,7 +3436,9 @@
     "nbhd": "Northumberland Park · Tottenham N17",
     "commute_min": 46,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94466871",
@@ -3558,7 +3604,9 @@
     "nbhd": "Greenwich Peninsula SE10",
     "commute_min": 59,
     "commute_mode": "🚇 Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94467069",
@@ -3637,7 +3685,9 @@
     "nbhd": "South Bermondsey · Southwark SE1",
     "commute_min": 50,
     "commute_mode": "🚇 Bakerloo + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94467063",
@@ -3720,7 +3770,9 @@
     "nbhd": "East Finchley N2",
     "commute_min": 48,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94467165",
@@ -4052,7 +4104,9 @@
     "nbhd": "Old Kent Road · Southwark SE1",
     "commute_min": 62,
     "commute_mode": "🚆 Southern + Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94470801",
@@ -4214,7 +4268,9 @@
     "nbhd": "London Bridge/West Bermondsey · Southwark SE1",
     "commute_min": 51,
     "commute_mode": "🚇 Bakerloo + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94471437",
@@ -4297,7 +4353,9 @@
     "nbhd": "Southfield · Chiswick W4",
     "commute_min": 50,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94471758",
@@ -4462,7 +4520,9 @@
     "nbhd": "Leyton E10",
     "commute_min": 52,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94472940",
@@ -4793,7 +4853,9 @@
     "nbhd": "Northumberland Park · Tottenham N17",
     "commute_min": 50,
     "commute_mode": "🚆 Greater Anglia + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94473948",
@@ -5900,7 +5962,9 @@
     "nbhd": "Streatham Wells SW16",
     "commute_min": 61,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94450146",
@@ -5983,7 +6047,9 @@
     "nbhd": "Southfield · Chiswick W4",
     "commute_min": 46,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94452795",
@@ -6229,7 +6295,9 @@
     "nbhd": "Hanger Hill W5",
     "commute_min": 50,
     "commute_mode": "🚇 Central + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94455147",
@@ -6312,7 +6380,9 @@
     "nbhd": "Bow West E3",
     "commute_min": 49,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94456032",
@@ -6808,7 +6878,9 @@
     "nbhd": "Nunhead/Queen's Road SE15",
     "commute_min": 52,
     "commute_mode": "🚆 Southern + Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94439733",
@@ -6973,7 +7045,9 @@
     "nbhd": "Rye Lane SE15",
     "commute_min": 51,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20575689",
@@ -7633,7 +7707,9 @@
     "nbhd": "Ealing Common W5",
     "commute_min": 50,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94427916",
@@ -7799,7 +7875,9 @@
     "nbhd": "Greenwich Creekside SE8",
     "commute_min": 53,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94430184",
@@ -7965,7 +8043,9 @@
     "nbhd": "Stratford E15",
     "commute_min": 49,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94426590",
@@ -8214,7 +8294,9 @@
     "nbhd": "East Putney SW15",
     "commute_min": 59,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20522528",
@@ -8546,7 +8628,9 @@
     "nbhd": "Lea Bridge E5",
     "commute_min": 57,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20572121",
@@ -8629,7 +8713,9 @@
     "nbhd": "North Acton · Willesden NW10",
     "commute_min": 51,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94416690",
@@ -8955,7 +9041,9 @@
     "nbhd": "Cazenove E5",
     "commute_min": 50,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "or-3076375",
@@ -9115,7 +9203,9 @@
     "nbhd": "Bow East E3",
     "commute_min": 47,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20570332",
@@ -9358,7 +9448,9 @@
     "nbhd": "Ladywell SE4",
     "commute_min": 61,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20570931",
@@ -9439,7 +9531,9 @@
     "nbhd": "East Finchley N2",
     "commute_min": 53,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-17513136",
@@ -9688,7 +9782,9 @@
     "nbhd": "Friern Barnet · Muswell Hill N10",
     "commute_min": 59,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94408170",
@@ -9771,7 +9867,9 @@
     "nbhd": "Hendon NW4",
     "commute_min": 48,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94408575",
@@ -10186,7 +10284,9 @@
     "nbhd": "Surrey Docks SE16",
     "commute_min": 56,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94412628",
@@ -10352,7 +10452,9 @@
     "nbhd": "Upper Edmonton N18",
     "commute_min": 46,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94413258",
@@ -10518,7 +10620,9 @@
     "nbhd": "Northumberland Park · Tottenham N17",
     "commute_min": 46,
     "commute_mode": "🚆 Greater Anglia + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94413723",
@@ -10597,7 +10701,9 @@
     "nbhd": "Hendon NW4",
     "commute_min": 47,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94414854",
@@ -10680,7 +10786,9 @@
     "nbhd": "Colindale South NW9",
     "commute_min": 47,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94414935",
@@ -10763,7 +10871,9 @@
     "nbhd": "West Hendon · Colindale NW9",
     "commute_min": 53,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94415142",
@@ -10929,7 +11039,9 @@
     "nbhd": "St Martin's SW2",
     "commute_min": 47,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "fx-2430480",
@@ -11006,7 +11118,9 @@
     "nbhd": "Forest · Leyton E10",
     "commute_min": 47,
     "commute_mode": "🚆 Suffragette + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "fx-1398012",
@@ -11255,7 +11369,9 @@
     "nbhd": "Canary Wharf · Poplar/Canary Wharf E14",
     "commute_min": 48,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20568423",
@@ -11338,7 +11454,9 @@
     "nbhd": "Ravenscourt · Hammersmith W6",
     "commute_min": 46,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20568622",
@@ -11919,7 +12037,9 @@
     "nbhd": "Hendon NW4",
     "commute_min": 56,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20570069",
@@ -12000,7 +12120,9 @@
     "nbhd": "South Bermondsey SE16",
     "commute_min": 50,
     "commute_mode": "🚆 Southern + Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94189692",
@@ -12332,7 +12454,9 @@
     "nbhd": "Streatham Wells SW16",
     "commute_min": 63,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94398405",
@@ -12415,7 +12539,9 @@
     "nbhd": "Island Gardens · Poplar/Canary Wharf E14",
     "commute_min": 55,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94398684",
@@ -12498,7 +12624,9 @@
     "nbhd": "Grove Green · Leyton E10",
     "commute_min": 49,
     "commute_mode": "🚆 Suffragette + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94398903",
@@ -12581,7 +12709,9 @@
     "nbhd": "Blackheath SE10",
     "commute_min": 55,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94400148",
@@ -12747,7 +12877,9 @@
     "nbhd": "Lansbury · Poplar/Canary Wharf E14",
     "commute_min": 56,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94400220",
@@ -12830,7 +12962,9 @@
     "nbhd": "Peckham SE15",
     "commute_min": 65,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94401033",
@@ -12913,7 +13047,9 @@
     "nbhd": "Hendon NW4",
     "commute_min": 56,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94402443",
@@ -13162,7 +13298,9 @@
     "nbhd": "Streatham St Leonard's SW16",
     "commute_min": 49,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94403124",
@@ -13245,7 +13383,9 @@
     "nbhd": "Cricklewood NW2",
     "commute_min": 50,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94403478",
@@ -13328,7 +13468,9 @@
     "nbhd": "Streatham St Leonard's SW16",
     "commute_min": 59,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "or-3073824",
@@ -13654,7 +13796,9 @@
     "nbhd": "West Hendon · Colindale NW9",
     "commute_min": 60,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20567703",
@@ -13903,7 +14047,9 @@
     "nbhd": "Wormholt · Shepherd's Bush W12",
     "commute_min": 48,
     "commute_mode": "🚇 Central + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20568235",
@@ -13986,7 +14132,9 @@
     "nbhd": "Lavender · Battersea SW11",
     "commute_min": 47,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94391052",
@@ -14484,7 +14632,9 @@
     "nbhd": "Wimbledon Park SW19",
     "commute_min": 59,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94392561",
@@ -14733,7 +14883,9 @@
     "nbhd": "East Greenwich SE10",
     "commute_min": 56,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94395372",
@@ -14816,7 +14968,9 @@
     "nbhd": "Bow East E3",
     "commute_min": 51,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94395447",
@@ -14899,7 +15053,9 @@
     "nbhd": "Friern Barnet N20",
     "commute_min": 54,
     "commute_mode": "🚆 Thameslink + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94395648",
@@ -14982,7 +15138,9 @@
     "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14",
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94396257",
@@ -15565,7 +15723,9 @@
     "nbhd": "Hanger Hill W5",
     "commute_min": 48,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20562887",
@@ -15731,7 +15891,9 @@
     "nbhd": "Wembley Hill HA9",
     "commute_min": 52,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-15130946",
@@ -16062,7 +16224,9 @@
     "nbhd": "Wembley Hill HA9",
     "commute_min": 52,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94380030",
@@ -16145,7 +16309,9 @@
     "nbhd": "East Greenwich SE10",
     "commute_min": 49,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94380114",
@@ -16392,7 +16558,9 @@
     "nbhd": "Fulham Reach · Hammersmith W6",
     "commute_min": 50,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94381461",
@@ -16641,7 +16809,9 @@
     "nbhd": "Tooting Broadway SW17",
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94219458",
@@ -16724,7 +16894,9 @@
     "nbhd": "West Putney SW15",
     "commute_min": 59,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94383570",
@@ -16890,7 +17062,9 @@
     "nbhd": "Lea Bridge E5",
     "commute_min": 52,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94384605",
@@ -17056,7 +17230,9 @@
     "nbhd": "Lea Bridge · Leyton E10",
     "commute_min": 47,
     "commute_mode": "🚆 Greater Anglia + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94385646",
@@ -17222,7 +17398,9 @@
     "nbhd": "Telegraph Hill SE14",
     "commute_min": 57,
     "commute_mode": "🚆 Southern + Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94386087",
@@ -17305,7 +17483,9 @@
     "nbhd": "Blackwall/Cubitt Town · Poplar/Canary Wharf E14",
     "commute_min": 54,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94386204",
@@ -17388,7 +17568,9 @@
     "nbhd": "Clapham Town · Vauxhall SW8",
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94386219",
@@ -17471,7 +17653,9 @@
     "nbhd": "Hendon NW4",
     "commute_min": 50,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94386762",
@@ -17717,7 +17901,9 @@
     "nbhd": "Brentford East TW8",
     "commute_min": 62,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94388484",
@@ -17879,7 +18065,9 @@
     "nbhd": "Evelyn SE8",
     "commute_min": 53,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94389057",
@@ -18045,7 +18233,9 @@
     "nbhd": "Wimbledon Park SW19",
     "commute_min": 56,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94184394",
@@ -18128,7 +18318,9 @@
     "nbhd": "Lewisham Central SE13",
     "commute_min": 51,
     "commute_mode": "🚈 DLR + Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20564633",
@@ -18211,7 +18403,9 @@
     "nbhd": "Brockley SE4",
     "commute_min": 56,
     "commute_mode": "🚆 Southeastern + Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20564718",
@@ -18460,7 +18654,9 @@
     "nbhd": "West Hill SW19",
     "commute_min": 56,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20565260",
@@ -18709,7 +18905,9 @@
     "nbhd": "Lewisham Central SE13",
     "commute_min": 47,
     "commute_mode": "🚆 Southeastern + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94367187",
@@ -18792,7 +18990,9 @@
     "nbhd": "Evelyn SE8",
     "commute_min": 62,
     "commute_mode": "🚇 Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94377072",
@@ -18875,7 +19075,9 @@
     "nbhd": "Woodhouse N12",
     "commute_min": 61,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94341651",
@@ -19124,7 +19326,9 @@
     "nbhd": "Wimbledon Park SW19",
     "commute_min": 63,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94378821",
@@ -19207,7 +19411,9 @@
     "nbhd": "Grove Green · Leyton E10",
     "commute_min": 50,
     "commute_mode": "🚆 Suffragette + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94378815",
@@ -19290,7 +19496,9 @@
     "nbhd": "Cricklewood NW2",
     "commute_min": 48,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "ch-22021975",
@@ -19598,7 +19806,9 @@
     "fresh_days": 6,
     "commute_min": 48,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "or-3074739",
@@ -20706,7 +20916,9 @@
     "fresh_days": 5,
     "commute_min": 57,
     "commute_mode": "🚇 Circle",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20548599",
@@ -20789,7 +21001,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20549099",
@@ -20872,7 +21086,9 @@
     "fresh_days": 5,
     "commute_min": 57,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-18637039",
@@ -21200,7 +21416,9 @@
     "fresh_days": 5,
     "commute_min": 64,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-17555800",
@@ -21283,7 +21501,9 @@
     "fresh_days": 5,
     "commute_min": 49,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20551120",
@@ -21947,7 +22167,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20553887",
@@ -22030,7 +22252,9 @@
     "fresh_days": 5,
     "commute_min": 58,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20553985",
@@ -22196,7 +22420,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20554785",
@@ -22442,7 +22668,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚆 Windrush + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20555323",
@@ -22522,7 +22750,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20555516",
@@ -22688,7 +22918,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20555864",
@@ -22937,7 +23169,9 @@
     "fresh_days": 4,
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20327146",
@@ -23102,7 +23336,9 @@
     "fresh_days": 4,
     "commute_min": 55,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20557425",
@@ -23185,7 +23421,9 @@
     "fresh_days": 4,
     "commute_min": 57,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20558093",
@@ -23762,7 +24000,9 @@
     "fresh_days": 4,
     "commute_min": 52,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20560833",
@@ -23845,7 +24085,9 @@
     "fresh_days": 4,
     "commute_min": 52,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20560898",
@@ -24094,7 +24336,9 @@
     "fresh_days": 4,
     "commute_min": 54,
     "commute_mode": "🚆 Mildmay + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-15595536",
@@ -24177,7 +24421,9 @@
     "fresh_days": 4,
     "commute_min": 50,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20561896",
@@ -24343,7 +24589,9 @@
     "fresh_days": 4,
     "commute_min": 47,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20561493",
@@ -24592,7 +24840,9 @@
     "fresh_days": 4,
     "commute_min": 48,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20563301",
@@ -24841,7 +25091,9 @@
     "fresh_days": 4,
     "commute_min": 48,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20563923",
@@ -25000,7 +25252,9 @@
     "fresh_days": 4,
     "commute_min": 54,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-2554989",
@@ -25166,7 +25420,9 @@
     "fresh_days": 4,
     "commute_min": 58,
     "commute_mode": "🚇 Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20564195",
@@ -25332,7 +25588,9 @@
     "fresh_days": 3,
     "commute_min": 57,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "otm-20564467",
@@ -25664,7 +25922,9 @@
     "fresh_days": 7,
     "commute_min": 50,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94218468",
@@ -25747,7 +26007,9 @@
     "fresh_days": 7,
     "commute_min": 52,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94220070",
@@ -25996,7 +26258,9 @@
     "fresh_days": 7,
     "commute_min": 51,
     "commute_mode": "🚆 Suffragette + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94222020",
@@ -26079,7 +26343,9 @@
     "fresh_days": 7,
     "commute_min": 66,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94222155",
@@ -26162,7 +26428,9 @@
     "fresh_days": 7,
     "commute_min": 55,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94223301",
@@ -26328,7 +26596,9 @@
     "fresh_days": 7,
     "commute_min": 59,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94227678",
@@ -26411,7 +26681,9 @@
     "fresh_days": 7,
     "commute_min": 54,
     "commute_mode": "🚇 Piccadilly + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94228512",
@@ -26494,7 +26766,9 @@
     "fresh_days": 7,
     "commute_min": 51,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94229361",
@@ -26660,7 +26934,9 @@
     "fresh_days": 6,
     "commute_min": 53,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94234911",
@@ -26743,7 +27019,9 @@
     "fresh_days": 6,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94235946",
@@ -26992,7 +27270,9 @@
     "fresh_days": 6,
     "commute_min": 71,
     "commute_mode": "🚆 Southern + Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94239633",
@@ -27158,7 +27438,9 @@
     "fresh_days": 6,
     "commute_min": 51,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94239729",
@@ -27324,7 +27606,9 @@
     "fresh_days": 6,
     "commute_min": 51,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94239885",
@@ -27407,7 +27691,9 @@
     "fresh_days": 6,
     "commute_min": 59,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94239963",
@@ -27490,7 +27776,9 @@
     "fresh_days": 6,
     "commute_min": 56,
     "commute_mode": "🚆 Windrush + Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94239969",
@@ -27656,7 +27944,9 @@
     "fresh_days": 6,
     "commute_min": 58,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94240650",
@@ -27739,7 +28029,9 @@
     "fresh_days": 6,
     "commute_min": 48,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94241733",
@@ -27820,7 +28112,9 @@
     "fresh_days": 6,
     "commute_min": 54,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94241964",
@@ -27986,7 +28280,9 @@
     "fresh_days": 6,
     "commute_min": 52,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94243053",
@@ -28068,7 +28364,9 @@
     "fresh_days": 6,
     "commute_min": 71,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94243185",
@@ -28234,7 +28532,9 @@
     "fresh_days": 6,
     "commute_min": 49,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94244826",
@@ -28317,7 +28617,9 @@
     "fresh_days": 6,
     "commute_min": 64,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94245393",
@@ -28400,7 +28702,9 @@
     "fresh_days": 6,
     "commute_min": 56,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94245669",
@@ -28483,7 +28787,9 @@
     "fresh_days": 6,
     "commute_min": 58,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94245696",
@@ -28649,7 +28955,9 @@
     "fresh_days": 6,
     "commute_min": 55,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94246905",
@@ -28898,7 +29206,9 @@
     "fresh_days": 6,
     "commute_min": 50,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94247442",
@@ -28981,7 +29291,9 @@
     "fresh_days": 6,
     "commute_min": 50,
     "commute_mode": "🚇 Central + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94247574",
@@ -29064,7 +29376,9 @@
     "fresh_days": 6,
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94247991",
@@ -29147,7 +29461,9 @@
     "fresh_days": 6,
     "commute_min": 56,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94248243",
@@ -29230,7 +29546,9 @@
     "fresh_days": 6,
     "commute_min": 53,
     "commute_mode": "🚆 Southeastern + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94248570",
@@ -29395,7 +29713,9 @@
     "fresh_days": 6,
     "commute_min": 59,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94248879",
@@ -30058,7 +30378,9 @@
     "fresh_days": 6,
     "commute_min": 50,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94249335",
@@ -30224,7 +30546,9 @@
     "fresh_days": 6,
     "commute_min": 53,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94253565",
@@ -30390,7 +30714,9 @@
     "fresh_days": 6,
     "commute_min": 55,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94255293",
@@ -30473,7 +30799,9 @@
     "fresh_days": 6,
     "commute_min": 50,
     "commute_mode": "🚇 Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94255599",
@@ -31054,7 +31382,9 @@
     "fresh_days": 6,
     "commute_min": 49,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94257996",
@@ -31137,7 +31467,9 @@
     "fresh_days": 6,
     "commute_min": 53,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94258635",
@@ -31220,7 +31552,9 @@
     "fresh_days": 6,
     "commute_min": 48,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94258725",
@@ -31303,7 +31637,9 @@
     "fresh_days": 6,
     "commute_min": 57,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94258743",
@@ -31465,7 +31801,9 @@
     "fresh_days": 6,
     "commute_min": 50,
     "commute_mode": "🚇 Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94259208",
@@ -31548,7 +31886,9 @@
     "fresh_days": 6,
     "commute_min": 52,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94259361",
@@ -31631,7 +31971,9 @@
     "fresh_days": 6,
     "commute_min": 52,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94259505",
@@ -31714,7 +32056,9 @@
     "fresh_days": 6,
     "commute_min": 61,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94260159",
@@ -31796,7 +32140,9 @@
     "fresh_days": 6,
     "commute_min": 52,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94260651",
@@ -31879,7 +32225,9 @@
     "fresh_days": 6,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94260894",
@@ -31960,7 +32308,9 @@
     "fresh_days": 6,
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94260993",
@@ -32043,7 +32393,9 @@
     "fresh_days": 6,
     "commute_min": 51,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94260684",
@@ -32126,7 +32478,9 @@
     "fresh_days": 6,
     "commute_min": 62,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94066596",
@@ -32209,7 +32563,9 @@
     "fresh_days": 6,
     "commute_min": 62,
     "commute_mode": "🚆 Southern + Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94262388",
@@ -32292,7 +32648,9 @@
     "fresh_days": 6,
     "commute_min": 51,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94262802",
@@ -32375,7 +32733,9 @@
     "fresh_days": 6,
     "commute_min": 46,
     "commute_mode": "🚇 Circle",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94263459",
@@ -32624,7 +32984,9 @@
     "fresh_days": 4,
     "commute_min": 59,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94265460",
@@ -32707,7 +33069,9 @@
     "fresh_days": 6,
     "commute_min": 46,
     "commute_mode": "🚇 Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94266432",
@@ -32790,7 +33154,9 @@
     "fresh_days": 6,
     "commute_min": 47,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94266747",
@@ -33039,7 +33405,9 @@
     "fresh_days": 6,
     "commute_min": 54,
     "commute_mode": "🚆 Suffragette + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94269228",
@@ -33122,7 +33490,9 @@
     "fresh_days": 6,
     "commute_min": 50,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94269549",
@@ -33371,7 +33741,9 @@
     "fresh_days": 6,
     "commute_min": 47,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94271226",
@@ -33454,7 +33826,9 @@
     "fresh_days": 6,
     "commute_min": 54,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94271829",
@@ -33868,7 +34242,9 @@
     "fresh_days": 6,
     "commute_min": 65,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94274703",
@@ -33951,7 +34327,9 @@
     "fresh_days": 6,
     "commute_min": 53,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94274994",
@@ -34281,7 +34659,9 @@
     "fresh_days": 5,
     "commute_min": 61,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94280553",
@@ -34364,7 +34744,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94281717",
@@ -34613,7 +34995,9 @@
     "fresh_days": 5,
     "commute_min": 51,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94279188",
@@ -34778,7 +35162,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94283208",
@@ -34861,7 +35247,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94283253",
@@ -34944,7 +35332,9 @@
     "fresh_days": 5,
     "commute_min": 62,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94284249",
@@ -35192,7 +35582,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94284390",
@@ -35357,7 +35749,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94283640",
@@ -35440,7 +35834,9 @@
     "fresh_days": 5,
     "commute_min": 48,
     "commute_mode": "🚆 Mildmay + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94285038",
@@ -35606,7 +36002,9 @@
     "fresh_days": 5,
     "commute_min": 56,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94285527",
@@ -35772,7 +36170,9 @@
     "fresh_days": 5,
     "commute_min": 65,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94286340",
@@ -35938,7 +36338,9 @@
     "fresh_days": 5,
     "commute_min": 60,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94287177",
@@ -36021,7 +36423,9 @@
     "fresh_days": 5,
     "commute_min": 48,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94287570",
@@ -36098,7 +36502,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚇 Central + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94287651",
@@ -36181,7 +36587,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94288920",
@@ -36264,7 +36672,9 @@
     "fresh_days": 5,
     "commute_min": 56,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94289622",
@@ -36347,7 +36757,9 @@
     "fresh_days": 5,
     "commute_min": 49,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94120101",
@@ -36514,7 +36926,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94290291",
@@ -36680,7 +37094,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94291434",
@@ -36763,7 +37179,9 @@
     "fresh_days": 5,
     "commute_min": 54,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94291860",
@@ -36927,7 +37345,9 @@
     "fresh_days": 5,
     "commute_min": 63,
     "commute_mode": "🚆 Thameslink + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94292028",
@@ -37010,7 +37430,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94292295",
@@ -37342,7 +37764,9 @@
     "fresh_days": 5,
     "commute_min": 58,
     "commute_mode": "🚆 Windrush + Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94295178",
@@ -37425,7 +37849,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94295199",
@@ -37676,7 +38102,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94297767",
@@ -38257,7 +38685,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94299636",
@@ -38506,7 +38936,9 @@
     "fresh_days": 5,
     "commute_min": 62,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94300116",
@@ -38589,7 +39021,9 @@
     "fresh_days": 5,
     "commute_min": 47,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94300533",
@@ -38672,7 +39106,9 @@
     "fresh_days": 5,
     "commute_min": 55,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94300944",
@@ -38917,7 +39353,9 @@
     "fresh_days": 5,
     "commute_min": 62,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94301865",
@@ -39000,7 +39438,9 @@
     "fresh_days": 5,
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94302183",
@@ -39083,7 +39523,9 @@
     "fresh_days": 5,
     "commute_min": 47,
     "commute_mode": "🚆 Southeastern + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94302204",
@@ -39163,7 +39605,9 @@
     "fresh_days": 5,
     "commute_min": 52,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94302924",
@@ -39329,7 +39773,9 @@
     "fresh_days": 7,
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94304214",
@@ -39495,7 +39941,9 @@
     "fresh_days": 5,
     "commute_min": 51,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94305708",
@@ -39578,7 +40026,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94306215",
@@ -39661,7 +40111,9 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94307232",
@@ -39744,7 +40196,9 @@
     "fresh_days": 5,
     "commute_min": 54,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94307256",
@@ -39910,7 +40364,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94307760",
@@ -40076,7 +40532,9 @@
     "fresh_days": 5,
     "commute_min": 54,
     "commute_mode": "🚇 Piccadilly + District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94308495",
@@ -40159,7 +40617,9 @@
     "fresh_days": 5,
     "commute_min": 55,
     "commute_mode": "🚇 Central + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94309230",
@@ -40238,7 +40698,9 @@
     "fresh_days": 5,
     "commute_min": 56,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94310295",
@@ -40321,7 +40783,9 @@
     "fresh_days": 5,
     "commute_min": 47,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94312380",
@@ -40487,7 +40951,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚇 Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94313691",
@@ -40653,7 +41119,9 @@
     "fresh_days": 5,
     "commute_min": 56,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94314792",
@@ -40819,7 +41287,9 @@
     "fresh_days": 5,
     "commute_min": 59,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94314714",
@@ -40902,7 +41372,9 @@
     "fresh_days": 5,
     "commute_min": 49,
     "commute_mode": "🚆 Weaver + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94315695",
@@ -41068,7 +41540,9 @@
     "fresh_days": 5,
     "commute_min": 48,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94317009",
@@ -41231,7 +41705,9 @@
     "fresh_days": 5,
     "commute_min": 56,
     "commute_mode": "🚇 Central + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94318602",
@@ -41480,7 +41956,9 @@
     "fresh_days": 5,
     "commute_min": 51,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94319541",
@@ -41563,7 +42041,9 @@
     "fresh_days": 5,
     "commute_min": 50,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94319598",
@@ -41646,7 +42126,9 @@
     "fresh_days": 5,
     "commute_min": 47,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94320114",
@@ -41812,7 +42294,9 @@
     "fresh_days": 5,
     "commute_min": 53,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94324620",
@@ -42061,7 +42545,9 @@
     "fresh_days": 4,
     "commute_min": 47,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94328739",
@@ -42143,7 +42629,9 @@
     "fresh_days": 4,
     "commute_min": 56,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94237530",
@@ -42226,7 +42714,9 @@
     "fresh_days": 6,
     "commute_min": 49,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94194807",
@@ -42309,7 +42799,9 @@
     "fresh_days": 7,
     "commute_min": 47,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94333449",
@@ -42392,7 +42884,9 @@
     "fresh_days": 4,
     "commute_min": 49,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94336629",
@@ -42724,7 +43218,9 @@
     "fresh_days": 4,
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94339980",
@@ -42807,7 +43303,9 @@
     "fresh_days": 4,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94340355",
@@ -43139,7 +43637,9 @@
     "fresh_days": 4,
     "commute_min": 51,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94341519",
@@ -43222,7 +43722,9 @@
     "fresh_days": 4,
     "commute_min": 56,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94342218",
@@ -43637,7 +44139,9 @@
     "fresh_days": 4,
     "commute_min": 68,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94344099",
@@ -43720,7 +44224,9 @@
     "fresh_days": 4,
     "commute_min": 53,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94344750",
@@ -43969,7 +44475,9 @@
     "fresh_days": 4,
     "commute_min": 47,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94347570",
@@ -44135,7 +44643,9 @@
     "fresh_days": 4,
     "commute_min": 49,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94349520",
@@ -44301,7 +44811,9 @@
     "fresh_days": 4,
     "commute_min": 48,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94350051",
@@ -44384,7 +44896,9 @@
     "fresh_days": 4,
     "commute_min": 52,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94351086",
@@ -44550,7 +45064,9 @@
     "fresh_days": 7,
     "commute_min": 48,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94335951",
@@ -44799,7 +45315,9 @@
     "fresh_days": 4,
     "commute_min": 47,
     "commute_mode": "🚆 Southeastern + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94351908",
@@ -44882,7 +45400,9 @@
     "fresh_days": 4,
     "commute_min": 47,
     "commute_mode": "🚆 Southeastern + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94351950",
@@ -44965,7 +45485,9 @@
     "fresh_days": 4,
     "commute_min": 50,
     "commute_mode": "🚇 Jubilee + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94352301",
@@ -45048,7 +45570,9 @@
     "fresh_days": 4,
     "commute_min": 55,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94352322",
@@ -45380,7 +45904,9 @@
     "fresh_days": 4,
     "commute_min": 50,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94258596",
@@ -45463,7 +45989,9 @@
     "fresh_days": 6,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94354383",
@@ -45629,7 +46157,9 @@
     "fresh_days": 4,
     "commute_min": 57,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94355427",
@@ -45712,7 +46242,9 @@
     "fresh_days": 4,
     "commute_min": 51,
     "commute_mode": "🚇 Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94355655",
@@ -45878,7 +46410,9 @@
     "fresh_days": 4,
     "commute_min": 56,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94356975",
@@ -46127,7 +46661,9 @@
     "fresh_days": 4,
     "commute_min": 56,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94357590",
@@ -46210,7 +46746,9 @@
     "fresh_days": 4,
     "commute_min": 48,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94357677",
@@ -46459,7 +46997,9 @@
     "fresh_days": 4,
     "commute_min": 58,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94360146",
@@ -46625,7 +47165,9 @@
     "fresh_days": 4,
     "commute_min": 53,
     "commute_mode": "🚆 Southeastern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94361211",
@@ -46708,7 +47250,9 @@
     "fresh_days": 4,
     "commute_min": 53,
     "commute_mode": "🚆 Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94361244",
@@ -46791,7 +47335,9 @@
     "fresh_days": 4,
     "commute_min": 52,
     "commute_mode": "🚆 Southern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94361766",
@@ -46874,7 +47420,8 @@
     "fresh_days": 4,
     "commute_min": 52,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94361853",
@@ -46957,7 +47504,9 @@
     "fresh_days": 4,
     "commute_min": 58,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94361871",
@@ -47040,7 +47589,9 @@
     "fresh_days": 4,
     "commute_min": 48,
     "commute_mode": "🚆 Windrush + Jubilee + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94361994",
@@ -47206,7 +47757,9 @@
     "fresh_days": 4,
     "commute_min": 51,
     "commute_mode": "🚆 Greater Anglia + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94362282",
@@ -47372,7 +47925,9 @@
     "fresh_days": 6,
     "commute_min": 57,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94364523",
@@ -47455,7 +48010,9 @@
     "fresh_days": 4,
     "commute_min": 49,
     "commute_mode": "🚇 Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94366371",
@@ -47538,7 +48095,9 @@
     "fresh_days": 4,
     "commute_min": 53,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94356528",
@@ -47621,7 +48180,9 @@
     "fresh_days": 4,
     "commute_min": 55,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94366986",
@@ -47704,7 +48265,9 @@
     "fresh_days": 4,
     "commute_min": 59,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94179780",
@@ -47787,7 +48350,9 @@
     "fresh_days": 7,
     "commute_min": 53,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94367919",
@@ -48036,7 +48601,9 @@
     "fresh_days": 4,
     "commute_min": 53,
     "commute_mode": "🚆 Mildmay + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94368429",
@@ -48119,7 +48686,9 @@
     "fresh_days": 4,
     "commute_min": 55,
     "commute_mode": "🚇 Piccadilly + District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94368660",
@@ -48202,7 +48771,9 @@
     "fresh_days": 4,
     "commute_min": 46,
     "commute_mode": "🚆 Thameslink + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94369170",
@@ -48285,7 +48856,9 @@
     "fresh_days": 4,
     "commute_min": 46,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94370076",
@@ -48368,7 +48941,9 @@
     "fresh_days": 4,
     "commute_min": 52,
     "commute_mode": "🚆 Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94370985",
@@ -48534,7 +49109,9 @@
     "fresh_days": 3,
     "commute_min": 46,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94371894",
@@ -48614,7 +49191,9 @@
     "fresh_days": 3,
     "commute_min": 69,
     "commute_mode": "🚆 Southern + Thameslink + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94305873",
@@ -48879,7 +49458,8 @@
     "stale": true,
     "commute_min": 48,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "93983106",
@@ -49063,7 +49643,8 @@
     "stale": true,
     "commute_min": 47,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94047639",
@@ -49247,7 +49828,8 @@
     "stale": true,
     "commute_min": 53,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94045110",
@@ -49898,7 +50480,8 @@
     "stale": true,
     "commute_min": 53,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94028445",
@@ -50543,7 +51126,8 @@
     "stale": true,
     "commute_min": 54,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "150171911",
@@ -50725,7 +51309,8 @@
     "fresh_days": 4,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94160553",
@@ -51189,7 +51774,8 @@
     "stale": true,
     "commute_min": 46,
     "commute_mode": "🚇 Northern",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "93330687",
@@ -51279,7 +51865,8 @@
     "fresh_days": 4,
     "commute_min": 50,
     "commute_mode": "🚇 Bakerloo + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "128733527",
@@ -51374,7 +51961,8 @@
     "fresh_days": 5,
     "commute_min": 46,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "92257719",
@@ -52013,7 +52601,8 @@
     "fresh_days": 7,
     "commute_min": 60,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "93543816",
@@ -52469,7 +53058,8 @@
     "fresh_days": 6,
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94294830",
@@ -52560,7 +53150,8 @@
     "fresh_days": 5,
     "commute_min": 51,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "93395547",
@@ -52652,7 +53243,8 @@
     "stale": true,
     "commute_min": 53,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94366500",
@@ -52735,7 +53327,9 @@
     "fresh_days": 4,
     "commute_min": 46,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "94340205",
@@ -52901,7 +53495,8 @@
     "stale": true,
     "commute_min": 47,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "93668892",
@@ -52991,7 +53586,8 @@
     "stale": true,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94314216",
@@ -53412,7 +54008,8 @@
     "fresh_days": 5,
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "liked"
   },
   {
     "id": "94266987",
@@ -53668,7 +54265,9 @@
     "fresh_days": 6,
     "commute_min": 47,
     "commute_mode": "🚇 Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "99364445",
@@ -53750,7 +54349,9 @@
     "fresh_days": 6,
     "commute_min": 47,
     "commute_mode": "🚇 Hammersmith & City",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   },
   {
     "id": "92904378",
@@ -53933,7 +54534,8 @@
     "fresh_days": 7,
     "commute_min": 53,
     "commute_mode": "🚆 South Western Railway + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94221912",
@@ -54186,7 +54788,8 @@
     "stale": true,
     "commute_min": 47,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": false
+    "commute_ok": false,
+    "kept_reason": "enquired (sent.json)"
   },
   {
     "id": "94244565",
@@ -54268,6 +54871,8 @@
     "fresh_days": 6,
     "commute_min": 53,
     "commute_mode": "🚇 Central + Metropolitan",
-    "commute_ok": false
+    "commute_ok": false,
+    "hidden": true,
+    "hidden_reason": "commute>45"
   }
 ]

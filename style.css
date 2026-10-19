@@ -24,7 +24,8 @@ main{padding:10px;display:grid;gap:12px}
 body{padding-bottom:calc(64px + env(safe-area-inset-bottom));-webkit-tap-highlight-color:transparent}
 button{font-family:inherit;cursor:pointer;touch-action:manipulation}
 h1{font-size:20px}
-.ctl{display:flex;align-items:center;gap:6px;margin-top:6px;font-size:12px;color:var(--hint)}
+.ctl{display:flex;align-items:center;gap:6px;margin-top:6px;font-size:12px;color:var(--hint);flex-wrap:wrap}
+#hidt{display:flex;gap:6px;flex-wrap:wrap}#hidt:empty{display:none}
 .ctl .lbl{font-weight:600;text-transform:uppercase;letter-spacing:.03em;min-width:42px}
 .ctl .row{flex:1}
 .chip{border:1px solid rgba(128,128,128,.45);color:var(--tx);border-radius:12px;padding:2px 9px;font-size:12px;background:transparent}

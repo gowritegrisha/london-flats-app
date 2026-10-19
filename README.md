@@ -20,3 +20,11 @@ python3 /workspace/rightmove-watch/publish_app.py new_matches.json --no-push  # 
   "photos":["handoff_1254/94287432_0.jpg","/abs/path/fp.jpg"]}]
 ```
 Photo paths are absolute or relative to `/workspace/rightmove-watch/`. Pages redeploys ~1 min after push.
+
+## Hidden cards: commute > 45 min (Grisha, 19 Oct 2026)
+Cards with `commute_min` > 45 (TfL, metro-only / bus-only ≤30 rules) get `hidden: true` + `hidden_reason: "commute>45"`;
+nothing is deleted. The app hides them by default; chip **🚇 показать скрытые (дальше 45 мин)** reveals them.
+Flats with any activity stay visible (`kept_reason`): enquired (sent.json / masha_enquiries.json / agent_threads.json,
+status ≠ new), liked/saved, viewing (viewings.json), replies, agent mail facts. Locally liked/saved/sent cards also stay visible.
+Flags are set by `rightmove-watch/commute_hide.py`, called from commute_tfl.py, score.py, publish_app.py and
+sources/apply_freshness.py, so new far flats never show by default. Test: `python3 rightmove-watch/test_commute_hide.py`.

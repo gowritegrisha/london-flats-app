@@ -62,12 +62,14 @@ const srcOf=l=>l.source||(/^or-/.test(l.id)?'openrent':/^otm-/.test(l.id)?'onthe
 const srcName=l=>(SRC[srcOf(l)]||SRC.rightmove)[0];
 const srcBadge=l=>{const [n,bg,fg]=SRC[srcOf(l)]||SRC.rightmove;return `<span class="srcb" style="background:${bg};color:${fg}">${n}</span>`};
 const freshB=l=>l.fresh_days!=null&&!l.stale&&l.fresh_days<=3?` <span class="freshb">≤3d</span>`:'';
-const inFeed=l=>!l.stale||saved.has(String(l.id))||!!sentOf(l.id)||rating(l)==='like';
+// Grisha 19 Oct: cards with hidden:true (hidden_reason 'commute>45') are off by default; local like/save/sent keeps them visible
+const isFar=l=>!!l.hidden&&!saved.has(String(l.id))&&!sentOf(l.id)&&rating(l)!=='like';let showFar=false;
+const inFeed=l=>(showFar||!isFar(l))&&(!l.stale||saved.has(String(l.id))||!!sentOf(l.id)||rating(l)==='like');
 const sentD=e=>e&&e.sent_at?fmtD(e.sent_at):'';
 function render(){
  const D2=data.filter(inFeed);const cnt=k=>k=='all'?D2.length:k=='saved'?data.filter(l=>saved.has(String(l.id))).length:k=='sent'?data.filter(l=>sentOf(l.id)).length:k=='notsent'?D2.filter(l=>!sentOf(l.id)).length:D2.filter(isNew).length;
  document.getElementById('filters').innerHTML=FL2.map(([k,lab])=>`<button class="chip ${k==filt?'on':''}" onclick="filt='${k}';render()">${lab} (${cnt(k)})</button>`).join('');
- const nh=data.filter(l=>rating(l)==='dislike').length;
+ const nh=data.filter(l=>rating(l)==='dislike').length,nf=data.filter(isFar).length;
  let L=data.filter(l=>showHid||rating(l)!=='dislike').filter(l=>filt=='saved'||filt=='sent'||inFeed(l)).filter(l=>filt=='all'||(filt=='saved'?saved.has(String(l.id)):filt=='sent'?!!sentOf(l.id):filt=='notsent'?!sentOf(l.id):filt=='new'?isNew(l):st(l)==filt));
  const so=document.getElementById('sort').value;
  const base=so=='score'?(a,b)=>scoreOf(b)-scoreOf(a):so=='price'?(a,b)=>a.price-b.price:so=='size'?(a,b)=>sz(b)-sz(a):so=='commute'?(a,b)=>((commBad(a)?900:0)+(a.commute_min||999))-((commBad(b)?900:0)+(b.commute_min||999)):(a,b)=>(b.date_found||'').localeCompare(a.date_found||'');
@@ -75,6 +77,7 @@ function render(){
  document.getElementById('cnt').textContent=L.length;
  const nq=Object.keys(RQ).length;const sb=document.getElementById('sync');sb.style.display=nq?'':'none';sb.textContent=`🔄 Отправить оценки (${nq})`;
  document.getElementById('hidt').innerHTML=nh?`<button class="chip ${showHid?'on':''}" onclick="showHid=!showHid;render()">👎 ${showHid?'скрыть':'показать'} скрытые (${nh})</button>`:'';
+ if(nf)document.getElementById('hidt').insertAdjacentHTML('beforeend',`<button class="chip ${showFar?'on':''}" id="fartgl" onclick="showFar=!showFar;render()">🚇 ${showFar?'скрыть':'показать'} скрытые (дальше 45 мин) (${nf})</button>`);
  LV=L;fillList(true);
 }
 const PAGE=20;let LV=[],shown=0,loaded=false,listDirty=false,io=null;
@@ -294,7 +297,7 @@ async function clip(t){try{await navigator.clipboard.writeText(t);return true}ca
 function hint(m){const e=document.getElementById('sdhint');e.textContent=m;e.style.display='block';toast(m)}
 
 function openCard(id){const l=data.find(x=>String(x.id)==String(id));if(!l){toast('Квартиры нет в списке');return}sheetClose();
- filt='all';if(rating(l)==='dislike')showHid=true;tab('flats');render();
+ filt='all';if(rating(l)==='dislike')showHid=true;if(isFar(l))showFar=true;tab('flats');render();
  let el=document.getElementById('c-'+id);if(!el){const ix=LV.findIndex(x=>String(x.id)==String(id));if(ix>=0)fillList(false,ix+1);el=document.getElementById('c-'+id)}if(!el)return;el.scrollIntoView({block:'start'});window.scrollBy(0,-(document.getElementById('hdr').offsetHeight||0)-6);
  el.classList.add('hl');setTimeout(()=>el.classList.remove('hl'),2500);
  try{history.replaceState(null,'','#flat-'+id)}catch(e){}}
