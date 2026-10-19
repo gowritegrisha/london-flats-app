@@ -483,18 +483,24 @@
   "agent_phone": "020 8138 8848",
   "next": {
    "who": "agent",
-   "kind": "awaiting",
-   "since": "2026-10-14",
-   "age_days": 5,
-   "text": "Awaiting agent reply since 13 Oct (5 days) — nudge?",
+   "kind": "viewing_requested",
+   "since": "2026-10-19T21:50:51+02:00",
+   "text": "Asked Hello Neighbour lettings team (Hello Neighbour) for a WhatsApp video viewing, proposed Wed 21 Oct 16:00 or Fri 23 Oct 13:00 London (19 Oct). Waiting for them to confirm a slot",
    "reply_to": "lettings@hello-neighbour.com",
    "thread_id": "1a13b3207abc1aca",
-   "agent_phone": "020 8138 8848",
-   "draft": "Hey! Just checking if the flat is still available? Happy to do a video viewing",
-   "updated": "2026-10-19T20:28:07+01:00"
+   "proposed_slots": "Wed 21 Oct 16:00 or Fri 23 Oct 13:00 London",
+   "source": "manual",
+   "age_days": 0,
+   "updated": "2026-10-19T21:50:51+02:00"
   },
   "action_rank": 1,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "05731098ce76702f",
+   "draft": "Hey! i'm in Spain until mid-November, could we do a video viewing on WhatsApp? +34605227263. wed 21 oct at 16:00 or fri 23 oct at 13:00 london time works for me. we have a dog and a cat, is that ok?",
+   "at": "2026-10-19T21:50:51+02:00",
+   "to": "lettings@hello-neighbour.com"
+  }
  },
  {
   "listing_id": "94198248",
@@ -735,14 +741,22 @@
   "next": {
    "who": "none",
    "kind": "closed",
-   "since": "2026-10-14T15:40:00Z",
-   "text": "Not eligible: Pinnacle requires 12 months living/working in Westminster and household income ≤ £90k (listing blocked)",
+   "since": "2026-10-19T21:51:25+02:00",
+   "text": "Declined (Blocklisted: applicants must have lived or worked in Westminster for 12 months, and household income can't exceed £90k), Pinnacle Housing Ltd told on 19 Oct",
+   "reply_to": "buildtorent@pinnaclegroup.co.uk",
+   "thread_id": "1a13b12d8f5104c4",
    "source": "manual",
-   "age_days": 5,
-   "updated": "2026-10-19T20:28:07+01:00"
+   "age_days": 0,
+   "updated": "2026-10-19T21:51:25+02:00"
   },
   "action_rank": 2,
-  "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000."
+  "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
+  "reply_sent": {
+   "hash": "aed75f21fa53852f",
+   "draft": "Hey! thanks so much, but we don't meet the westminster residency criteria, so we'll pass. good luck!",
+   "at": "2026-10-19T21:51:25+02:00",
+   "to": "buildtorent@pinnaclegroup.co.uk"
+  }
  },
  {
   "listing_id": "94311600",
@@ -774,18 +788,24 @@
   "agent_phone": "+44 (0)20 7267 1010",
   "next": {
    "who": "agent",
-   "kind": "awaiting",
-   "since": "2026-10-14",
-   "age_days": 5,
-   "text": "Awaiting agent reply since 13 Oct (5 days) — nudge?",
+   "kind": "viewing_requested",
+   "since": "2026-10-19T21:50:58+02:00",
+   "text": "Asked Stevie Walton (Kentish Town branch, lettings.kentishtown.enquiries@chestertons.co.uk) (Chestertons, Kentish Town) for a WhatsApp video viewing, proposed Thu 22 Oct 15:30 or Fri 23 Oct 14:30 London (19 Oct). Waiting for them to confirm a slot",
    "reply_to": "matches@chestertons.co.uk",
    "thread_id": "1a13b19ae8863ba8",
-   "agent_phone": "+44 (0)20 7267 1010",
-   "draft": "Hey! Just checking if the flat is still available? Happy to do a video viewing",
-   "updated": "2026-10-19T20:28:07+01:00"
+   "proposed_slots": "Thu 22 Oct 15:30 or Fri 23 Oct 14:30 London",
+   "source": "manual",
+   "age_days": 0,
+   "updated": "2026-10-19T21:50:58+02:00"
   },
   "action_rank": 1,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "2401cffec8f9fbe8",
+   "draft": "Hey! i'm in Spain until mid-November, could we do a video viewing on WhatsApp? my number is +34605227263 (the one you have on file has an extra digit). thu 22 oct at 15:30 or fri 23 oct at 14:30 london time works for me. we have a dog and a cat, hope that's ok",
+   "at": "2026-10-19T21:50:58+02:00",
+   "to": "matches@chestertons.co.uk"
+  }
  },
  {
   "listing_id": "92257719",
@@ -828,24 +848,24 @@
   "agent_email": "zac@leonewman.co.uk",
   "agent_phone": "07407 031 620 02",
   "next": {
-   "who": "us",
-   "kind": "viewing_offered",
-   "since": "2026-10-19T13:26:58+02:00",
-   "text": "Zac (Leo Newman) offered a viewing at 4pm London today (17:00 Madrid), 19 Oct — reply ASAP; Masha asked for video, so confirm it's a WhatsApp video call.",
-   "draft": "Hey! 4pm works, I'm still in Barcelona so could we do it as a WhatsApp video call? My number is +34 605 227 263",
+   "who": "agent",
+   "kind": "viewing_requested",
+   "since": "2026-10-19T21:50:45+02:00",
+   "text": "Asked Zac Ben (Leo Newman) for a WhatsApp video viewing, proposed Wed 21 Oct 14:30 or Thu 22 Oct 13:00 London (19 Oct). Waiting for them to confirm a slot",
    "reply_to": "zac@leonewman.co.uk",
    "thread_id": "1a13c3708e445519",
+   "proposed_slots": "Wed 21 Oct 14:30 or Thu 22 Oct 13:00 London",
    "agent_phone": "07407 031 620",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-19T20:28:07+01:00"
+   "updated": "2026-10-19T21:50:45+02:00"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
   "reply_sent": {
-   "hash": "69f616ccde755d3b",
-   "draft": "Hey Zac! Happy to answer:\n1. Two adults (no children), plus a well-behaved adult cat and a dog\n2. From 9 November 2026\n3. I'm joining Synthesia in London as a Product Manager (Skilled Worker visa); my husband Grigorii is also a product manager\n4. Our combined gross income is £190,000 a year\n5. Yes. Since we don't have UK payroll history yet, we can provide my Spanish tax returns, a savings statement and my Synthesia contract, plus a reference from our Barcelona landlord (we've rented the same flat for three years) and passport scans\n6. No CCJs, never been evicted\nCould we do a video viewing? I'm free after 13:30 UK most weekdays.\nThanks,\nMaria",
-   "at": "2026-10-16T11:48:07+02:00",
+   "hash": "7a4f14c123af2e55",
+   "draft": "Hey! sorry, missed your message. i'm in Spain until mid-November, could we do a video viewing on WhatsApp instead? +34605227263. wed 21 oct at 14:30 or thu 22 oct at 13:00 london time works for me",
+   "at": "2026-10-19T21:50:45+02:00",
    "to": "zac@leonewman.co.uk"
   }
  },
@@ -2577,18 +2597,23 @@
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
   "agent_email": "sefik.ascieli@metraliving.co.uk",
   "next": {
-   "who": "us",
-   "kind": "decline",
-   "since": "2026-10-16T12:29:35+02:00",
-   "text": "NEW: Lilium House, Alameda Place E3 (Metra / Sefik) — viewing slot Tue 20 Oct 15:00–16:00 + 13 qualifying Qs. Commute ~46 min >40 → polite decline.",
-   "draft": "Hey! Thanks for getting back — unfortunately it's a bit too far from my office so we'll pass on this one. Thanks anyway!",
+   "who": "none",
+   "kind": "closed",
+   "since": "2026-10-19T21:51:05+02:00",
+   "text": "Declined (47 min by tube only (District + Central + Metropolitan), over 45), Metra Living told on 19 Oct",
    "reply_to": "sefik.ascieli@metraliving.co.uk",
    "thread_id": "1a14406ebe5644a4",
    "source": "manual",
-   "age_days": 3,
-   "updated": "2026-10-19T20:28:07+01:00"
+   "age_days": 0,
+   "updated": "2026-10-19T21:51:05+02:00"
   },
-  "action_rank": 0
+  "action_rank": 0,
+  "reply_sent": {
+   "hash": "84b1001bfa8b7b7e",
+   "draft": "Hey! thanks so much, but it's a bit too far from my office for us, so we'll pass. good luck!",
+   "at": "2026-10-19T21:51:05+02:00",
+   "to": "sefik.ascieli@metraliving.co.uk"
+  }
  },
  {
   "listing_id": "93944946",
@@ -2796,19 +2821,24 @@
   "mail_status": "replied",
   "agent_email": "Krish.Kirupananthan@foxtons.co.uk",
   "next": {
-   "who": "us",
-   "kind": "decline",
-   "since": "2026-10-16T13:35:59Z",
-   "text": "Krish (Foxtons) offered build-to-rent 1-beds in Southall (UNCLE) and Refinery Square near Slough, from 5 Dec. Both well over the 40-min commute to Regent's Place, so probably decline.",
-   "draft": "Hey! thank you so much, but unfortunately it's too far from my office",
+   "who": "none",
+   "kind": "closed",
+   "since": "2026-10-19T21:51:11+02:00",
+   "text": "Declined (Too far: about 49 min from Southall and 69 min from Slough by rail only), Foxtons (build to rent) told on 19 Oct",
    "reply_to": "Krish.Kirupananthan@foxtons.co.uk",
    "thread_id": "1a144ef5fad51106",
    "source": "manual",
-   "age_days": 3,
-   "updated": "2026-10-19T20:28:07+01:00"
+   "age_days": 0,
+   "updated": "2026-10-19T21:51:11+02:00"
   },
   "action_rank": 0,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "c5a14c0192c7b170",
+   "draft": "Hey! thanks so much, but southall and slough are a bit too far from my office for us, so we'll pass. good luck!",
+   "at": "2026-10-19T21:51:11+02:00",
+   "to": "Krish.Kirupananthan@foxtons.co.uk"
+  }
  },
  {
   "listing_id": "94361766",
@@ -2886,18 +2916,24 @@
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My partner also works in tech, remotely, so someone is usually home. We plan to move in (approx.) second week of November / early December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up in no more than 30-40 minutes commute from Regent’s Park (my office). Combined yearly income exceeds £190,000. My WA is +34605227263.",
   "agent_email": "jake@accommodationlondon.net",
   "next": {
+   "who": "agent",
+   "kind": "viewing_requested",
+   "since": "2026-10-19T21:50:36+02:00",
+   "text": "Asked Jake Phillips (Accommodation London (listed by Abbeylord Properties)) for a WhatsApp video viewing, proposed Wed 21 Oct 13:00 or Thu 22 Oct 14:00 London (19 Oct). Waiting for them to confirm a slot",
    "reply_to": "jake@accommodationlondon.net",
    "thread_id": "1a154501067139d7",
-   "agent_phone": null,
-   "who": "us",
-   "since": "2026-10-19T13:18:12Z",
+   "proposed_slots": "Wed 21 Oct 13:00 or Thu 22 Oct 14:00 London",
+   "source": "manual",
    "age_days": 0,
-   "kind": "question",
-   "text": "Accommodation London (Jake) asked a question 19 Oct — reply",
-   "draft": null,
-   "updated": "2026-10-19T20:28:07+01:00"
+   "updated": "2026-10-19T21:50:36+02:00"
   },
-  "action_rank": 0
+  "action_rank": 0,
+  "reply_sent": {
+   "hash": "c4dd0b8c81fa6c0f",
+   "draft": "Hey! we're looking to move in mid-November. i'm in Spain until then, could we do a video viewing on WhatsApp? +34605227263. wed 21 oct at 13:00 or thu 22 oct at 14:00 london time works for me. we have a dog and a cat, hope that's ok",
+   "at": "2026-10-19T21:50:36+02:00",
+   "to": "jake@accommodationlondon.net"
+  }
  },
  {
   "listing_id": "94261464",
