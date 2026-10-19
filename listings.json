@@ -1,5 +1,321 @@
 [
   {
+    "id": "94459848",
+    "title": "Merhchant Street — 1-bed",
+    "area": "E3,  Bow,  London,  E3",
+    "price": 1900,
+    "size": "56 m²",
+    "floor": "",
+    "furnished": "Furnished",
+    "available": "",
+    "commute": "40 min · 🚇 District + Central + Metropolitan (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.rightmove.co.uk/properties/94459848",
+    "source": "rightmove",
+    "photos": [
+      "photos/94459848_0.jpg",
+      "photos/94459848_1.jpg",
+      "photos/94459848_2.jpg",
+      "photos/94459848_3.jpg",
+      "photos/94459848_4.jpg"
+    ],
+    "status": "new",
+    "notes": "💜 Masha's like (Rightmove «rent» folder). Very large sunlit 1 bedroom flat; Modern kitchen; Ample reception room; Sleek bathroom; Fitted wardrobe; Private terrace. LONG LET. Bright and modern 1 bedroom flat offering large interiors, storage space, modern kitchen, ample and charming bedroom, spacious reception room and fantastic private terrace. This charming property is located in quiet residential area with access to numerous amenities in Mile End, Bow road, Stratford and Canary Wharf areas. Please use the reference CHPK3683153 when contacting Foxtons.",
+    "hood": "Hoodmaps: Rich (Bromley North), also painted Normies/Hipsters; nearby tags: \"Gay guy coven\", \"Don’t walk here at night\", \"I see dead people\", \"J BAGs Foundation\".",
+    "date_found": "2026-10-19",
+    "features": "Very large sunlit 1 bedroom flat Modern kitchen Ample reception room Sleek bathroom Fitted wardrobe Private terrace Close to numerous local amenities Great TfL links",
+    "lat": 51.5257,
+    "lng": -0.02655,
+    "agent": "Foxtons, Bow",
+    "commute_min": 40,
+    "commute_mode": "🚇 District + Central + Metropolitan",
+    "score": 70,
+    "score_breakdown": {
+      "style": {
+        "points": 19.5,
+        "max": 22,
+        "reason": "keywords: modern(+3), bright(+2), sleek(+2)"
+      },
+      "size": {
+        "points": 9.6,
+        "max": 15,
+        "reason": "56 m²"
+      },
+      "commute": {
+        "points": 13.0,
+        "max": 20,
+        "reason": "40 min door-to-door (TfL): 🚇 District + Central + Metropolitan"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0.6,
+        "max": 3,
+        "reason": "£1,900"
+      },
+      "extras": {
+        "points": 2.0,
+        "max": 4,
+        "reason": "terrace"
+      },
+      "outdoor": {
+        "points": 3.0,
+        "max": 6,
+        "reason": "balcony/terrace"
+      }
+    }
+  },
+  {
+    "id": "94459932",
+    "title": "Flat 34 Gerard Court — 1-bed",
+    "area": "Flat 34 Gerard Court",
+    "price": 1600,
+    "size": "28 m²",
+    "floor": "Garden",
+    "furnished": "Part furnished",
+    "available": "2026-10-19",
+    "commute": "39 min · 🚇 Jubilee + Metropolitan (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.rightmove.co.uk/properties/94459932",
+    "source": "rightmove",
+    "photos": [
+      "photos/94459932_0.jpg",
+      "photos/94459932_1.jpg",
+      "photos/94459932_2.jpg",
+      "photos/94459932_3.jpg",
+      "photos/94459932_4.jpg"
+    ],
+    "status": "new",
+    "notes": "💜 Masha's like (Rightmove «rent» folder). 24 Hours Maintenance Team; Inhouse Property Management; Better Living; Private Landlord.  costs - base rent: £1600 - deposit: £1846.15 apartment - number of bedrooms: 1 - size: 306 sq ft - apartment type: apartment - - floor: 3 - heating type: electric - part-furnished - stove: induction - open plan kitchen - washer dryer - washing machine - number of bathrooms: 1 - refurbished - wooden flooring - EPC Rating: C building - communal garden Tenancy terms - local Renters Right Act terms apply.",
+    "hood": "Hoodmaps: Normies (Mapesbury); no user tags within ~450 m.",
+    "date_found": "2026-10-19",
+    "features": "24 Hours Maintenance Team Inhouse Property Management Better Living Private Landlord",
+    "lat": 51.55285,
+    "lng": -0.21679,
+    "agent": "Akelius Residential Ltd, London",
+    "commute_min": 39,
+    "commute_mode": "🚇 Jubilee + Metropolitan",
+    "score": 55,
+    "score_breakdown": {
+      "style": {
+        "points": 12.6,
+        "max": 22,
+        "reason": "keywords: refurbished(+2)"
+      },
+      "size": {
+        "points": 0,
+        "max": 15,
+        "reason": "28 m²"
+      },
+      "commute": {
+        "points": 13.8,
+        "max": 20,
+        "reason": "39 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
+      },
+      "hood": {
+        "points": 8.0,
+        "max": 15,
+        "reason": "Normies"
+      },
+      "availability": {
+        "points": 6.8,
+        "max": 10,
+        "reason": "19 Oct: 13 days before Nov"
+      },
+      "furnished": {
+        "points": 3.5,
+        "max": 5,
+        "reason": "part furnished"
+      },
+      "price": {
+        "points": 2.4,
+        "max": 3,
+        "reason": "£1,600"
+      },
+      "extras": {
+        "points": 2.0,
+        "max": 4,
+        "reason": "garden"
+      },
+      "outdoor": {
+        "points": 6,
+        "max": 6,
+        "reason": "ground floor + garden (Princes Ave-like)"
+      }
+    }
+  },
+  {
+    "id": "94446495",
+    "title": "Victoria Mews — 1-bed",
+    "area": "London,  NW6",
+    "price": 2000,
+    "size": "size not stated",
+    "floor": "",
+    "furnished": "Unfurnished",
+    "available": "2026-10-24",
+    "commute": "36 min · 🚆 Lioness (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.rightmove.co.uk/properties/94446495",
+    "source": "rightmove",
+    "photos": [
+      "photos/94446495_0.jpg",
+      "photos/94446495_1.jpg",
+      "photos/94446495_2.jpg",
+      "photos/94446495_3.jpg",
+      "photos/94446495_4.jpg"
+    ],
+    "status": "new",
+    "notes": "💜 Masha's like (Rightmove «rent» folder). One bedroom; Newly decorated; Mews; First floor; Own entrance; EPC Rating = D. A newly decorated and well presented one double bedroom first floor maisonette on a quiet Mews. Description This very well presented and spacious maisonette is situated on the first floor of this cobbled mews with its own private entrance. Consisting of one large double bedroom with good storage, fully fitted modern kitchen and reception/dining room. The property also has a fully fitted shower room. NB - Please note the furniture is CGI generated and does not come with the house. Location Kilburn Park Station 0.5 m",
+    "hood": "Hoodmaps: Rich (Kilburn); no user tags within ~450 m.",
+    "date_found": "2026-10-19",
+    "features": "One bedroom Newly decorated Mews First floor Own entrance EPC Rating = D",
+    "lat": 51.539028,
+    "lng": -0.197994,
+    "agent": "Savills Lettings, St John's Wood & Regent's Park",
+    "commute_min": 36,
+    "commute_mode": "🚆 Lioness",
+    "score": 64,
+    "score_breakdown": {
+      "style": {
+        "points": 16.8,
+        "max": 22,
+        "reason": "keywords: modern(+3), well presented(+2)"
+      },
+      "size": {
+        "points": 7.5,
+        "max": 15,
+        "reason": "size unknown (size not stated)"
+      },
+      "commute": {
+        "points": 16.2,
+        "max": 20,
+        "reason": "36 min door-to-door (TfL): 🚆 Lioness"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 8.0,
+        "max": 10,
+        "reason": "24 Oct: 8 days before Nov"
+      },
+      "furnished": {
+        "points": 2.8,
+        "max": 5,
+        "reason": "unfurnished (fine — Masha enquired on many)"
+      },
+      "price": {
+        "points": 0,
+        "max": 3,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 4,
+        "reason": "none mentioned"
+      },
+      "outdoor": {
+        "points": 0,
+        "max": 6,
+        "reason": "no outdoor space mentioned"
+      }
+    }
+  },
+  {
+    "id": "94446669",
+    "title": "Lithos Road — 1-bed",
+    "area": "London,  NW3",
+    "price": 2000,
+    "size": "size not stated",
+    "floor": "",
+    "furnished": "Furnished",
+    "available": "2026-10-19",
+    "commute": "32 min · 🚇 Metropolitan (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.rightmove.co.uk/properties/94446669",
+    "source": "rightmove",
+    "photos": [
+      "photos/94446669_0.jpg",
+      "photos/94446669_1.jpg",
+      "photos/94446669_2.jpg",
+      "photos/94446669_3.jpg",
+      "photos/94446669_4.jpg"
+    ],
+    "status": "new",
+    "notes": "💜 Masha's like (Rightmove «rent» folder). . Charming 1-bedroom apartment in the heart of the picturesque Village area. This furnished property boasts a stylish conversion with modern amenities. Enjoy the vibrant community and convenient location. Ideal for professionals or couples seeking a cosy retreat.",
+    "hood": "Hoodmaps: Rich (West Hampstead); nearby tags: \"freud lived here\".",
+    "date_found": "2026-10-19",
+    "features": "",
+    "lat": 51.549281,
+    "lng": -0.184433,
+    "agent": "John D Wood & Co. Lettings, Primrose Hill",
+    "commute_min": 32,
+    "commute_mode": "🚇 Metropolitan",
+    "score": 71,
+    "score_breakdown": {
+      "style": {
+        "points": 19.5,
+        "max": 22,
+        "reason": "keywords: modern(+3), stylish(+3), conversion(+1)"
+      },
+      "size": {
+        "points": 7.5,
+        "max": 15,
+        "reason": "size unknown (size not stated)"
+      },
+      "commute": {
+        "points": 18.8,
+        "max": 20,
+        "reason": "32 min door-to-door (TfL): 🚇 Metropolitan"
+      },
+      "hood": {
+        "points": 13.0,
+        "max": 15,
+        "reason": "Rich"
+      },
+      "availability": {
+        "points": 6.8,
+        "max": 10,
+        "reason": "19 Oct: 13 days before Nov"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 0,
+        "max": 3,
+        "reason": "£2,000"
+      },
+      "extras": {
+        "points": 0,
+        "max": 4,
+        "reason": "none mentioned"
+      },
+      "outdoor": {
+        "points": 0,
+        "max": 6,
+        "reason": "no outdoor space mentioned"
+      }
+    }
+  },
+  {
     "id": "or-3079557",
     "title": "2 Bed Flat — 2-bed",
     "area": "2 Bed Flat, Hillsborough Court, NW6",
