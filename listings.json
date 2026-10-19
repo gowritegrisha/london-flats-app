@@ -194,12 +194,12 @@
     "agent": "Hello Neighbour, London",
     "commute_min": 46,
     "commute_mode": "🚇 District + Victoria",
-    "score": 76,
+    "score": 79,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -281,7 +281,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), open-plan(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -358,12 +358,12 @@
     "agent": "The Estate Company, Hampstead",
     "commute_min": 30,
     "commute_mode": "🚌 bus 189 + bus 18",
-    "score": 61,
+    "score": 63,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 2.3,
@@ -686,7 +686,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), luxury(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), luxury(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -763,12 +763,12 @@
     "agent": "Brothers Property Management Ltd, London",
     "commute_min": 39,
     "commute_mode": "🚌 bus 415 + Northern",
-    "score": 67,
+    "score": 70,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.8,
@@ -850,7 +850,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), recently refurbished(+2), refurbished(+2), contemporary(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), recently refurbished(+2), refurbished(+2), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 12.6,
@@ -1014,7 +1014,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), sleek(+2), light(+1), open-plan(+1), luxury(+1)"
+        "reason": "keywords: modern(+3), bright(+2), sleek(+2), light(+1), open-plan(+1), luxury(+1), balcony(+2)"
       },
       "size": {
         "points": 7.8,
@@ -2239,7 +2239,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -2726,12 +2726,12 @@
     "agent": "Ellis & Co, Mill Hill",
     "commute_min": 42,
     "commute_mode": "🚇 Northern + Victoria",
-    "score": 66,
+    "score": 68,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -3446,12 +3446,12 @@
     "agent": "Foxtons Bow",
     "commute_min": 47,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "score": 48,
+    "score": 51,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2)"
+        "reason": "keywords: modern(+3), bright(+2), balcony(+2)"
       },
       "size": {
         "points": 1.9,
@@ -4012,12 +4012,12 @@
     "agent": "Mays Management, London",
     "commute_min": 50,
     "commute_mode": "🚌 bus 234 + Northern + Victoria",
-    "score": 54,
+    "score": 57,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: bright(+2), well-presented(+2)"
+        "reason": "keywords: bright(+2), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 10.2,
@@ -4668,12 +4668,12 @@
     "agent": "OpenRent, London",
     "commute_min": 45,
     "commute_mode": "🚌 bus 149 + Victoria",
-    "score": 54,
+    "score": 57,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), sleek(+2), contemporary(+2)"
+        "reason": "keywords: modern(+3), sleek(+2), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -4992,12 +4992,12 @@
     "agent": "Foxtons, Temple Fortune",
     "commute_min": 46,
     "commute_mode": "🚌 bus 204 + Northern + Victoria",
-    "score": 51,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: bright(+2), contemporary(+2), open-plan(+1)"
+        "reason": "keywords: bright(+2), contemporary(+2), open-plan(+1), fitted wardrobes(+2)"
       },
       "size": {
         "points": 10.2,
@@ -5074,12 +5074,12 @@
     "agent": "Foxtons, Temple Fortune",
     "commute_min": 47,
     "commute_mode": "🚌 bus SL10 + Northern",
-    "score": 52,
+    "score": 56,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), open-plan(+1)"
+        "reason": "keywords: modern(+3), bright(+2), open-plan(+1), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 6.6,
@@ -5472,12 +5472,12 @@
     "agent": "Foxtons Battersea",
     "commute_min": 42,
     "commute_mode": "🚌 bus 44 + Southern + Victoria",
-    "score": 42,
+    "score": 45,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.2,
@@ -5964,12 +5964,12 @@
     "agent": "Find My Home - St John's Wood",
     "commute_min": 38,
     "commute_mode": "🚌 bus 16 + Jubilee + Metropolitan + bus 205",
-    "score": 42,
+    "score": 45,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: refurbished(+2)"
+        "reason": "keywords: refurbished(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -6700,12 +6700,12 @@
     "agent": "Dexters, Streatham",
     "commute_min": 61,
     "commute_mode": "🚌 bus 417 + bus 250 + Victoria",
-    "score": 49,
+    "score": 50,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), well presented(+2)"
+        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), well presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -6951,7 +6951,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -7115,7 +7115,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), sleek(+2), contemporary(+2), open-plan(+1)"
+        "reason": "keywords: modern(+3), bright(+2), sleek(+2), contemporary(+2), open-plan(+1), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 2.3,
@@ -7192,12 +7192,12 @@
     "agent": "Global House Estates, London",
     "commute_min": 54,
     "commute_mode": "🚌 bus 63 + Bakerloo + Victoria",
-    "score": 50,
+    "score": 53,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: bright(+2), contemporary(+2), well-presented(+2)"
+        "reason": "keywords: bright(+2), contemporary(+2), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -7274,12 +7274,12 @@
     "agent": "Roundtree Real Estate, London",
     "commute_min": 49,
     "commute_mode": "🚌 bus 240 + Northern",
-    "score": 41,
+    "score": 44,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: luxury(+1), well presented(+2)"
+        "reason": "keywords: luxury(+1), well presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -8164,12 +8164,12 @@
     "agent": "Horton & Garton - Hammersmith & Shepherd's Bush",
     "commute_min": 41,
     "commute_mode": "🚌 bus 267 + Circle + bus 18",
-    "score": 54,
+    "score": 55,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: stylish(+3), high ceilings(+2), high ceiling(+1), well-presented(+2)"
+        "reason": "keywords: stylish(+3), high ceilings(+2), high ceiling(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -8328,12 +8328,12 @@
     "agent": "Taylor Smith - Acton",
     "commute_min": 44,
     "commute_mode": "🚌 bus 95 + Central + Victoria",
-    "score": 44,
+    "score": 47,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -8492,12 +8492,12 @@
     "agent": "Hemmingfords, London",
     "commute_min": 40,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "score": 62,
+    "score": 65,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: bright(+2)"
+        "reason": "keywords: bright(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -9148,12 +9148,12 @@
     "agent": "John Payne, East Greenwich",
     "commute_min": 54,
     "commute_mode": "🚌 bus 188 + Jubilee + Victoria",
-    "score": 54,
+    "score": 56,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), contemporary(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: modern(+3), contemporary(+2), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -9394,12 +9394,12 @@
     "agent": "Hawk & Eagle Property Consultants, London",
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 51,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: bright(+2)"
+        "reason": "keywords: bright(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -9476,12 +9476,12 @@
     "agent": "Avrasons, London",
     "commute_min": 31,
     "commute_mode": "🚇 Northern",
-    "score": 77,
+    "score": 80,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), well presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), well presented(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -9640,12 +9640,12 @@
     "agent": "Barnard Marcus Lettings, Ealing Lettings",
     "commute_min": 46,
     "commute_mode": "🚌 bus 297 + Metropolitan",
-    "score": 55,
+    "score": 56,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), open-plan(+1), wembley(-3)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), open-plan(+1), wembley(-3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -9810,7 +9810,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), conversion(+1)"
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), conversion(+1), balcony(+2)"
       },
       "size": {
         "points": 6.6,
@@ -9876,8 +9876,8 @@
       "photos/fx-5248284_3.jpg",
       "photos/fx-5248284_4.jpg"
     ],
-    "status": "enquired",
-    "notes": "💜 Masha (16 Oct): \"B207 Icon Heights is amazing\" — she's talking to Aliyya Aziz (Foxtons) on WhatsApp. Brand-new build-to-rent, 2nd floor, private balcony, EPC B, 539 sq ft (50 m²), £450 pw = £1,950 pcm. Modern kitchen (quartz, dishwasher, induction), fitted wardrobes, washer/dryer, engineered wood floors, video entry, communal roof terrace, cycle store. Piccadilly line (Wood Green / Turnpike Lane), Hornsey rail. Photos are of the development.",
+    "status": "Let agreed",
+    "notes": "💜 Masha (16 Oct): \"B207 Icon Heights is amazing\" — she's talking to Aliyya Aziz (Foxtons) on WhatsApp. Brand-new build-to-rent, 2nd floor, private balcony, EPC B, 539 sq ft (50 m²), £450 pw = £1,950 pcm. Modern kitchen (quartz, dishwasher, induction), fitted wardrobes, washer/dryer, engineered wood floors, video entry, communal roof terrace, cycle store. Piccadilly line (Wood Green / Turnpike Lane), Hornsey rail. Photos are of the development. ⛔ 19 Oct: rented to someone else before we could take it (Masha). Kept as the reference flat for what we want.",
     "hood": "",
     "date_found": "2026-10-16",
     "masha_enquired": true,
@@ -9887,12 +9887,12 @@
     "agent": "Foxtons (Aliyya Aziz, WhatsApp +44 7875 800728)",
     "commute_min": 33,
     "commute_mode": "🚇 Piccadilly + Victoria",
-    "score": 73,
+    "score": 76,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), new build(+3), wood floors(+1)"
+        "reason": "keywords: modern(+3), new build(+3), wood floors(+1), balcony(+2), build-to-rent(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 6.0,
@@ -10531,12 +10531,12 @@
     "agent": "Regency Estate Group Ltd, London",
     "commute_min": 34,
     "commute_mode": "🚇 Victoria",
-    "score": 60,
+    "score": 63,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), light(+1), open-plan(+1)"
+        "reason": "keywords: modern(+3), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -11026,7 +11026,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -11759,12 +11759,12 @@
     "agent": "Leonard Leese, London",
     "commute_min": 55,
     "commute_mode": "🚌 bus 172 + Windrush + Jubilee + Victoria",
-    "score": 46,
+    "score": 49,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), sleek(+2)"
+        "reason": "keywords: modern(+3), sleek(+2), balcony(+2)"
       },
       "size": {
         "points": 0.5,
@@ -12413,7 +12413,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), newly refurbished(+3), refurbished(+2), contemporary(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), newly refurbished(+3), refurbished(+2), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -12490,12 +12490,12 @@
     "agent": "Hamptons, Canary Wharf",
     "commute_min": 40,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 60,
+    "score": 63,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: open-plan(+1), well presented(+2)"
+        "reason": "keywords: open-plan(+1), well presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -12982,12 +12982,12 @@
     "agent": "Barnard Marcus - Earlsfield",
     "commute_min": 56,
     "commute_mode": "🚌 bus 493 + District + Hammersmith & City + bus 18",
-    "score": 51,
+    "score": 52,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), open-plan(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), open-plan(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -13233,7 +13233,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), light(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -16828,12 +16828,12 @@
     "agent": "OpenRent - UK",
     "commute_min": 59,
     "commute_mode": "🚌 bus 93 + South Western Railway + Victoria",
-    "score": 43,
+    "score": 46,
     "score_breakdown": {
       "style": {
-        "points": 3.0,
+        "points": 5.8,
         "max": 22,
-        "reason": "keywords: ex-council(-5)"
+        "reason": "keywords: ex-council(-5), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -17161,7 +17161,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), sleek(+2), light(+1), open-plan(+1), well presented(+2)"
+        "reason": "keywords: modern(+3), sleek(+2), light(+1), open-plan(+1), well presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -18298,12 +18298,12 @@
     "agent": "Chestertons - Wandsworth Common & Earlsfield Lettings",
     "commute_min": 45,
     "commute_mode": "🚌 bus G1 + Northern + Victoria",
-    "score": 56,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -19113,12 +19113,12 @@
     "agent": "Vanquish Real Estate - Poplar Riverside",
     "commute_min": 43,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 56,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: bright(+2), luxury(+1)"
+        "reason": "keywords: bright(+2), luxury(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -19282,7 +19282,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), open-plan(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -19441,12 +19441,12 @@
     "agent": "Right Now Residential - London Bridge",
     "commute_min": 46,
     "commute_mode": "🚌 bus 266 + Jubilee + Bakerloo + bus 18",
-    "score": 38,
+    "score": 41,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "keywords: modern(+3), wembley(-3)"
+        "reason": "keywords: modern(+3), wembley(-3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -20261,12 +20261,12 @@
     "agent": "Pinnacle Estate - Harrow",
     "commute_min": 37,
     "commute_mode": "🚌 bus 182 + Metropolitan + bus 18",
-    "score": 39,
+    "score": 42,
     "score_breakdown": {
       "style": {
-        "points": 5.8,
+        "points": 8.5,
         "max": 22,
-        "reason": "keywords: wembley(-3)"
+        "reason": "keywords: wembley(-3), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -21894,12 +21894,12 @@
     "agent": "OpenRent, London",
     "commute_min": 58,
     "commute_mode": "🚌 bus 135 + DLR + Elizabeth line + Northern",
-    "score": 43,
+    "score": 46,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -22140,12 +22140,12 @@
     "agent": "OpenRent, London",
     "commute_min": 42,
     "commute_mode": "🚆 Weaver + Victoria",
-    "score": 70,
+    "score": 72,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), open-plan(+1)"
+        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -22632,12 +22632,12 @@
     "agent": "Chestertons, Canary Wharf & Docklands",
     "commute_min": 43,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 51,
+    "score": 53,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 1.9,
@@ -22714,12 +22714,12 @@
     "agent": "Letly, London",
     "commute_min": 50,
     "commute_mode": "🚌 bus 383 + Northern + Victoria",
-    "score": 45,
+    "score": 47,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 2.3,
@@ -23047,7 +23047,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), light(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -23288,12 +23288,12 @@
     "agent": "Life Residential, Greenwich",
     "commute_min": 48,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "score": 54,
+    "score": 57,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -23368,12 +23368,12 @@
     "agent": "Frestons, Covering London and the Home Counties",
     "commute_min": 52,
     "commute_mode": "🚌 bus 18 + Bakerloo + bus 18",
-    "score": 49,
+    "score": 52,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: new build(+3), light(+1), open-plan(+1)"
+        "reason": "keywords: new build(+3), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -23532,12 +23532,12 @@
     "agent": "Flagstones Property Group, London",
     "commute_min": 45,
     "commute_mode": "🚆 Chiltern Railways + bus 18",
-    "score": 45,
+    "score": 48,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: modern(+3), contemporary(+2), wembley(-3)"
+        "reason": "keywords: modern(+3), contemporary(+2), wembley(-3), balcony(+2)"
       },
       "size": {
         "points": 7.8,
@@ -23777,12 +23777,12 @@
     "agent": "Keatons, Stratford",
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 46,
+    "score": 48,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -24028,7 +24028,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), contemporary(+2), light(+1), open-plan(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), contemporary(+2), light(+1), open-plan(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 0.9,
@@ -24192,7 +24192,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), sleek(+2), handleless(+2), light(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), sleek(+2), handleless(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -24433,12 +24433,12 @@
     "agent": "Dexters, Nunhead",
     "commute_min": 50,
     "commute_mode": "🚆 Southern + Jubilee + Northern",
-    "score": 47,
+    "score": 50,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: contemporary(+2)"
+        "reason": "keywords: contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -24597,12 +24597,12 @@
     "agent": "JLL, Canary Wharf",
     "commute_min": 48,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 48,
+    "score": 51,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), contemporary(+2)"
+        "reason": "keywords: modern(+3), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 3.3,
@@ -24679,12 +24679,12 @@
     "agent": "Kinleigh Folkard & Hayward - Lettings, Canada Water",
     "commute_min": 51,
     "commute_mode": "🚌 bus 277 + Elizabeth line + Northern",
-    "score": 52,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2)"
+        "reason": "keywords: modern(+3), bright(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -25006,12 +25006,12 @@
     "agent": "ea2, Wapping",
     "commute_min": 40,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "score": 56,
+    "score": 62,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), well-presented(+2)"
+        "reason": "keywords: modern(+3), well-presented(+2), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -25169,12 +25169,12 @@
     "agent": "Flagstones Property Group, London",
     "commute_min": 45,
     "commute_mode": "🚌 bus 182 + Metropolitan",
-    "score": 58,
+    "score": 60,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -25989,12 +25989,12 @@
     "agent": "Ellis & Co, Wembley",
     "commute_min": 42,
     "commute_mode": "🚆 Chiltern Railways + bus 18",
-    "score": 54,
+    "score": 57,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "keywords: modern(+3), wembley(-3)"
+        "reason": "keywords: modern(+3), wembley(-3), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -27296,12 +27296,12 @@
     "agent": "JOHNS&CO, West Hampstead",
     "commute_min": 49,
     "commute_mode": "🚆 Thameslink + Circle",
-    "score": 53,
+    "score": 56,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -27458,12 +27458,12 @@
     "agent": "JOHNS&CO, West Hampstead",
     "commute_min": 46,
     "commute_mode": "🚇 Northern + Victoria",
-    "score": 55,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -28032,12 +28032,12 @@
     "agent": "Dexters, City",
     "commute_min": 36,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "score": 59,
+    "score": 62,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: stylish(+3)"
+        "reason": "keywords: stylish(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -28196,12 +28196,12 @@
     "agent": "Avrasons, London",
     "commute_min": 42,
     "commute_mode": "🚌 bus 3 + Victoria",
-    "score": 40,
+    "score": 43,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 1.9,
@@ -28278,12 +28278,12 @@
     "agent": "Foxtons, Wembley",
     "commute_min": 47,
     "commute_mode": "🚌 bus 182 + Metropolitan",
-    "score": 31,
+    "score": 36,
     "score_breakdown": {
       "style": {
-        "points": 8.5,
+        "points": 14.0,
         "max": 22,
-        "reason": "keywords: light(+1), open-plan(+1), wembley(-3)"
+        "reason": "keywords: light(+1), open-plan(+1), wembley(-3), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 1.9,
@@ -28688,12 +28688,12 @@
     "agent": "Winkworth, Golders Green",
     "commute_min": 43,
     "commute_mode": "🚌 bus 226 + Northern + Victoria",
-    "score": 32,
+    "score": 34,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -29098,12 +29098,12 @@
     "agent": "Chase Evans, Docklands",
     "commute_min": 43,
     "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-    "score": 57,
+    "score": 60,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 11.4,
@@ -29180,12 +29180,12 @@
     "agent": "Such Properties, London",
     "commute_min": 39,
     "commute_mode": "🚌 bus 333 + Victoria",
-    "score": 57,
+    "score": 60,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: stylish(+3)"
+        "reason": "keywords: stylish(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -29425,12 +29425,12 @@
     "agent": "MORGAN LODGE (INTERNATIONAL) LIMITED, London",
     "commute_min": 49,
     "commute_mode": "🚌 bus D7 + Hammersmith & City",
-    "score": 39,
+    "score": 41,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 6.6,
@@ -29833,12 +29833,12 @@
     "agent": "Hamilton Chase, Barnet",
     "commute_min": 46,
     "commute_mode": "🚌 bus 382 + Northern + Victoria",
-    "score": 58,
+    "score": 61,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -30079,12 +30079,12 @@
     "agent": "Paramount, London - Lettings",
     "commute_min": 47,
     "commute_mode": "🚌 bus 143 + Northern",
-    "score": 58,
+    "score": 60,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 13.2,
@@ -30324,12 +30324,12 @@
     "agent": "OpenRent, London",
     "commute_min": 46,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "score": 55,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3)"
+        "reason": "keywords: modern(+3), stylish(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -31060,12 +31060,12 @@
     "agent": "Dexters, Streatham",
     "commute_min": 51,
     "commute_mode": "🚌 bus 250 + Victoria",
-    "score": 35,
+    "score": 38,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -31306,12 +31306,12 @@
     "agent": "CityZEN, London",
     "commute_min": 38,
     "commute_mode": "🚇 Metropolitan + bus 18",
-    "score": 40,
+    "score": 43,
     "score_breakdown": {
       "style": {
-        "points": 5.8,
+        "points": 8.5,
         "max": 22,
-        "reason": "keywords: wembley(-3)"
+        "reason": "keywords: wembley(-3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -31388,12 +31388,12 @@
     "agent": "Roundtree Real Estate, London",
     "commute_min": 50,
     "commute_mode": "🚌 bus 240 + Northern",
-    "score": 41,
+    "score": 44,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -31874,12 +31874,12 @@
     "agent": "Butler & Stag, London",
     "commute_min": 47,
     "commute_mode": "🚌 bus 25 + Hammersmith & City",
-    "score": 38,
+    "score": 40,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: contemporary(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: contemporary(+2), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 1.9,
@@ -31956,12 +31956,12 @@
     "agent": "Drivers & Norris, Islington- Lettings",
     "commute_min": 27,
     "commute_mode": "🚇 Northern + Victoria",
-    "score": 81,
+    "score": 83,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: well-presented(+2), garden flat(+2), private garden(+1)"
+        "reason": "keywords: well-presented(+2), garden flat(+2), private garden(+1), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -32039,12 +32039,12 @@
     "agent": "Strettons, Strettons Residential Agency",
     "commute_min": 50,
     "commute_mode": "🚇 District + Central + Metropolitan",
-    "score": 56,
+    "score": 59,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -32939,12 +32939,12 @@
     "agent": "Foxtons, Temple Fortune",
     "commute_min": 43,
     "commute_mode": "🚌 bus 102 + Northern",
-    "score": 63,
+    "score": 66,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2)"
+        "reason": "keywords: modern(+3), bright(+2), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -33021,12 +33021,12 @@
     "agent": "Dexters, Wapping",
     "commute_min": 43,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "score": 55,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2)"
+        "reason": "keywords: modern(+3), bright(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -33351,12 +33351,12 @@
     "agent": "Callaway & Co, Cricklewood",
     "commute_min": 37,
     "commute_mode": "🚌 bus 260 + Jubilee + Bakerloo + bus 18",
-    "score": 55,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -33679,12 +33679,12 @@
     "agent": "Franklyn James, Limehouse and Wapping",
     "commute_min": 42,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "score": 50,
+    "score": 53,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 0.9,
@@ -33759,12 +33759,12 @@
     "lat": 51.487536,
     "lng": -0.006246,
     "agent": "Alliance London, London",
-    "score": 56,
+    "score": 59,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: open-plan(+1), well presented(+2)"
+        "reason": "keywords: open-plan(+1), well presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -33843,12 +33843,12 @@
     "agent": "Alliance London, London",
     "commute_min": 44,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "score": 64,
+    "score": 65,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -34253,12 +34253,12 @@
     "agent": "One Move Group, London",
     "commute_min": 34,
     "commute_mode": "🚇 Metropolitan + bus 18",
-    "score": 60,
+    "score": 63,
     "score_breakdown": {
       "style": {
-        "points": 19.5,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), light(+1), open-plan(+1), wembley(-3)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), light(+1), open-plan(+1), wembley(-3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -34335,12 +34335,12 @@
     "agent": "OpenRent, London",
     "commute_min": 38,
     "commute_mode": "🚌 bus 2 + Victoria",
-    "score": 45,
+    "score": 47,
     "score_breakdown": {
       "style": {
-        "points": 11.3,
+        "points": 14.0,
         "max": 22,
-        "reason": "keywords: light(+1)"
+        "reason": "keywords: light(+1), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -34577,12 +34577,12 @@
     "agent": "Domeview Properties, London",
     "commute_min": 42,
     "commute_mode": "🚆 Southeastern + bus 24",
-    "score": 40,
+    "score": 43,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -35148,12 +35148,12 @@
     "agent": "John Payne, Greenwich",
     "commute_min": 46,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "score": 66,
+    "score": 67,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -35230,12 +35230,12 @@
     "agent": "Right Now Residential, London",
     "commute_min": 53,
     "commute_mode": "🚌 bus SL10 + Northern",
-    "score": 52,
+    "score": 55,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3)"
+        "reason": "keywords: modern(+3), stylish(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -35718,12 +35718,12 @@
     "agent": "Black Katz, Islington",
     "commute_min": 44,
     "commute_mode": "🚌 bus 234 + Northern + Victoria",
-    "score": 47,
+    "score": 50,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -35882,12 +35882,12 @@
     "agent": "Prestige Properties, London Lettings",
     "commute_min": 43,
     "commute_mode": "🚌 bus 83 + Northern",
-    "score": 48,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.2,
@@ -35964,12 +35964,12 @@
     "agent": "OpenRent, London",
     "commute_min": 50,
     "commute_mode": "🚇 Jubilee + Victoria",
-    "score": 53,
+    "score": 56,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -36699,12 +36699,12 @@
     "agent": "Dexters, Ealing",
     "commute_min": 56,
     "commute_mode": "🚇 Central + Victoria",
-    "score": 45,
+    "score": 48,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -36868,7 +36868,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 13.2,
@@ -36945,12 +36945,12 @@
     "agent": "Foxtons, London",
     "commute_min": 51,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "score": 46,
+    "score": 48,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: bright(+2), contemporary(+2), open-plan(+1)"
+        "reason": "keywords: bright(+2), contemporary(+2), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 6.6,
@@ -37273,12 +37273,12 @@
     "agent": "Acorn, Peckham Rye",
     "commute_min": 51,
     "commute_mode": "🚌 bus P4 + Victoria",
-    "score": 48,
+    "score": 51,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), refurbished(+2), light(+1)"
+        "reason": "keywords: modern(+3), refurbished(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -37355,12 +37355,12 @@
     "agent": "Dexters, Canary Wharf",
     "commute_min": 40,
     "commute_mode": "🚈 DLR + Northern + Victoria",
-    "score": 55,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: bright(+2)"
+        "reason": "keywords: bright(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -37682,12 +37682,12 @@
     "agent": "Chestertons, Canary Wharf & Docklands",
     "commute_min": 47,
     "commute_mode": "🚌 bus D8 + Jubilee + Victoria",
-    "score": 36,
+    "score": 39,
     "score_breakdown": {
       "style": {
-        "points": 11.3,
+        "points": 14.0,
         "max": 22,
-        "reason": "keywords: light(+1)"
+        "reason": "keywords: light(+1), balcony(+2)"
       },
       "size": {
         "points": 3.3,
@@ -38092,12 +38092,12 @@
     "agent": "Anthony Pepe Estate Agents, Palmers Green",
     "commute_min": 44,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "score": 72,
+    "score": 75,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -38174,12 +38174,12 @@
     "agent": "Regent Letting and Property Management, South London and Home Counties",
     "commute_min": 38,
     "commute_mode": "🚌 bus 452 + Victoria",
-    "score": 57,
+    "score": 60,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: light(+1), open-plan(+1)"
+        "reason": "keywords: light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -38338,12 +38338,12 @@
     "agent": "Savills Lettings, Wapping",
     "commute_min": 41,
     "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-    "score": 61,
+    "score": 64,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: newly refurbished(+3), refurbished(+2), conversion(+1)"
+        "reason": "keywords: newly refurbished(+3), refurbished(+2), conversion(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -38748,12 +38748,12 @@
     "agent": "Avrasons, London",
     "commute_min": 30,
     "commute_mode": "🚇 Northern",
-    "score": 73,
+    "score": 76,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2)"
+        "reason": "keywords: modern(+3), bright(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -38912,12 +38912,12 @@
     "agent": "The Stow Brothers, Walthamstow & Leyton",
     "commute_min": 45,
     "commute_mode": "🚇 Central + Metropolitan",
-    "score": 66,
+    "score": 69,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -39076,12 +39076,12 @@
     "agent": "Fish Need Water, London",
     "commute_min": 62,
     "commute_mode": "🚌 bus P13 + Southeastern + Thameslink + Hammersmith & City",
-    "score": 52,
+    "score": 58,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: well presented(+2)"
+        "reason": "keywords: well presented(+2), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 12.0,
@@ -39650,12 +39650,12 @@
     "agent": "Life Residential, Greenwich",
     "commute_min": 45,
     "commute_mode": "🚆 Thameslink + Hammersmith & City",
-    "score": 52,
+    "score": 55,
     "score_breakdown": {
       "style": {
-        "points": 11.3,
+        "points": 14.0,
         "max": 22,
-        "reason": "keywords: open-plan(+1)"
+        "reason": "keywords: open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -39819,7 +39819,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -39896,12 +39896,12 @@
     "agent": "Living Residential, West Hampstead-London",
     "commute_min": 44,
     "commute_mode": "🚌 bus 226 + Northern + Victoria",
-    "score": 38,
+    "score": 40,
     "score_breakdown": {
       "style": {
-        "points": 9.9,
+        "points": 12.6,
         "max": 22,
-        "reason": "no style cues in notes"
+        "reason": "keywords: fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -39983,7 +39983,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), well-presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), contemporary(+2), well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 8.4,
@@ -40803,7 +40803,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), sleek(+2), contemporary(+2), light(+1)"
+        "reason": "keywords: modern(+3), bright(+2), sleek(+2), contemporary(+2), light(+1), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 2.8,
@@ -40880,12 +40880,12 @@
     "agent": "Regent Letting and Property Management, West London and Home Counties",
     "commute_min": 49,
     "commute_mode": "🚇 Northern + Victoria",
-    "score": 62,
+    "score": 63,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: bright(+2), sleek(+2), contemporary(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: bright(+2), sleek(+2), contemporary(+2), light(+1), open-plan(+1), balcony(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -41864,12 +41864,12 @@
     "agent": "Warren Residential Sales & Lettings, Putney",
     "commute_min": 55,
     "commute_mode": "🚌 bus 419 + South Western Railway + Victoria",
-    "score": 70,
+    "score": 71,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), wood floors(+1), well presented(+2)"
+        "reason": "keywords: modern(+3), bright(+2), wood floors(+1), well presented(+2), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -42356,12 +42356,12 @@
     "agent": "John Payne, East Greenwich",
     "commute_min": 53,
     "commute_mode": "🚌 bus 422 + Jubilee + Bakerloo + bus 18",
-    "score": 51,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3)"
+        "reason": "keywords: modern(+3), stylish(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -42684,12 +42684,12 @@
     "agent": "Hunters, Camberwell",
     "commute_min": 42,
     "commute_mode": "🚌 bus 45 + Victoria",
-    "score": 54,
+    "score": 57,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), contemporary(+2)"
+        "reason": "keywords: modern(+3), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 6.0,
@@ -42771,7 +42771,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), sleek(+2), contemporary(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), sleek(+2), contemporary(+2), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 12.6,
@@ -43017,7 +43017,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), sleek(+2), light(+1), open-plan(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), sleek(+2), light(+1), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -43094,12 +43094,12 @@
     "agent": "Brinkleys Estate Agents, Wimbledon Park and Southfields",
     "commute_min": 56,
     "commute_mode": "🚌 bus 39 + District + Victoria",
-    "score": 54,
+    "score": 55,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), contemporary(+2)"
+        "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -43258,12 +43258,12 @@
     "agent": "Bairstow Eves Lettings, Walthamstow",
     "commute_min": 37,
     "commute_mode": "🚌 bus 158 + Victoria",
-    "score": 62,
+    "score": 64,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), well presented(+2)"
+        "reason": "keywords: modern(+3), well presented(+2), fitted wardrobes(+2)"
       },
       "size": {
         "points": 7.5,
@@ -43914,12 +43914,12 @@
     "agent": "OpenRent, London",
     "commute_min": 39,
     "commute_mode": "🚌 bus 59 + Victoria",
-    "score": 51,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: refurbished(+2)"
+        "reason": "keywords: refurbished(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -44075,12 +44075,12 @@
     "agent": "UNCLE, Colindale",
     "commute_min": 39,
     "commute_mode": "🚇 Northern + Victoria",
-    "score": 51,
+    "score": 54,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: bright(+2), high ceilings(+2), high ceiling(+1)"
+        "reason": "keywords: bright(+2), high ceilings(+2), high ceiling(+1), balcony(+2)"
       },
       "size": {
         "points": 6.0,
@@ -44151,12 +44151,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "Conversion 1 Bed 1 Reception 1 Bathroom Energy Rating : C Furnished or Unfurnished Communal Garden Separate WC Balcony Washing Machine",
-    "score": 71,
+    "score": 72,
     "score_breakdown": {
       "style": {
-        "points": 20.9,
+        "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), well-presented(+2), conversion(+1)"
+        "reason": "keywords: modern(+3), bright(+2), well-presented(+2), conversion(+1), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -44422,12 +44422,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "OPEN PLAN LIVING BALCONY SOUTH-WEST FACING GYM CONCIERGE LOCAL AMENITIES 0.1 MI TO LANGDON PARK DLR",
-    "score": 62,
+    "score": 65,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), light(+1)"
+        "reason": "keywords: modern(+3), bright(+2), light(+1), balcony(+2)"
       },
       "size": {
         "points": 2.8,
@@ -44791,12 +44791,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Double Bedroom Entry-Phone Access Fitted Kitchen Upper Floor Security Bath/Shower Room/WC 20/25 Mins City/West End Available Immediately ! Part Furnished Private Balcony Passenfer Lift",
-    "score": 79,
+    "score": 82,
     "score_breakdown": {
       "style": {
-        "points": 16.8,
+        "points": 19.5,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2)"
+        "reason": "keywords: modern(+3), bright(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -44973,12 +44973,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "No Agent Fees Property Reference Number: 3045815",
-    "score": 74,
+    "score": 77,
     "score_breakdown": {
       "style": {
-        "points": 14.0,
+        "points": 16.8,
         "max": 22,
-        "reason": "keywords: modern(+3)"
+        "reason": "keywords: modern(+3), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -45977,12 +45977,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Bedroom Bathroom Seperate Kitchen Gated Parking Close to Transport Secured Parking",
-    "score": 62,
+    "score": 64,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: recently refurbished(+2), refurbished(+2)"
+        "reason": "keywords: recently refurbished(+2), refurbished(+2), balcony(+2)"
       },
       "size": {
         "points": 0,
@@ -46068,12 +46068,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "25m swimming pool Jacuzzi and sauna State-of-the-art gym Rooftop terraces with BBQ’s Resident lounges Co-working spaces Sports simulation room and Games Room 24-hour concierge and security On-site maintenance Wi-Fi included",
-    "score": 58,
+    "score": 61,
     "score_breakdown": {
       "style": {
-        "points": 18.1,
+        "points": 20.9,
         "max": 22,
-        "reason": "keywords: contemporary(+2), the maple(+4)"
+        "reason": "keywords: contemporary(+2), the maple(+4), build to rent(+2)"
       },
       "size": {
         "points": 7.5,
@@ -46621,7 +46621,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -47431,12 +47431,12 @@
     "date_found": "2026-10-15",
     "masha_enquired": true,
     "features": "One Bedroom One Bathroom Separate Kitchen Wood Flooring Private Balcony Unallocated Parking",
-    "score": 49,
+    "score": 51,
     "score_breakdown": {
       "style": {
-        "points": 12.6,
+        "points": 15.4,
         "max": 22,
-        "reason": "keywords: well-presented(+2)"
+        "reason": "keywords: well-presented(+2), balcony(+2)"
       },
       "size": {
         "points": 7.5,
@@ -47617,7 +47617,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), open-plan(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 6.6,
@@ -47967,7 +47967,7 @@
       "photos/94294830_4.jpg"
     ],
     "status": "enquired",
-    "notes": "💜 Masha enquired 2026-10-14. 🚇 No-bus option: 26-min walk to Highgate + Northern line, about 51 min. (Google's 'Princes Ave' by Alexandra Palace station is a different street, N22; this flat is N10 by Muswell Hill Broadway.) One bedroom; Ground floor; Private entrance; Private garden; Unfurnished; Available 1st March. Set on the ground floor of an attractive conversion, this charming one bedroom garden flat is perfectly positioned just a short stroll from Muswell Hill Broadway. Combining character and comfort, the property offers bright living space, a spacious double bedroom, a fitted kitchen, and a modern bathroom. A charming one bedroom ground floor conversion flat to rent, ideally located just moments from Muswell Hill's vibrant Broadway. This well-presented home offers bright and spacious accommodation, featuring a generous",
+    "notes": "💜 Masha enquired 2026-10-14. 🚇 No-bus option: 26-min walk to Highgate + Northern line, about 51 min. (Google's 'Princes Ave' by Alexandra Palace station is a different street, N22; this flat is N10 by Muswell Hill Broadway.) One bedroom; Ground floor; Private entrance; Private garden; Unfurnished; Available 1st March. Set on the ground floor of an attractive conversion, this charming one bedroom garden flat is perfectly positioned just a short stroll from Muswell Hill Broadway. Combining character and comfort, the property offers bright living space, a spacious double bedroom, a fitted kitchen, and a modern bathroom. A charming one bedroom ground floor conversion flat to rent, ideally located just moments from Muswell Hill's vibrant Broadway. This well-presented home offers bright and spacious accommodation, featuring a generous 💬 Masha 19 Oct: amazing flat but location a bit too far.",
     "hood": "",
     "date_found": "2026-10-15",
     "masha_enquired": true,
@@ -48057,7 +48057,7 @@
       "photos/93395547_4.jpg"
     ],
     "status": "enquired",
-    "notes": "💜 Masha enquired 2026-10-14. Double Bedroom; Living Room; Kitchen; Bathroom; Garden; Modern. NO DEPOSIT OPTION AVAILABLE. A well-presented and modern one-bedroom ground floor flat, ideally situated in the heart of central Muswell Hill. Offering approximately 52 sq m of well-proportioned accommodation, the property comprises a separate reception room, modern separate kitchen, double bedroom and contemporary bathroom. The property benefits from high ceilings throughout, creating a bright and spacious feel. A further benefit is access to a private share of the garden, providing a pleasant outdoor space. An ex",
+    "notes": "💜 Masha enquired 2026-10-14. Double Bedroom; Living Room; Kitchen; Bathroom; Garden; Modern. NO DEPOSIT OPTION AVAILABLE. A well-presented and modern one-bedroom ground floor flat, ideally situated in the heart of central Muswell Hill. Offering approximately 52 sq m of well-proportioned accommodation, the property comprises a separate reception room, modern separate kitchen, double bedroom and contemporary bathroom. The property benefits from high ceilings throughout, creating a bright and spacious feel. A further benefit is access to a private share of the garden, providing a pleasant outdoor space. An ex 💬 Masha 19 Oct: amazing flat but location a bit too far.",
     "hood": "",
     "date_found": "2026-10-15",
     "masha_enquired": true,
@@ -48232,12 +48232,12 @@
     "notes": "Purpose-built block; modern white kitchen, open-plan living/dining, double bedroom, balcony. Size unknown — ask agent for floorplan/m². Alliance London.",
     "hood": "Hoodmaps: Tourists (St. Katharine's & Wapping), also painted Rich/Hipsters; nearby tags: \"9 pound a pint \"Rooftop\"\", \"Yuppie tiger parents\", \"ANTIFA Mecca\".",
     "date_found": "2026-10-15",
-    "score": 56,
+    "score": 59,
     "score_breakdown": {
       "style": {
-        "points": 15.4,
+        "points": 18.1,
         "max": 22,
-        "reason": "keywords: modern(+3), open-plan(+1)"
+        "reason": "keywords: modern(+3), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 6.0,
@@ -48319,7 +48319,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), bright(+2), new build(+3), sleek(+2), open-plan(+1)"
+        "reason": "keywords: modern(+3), bright(+2), new build(+3), sleek(+2), open-plan(+1), balcony(+2)"
       },
       "size": {
         "points": 15,
@@ -48491,7 +48491,7 @@
       "style": {
         "points": 22,
         "max": 22,
-        "reason": "keywords: modern(+3), stylish(+3), bright(+2), handleless(+2), light(+1), wood floors(+1), open-plan(+1), conversion(+1)"
+        "reason": "keywords: modern(+3), stylish(+3), bright(+2), handleless(+2), light(+1), wood floors(+1), open-plan(+1), conversion(+1), balcony(+2)"
       },
       "size": {
         "points": 7.8,
