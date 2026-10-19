@@ -1,5 +1,82 @@
 [
   {
+    "id": "dn-DAN210008",
+    "title": "Liverpool Road — 1-bed",
+    "area": "Liverpool Road, Islington, London, N7",
+    "price": 1800,
+    "size": "size not stated",
+    "floor": "",
+    "furnished": "Furnished",
+    "available": "",
+    "commute": "29 min · 🚇 Victoria (TfL, arrive 09:00)",
+    "pets": "Not mentioned",
+    "url": "https://www.drivers.co.uk/property-details/DAN210008",
+    "source": "drivers",
+    "photos": [
+      "photos/dn-DAN210008_0.jpg"
+    ],
+    "status": "new",
+    "notes": "[Drivers & Norris] Drivers & Norris (Demmy Gallagher). A well-proportioned one-bedroom apartment located on Liverpool Road in the heart of Islington. This ex-local authority property has been tastefully maintained and newly decorated and offers a bright, spacious reception room with natural light pouring in through double glazed windows and gas central heating. The fully equipped kitchen provides a practical space for everyday cooking, while the bathroom suite is clean and contemporary. offered on a furnished basis. ",
+    "hood": "",
+    "date_found": "2026-10-19",
+    "features": "",
+    "listed": "2026-10-19",
+    "lat": 51.548393249512,
+    "lng": -0.10976699739695,
+    "agent": "Drivers & Norris (Demmy Gallagher)",
+    "commute_min": 29,
+    "commute_mode": "🚇 Victoria",
+    "score": 62,
+    "score_breakdown": {
+      "style": {
+        "points": 16.8,
+        "max": 22,
+        "reason": "keywords: bright(+2), contemporary(+2), light(+1)"
+      },
+      "size": {
+        "points": 7.5,
+        "max": 15,
+        "reason": "size unknown (size not stated)"
+      },
+      "commute": {
+        "points": 20,
+        "max": 20,
+        "reason": "29 min door-to-door (TfL): 🚇 Victoria"
+      },
+      "hood": {
+        "points": 7.5,
+        "max": 15,
+        "reason": "no Hoodmaps data"
+      },
+      "availability": {
+        "points": 4.0,
+        "max": 10,
+        "reason": "date unknown/flexible"
+      },
+      "furnished": {
+        "points": 5,
+        "max": 5,
+        "reason": "furnished"
+      },
+      "price": {
+        "points": 1.2,
+        "max": 3,
+        "reason": "£1,800"
+      },
+      "extras": {
+        "points": 0,
+        "max": 4,
+        "reason": "none mentioned"
+      },
+      "outdoor": {
+        "points": 0,
+        "max": 6,
+        "reason": "no outdoor space mentioned"
+      }
+    },
+    "fresh_days": 0
+  },
+  {
     "id": "otm-20583458",
     "title": "Netherwood Road — 1-bed",
     "area": "Netherwood Road, London, W14",
