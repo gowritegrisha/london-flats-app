@@ -78,7 +78,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Kilburn · Kilburn/West Hampstead NW6"
   },
   {
     "id": "or-3076075",
@@ -159,7 +160,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 4
+    "fresh_days": 4,
+    "nbhd": "Clerkenwell WC1X"
   },
   {
     "id": "otm-10139645",
@@ -240,7 +242,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Brixton Acre Lane SW2"
   },
   {
     "id": "94458696",
@@ -321,7 +324,8 @@
         "reason": "balcony/terrace"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Maida Vale · Kilburn/West Hampstead NW6"
   },
   {
     "id": "94192812",
@@ -402,7 +406,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 7
+    "fresh_days": 7,
+    "nbhd": "East Finchley N2"
   },
   {
     "id": "94462989",
@@ -483,7 +488,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Earl's Court SW5"
   },
   {
     "id": "94463982",
@@ -564,7 +570,8 @@
         "reason": "balcony/terrace"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Brownswood · Finsbury Park N4"
   },
   {
     "id": "fx-2430569",
