@@ -79,7 +79,8 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Childs Hill NW11"
  },
  {
   "id": "otm-20585669",
@@ -161,7 +162,8 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Clapham Town SW4"
  },
  {
   "id": "otm-20586352",
@@ -243,7 +245,8 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Finchley Church End N3"
  },
  {
   "id": "otm-20586562",
@@ -325,7 +328,8 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Seven Sisters · South Tottenham N15"
  },
  {
   "id": "otm-20583088",
@@ -407,7 +411,8 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Forest · Leyton E10"
  },
  {
   "id": "otm-20586667",
@@ -489,7 +494,8 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "North Bermondsey SE16"
  },
  {
   "id": "otm-16316569",

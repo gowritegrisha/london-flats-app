@@ -298,5 +298,24 @@
   "notes": "WhatsApp video viewing; Jake will call +34 605 227 263. Dog and cat OK, mid-November move-in OK.",
   "calendar_event_id": "o8gkd4i613i98elj101m7d8vns",
   "calendar_link": "https://www.google.com/calendar/event?eid=bzhna2Q0aTYxM2k5OGVsajEwMW03ZDh2bnMgZ293cml0ZW1hc2hhQG0"
+ },
+ {
+  "id": "mail-1a1585c8cd944d81",
+  "listing_id": "94261464",
+  "title": "14c Rucklidge Avenue, Harlesden, NW10 4PS — 1-bed",
+  "address": "14c Rucklidge Avenue, Harlesden, NW10 4PS (WhatsApp video viewing)",
+  "datetime": "2026-10-20T17:45:00+01:00",
+  "agent": "Mile Estates, Kensal Rise (Zachary Rosenblatt)",
+  "agent_email": "Zack@mileestates.co.uk",
+  "agent_phone": null,
+  "thread_id": "1a15436d5a1770c5",
+  "status": "agreed",
+  "source": "masha-mail",
+  "url": "https://www.rightmove.co.uk/properties/94261464",
+  "type": "video",
+  "agent_contact": "Zachary Rosenblatt",
+  "notes": "Zack offered today 17:45 London; Masha accepted (20 Oct 13:04 Madrid) and asked to join by WhatsApp video; agent hasn't confirmed video yet. £1,600 pcm, ~43 min.",
+  "calendar_event_id": "dm8seu8deh9hvmv7ql145kbqoc",
+  "calendar_link": "https://www.google.com/calendar/event?eid=ZG04c2V1OGRlaDlodm12N3FsMTQ1a2Jxb2MgZ293cml0ZW1hc2hhQG0"
  }
 ]
