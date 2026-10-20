@@ -28,9 +28,6 @@
     "lat": 51.540573,
     "lng": -0.1033,
     "agent": "Hotblack Desiato - Islington",
-    "commute_min": 31,
-    "commute_mode": "🚇 Victoria",
-    "commute_ok": true,
     "score": 64,
     "score_breakdown": {
       "style": {
@@ -80,7 +77,10 @@
       }
     },
     "fresh_days": 0,
-    "nbhd": "St Mary's/St James' N1"
+    "nbhd": "St Mary's/St James' N1",
+    "commute_min": 31,
+    "commute_mode": "🚇 Victoria",
+    "commute_ok": true
   },
   {
     "id": "otm-20585285",
@@ -111,9 +111,6 @@
     "lat": 51.489397,
     "lng": -0.206597,
     "agent": "City Living London - Hammersmith",
-    "commute_min": 34,
-    "commute_mode": "🚇 District + Victoria",
-    "commute_ok": true,
     "score": 72,
     "score_breakdown": {
       "style": {
@@ -163,7 +160,10 @@
       }
     },
     "fresh_days": 0,
-    "nbhd": "West Kensington W14"
+    "nbhd": "West Kensington W14",
+    "commute_min": 34,
+    "commute_mode": "🚇 District + Victoria",
+    "commute_ok": true
   },
   {
     "id": "otm-20585303",
@@ -194,9 +194,6 @@
     "lat": 51.490518,
     "lng": -0.111559,
     "agent": "LiFE Residential - Nine Elms Riverside",
-    "commute_min": 39,
-    "commute_mode": "🚇 Northern",
-    "commute_ok": true,
     "score": 68,
     "score_breakdown": {
       "style": {
@@ -246,7 +243,10 @@
       }
     },
     "fresh_days": 0,
-    "nbhd": "Kennington SE11"
+    "nbhd": "Kennington SE11",
+    "commute_min": 39,
+    "commute_mode": "🚇 Northern",
+    "commute_ok": true
   },
   {
     "id": "94463676",
@@ -277,9 +277,6 @@
     "lat": 51.534084,
     "lng": -0.17898,
     "agent": "Liv International, London",
-    "commute_min": 27,
-    "commute_mode": "🚌 bus 113 + bus 18",
-    "commute_ok": true,
     "score": 68,
     "score_breakdown": {
       "style": {
@@ -329,7 +326,10 @@
       }
     },
     "fresh_days": 1,
-    "nbhd": "Abbey Road · St John's Wood NW8"
+    "nbhd": "Abbey Road · St John's Wood NW8",
+    "commute_min": 27,
+    "commute_mode": "🚌 bus 113 + bus 18",
+    "commute_ok": true
   },
   {
     "id": "94465752",
@@ -360,9 +360,6 @@
     "lat": 51.551708,
     "lng": -0.096032,
     "agent": "Felicity J Lord, Islington Lettings",
-    "commute_min": 34,
-    "commute_mode": "🚇 Victoria",
-    "commute_ok": true,
     "score": 66,
     "score_breakdown": {
       "style": {
@@ -412,7 +409,10 @@
       }
     },
     "fresh_days": 1,
-    "nbhd": "Highbury N5"
+    "nbhd": "Highbury N5",
+    "commute_min": 34,
+    "commute_mode": "🚇 Victoria",
+    "commute_ok": true
   },
   {
     "id": "94475277",
@@ -443,9 +443,6 @@
     "lat": 51.589734,
     "lng": -0.056945,
     "agent": "Regency Estate Group Ltd, London",
-    "commute_min": 34,
-    "commute_mode": "🚇 Victoria",
-    "commute_ok": true,
     "score": 65,
     "score_breakdown": {
       "style": {
@@ -495,7 +492,10 @@
       }
     },
     "fresh_days": 1,
-    "nbhd": "Tottenham Hale N17"
+    "nbhd": "Tottenham Hale N17",
+    "commute_min": 34,
+    "commute_mode": "🚇 Victoria",
+    "commute_ok": true
   },
   {
     "id": "otm-20573677",
@@ -4166,8 +4166,7 @@
     },
     "fresh_days": 1,
     "nbhd": "Southfield · Acton W3",
-    "hidden": true,
-    "hidden_reason": "commute>45",
+    "kept_reason": "agent thread",
     "commute_min": 56,
     "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
     "commute_ok": false
