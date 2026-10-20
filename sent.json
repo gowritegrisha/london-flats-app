@@ -3104,7 +3104,13 @@
    "updated": "2026-10-20T11:58:34+01:00"
   },
   "action_rank": 0,
-  "agent_contact": "Zachary Rosenblatt"
+  "agent_contact": "Zachary Rosenblatt",
+  "reply_sent": {
+   "hash": "6e62b30546a1eae1",
+   "draft": "Hey! yes, today at 17:45 works! i'm in Spain until mid-November so i'll join online, could you show me the flat on a WhatsApp video call? +34605227263",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "Zack@mileestates.co.uk"
+  }
  },
  {
   "listing_id": "94242654",
@@ -3202,7 +3208,13 @@
    "updated": "2026-10-20T11:58:34+01:00"
   },
   "action_rank": 0,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "0aa569f2df93de15",
+   "draft": "Hey! thanks for checking, but it's a bit too far from my office and over our budget, so we'll pass. good luck!",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "samandapepushaj@dexters.co.uk"
+  }
  },
  {
   "listing_id": "akelius-gerard-court-34",
@@ -3294,7 +3306,13 @@
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
-  "agent_phone": "020 7659 8910"
+  "agent_phone": "020 7659 8910",
+  "reply_sent": {
+   "hash": "11c6ec24f6acb32e",
+   "draft": "Hey! thanks for reaching out. we're looking for a 1-bed with a separate bedroom (or a 2-bed), 2 of us, me and my partner, both product managers in tech, plus a dog and a cat. combined income is £190k. move in mid-November, latest early December. budget up to £2,100 pcm. areas within about 40 min of Regent's Place by tube. furnished or unfurnished both fine. deal breakers: no pets allowed, dark or basement flats. i'm in Spain until mid-November so video viewings on WhatsApp +34605227263 work best, fri 23 oct at 16:30 or mon 26 oct at 15:00 london time. feel free to call or text me any time",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "Dershan.Morris@foxtons.co.uk"
+  }
  },
  {
   "listing_id": "94485495",
@@ -3345,7 +3363,13 @@
    "age_days": 0,
    "updated": "2026-10-20T11:58:34+01:00"
   },
-  "action_rank": 0
+  "action_rank": 0,
+  "reply_sent": {
+   "hash": "285d7f4776bd2a45",
+   "draft": "Hey! sorry i missed your call, i'm in Spain until mid-November, feel free to call me any time on +34605227263. it's 2 of us, me and my partner, both product managers in tech, combined income is £190k. we're moving mid-November. no children, we have a dog and a cat. could we do a video viewing on WhatsApp? thu 22 oct at 16:30 or mon 26 oct at 13:00 london time works for me",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "riccardo@parkinsonfarr.co.uk"
+  }
  },
  {
   "listing_id": "94446669",
@@ -3396,7 +3420,13 @@
    "age_days": 0,
    "updated": "2026-10-20T11:58:34+01:00"
   },
-  "action_rank": 0
+  "action_rank": 0,
+  "reply_sent": {
+   "hash": "419a31c0dc31c320",
+   "draft": "Hey! we're looking for a 1-bed with a separate bedroom (or a 2-bed) for me and my partner, up to £2,100 pcm, within about 40 min of Regent's Place where i work. combined income is £190k, we have a dog and a cat. we're moving mid-November. i'm in Spain until then, could we do a video viewing on WhatsApp? +34605227263. wed 21 oct at 17:00 or mon 26 oct at 14:00 london time works for me",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "CAlmeida@johndwood.co.uk"
+  }
  },
  {
   "listing_id": "dexters-denzil-road",
@@ -3442,7 +3472,13 @@
    "updated": "2026-10-20T11:58:34+01:00"
   },
   "action_rank": 0,
-  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
+  "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
+  "reply_sent": {
+   "hash": "0c9f5a0f2cfc9c13",
+   "draft": "Hey! thanks so much, but we'll pass on this one. good luck!",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "aaratibhatta@dexters.co.uk"
+  }
  },
  {
   "listing_id": "94446495",
@@ -3488,6 +3524,12 @@
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
   "agent_phone": "+44 7483 628565",
-  "agent_contact": "Fiona Cerkini"
+  "agent_contact": "Fiona Cerkini",
+  "reply_sent": {
+   "hash": "00cb98df292b5940",
+   "draft": "Hey! thanks so much. any time works for me, whatever suits you best, the sooner the better. i'm in Spain until mid-November, so could we do the online viewing as a WhatsApp video call? +34605227263",
+   "at": "2026-10-20T13:05:11+02:00",
+   "to": "fiona.cerkini@savills.com"
+  }
  }
 ]
