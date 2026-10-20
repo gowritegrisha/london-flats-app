@@ -79,7 +79,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "New Southgate N11"
   },
   {
     "id": "otm-20590824",
@@ -161,7 +162,8 @@
         "reason": "ground floor + garden (Princes Ave-like)"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Tooting Broadway SW17"
   },
   {
     "id": "94245849",
@@ -243,7 +245,8 @@
         "reason": "garden"
       }
     },
-    "fresh_days": 7
+    "fresh_days": 7,
+    "nbhd": "Coningham · Shepherd's Bush W12"
   },
   {
     "id": "94514343",
@@ -325,7 +328,8 @@
         "reason": "garden"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Lavender · Battersea SW11"
   },
   {
     "id": "94521456",
@@ -407,7 +411,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Bounds Green N11"
   },
   {
     "id": "94521423",
@@ -489,7 +494,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "West Finchley N3"
   },
   {
     "id": "94256769",
@@ -571,7 +577,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 7
+    "fresh_days": 7,
+    "nbhd": "East Acton W3"
   },
   {
     "id": "otm-17011988",
