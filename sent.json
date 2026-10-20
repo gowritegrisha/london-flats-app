@@ -3608,5 +3608,26 @@
    "at": "2026-10-20T13:05:11+02:00",
    "to": "fiona.cerkini@savills.com"
   }
+ },
+ {
+  "listing_id": "94504167",
+  "title": "Hopgood Street — 1-bed",
+  "agent": "Farrar & Co, Chelsea - Lettings",
+  "url": "https://www.rightmove.co.uk/properties/94504167",
+  "channel": "rightmove",
+  "price": "£1,800 pcm",
+  "address": "Hopgood Street, Shepherds Bush W12",
+  "sent_at": "2026-10-20T14:06:44Z",
+  "status": "awaiting reply",
+  "source": "bot",
+  "by": "routine per Masha 340058108 msg 415",
+  "thread": [
+   {
+    "dir": "masha",
+    "date": "2026-10-20T14:06:44Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My partner also works in tech, remotely, so someone is usually home. We plan to move in (approx.) second week of November / early December. We're doing online viewings. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I'm willing to make a deposit/offer remotely. We are open to other similar options up in no more than 30-40 minutes commute from Regent's Park (my office). Combined yearly income: £190,000. My WA is +34605227263."
+   }
+  ]
  }
 ]
