@@ -2897,7 +2897,7 @@
   "channel": "rightmove",
   "price": "£1,900 pcm",
   "sent_at": "2026-10-19T10:57:47Z",
-  "status": "viewing",
+  "status": "rejected",
   "source": "masha",
   "thread": [
    {
@@ -2911,21 +2911,19 @@
   "thread_ids": [
    "1a153cf7a4dddf51"
   ],
-  "mail_status": "viewing booked",
+  "mail_status": "rejected",
   "agent_email": "angelhewson@dexters.co.uk",
   "next": {
+   "who": "none",
+   "kind": "closed",
+   "since": "2026-10-20T12:50:00+02:00",
+   "text": "We cancelled — too far",
    "reply_to": "angelhewson@dexters.co.uk",
    "thread_id": "1a153cf7a4dddf51",
-   "agent_phone": "020 7313 3661",
-   "who": "agent",
-   "since": "2026-10-19T10:57:47Z",
-   "age_days": 0,
-   "kind": "info",
-   "text": "Dexters (Angel) replied 19 Oct — nothing required",
    "draft": null,
-   "updated": "2026-10-20T11:25:42+01:00"
+   "updated": "2026-10-20T12:50:00+02:00"
   },
-  "action_rank": 1,
+  "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
   "agent_phone": "020 7313 3661",
   "agent_contact": "Angel Hewson"

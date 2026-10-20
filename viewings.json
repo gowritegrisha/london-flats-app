@@ -274,12 +274,11 @@
   "agent_email": "angelhewson@dexters.co.uk",
   "agent_phone": "020 7313 3661",
   "thread_id": "1a153cf7a4dddf51",
-  "status": "confirmed",
+  "status": "cancelled",
   "source": "masha-mail",
   "agent_contact": "Angel Hewson",
-  "notes": "Viewing confirmation from Dexters; no earlier thread (likely booked by phone or Rightmove). £1,900 pcm.",
-  "calendar_event_id": "a2lgdtv3ih6h0dk04p66r0uer4",
-  "calendar_link": "https://www.google.com/calendar/event?eid=YTJsZ2R0djNpaDZoMGRrMDRwNjZyMHVlcjQgZ293cml0ZW1hc2hhQG0"
+  "notes": "Viewing confirmation from Dexters; no earlier thread (likely booked by phone or Rightmove). £1,900 pcm. Cancelled at Masha's request 20 Oct 12:50 Madrid (too far); cancellation email sent to Angel, calendar event deleted.",
+  "cancelled_at": "2026-10-20T12:50:00+02:00"
  },
  {
   "id": "mail-1a15846da3d278ab",
