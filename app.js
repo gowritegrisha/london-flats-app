@@ -47,9 +47,16 @@ const sz=l=>{const m=(l.size||'').match(/[\d.]+/);return m?parseFloat(m[0]):0};
 const fmtD=d=>d?new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short'}):'';
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const FL2=[['all','Все'],['notsent','Не писали'],['sent','Написали'],['new','🆕 Новые'],['saved','❤️ Избранное']];
-const seenK='flatseen',lvK='flatlastvisit';const SEEN0=new Set(JSON.parse(localStorage.getItem(seenK)||'null')||[]);const FIRST=!localStorage.getItem(seenK);
-const isNew=l=>!FIRST&&!SEEN0.has(String(l.id));
-function markSeen(){if(!data.length)return;localStorage.setItem(seenK,JSON.stringify(data.map(l=>String(l.id))));localStorage.setItem(lvK,new Date().toISOString())}
+const seenK='flatseen',lvK='flatlastvisit';const SEEN0=new Set(JSON.parse(localStorage.getItem(seenK)||'null')||[]);let FIRST=!localStorage.getItem(seenK);
+// Masha 20 Oct: «Новое» = only flats nobody has rated/seen yet: not rated (app or bot, l.rated from server), not saved/enquired, found in the last 3 days, not seen on any device (Telegram CloudStorage sync)
+const NEWD=3;const recentF=l=>!l.date_found||(Date.now()-new Date(l.date_found))<NEWD*864e5;
+const isNew=l=>{const k=String(l.id);return !FIRST&&!SEEN0.has(k)&&!l.rated&&!l.rating&&!(k in RT)&&!saved.has(k)&&!sentOf(l.id)&&recentF(l)};
+const CS=(()=>{try{return tg&&tg.CloudStorage&&(!tg.isVersionAtLeast||tg.isVersionAtLeast('6.9'))?tg.CloudStorage:null}catch(e){return null}})();
+function csLoad(){if(!CS)return;let done=false;const fin=()=>{if(done)return;done=true;try{if(loaded)render()}catch(e){}};setTimeout(fin,3000);
+ try{CS.getItem('seen_n',(e,n)=>{n=parseInt(n)||0;if(e||!n)return fin();const ks=[...Array(Math.min(n,40))].map((_,i)=>'seen_'+i);CS.getItems(ks,(e2,v)=>{if(!e2&&v){let c=0;ks.forEach(k=>String(v[k]||'').split(',').forEach(x=>{if(x){SEEN0.add(x);c++}}));if(c)FIRST=false;DBG('cloud seen '+c)}fin()})})}catch(e){fin()}}
+function csSave(ids){if(!CS)return;try{const ch=[];let c='';ids.forEach(x=>{if(c.length+x.length+1>4000){ch.push(c);c=''}c+=(c?',':'')+x});if(c)ch.push(c);ch.forEach((v,i)=>CS.setItem('seen_'+i,v,()=>{}));CS.setItem('seen_n',String(ch.length),()=>{})}catch(e){}}
+function markSeen(){if(!data.length)return;const ids=[...new Set([...data.map(l=>String(l.id)),...Object.keys(RT)])].filter(k=>data.some(l=>String(l.id)==k));localStorage.setItem(seenK,JSON.stringify(ids));localStorage.setItem(lvK,new Date().toISOString());csSave(ids)}
+csLoad();
 const hoodName=l=>{if(l.nbhd)return l.nbhd;const h=l.hood||'';const m=h.match(/\(([^)]+)\)/);return m?m[1]:((l.area||'').split(',')[0]||'')};
 const sqm=l=>{const m=(l.size||'').match(/([\d.]+)\s*m²/);if(m)return Math.round(+m[1])+' m²';const f=l.agent_facts&&l.agent_facts.size;return f?f:'m² —'};
 const furnS=l=>{const f=(l.furnished||'').toLowerCase();return !f?'мебель ?':f.includes('flex')||f.includes('or unfurn')?'с мебелью / без':f.includes('part')?'частично':f.includes('unfurn')?'без мебели':'с мебелью'};
