@@ -80,23 +80,6 @@
   "type": null
  },
  {
-  "id": "prop-92113110",
-  "listing_id": "92113110",
-  "title": "Cricklewood Broadway, London, NW2",
-  "address": "Cricklewood Broadway, London, NW2",
-  "datetime": null,
-  "agent": "Occu, Edenwood House",
-  "agent_contact": null,
-  "agent_email": "Erin@occu.ie",
-  "agent_phone": null,
-  "thread_id": "1a11aae77e3a6315",
-  "status": "proposed",
-  "asked": "2026-10-08T08:43:05Z",
-  "notes": "Hi Maria, Thank you for your enquiry for our brand new development here in Cricklewood. Could I kindly ask you to fill me in on the below so that I can be best placed to advise on availability and viewings: * Rooms? * Ma",
-  "source": "masha-mail",
-  "type": null
- },
- {
   "id": "prop-94047639",
   "listing_id": "94047639",
   "title": "Ballards Lane, London, N3",
@@ -337,5 +320,22 @@
   "calendar_event_id": "s39lqms3gf2imna5908arb5eng",
   "calendar_link": "https://www.google.com/calendar/event?eid=czM5bHFtczNnZjJpbW5hNTkwOGFyYjVlbmcgZ293cml0ZW1hc2hhQG0",
   "updated": "2026-10-20T12:19:13+00:00"
+ },
+ {
+  "id": "prop-94459932",
+  "listing_id": "94459932",
+  "title": null,
+  "address": null,
+  "datetime": null,
+  "agent": null,
+  "agent_contact": null,
+  "agent_email": "michael.osele@akelius.co.uk",
+  "agent_phone": "07778470998",
+  "thread_id": "1a1596589c535e0c",
+  "status": "proposed",
+  "asked": "2026-10-20T12:59:43Z",
+  "notes": "Dear prospective tenant, Thank you for your inquiry regarding Flat 34 Gerard Court. You can find more information about our apartment on https://rent.akelius.com/en_UK/search/united-kingdom/detail/40113-34. We are lookin",
+  "source": "masha-mail",
+  "type": null
  }
 ]
