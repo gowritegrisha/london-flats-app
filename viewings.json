@@ -317,5 +317,25 @@
   "notes": "Zack offered today 17:45 London; Masha accepted (20 Oct 13:04 Madrid) and asked to join by WhatsApp video; agent hasn't confirmed video yet. £1,600 pcm, ~43 min.",
   "calendar_event_id": "dm8seu8deh9hvmv7ql145kbqoc",
   "calendar_link": "https://www.google.com/calendar/event?eid=ZG04c2V1OGRlaDlodm12N3FsMTQ1a2Jxb2MgZ293cml0ZW1hc2hhQG0"
+ },
+ {
+  "id": "mail-1a158fd4a8970e31",
+  "listing_id": "94446495",
+  "title": "Victoria Mews — 1-bed",
+  "address": "Victoria Mews, Kilburn, London NW6 (WhatsApp video viewing)",
+  "datetime": "2026-10-20T17:15:00+01:00",
+  "agent": "Savills St John's Wood (Fiona Cerkini)",
+  "agent_email": "fiona.cerkini@savills.com",
+  "agent_phone": "+44 7483 628565",
+  "thread_id": "1a158d39649ff04d",
+  "status": "agreed",
+  "source": "masha-mail",
+  "url": "https://www.rightmove.co.uk/properties/94446495",
+  "type": "video",
+  "agent_contact": "Fiona Cerkini",
+  "notes": "Fiona offered today 17:15 London; Masha OK'd in Telegram (20 Oct 14:11 Madrid); confirmed by email 14:19 asking for a WhatsApp video call. £2,000 pcm, ~36 min.",
+  "calendar_event_id": "s39lqms3gf2imna5908arb5eng",
+  "calendar_link": "https://www.google.com/calendar/event?eid=czM5bHFtczNnZjJpbW5hNTkwOGFyYjVlbmcgZ293cml0ZW1hc2hhQG0",
+  "updated": "2026-10-20T12:19:13+00:00"
  }
 ]
