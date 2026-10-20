@@ -80,7 +80,8 @@
       }
     },
     "fresh_days": 0,
-    "nbhd": "Childs Hill NW11"
+    "nbhd": "Childs Hill NW11",
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "otm-20585669",
@@ -2729,14 +2730,15 @@
     "hidden_reason": "commute>45",
     "commute_min": 49,
     "commute_mode": "🚇 Piccadilly + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3012573",
     "title": "1 Bed Flat — 1-bed",
     "area": "1 Bed Flat, Howitt Road, NW3",
     "price": 2100,
-    "size": "size not stated",
+    "size": "24 m² (floorplan)",
     "floor": "",
     "furnished": "At tenant choice",
     "available": "",
@@ -2760,7 +2762,7 @@
     "lat": 51.548645,
     "lng": -0.1659565,
     "agent": "OpenRent (private landlord)",
-    "score": 55,
+    "score": 47,
     "score_breakdown": {
       "style": {
         "points": 11.3,
@@ -2768,9 +2770,9 @@
         "reason": "keywords: light(+1)"
       },
       "size": {
-        "points": 7.5,
+        "points": 0,
         "max": 15,
-        "reason": "size unknown (size not stated)"
+        "reason": "24 m²"
       },
       "commute": {
         "points": 20,
@@ -2812,7 +2814,14 @@
     "nbhd": "Belsize NW3",
     "commute_min": 30,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20",
+    "floorplans": [
+      "https://imagescdn.openrent.co.uk/listings/3012573/o_1k59s9t08i84g8f11g414bs1i4l9.JPG"
+    ],
+    "sqm_source": "floorplan total",
+    "hidden": true,
+    "hidden_reason": "size<42 (floorplan 24 m²)"
   },
   {
     "id": "otm-20574251",
@@ -7040,7 +7049,7 @@
     "title": "2 Bed Flat — 2-bed",
     "area": "2 Bed Flat, Hillsborough Court, NW6",
     "price": 1850,
-    "size": "size not stated",
+    "size": "31 m² (floorplan)",
     "floor": "",
     "furnished": "Furnished",
     "available": "",
@@ -7064,7 +7073,7 @@
     "lat": 51.53755,
     "lng": -0.1890831,
     "agent": "OpenRent (private landlord)",
-    "score": 61,
+    "score": 54,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -7072,9 +7081,9 @@
         "reason": "no style cues in notes"
       },
       "size": {
-        "points": 7.5,
+        "points": 0,
         "max": 15,
-        "reason": "size unknown (size not stated)"
+        "reason": "31 m²"
       },
       "commute": {
         "points": 18.8,
@@ -7116,7 +7125,14 @@
     "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
     "commute_min": 32,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20",
+    "floorplans": [
+      "https://imagescdn.openrent.co.uk/listings/2557900/o_1j0f372hv4618lqbg1ieo1nfal.JPG"
+    ],
+    "sqm_source": "floorplan (sq ft)",
+    "hidden": true,
+    "hidden_reason": "size<42 (floorplan 31 m²)"
   },
   {
     "id": "otm-10139645",
@@ -10525,7 +10541,8 @@
     "nbhd": "West Kensington W14",
     "commute_min": 41,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "fx-2430502",
@@ -14716,7 +14733,7 @@
     "title": "1 Bed Flat — 1-bed",
     "area": "1 Bed Flat, Caledonian Road, N7",
     "price": 2100,
-    "size": "size not stated",
+    "size": "40 m² (floorplan)",
     "floor": "",
     "furnished": "Furnished",
     "available": "",
@@ -14734,7 +14751,7 @@
     "lat": 51.550606,
     "lng": -0.117704,
     "agent": "OpenRent (private landlord)",
-    "score": 61,
+    "score": 54,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -14742,9 +14759,9 @@
         "reason": "no style cues in notes"
       },
       "size": {
-        "points": 7.5,
+        "points": 0,
         "max": 15,
-        "reason": "size unknown (size not stated)"
+        "reason": "40 m²"
       },
       "commute": {
         "points": 20,
@@ -14786,7 +14803,14 @@
     "nbhd": "Holloway N7",
     "commute_min": 30,
     "commute_mode": "🚌 bus 393 + bus 29",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20",
+    "floorplans": [
+      "https://imagescdn.openrent.co.uk/listings/3073824/o_1k4sg6j1s10pecsl4ke3e1md10.JPG"
+    ],
+    "sqm_source": "floorplan (sq ft)",
+    "hidden": true,
+    "hidden_reason": "size<42 (floorplan 40 m²)"
   },
   {
     "id": "otm-20566870",
@@ -20544,7 +20568,8 @@
     "hidden_reason": "commute>45",
     "commute_min": 48,
     "commute_mode": "🚇 District + Victoria",
-    "commute_ok": false
+    "commute_ok": false,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3074739",
@@ -20621,7 +20646,8 @@
     "fresh_days": 6,
     "commute_min": 34,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3075792",
@@ -20698,7 +20724,8 @@
     "fresh_days": 5,
     "commute_min": 39,
     "commute_mode": "🚇 Northern",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3073229",
@@ -20775,7 +20802,8 @@
     "fresh_days": 7,
     "commute_min": 38,
     "commute_mode": "🚆 Great Northern + Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3074465",
@@ -20852,7 +20880,8 @@
     "fresh_days": 6,
     "commute_min": 35,
     "commute_mode": "🚇 Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3074427",
@@ -20929,7 +20958,8 @@
     "fresh_days": 6,
     "commute_min": 40,
     "commute_mode": "🚇 Jubilee + Metropolitan",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3075348",
@@ -21006,7 +21036,8 @@
     "fresh_days": 5,
     "commute_min": 41,
     "commute_mode": "🚆 Windrush + Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3074973",
@@ -21083,7 +21114,8 @@
     "fresh_days": 6,
     "commute_min": 34,
     "commute_mode": "🚆 Lioness",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3072528",
@@ -21160,14 +21192,15 @@
     "fresh_days": 7,
     "commute_min": 30,
     "commute_mode": "🚇 Northern + Victoria",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20"
   },
   {
     "id": "or-3073829",
     "title": "1 Bed Flat — 1-bed",
     "area": "1 Bed Flat, Caledonian Road, N7",
     "price": 1975,
-    "size": "size not stated",
+    "size": "40 m² (floorplan)",
     "floor": "",
     "furnished": "At tenant choice",
     "available": "",
@@ -21185,7 +21218,7 @@
     "lat": 51.550606,
     "lng": -0.117704,
     "agent": "OpenRent (private landlord)",
-    "score": 54,
+    "score": 46,
     "score_breakdown": {
       "style": {
         "points": 9.9,
@@ -21193,9 +21226,9 @@
         "reason": "no style cues in notes"
       },
       "size": {
-        "points": 7.5,
+        "points": 0,
         "max": 15,
-        "reason": "size unknown (size not stated)"
+        "reason": "40 m²"
       },
       "commute": {
         "points": 20,
@@ -21237,7 +21270,14 @@
     "fresh_days": 6,
     "commute_min": 30,
     "commute_mode": "🚌 bus 393 + bus 29",
-    "commute_ok": true
+    "commute_ok": true,
+    "floorplan_checked": "2026-10-20",
+    "floorplans": [
+      "https://imagescdn.openrent.co.uk/listings/3073829/o_1k4shcn1daca1lu11vk0ut46tp6.JPG"
+    ],
+    "sqm_source": "floorplan (sq ft)",
+    "hidden": true,
+    "hidden_reason": "size<42 (floorplan 40 m²)"
   },
   {
     "id": "otm-20546502",
