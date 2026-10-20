@@ -448,7 +448,7 @@
     "commute_min": 33,
     "commute_mode": "🚇 Circle",
     "commute_ok": true,
-    "score": 64,
+    "score": 72,
     "score_breakdown": {
       "style": {
         "points": 19.5,
@@ -494,10 +494,16 @@
         "points": 0,
         "max": 6,
         "reason": "no outdoor space mentioned"
+      },
+      "feedback": {
+        "points": 8,
+        "max": 8,
+        "reason": "👍 liked"
       }
     },
     "fresh_days": 0,
-    "nbhd": "Shepherd's Bush Green W12"
+    "nbhd": "Shepherd's Bush Green W12",
+    "rating": "like"
   },
   {
     "id": "94505169",
