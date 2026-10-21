@@ -16,7 +16,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2
  },
@@ -67,7 +67,7 @@
    "who": "none",
    "kind": "closed",
    "text": "We said it's not for us",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2
  },
@@ -89,7 +89,7 @@
    "text": "Same flat as KFH Princes Avenue — KFH says the offer is accepted (16 Oct). Let Martyn Gerrard know once the holding deposit is paid.",
    "source": "manual",
    "age_days": 4,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -128,7 +128,7 @@
    "thread_id": "1a143eee25e13b94",
    "source": "manual",
    "age_days": 4,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -180,8 +180,8 @@
    "since": "2026-10-16T11:12:46Z",
    "text": "OpenRent: Muswell Hill Road is now under offer (landlord took a deposit from someone else) — no longer available.",
    "source": "manual",
-   "age_days": 4,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 5,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Enquiry drafted on OpenRent, not yet sent to landlord — needs 'Confirm & Send'.",
@@ -205,7 +205,7 @@
    "text": "OpenRent North Hill: Masha cannot Confirm & Send — no UK phone number. Need alternative (email agent / Grisha UK number / skip).",
    "source": "manual",
    "age_days": 5,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 0,
   "text_missing_reason": "Enquiry drafted on OpenRent, not yet sent to landlord — needs 'Confirm & Send'.",
@@ -247,7 +247,7 @@
    "thread_id": "1a15dd5193dbdf6c",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -311,7 +311,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
@@ -340,7 +340,7 @@
    "text": "OpenRent: Edison Court let (21 Oct)",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Enquiry drafted on OpenRent, not yet sent to landlord — needs 'Confirm & Send'.",
@@ -415,7 +415,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -459,7 +459,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month in no more than 30-40 minutes commute from Regent’s Park (my office). My WA is +34605227263. The household's combined yearly income exceeds £190,000."
@@ -482,7 +482,7 @@
    "text": "Listing removed from Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -545,7 +545,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -602,7 +602,7 @@
    "who": "none",
    "kind": "closed",
    "text": "We said it's not for us",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -631,7 +631,7 @@
    "text": "OpenRent Wood Lane: Masha cannot Confirm & Send — no UK phone number. Need alternative (email agent / Grisha UK number / skip).",
    "source": "manual",
    "age_days": 5,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 0,
   "text_missing_reason": "Enquiry drafted on OpenRent, not yet sent to landlord — needs 'Confirm & Send'.",
@@ -655,7 +655,7 @@
    "text": "Let agreed on Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -700,7 +700,7 @@
    "text": "Let agreed on Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -729,7 +729,7 @@
    "since": "2026-10-14",
    "age_days": 7,
    "text": "Awaiting agent reply since 13 Oct (7 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -746,17 +746,18 @@
   "price": "£440 pw",
   "rightmove_label": "You enquired yesterday",
   "next": {
-   "who": "agent",
-   "kind": "awaiting",
-   "since": "2026-10-21T12:25:11+02:00",
-   "text": "21 Oct: Eli — available 1 Dec; said it works, proposed video Thu 22 14:00 / Tue 27 12:00 London — waiting",
+   "who": "us",
+   "kind": "agent_proposes_time",
+   "since": "2026-10-21T11:26:37Z",
+   "text": "21 Oct 12:26 London: Eli (Cedar) can do a virtual viewing of Woodchurch Rd tomorrow Thu 22 at 14:00 London (one of your slots) and will email confirmations if OK. Reply: confirm.",
+   "draft": "Hey! perfect, thu 22 oct at 14:00 for Woodchurch Road and mon 26 oct at 12:00 for Beehive Place both work for me. please call me on WhatsApp video +34605227263, and yes please send the confirmations, thanks!",
    "reply_to": "Eli@cedarestates.com",
    "thread_id": "1a12f48975d7f05a",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
-  "action_rank": 1,
+  "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
   "thread": [
    {
@@ -778,6 +779,20 @@
     "date": "2026-10-21T09:53:05Z",
     "from": "Eli@cedarestates.com",
     "text": "Hello,\nSure, no problem.\nThese are both available to rent\nBeehive place is available to rent on 10/12.\nWoordchurch Rd is available to rent on 01/12.\nDo these dates work with you?\nThank you\nEli Gold Lettings Negotiator\nP: 020 7431 1100 D: 020 7317 7841 M: 07544 462 892\nE: Eli@cedarestates.com\nW: www.cedarestates.com\n251 West End Lane, London, GB, NW6 1XN\nCedar Lettings Ltd Trading as Cedar Estates: Reg No.3492087 Reg Office: 251 West End Lane, West Hampstead, London NW6 IXN.\nDisclaimer: Anything within this e-mail which can be deemed an offer is SUBJECT TO CONTRACT The information transmitted in this email is intended only for the person(S) or entity to which its addressed and may contain proprietary, confidential and / or privileged material. If you have received this email in error, please contact the sender by replying and delete this email so that it is not recoverable. If you are not the intended recipient(s), any retention, review, disclosure, distribution, copying, printing, dissemination, or other use of, or taking of any action in reliance upon, this information is strictly prohibited and without liability on our part. All calls to/from Cedar Estates are recorded for quality assurance and monitoring purposes.",
+    "thread_id": "1a12f48975d7f05a"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-21T10:25:11Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hey! thanks! 1 dec works for Woodchurch Road. 10 dec for Beehive Place is a bit late for us but could still work. could we do video viewings on WhatsApp +34605227263? for Woodchurch Road thu 22 oct at 14:00 or tue 27 oct at 12:00, and for Beehive Place thu 22 oct at 17:00 or tue 27 oct at 17:00 london time",
+    "thread_id": "1a12f48975d7f05a"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-21T11:26:37Z",
+    "from": "Eli@cedarestates.com",
+    "text": "Hi Maria,\nI could only do a virtual viewing for Beehive Place on Monday at 12:00 if that works.\nFor Woodchurch Rd, I can do 2pm tomorrow.\nIf that’s ok with you, I’ll send you email confirmations.\nThank you\nEli Gold Lettings Negotiator\nP: 020 7431 1100 D: 020 7317 7841 M: 07544 462 892\nE: Eli@cedarestates.com\nW: www.cedarestates.com\n251 West End Lane, London, GB, NW6 1XN\nCedar Lettings Ltd Trading as Cedar Estates: Reg No.3492087 Reg Office: 251 West End Lane, West Hampstead, London NW6 IXN.\nDisclaimer: Anything within this e-mail which can be deemed an offer is SUBJECT TO CONTRACT The information transmitted in this email is intended only for the person(S) or entity to which its addressed and may contain proprietary, confidential and / or privileged material. If you have received this email in error, please contact the sender by replying and delete this email so that it is not recoverable. If you are not the intended recipient(s), any retention, review, disclosure, distribution, copying, printing, dissemination, or other use of, or taking of any action in reliance upon, this information is strictly prohibited and without liability on our part. All calls to/from Cedar Estates are recorded for quality assurance and monitoring purposes.",
     "thread_id": "1a12f48975d7f05a"
    }
   ],
@@ -833,7 +848,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
@@ -889,7 +904,7 @@
    "proposed_slots": "Thu 22 Oct 15:30 or Fri 23 Oct 14:30 London",
    "source": "manual",
    "age_days": 1,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -970,7 +985,7 @@
    "thread_id": "1a13c3708e445519",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1056,7 +1071,7 @@
    "thread_id": "1a15da08ac8614f3",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 0,
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at early November / December. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. I’m willing to make a deposit remotely and do online viewings. We are open to other similar options up to £2k per month. My WA is +34605227263. The household's combined yearly income exceeds £190,000.",
@@ -1124,7 +1139,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1188,7 +1203,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1238,7 +1253,7 @@
    "thread_id": "1a11b266c477b1e7",
    "agent_phone": "07812 434 444",
    "draft": "Hey! Just following up on this",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1261,17 +1276,18 @@
   "price": "£1,798 pcm",
   "rightmove_label": "You enquired on 10th October",
   "next": {
-   "who": "agent",
-   "kind": "awaiting",
-   "since": "2026-10-21T12:25:11+02:00",
-   "text": "21 Oct: Eli — available 10 Dec (a bit late); proposed video Thu 22 17:00 / Tue 27 17:00 London — waiting",
+   "who": "us",
+   "kind": "agent_proposes_time",
+   "since": "2026-10-21T11:26:37Z",
+   "text": "21 Oct 12:26 London: Eli (Cedar) can only do a virtual viewing of Beehive Place on Mon 26 Oct at 12:00 London (available 10 Dec). Reply: accept Monday 12:00 or decline.",
+   "draft": "Hey! perfect, thu 22 oct at 14:00 for Woodchurch Road and mon 26 oct at 12:00 for Beehive Place both work for me. please call me on WhatsApp video +34605227263, and yes please send the confirmations, thanks!",
    "reply_to": "Eli@cedarestates.com",
    "thread_id": "1a12f48975d7f05a",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
-  "action_rank": 1,
+  "action_rank": 0,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
  },
  {
@@ -1305,7 +1321,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1344,7 +1360,7 @@
    "text": "Let agreed on Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1398,7 +1414,7 @@
    "thread_id": "1a13615aeabc8598",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1460,7 +1476,7 @@
    "text": "Viewing booked Fri 16 Oct 12:00 London / 13:00 Madrid with India Chattwell Grint (CBRE), in Masha's calendar. Nothing to do before then",
    "source": "manual",
    "age_days": 6,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Both are well-behaved and no trouble for neighbors. I will be in London starting with the end of October and am ready to move in straigh away, and am ready to make a deposit remotely. My WA is +34605227263. Household's combined yearly income exceed £180,000."
@@ -1485,7 +1501,7 @@
    "thread_id": "1a15dd52b3069cf7",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1521,7 +1537,7 @@
    "since": "2026-10-08",
    "age_days": 13,
    "text": "Awaiting agent reply since 7 Oct (13 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -1546,7 +1562,7 @@
    "thread_id": "1a15d8f864bd27f8",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -1568,7 +1584,7 @@
    "since": "2026-10-08",
    "age_days": 13,
    "text": "Awaiting agent reply since 7 Oct (13 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -1612,7 +1628,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text": "Hello! I'm Maria, a product manager moving to London for a job at a well-regarded tech company. My husband also works in tech, remotely, so someone is usually home. We plan to move in at the end of October / early November. We've rented in Spain for 3 years with no issues, and our landlord will give a reference. I can also share photos and other details. We have two pets, and they're very quiet and non-shedding. Our dog is a certified service dog (fully trained, not emotional support) and usually out with me. Both are well-behaved and no trouble for neighbors. Happy to chat about this flat or any other you have!"
@@ -1661,7 +1677,7 @@
    "text": "Let agreed / removed on Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -1742,7 +1758,7 @@
    "agent_phone": "+353 1 912 5550",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 0,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1773,7 +1789,7 @@
    "thread_id": "1a11fffe18c33971",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1797,6 +1813,13 @@
     "date": "2026-10-21T09:55:42Z",
     "from": "jcoleman@winkworth.co.uk",
     "text": "Hi Maria\n We did get back to you please see email attached.\nThe property on Loftus Road is still available, would you like to arrange to see the flat this week?\nJanine Coleman Lettings Negotiator\nWinkworth Shepherds Bush Office 97 Uxbridge Road, Shepherds Bush, London, W12 8NL\nTelephone: 020 8735 3257\njcoleman@winkworth.co.uk\nThis email has been generated by 'Beambest Limited t/a Winkworth, Company Number: 2943416, Registered Office Address: 97 Uxbridge Road, Shepherds Bush, London, W12 8NL, UK. Registered in England and Wales. This communication is to be treated as confidential and the information in it may not be used or disclosed except for the purpose for which it has been sent. If you have reason to believe that you are not the intended recipient of this communication, please contact the sender immediately. You should not retain the message or disclose its contents to anyone.\nFollow these links for copies of our Terms and Conditions and Privacy Policy",
+    "thread_id": "1a11fffe18c33971"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-21T10:25:11Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hey! great, thanks! i'm in Spain until mid-November, so could we do it as a WhatsApp video viewing on +34605227263? thu 22 oct at 13:00 or fri 23 oct at 13:30 london time works for me",
     "thread_id": "1a11fffe18c33971"
    }
   ],
@@ -1827,7 +1850,7 @@
    "thread_id": "1a15dd520e0e621d",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1861,7 +1884,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Off the market — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -1883,7 +1906,7 @@
    "since": "2026-10-07",
    "age_days": 14,
    "text": "Awaiting agent reply since 6 Oct (14 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -1955,7 +1978,7 @@
    "text": "Landlord wanted a 14 Oct move-in; Masha said it's too late for us (17 Oct)",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -1982,7 +2005,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -2018,7 +2041,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2044,7 +2067,7 @@
    "thread_id": "1a15dd5346ff8d33",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2078,7 +2101,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -2138,8 +2161,8 @@
    "since": "2026-10-16T12:29:35+02:00",
    "text": "Declined Cromwell Avenue (Portico) — Emma Heard acknowledged; will ping if similar comes up.",
    "source": "manual",
-   "age_days": 4,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 5,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2167,7 +2190,7 @@
    "since": "2026-10-07",
    "age_days": 14,
    "text": "Awaiting agent reply since 6 Oct (14 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -2177,7 +2200,7 @@
   "title": "Ballards Lane, London, N3",
   "sent_at": "2026-10-07",
   "channel": "rightmove",
-  "status": "viewing proposed",
+  "status": "replied",
   "source": "masha",
   "url": "https://www.rightmove.co.uk/properties/94047639",
   "agent": "Dutch & Dutch, West Hampstead",
@@ -2204,26 +2227,33 @@
     "from": "gowritemasha@gmail.com",
     "text": "Hey! just following up on Ballards Lane, is it still available? i'm in Spain until mid-November, could we do a video viewing on WhatsApp +34605227263? any weekday this week or next, 12:00–18:00 london time works for me",
     "thread_id": "1a11a61daa824867"
+   },
+   {
+    "dir": "agent",
+    "date": "2026-10-21T11:05:22Z",
+    "from": "MHeath@dutchanddutch.com",
+    "text": "Hi Maria\nThanks for the email\nUnfortunately the landlord is not keen on having pets in the property based on a bad history.\nI will let you know if their view changes or if we have any other more suitable properties",
+    "thread_id": "1a11a61daa824867"
    }
   ],
   "thread_ids": [
    "1a11a61daa824867"
   ],
-  "mail_status": "viewing proposed",
+  "mail_status": "replied",
   "agent_email": "MHeath@dutchanddutch.com",
   "agent_phone": "020 8159 3002",
   "next": {
-   "who": "agent",
-   "kind": "awaiting",
-   "since": "2026-10-21T11:41:17+02:00",
-   "text": "21 Oct: nudged Max (Dutch & Dutch) — still available? video viewing any weekday 12:00–18:00 London",
+   "who": "none",
+   "kind": "closed",
+   "since": "2026-10-21T11:05:22Z",
+   "text": "21 Oct: Max (Dutch & Dutch) — landlord won't accept pets (bad history). Will tell us if that changes — nothing to do",
    "reply_to": "MHeath@dutchanddutch.com",
    "thread_id": "1a11a61daa824867",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
-  "action_rank": 1,
+  "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
   "reply_sent": {
    "hash": "4923e3ffa3214e0d",
@@ -2276,7 +2306,7 @@
    "thread_id": "1a11a9066f3f6d39",
    "agent_phone": "0203 053 3306",
    "draft": "Hey! Just following up on this",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2318,7 +2348,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2355,7 +2385,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Let agreed — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2377,7 +2407,7 @@
    "since": "2026-10-07",
    "age_days": 14,
    "text": "Awaiting agent reply since 6 Oct (14 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -2397,7 +2427,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Off the market — nothing to do",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -2472,7 +2502,7 @@
    "text": "Listing removed from Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2493,7 +2523,7 @@
    "since": "2026-10-15T20:59:48+02:00",
    "age_days": 5,
    "text": "Awaiting agent reply since 15 Oct (5 days) — nudge?",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1
  },
@@ -2517,7 +2547,7 @@
    "kind": "info",
    "text": "Foxtons (Mail) replied 15 Oct — nothing required",
    "draft": null,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "thread": [
@@ -2622,7 +2652,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2671,7 +2701,7 @@
    "who": "none",
    "kind": "closed",
    "text": "We said it's not for us",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -2785,7 +2815,7 @@
    "text": "These video-tour flats are let. The same email thread with Aliyya now continues as the Icon Heights offer, so see the B207 Icon Heights card.",
    "source": "manual",
    "age_days": 4,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2836,7 +2866,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "reply_sent": {
@@ -2914,8 +2944,8 @@
    "text": "Masha said still interested 20 Oct, asked for a video next week — waiting for Rooted Homes (46 min, over limit: don't push)",
    "reply_to": "scott@rootedhomes.co.uk",
    "source": "manual",
-   "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 1,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -2946,7 +2976,7 @@
    "text": "Let agreed on Rightmove (checked 21 Oct) — nothing to do",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2
  },
@@ -2972,7 +3002,7 @@
    "text": "Icon Heights got rented before we could take it (Masha 19 Oct)",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "thread": [
@@ -3037,7 +3067,7 @@
    "thread_id": "1a144990a0901eec",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3083,7 +3113,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3133,8 +3163,8 @@
    "reply_to": "angelhewson@dexters.co.uk",
    "thread_id": "1a153cf7a4dddf51",
    "source": "manual",
-   "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 1,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3205,7 +3235,7 @@
    "thread_id": "1a154501067139d7",
    "source": "manual",
    "age_days": 1,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "reply_sent": {
@@ -3294,7 +3324,7 @@
    "thread_id": "1a15436d5a1770c5",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 0,
   "agent_contact": "Zachary Rosenblatt",
@@ -3357,7 +3387,7 @@
    "who": "none",
    "kind": "closed",
    "text": "Masha said no (blocklisted) — never contact this agent about it",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -3413,7 +3443,7 @@
    "who": "none",
    "kind": "closed",
    "text": "We said it's not for us",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3458,7 +3488,7 @@
    "since": "2026-10-19T19:13:10Z",
    "age_days": 1,
    "text": "Awaiting agent reply since 19 Oct",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
@@ -3511,8 +3541,8 @@
    "reply_to": "Dershan.Morris@foxtons.co.uk",
    "thread_id": "1a1586d89ed72e6f",
    "source": "manual",
-   "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 1,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3573,8 +3603,8 @@
    "reply_to": "riccardo@parkinsonfarr.co.uk",
    "thread_id": "1a15865d90849618",
    "source": "manual",
-   "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 1,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "reply_sent": {
@@ -3633,8 +3663,8 @@
    "reply_to": "CAlmeida@johndwood.co.uk",
    "thread_id": "1a1585d33ca7f5ad",
    "source": "manual",
-   "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "age_days": 1,
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "reply_sent": {
@@ -3703,7 +3733,7 @@
    "who": "none",
    "kind": "closed",
    "text": "We said it's not for us",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 2,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3790,7 +3820,7 @@
    "thread_id": "1a158d39649ff04d",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail.",
@@ -3829,7 +3859,7 @@
    "since": "2026-10-20T14:06:44Z",
    "age_days": 0,
    "text": "Awaiting agent reply since 20 Oct",
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Sent via Rightmove; no copy in Gmail."
@@ -3866,6 +3896,13 @@
     "from": "WilsherF@hamptons.co.uk",
     "text": "Good morning,\nThank you for getting back to me.\nPlease see attached two video tour of some of the example apartments, unfortunately we do currently have a floor plan.\nIf you would like a more in-death viewing of the property or possibility a live video tour, I can send your information to our on-site team who would be able to organise?\nAdditional we have some other sites you might consider:\nThe Eades – Walthamstow Central (Video Tours attached):\nPlease find the relevant information attached. Having opened within the last year, this is a modern development finished to a fantastic standard.\nFerry Island – Tottenham Hale:\nOne of the newest build-to-rent developments in North London, having only welcomed its first residents this summer. It’s an excellent option if you’re looking for a brand-new home with modern facilities.\nExplore Ferry Island, Tottenham Hale\nWembley Park – Wembley:\nAn established development in a fantastic location, offering excellent transport connections and convenient access to local amenities. Please find the information attached.\nIf you have any further questions please let me know and I’d be happy to assist.\nFred Wilsher (He/Him)\nLettings Negotiator\no. 0203 582 3089 Ext. 62990\ne. WilsherF@hamptons.co.uk\na. 256 Muswell Hill Broadway, London, N10 3SH\nHamptons\nwww.hamptons.co.uk/",
     "thread_id": "1a159be8062ca539"
+   },
+   {
+    "dir": "masha",
+    "date": "2026-10-21T10:25:11Z",
+    "from": "gowritemasha@gmail.com",
+    "text": "Hey! thanks for the videos. yes please, could you pass my details to the on-site team for a live video tour on WhatsApp +34605227263? any weekday this week or next, 12:00–18:00 london time works for me",
+    "thread_id": "1a159be8062ca539"
    }
   ],
   "thread_ids": [
@@ -3881,7 +3918,7 @@
    "thread_id": "1a159be8062ca539",
    "source": "manual",
    "age_days": 0,
-   "updated": "2026-10-21T11:25:11+01:00"
+   "updated": "2026-10-21T12:31:22+01:00"
   },
   "action_rank": 1,
   "text_missing_reason": "Masha sent it via the Rightmove form; the agent's reply didn't quote it and Rightmove doesn't email a copy, so the original text isn't in Gmail."
