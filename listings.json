@@ -79,7 +79,9 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "hidden": true,
+  "hidden_reason": "blocked: Wembley"
  },
  {
   "id": "otm-20593355",
