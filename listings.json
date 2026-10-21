@@ -279,7 +279,7 @@
     "lat": 51.547287,
     "lng": -0.22694,
     "agent": "Harsun & Co, North West London",
-    "score": 65,
+    "score": 73,
     "score_breakdown": {
       "style": {
         "points": 15.4,
@@ -325,13 +325,19 @@
         "points": 3.0,
         "max": 6,
         "reason": "balcony/terrace"
+      },
+      "feedback": {
+        "points": 8,
+        "max": 8,
+        "reason": "👍 liked"
       }
     },
     "fresh_days": 1,
     "nbhd": "Willesden Green NW10",
     "commute_min": 39,
     "commute_mode": "🚇 Jubilee + Metropolitan",
-    "commute_ok": true
+    "commute_ok": true,
+    "rating": "like"
   },
   {
     "id": "otm-20460392",
