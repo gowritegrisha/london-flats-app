@@ -89,6 +89,18 @@ function render(){
 }
 const PAGE=20;let LV=[],shown=0,loaded=false,listDirty=false,io=null;
 const PH1='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
+const RUM=['янв','фев','мар','апр','мая','июн','июл','авг','сен','окт','ноя','дек'];
+function conB(l,e){const c=l.contacted;if(!c)return '';const sa=/^same address/.test(c.via||'');
+ const d=c.date?' · '+(+c.date.slice(8,10))+' '+RUM[+c.date.slice(5,7)-1]:'';
+ return `<div class="conb" title="${esc(c.via||'')}">✉️ ${sa?'по этому адресу уже писали (другое объявление)':'уже связывались'+d+(c.n>1?' · '+c.n+' письма':'')}</div>`}
+let RULES=null;
+function openRules(){const go=r=>{RULES=r||{};const b=RULES.base||[],u=RULES.rules||[],k=Object.entries(RULES.keywords||{});
+ let h=`<div class="shh"><div><div class="t">⚙️ Активные правила</div><div class="sub">Пишите боту в чат, например «no basements» или «не меньше 50 м²» — правило появится здесь, оценки пересчитаются.</div></div><button class="b ic" onclick="sheetClose()" aria-label="Закрыть">✕</button></div>`;
+ h+=`<div class="rsec"><b>Из ваших отзывов</b>${u.length?u.map(r=>`<div class="rl">• ${esc(r.label)}<span class="rsrc">${esc([r.from,r.date].filter(Boolean).join(' · '))}${r.text?' — «'+esc(String(r.text).slice(0,80))+'»':''}</span></div>`).join(''):'<div class="rl rsrc">пока нет</div>'}</div>`;
+ if(k.length)h+=`<div class="rsec"><b>Слова в описании</b><div class="rl">${k.map(([w,p])=>esc((p>0?'+':'−')+' '+w)).join(' · ')}</div></div>`;
+ h+=`<div class="rsec"><b>Базовые фильтры поиска</b>${b.map(x=>`<div class="rl">• ${esc(x)}</div>`).join('')}</div>`;
+ if(RULES.review)h+=`<div class="rsec rsrc">На разборе у ассистента: ${RULES.review} отзыв(а) — не получилось однозначно превратить в правило.</div>`;
+ sheetOpen(h)};fetch('rules.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():{}).then(go).catch(()=>go({}))}
 function cardHtml(l,sep){const e=sentOf(l.id);const ps=l.photos||[];const pc=l.pc||ps.length;
  return sep+`<div class="card${e?' done':''}" id="c-${esc(l.id)}"><div class="ph"><div class="car">${ps.map((p,i)=>i?`<img loading="lazy" decoding="async" data-src="${esc(p)}" src="${PH1}" alt="">`:`<img loading="lazy" decoding="async" src="${esc(p)}" alt="">`).join('')}</div>
  <button class="score" style="background:${scCol(scoreOf(l))}" onclick="openMore('${esc(l.id)}')" aria-label="Оценка ${scoreOf(l)} из 100">${l.score!=null?scoreOf(l):'–'}</button>
@@ -96,7 +108,7 @@ function cardHtml(l,sep){const e=sentOf(l.id);const ps=l.photos||[];const pc=l.p
  <div class="body"><div class="t tl" role="link" tabindex="0" onclick="link('${esc(l.url)}')">${esc(l.title)} <span class="lk">↗</span>${isNew(l)?' <span class="newb">Новое</span>':''}</div>
  <div class="sub">📍 ${esc(hoodName(l))}${commS(l)?` · 🕘 ${commS(l)}`:''}</div>
  <div class="tags"><span>📅 ${esc(availS(l))}</span><span>📐 ${esc(sqm(l))}</span><span>🛋 ${esc(furnS(l))}</span><span>🐾 ${esc(petS(l))}</span></div>
- ${e?`<div class="enqline" onclick="openSheet('${esc(e.listing_id)}')">${av(e)}${pill(e)}<span class="nx1">${esc(nx1(e))}</span></div>`:''}
+ ${conB(l,e)}${e?`<div class="enqline" onclick="openSheet('${esc(e.listing_id)}')">${av(e)}${pill(e)}<span class="nx1">${esc(nx1(e))}</span></div>`:''}
  <div class="cta">${e?primary(e):`<button class="b pri" onclick="draft('${l.id}')">✉️ Написать агенту</button>`}
  <button class="b ic rt${rating(l)=='like'?' up':''}" aria-label="Нравится" aria-pressed="${rating(l)=='like'}" onclick="rate('${l.id}','like')">👍</button><button class="b ic rt${rating(l)=='dislike'?' dn':''}" aria-label="Скрыть" aria-pressed="${rating(l)=='dislike'}" onclick="rate('${l.id}','dislike')">👎</button>
  <button class="b ic" aria-label="Ещё" onclick="openMore('${esc(l.id)}')">⋯</button></div>
@@ -214,7 +226,7 @@ function save(id){const l=data.find(x=>x.id==id);const k=String(id);
  else deep('s_'+k)}
 function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));render();toast('Status saved on this device')}
 function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
-function draft(id){if(sentOf(id)){toast(enqBadge(sentOf(id)));return}cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
+function draft(id){if(sentOf(id)){toast(enqBadge(sentOf(id)));return}{const c=(data.find(x=>String(x.id)==String(id))||{}).contacted;if(c){toast(/^same address/.test(c.via||'')?'По этому адресу уже писали — повторно не пишем':'Уже связывались с агентом — повторно не пишем');return}}cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
  const name=cur.title.split(',')[0];
  let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange an online viewing (we are still in Barcelona and can't visit in person). My partner and I are moving to London in mid-November 2026 for a long-term let. I move to work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat.\nOur combined income is around £190k.\n\nCould you confirm the floor area and the earliest move-in date?`;
  if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;

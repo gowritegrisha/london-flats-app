@@ -139,3 +139,6 @@ html,body{max-width:100%;overflow-x:hidden}
 .b:disabled{opacity:.6;cursor:default;filter:grayscale(.4)}
 
 .t.tl{cursor:pointer}.t.tl .lk{color:var(--link,#2481cc);font-weight:600}
+
+.conb{margin-top:6px;font-size:12.5px;color:#8a5a00;background:#ffb4001f;border-radius:8px;padding:3px 8px;display:inline-block}
+.rsec{margin:12px 0}.rsec b{display:block;margin-bottom:4px}.rl{margin:3px 0;font-size:14px}.rsrc{color:#888;font-size:12px;margin-left:6px}

@@ -1,0 +1,26 @@
+{
+ "rules": [],
+ "base": [
+  "до £2,100 в месяц",
+  "площадь от 42 м² (если указана)",
+  "без студий",
+  "не показываем: Wembley, HA9",
+  "дорога до Regent's Place > 45 мин — скрыто (кроме тех, где уже переписка)",
+  "въезд не позже 15.12",
+  "новые с оценкой ниже 60 не показываем"
+ ],
+ "keywords": {
+  "high ceilings": 2,
+  "low ceiling": -3,
+  "wembley": -3,
+  "long commute": -3,
+  "over budget": -3,
+  "cbre india 2300": -3,
+  "balcony": 2,
+  "build to rent": 2,
+  "build-to-rent": 2,
+  "fitted wardrobes": 2,
+  "small bedroom": -3
+ },
+ "review": 0
+}

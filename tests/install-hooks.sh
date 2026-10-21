@@ -7,7 +7,7 @@ mkdir -p "$(dirname "$HOOK")"
 cat > "$HOOK" <<'HOOK'
 #!/bin/sh
 cd "$(git rev-parse --show-toplevel)" || exit 1
-python3 /workspace/rightmove-watch/make_lite.py >/dev/null 2>&1 && git add listings_lite.json photos/t 2>/dev/null
+python3 /workspace/rightmove-watch/make_lite.py >/dev/null 2>&1 && git add listings_lite.json photos/t rules.json 2>/dev/null
 ./tests/run.sh || { echo "pre-commit: tests/run.sh FAILED — commit aborted" >&2; exit 1; }
 exit 0
 HOOK
