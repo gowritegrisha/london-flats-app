@@ -14,6 +14,8 @@ fi
 
 echo "tests/run.sh: undefined_calls"
 node tests/undefined_calls.mjs
+echo "tests/run.sh: enquiry_voice"
+node tests/enquiry_voice.mjs
 
 # free port if stale
 if command -v fuser >/dev/null 2>&1; then fuser -k "${PORT}/tcp" >/dev/null 2>&1 || true; fi

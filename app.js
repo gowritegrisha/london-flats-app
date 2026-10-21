@@ -226,11 +226,23 @@ function save(id){const l=data.find(x=>x.id==id);const k=String(id);
  else deep('s_'+k)}
 function setS(id,v){loc[id]=v;localStorage.setItem(lsK,JSON.stringify(loc));render();toast('Status saved on this device')}
 function link(u){tg&&tg.openLink?tg.openLink(u):window.open(u,'_blank')}
+// Enquiry draft in Masha's own voice (Grisha 21 Oct: no formal template, no "confirm", no sign-off).
+// One warm paragraph; wording varies per listing (stable hash), so two agents never get the same text.
+function vh(k){let h=2166136261;for(const c of String(k)){h^=c.charCodeAt(0);h=Math.imul(h,16777619)}h^=h>>>16;h=Math.imul(h,2246822507);h^=h>>>13;h=Math.imul(h,3266489909);h^=h>>>16;return h>>>0}
+function vp(arr,k,salt){return arr[vh(k+'|'+salt)%arr.length]}
+function enqText(l,name,early){const k=l.id;
+ const p=[vp([`Hey! i'm Maria, we really like ${name}`,`Hey! i'm Maria, i saw ${name} on rightmove and it looks lovely`,`Hey! i'm Maria and i'm very interested in ${name}`],k,'a'),
+  vp(["it's me and my partner plus a dog and a cat, both very quiet","we're two adults, me and my partner, and we have a dog and a cat, both well-behaved"],k,'b'),
+  vp(["we're moving to London mid-November for my new job near Regent's Place","i'm starting a new job near Regent's Place, so we're moving mid-November"],k,'c'),
+  vp(["combined income is £190k","our combined income is £190k"],k,'d'),
+  vp(["i'm still in Barcelona, so a video viewing on WhatsApp would be great, i'm free most afternoons","we're in Spain until then, could we do a video viewing? afternoons work best for me"],k,'e'),
+  vp(["how big is it, and when could we move in?","do you know the size and the earliest move-in date?","what's the size of it, and is mid-November ok for move-in?"],k,'f')];
+ if(early)p.push(`i see it's free from ${fmtD(l.available)}, any chance it could wait until mid-November?`);
+ p.push(vp(["my WhatsApp is +34605227263","my WA is +34605227263"],k,'g'));
+ return p.reduce((acc,x)=>acc+(/[?!]$/.test(acc)?' ':'. ')+x)}
 function draft(id){if(sentOf(id)){toast(enqBadge(sentOf(id)));return}{const c=(data.find(x=>String(x.id)==String(id))||{}).contacted;if(c){toast(/^same address/.test(c.via||'')?'По этому адресу уже писали — повторно не пишем':'Уже связывались с агентом — повторно не пишем');return}}cur=data.find(l=>l.id==id);const early=cur.available&&cur.available<'2026-11-15';
  const name=cur.title.split(',')[0];
- let t=`Hello,\n\nWe're very interested in ${name} and would love to arrange an online viewing (we are still in Barcelona and can't visit in person). My partner and I are moving to London in mid-November 2026 for a long-term let. I move to work at Synthesia in Regent's Place.\n\nWe have a well-behaved dog and a cat.\nOur combined income is around £190k.\n\nCould you confirm the floor area and the earliest move-in date?`;
- if(early)t+=`\n\nI see it's available from ${fmtD(cur.available)}. Would it be possible to hold it until mid-November?`;
- t+=`\n\nThank you,\nMaria Surkova\n+34 605 227 263 (available by phone and WhatsApp)`;
+ const t=enqText(cur,name,early);
  document.getElementById('dt').textContent='Enquiry: '+cur.title;document.getElementById('txt').value=t;cur._orig=t;document.getElementById('dlg').style.display='flex';
  document.getElementById('cmt').value='';document.getElementById('regen').style.display='none';document.getElementById('sdhint').style.display='none';
  if(tg&&tg.BackButton){tg.BackButton.show();tg.BackButton.onClick(closeD)}}
