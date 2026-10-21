@@ -273,10 +273,14 @@ const nx = await page.evaluate(() => {
                 note: /Ждём, какую из двух квартир Cedar/.test(document.querySelector('#sheet .nxt')?.textContent || '') });
     sheetClose();
   }
-  return { bad, held };
+  const closed = ['94294830', '93395547'].filter(id => sentOf(id)).map(id => { openSheet(id);
+    const r = { id, send: !!document.querySelector('#sheet [id^="sb-"]') || !!document.querySelector('#sheet #drf'),
+                note: /Маша решила, что далеко/.test(document.querySelector('#sheet .nxt')?.textContent || '') }; sheetClose(); return r; });
+  return { bad, held, closed };
 });
 if (nx.bad.length) fail(`robotic next-step text on: ${nx.bad.join(', ')}`);
 for (const h of nx.held) { if (h.send || h.draft) fail(`Cedar ${h.id}: send button/draft still shown`); if (!h.note) fail(`Cedar ${h.id}: hold note missing`); }
+for (const c of nx.closed) { if (c.send) fail(`Princes Ave ${c.id}: draft/send still shown`); if (!c.note) fail(`Princes Ave ${c.id}: declined note missing`); }
 console.log(`smoke: next-step texts ok, Cedar held: ${nx.held.map(h => h.id).join(',') || 'n/a'}`);
 
 // Scroll / load more (one page only — keep gate fast)
