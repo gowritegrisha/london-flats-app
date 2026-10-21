@@ -16,7 +16,7 @@ addEventListener('unhandledrejection',function(e){DBG('REJ '+(e.reason&&e.reason
 })();</script>
 <script>(function(){function show(m){try{var d=document.getElementById('errbox');if(!d){d=document.createElement('pre');d.id='errbox';d.style.cssText='position:fixed;left:0;right:0;top:0;z-index:99999;margin:0;padding:12px;background:#fff;color:#b00;font:12px/1.4 monospace;white-space:pre-wrap;max-height:60vh;overflow:auto';(document.body||document.documentElement).appendChild(d)}d.textContent+='⚠️ '+m+'\n';var l=document.getElementById('boot');if(l)l.remove()}catch(e){}}window.onerror=function(m,src,ln,col,e){show(m+' @'+(src||'').split('/').pop()+':'+ln+':'+col+(e&&e.stack?'\n'+e.stack:''))};window.addEventListener('unhandledrejection',function(e){var r=e.reason;show('Promise: '+(r&&(r.stack||r.message)||r))});setTimeout(function(){if(document.getElementById('boot'))show('App did not render within 15s')},15000)})();</script>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<link rel="stylesheet" href="style.css?v=v4.9">
+<link rel="stylesheet" href="style.css?v=v4.9.1">
 </head><body>
 <header id="hdr"><div id="fhead"><h1>🏠 Квартиры <span id="cnt" class="cnt"></span></h1>
 <div class="ctl"><div class="row" id="filters"></div></div>
@@ -40,5 +40,5 @@ addEventListener('unhandledrejection',function(e){DBG('REJ '+(e.reason&&e.reason
 <button id="sync" class="b" style="display:none" onclick="syncR()"></button>
 <div id="sheet" onclick="if(event.target===this)sheetClose()"><div class="sbox"><div class="grab"></div><div class="sbody"></div></div></div>
 <div class="toast" id="toast"></div>
-<script src="app.js?v=v4.9"></script>
+<script src="app.js?v=v4.9.1"></script>
 </body></html>

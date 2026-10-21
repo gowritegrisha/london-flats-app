@@ -152,8 +152,8 @@ function drEdit(id){const ta=document.getElementById('de-'+id),pre=document.getE
  else{const v=ta.value.trim();const e=sentOf(id);if(v&&v!==(e.next||{}).draft)DR[id]=v;else delete DR[id];localStorage.setItem(DRK,JSON.stringify(DR));render();if(curTab=='replies')renderR();if(sheetId)openSheet(sheetId);toast('Черновик сохранён на этом устройстве')}}
 const RSK='flatreplysent';const RS=JSON.parse(localStorage.getItem(RSK)||'{}');
 function rSent(id){const e=sentOf(id)||{};const t=drOf(e);const d=e.reply_sent;if(d&&(d.draft==null||d.draft===t))return 'sent';const l=RS[id];return l&&l.t===t?l.st:null}
-function sendBtn(id,cls,label){const st=rSent(id);return st?`<button class="${cls}" id="sb-${esc(id)}" disabled>${st=='sending'?'Отправляется…':'Отправлено ✓'}</button>`:`<button class="${cls}" id="sb-${esc(id)}" onclick="drSend('${esc(id)}',this)">${label}</button>`}
-function drSend(id,btn){if(rSent(id)){toast('Уже отправлено ранее');return}const e=sentOf(id);const t=drOf(e);
+function sendBtn(id,cls,label){if(((sentOf(id)||{}).next||{}).send_disabled)return '';const st=rSent(id);return st?`<button class="${cls}" id="sb-${esc(id)}" disabled>${st=='sending'?'Отправляется…':'Отправлено ✓'}</button>`:`<button class="${cls}" id="sb-${esc(id)}" onclick="drSend('${esc(id)}',this)">${label}</button>`}
+function drSend(id,btn){if(rSent(id)){toast('Уже отправлено ранее');return}const e=sentOf(id);if(((e||{}).next||{}).send_disabled){toast('Пока не отправляем: ждём решения');return}const t=drOf(e);
  RS[id]={t,st:'sending',ts:new Date().toISOString()};localStorage.setItem(RSK,JSON.stringify(RS));
  const bs=btn?[btn]:[];document.querySelectorAll('[id="sb-'+id+'"]').forEach(b=>bs.includes(b)||bs.push(b));bs.forEach(b=>{b.disabled=true;b.textContent='Отправляется…'});
  const done=()=>{RS[id].st='sent';localStorage.setItem(RSK,JSON.stringify(RS));document.querySelectorAll('[id="sb-'+id+'"]').forEach(b=>{b.disabled=true;b.textContent='Отправлено ✓'});toast('✅ Отправлено боту — подтверждение придёт в Telegram')};
@@ -194,7 +194,7 @@ function openSheet(id){const e=sentOf(id);if(!e)return;sheetId=id;const L=data.f
  <div class="enqline">${av(e)}${pill(e)}</div>`;
  if(n.text)h+=`<div class="nx ${n.who==='us'?'nx-us':n.who==='agent'?'nx-ag':'nx-none'}"><div class="nxh">${n.who==='us'?'👉 Наш ход':n.who==='agent'?'⏳ Ход агента':'✔️ Готово'}${a!=null&&n.who!=='none'?' · '+AGE_RU(a):''}</div><div class="nxt">${esc(n.text)}</div>
   <div class="cta">${primary(e).replace("openSheet('"+esc(id)+"')","document.getElementById('drf').scrollIntoView()")}</div></div>`;
- if(n.draft){const ed=DR[id]!=null;h+=`<div class="drf" id="drf"><div class="drh">Черновик ответа${n.reply_to?' → '+esc(n.reply_to):''}${ed?' · изменён':''}</div><div class="bt" id="dr-${esc(id)}">${esc(drOf(e))}</div>
+ if(n.draft&&!n.send_disabled){const ed=DR[id]!=null;h+=`<div class="drf" id="drf"><div class="drh">Черновик ответа${n.reply_to?' → '+esc(n.reply_to):''}${ed?' · изменён':''}</div><div class="bt" id="dr-${esc(id)}">${esc(drOf(e))}</div>
   <textarea id="de-${esc(id)}" style="display:none" rows="6"></textarea>
   <div class="cta">${n.reply_to?`${sendBtn(id,'b pri','📨 Отправить через бота')}`:''}<button class="b sec" onclick="drEdit('${esc(id)}')">✏️</button><button class="b sec" onclick="drCopy('${esc(id)}')">📋</button></div>
   <div class="drn">Ничего не уйдёт без подтверждения в чате бота.</div></div>`}

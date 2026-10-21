@@ -262,6 +262,23 @@ if (far.nf && far.tgl) {
   if (await page.evaluate(() => LV.filter(isFar).length)) fail('toggle off did not re-hide >45 min cards');
 }
 
+// Next-step texts read like a person (Grisha 21 Oct): no "Reply: X"/"Action:"/arrows; Cedar cards held with no send button
+const nx = await page.evaluate(() => {
+  const bad = (S || []).filter(e => e.next && e.next.text && /\bReply:|\bAction:|→|->|\bnudge\?/i.test(e.next.text)).map(e => e.listing_id);
+  const held = [];
+  for (const id of ['93267390', '94136856']) {
+    const e = sentOf(id); if (!e) continue;
+    openSheet(id);
+    held.push({ id, send: !!document.querySelector('#sheet [id^="sb-"]'), draft: !!document.querySelector('#sheet #drf'),
+                note: /Ждём, какую из двух квартир Cedar/.test(document.querySelector('#sheet .nxt')?.textContent || '') });
+    sheetClose();
+  }
+  return { bad, held };
+});
+if (nx.bad.length) fail(`robotic next-step text on: ${nx.bad.join(', ')}`);
+for (const h of nx.held) { if (h.send || h.draft) fail(`Cedar ${h.id}: send button/draft still shown`); if (!h.note) fail(`Cedar ${h.id}: hold note missing`); }
+console.log(`smoke: next-step texts ok, Cedar held: ${nx.held.map(h => h.id).join(',') || 'n/a'}`);
+
 // Scroll / load more (one page only — keep gate fast)
 const before = await page.locator('.card').count();
 await page.evaluate(() => { try { fillList(); } catch (_) {} });

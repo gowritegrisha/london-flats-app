@@ -3,7 +3,7 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 LIVE="${FLATS_APP_URL:-https://gowritegrisha.github.io/london-flats-app/}"
-WANT_VER="${FLATS_EXPECT_VER:-v4.9}"
+WANT_VER="${FLATS_EXPECT_VER:-v4.9.1}"
 MAX_WAIT="${FLATS_PAGES_WAIT:-120}"
 
 echo "postdeploy: waiting for Pages ($LIVE) to serve $WANT_VER (max ${MAX_WAIT}s)…"
