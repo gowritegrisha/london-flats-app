@@ -1,5 +1,499 @@
 [
  {
+  "id": "otm-20584619",
+  "title": "Plough Road — 1-bed",
+  "area": "Plough Road, Battersea, London, SW11",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "2026-12-09",
+  "commute": "44 min · 🚆 South Western Railway + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20584619/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20584619_0.jpg",
+   "photos/otm-20584619_1.jpg",
+   "photos/otm-20584619_2.jpg",
+   "photos/otm-20584619_3.jpg",
+   "photos/otm-20584619_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Chestertons - Battersea. A light and airy apartment set on the second floor close to Clapham Junction Station. The well proportioned accommodation is finished to a high specification with neutral décor and contemporary fittings throughout including low voltage lighting. On entering the flat there is a hallway with an entry-phone system and storage cupboard, off which is a modern bathroom, a double bedroom, kitchen and separate reception room with space for dining. The kitchen has a range of base and eye level units with integrated kitchen appliances. The property also features a south west facing balcony accessed via French doors from the reception room. The Goldings is situated on the corner of Plough Road and St John's Hill. It is only a short distance from the local shops, cafes, bars and restaurants found on St John's Hill and Northcote Road. It is also well located for the transport links at Clapham Junctio",
+  "hood": "Hoodmaps: Rich (Fairfield); nearby tags: \"Paris 2.0\", \"Edgy waitresses\", \"Trains, trains everywhere\", \"Old people\".",
+  "date_found": "2026-10-22",
+  "features": "A light and airy apartment set on the second floor of an attractive development; Well-proportioned accommodation finished to a high specification with neutral décor and contemporary fittings throughout including low voltage lighting; Modern bathroom; Double bedroom; Kitchen with integrated kitchen appliances; Separate reception room with space for dining; Lovely south west facing balcony accessed via French doors from the reception room; Only a short stroll from the local shops, cafes, bars and restaurants found on St John’s Hill and Northcote Road; Well located for the transport links at Clapham Junction and the green open spaces of Wandsworth Common",
+  "listed": "2026-10-17",
+  "lat": 51.461872,
+  "lng": -0.174244,
+  "agent": "Chestertons - Battersea",
+  "commute_min": 44,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), contemporary(+2), light(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚆 South Western Railway + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "09 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 5
+ },
+ {
+  "id": "otm-20608756",
+  "title": "Raeburn Street — 1-bed",
+  "area": "Raeburn Street, London, SW2",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-05",
+  "commute": "39 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20608756/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20608756_0.jpg",
+   "photos/otm-20608756_1.jpg",
+   "photos/otm-20608756_2.jpg",
+   "photos/otm-20608756_3.jpg",
+   "photos/otm-20608756_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] OpenRent - UK. Property Reference: 3084024. Charming split-level one bedroom flat packed with period features. Well situated under 10 minutes to Brixton tube on a quiet street just off Acre Lane. Available from December 5th, maybe a few days before. Summary & Exclusions: - Rent Amount: £1,900.00 per month (£438.46 per week) - Deposit / Bond: £450.00 - 1 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 05 November 2026 - Maximum number of tenants is 2 - No Students - Pets considered / by arrangement - Smokers considered - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: E If calling, please quote reference: 3084024 Fees: You will not be charged any admin fees. * Contact today to book a viewing and have the landlord show you round! * Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week. OpenRe",
+  "hood": "Hoodmaps: Hipsters (Ferndale); nearby tags: \"Jamaica\", \"barbies and drillers\", \"Nittys\", \"wigwam breadbin yagetme \".",
+  "date_found": "2026-10-22",
+  "features": "No Agent Fees; Property Reference Number: 3084024",
+  "listed": "2026-10-22",
+  "lat": 51.460637,
+  "lng": -0.122617,
+  "agent": "OpenRent - UK",
+  "commute_min": 39,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "05 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20608824",
+  "title": "London — 1-bed",
+  "area": "London, London, W4",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-26",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20608824/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20608824_0.jpg",
+   "photos/otm-20608824_1.jpg",
+   "photos/otm-20608824_2.jpg",
+   "photos/otm-20608824_3.jpg",
+   "photos/otm-20608824_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] OpenRent - UK. Property Reference: 3084251. One-Bedroom Flat, Devonshire Road, Chiswick, W4 A stylish, modern one-bedroom flat on Devonshire Road, one of Chiswick's most characterful streets. Finished in a clean contemporary style throughout, the flat offers a bright living space, a well-equipped kitchen, a comfortable double bedroom and a sleek modern bathroom. Ideal for a professional single or couple wanting a well-presented home in a sought-after west London neighbourhood. Location Devonshire Road itself is lined with independent cafes, delis, restaurants and boutiques, with a relaxed village feel Chiswick High Road moments away - Waitrose, Sainsbury's, M&S Food, pharmacies, banks and a wide choice of bars and restaurants Chiswick House and Gardens and riverside walks at Chiswick Mall and Strand-on-the-Green a short stroll away Transport Turnham Green (District line) a few minutes' walk Chiswick ma",
+  "hood": "Hoodmaps: Rich (Chiswick Homefields); no user tags within ~450 m.",
+  "date_found": "2026-10-22",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3084251",
+  "listed": "2026-10-22",
+  "lat": 51.48996,
+  "lng": -0.254687,
+  "agent": "OpenRent - UK",
+  "commute_min": 52,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), sleek(+2), contemporary(+2), well-presented(+2), character(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "52 min (TfL): 🚇 District + Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 8.5,
+    "max": 10,
+    "reason": "26 Oct: 6 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94627581",
+  "title": "Collendale Road — 1-bed",
+  "area": "Collendale Road, Walthamstow, London",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-04",
+  "commute": "35 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94627581",
+  "source": "rightmove",
+  "photos": [
+   "photos/94627581_0.jpg",
+   "photos/94627581_1.jpg",
+   "photos/94627581_2.jpg",
+   "photos/94627581_3.jpg",
+   "photos/94627581_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] The Stow Brothers, Walthamstow & Leyton. Set within a sleek development in one of E17’s prime locations, this one-bedroom apartment is packed with perks, from the private west-facing balcony and communal grounds to the open plan kitchen/reception and immaculate decor. The Blackhorse Road neighbourhood is thriving, full of top rated food and drink-based perks, excellent transport links and luscious greenery, including the fantastic Walthamstow Wetlands. IF YOU LIVE HERE… Now recognised across the capital as a destination for entertainment, this is a location that puts you right at the heart of the action, with modern city living on your doorstep… Up on the fourth floor, your open plan kitchen/living room is bursting with natural light, with smart flooring sweeping the length, and plenty of room for dining and relaxing. The kitchen area has glossy cabinets and contemporary appliances, so hosting will be top of the list when you s",
+  "hood": "Hoodmaps: Hipsters (William Morris), also painted Rich; nearby tags: \"Gay couples looking for a 3rd\", \"Hipster cafe\", \"Blackhorse Road Beer Mile\", \"beer and games 🍻\".",
+  "date_found": "2026-10-22",
+  "features": "Modern Development; Large One Bedroom Apartment; Available December; Stylish Interior; West Facing Balcony; Sleek Interior; Car Free Development (No Parking); Stone's Throw from Blackhorse Road Station",
+  "listed": "2026-10-22",
+  "lat": 51.588977,
+  "lng": -0.04027,
+  "agent": "The Stow Brothers, Walthamstow & Leyton",
+  "commute_min": 35,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 70,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), sleek(+2), contemporary(+2), light(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.0,
+    "max": 20,
+    "reason": "35 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "04 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94629810",
+  "title": "Rheidol Terrace — 1-bed",
+  "area": "Rheidol Terrace, Islington, N1",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-22",
+  "commute": "33 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94629810",
+  "source": "rightmove",
+  "photos": [
+   "photos/94629810_0.jpg",
+   "photos/94629810_1.jpg",
+   "photos/94629810_2.jpg",
+   "photos/94629810_3.jpg",
+   "photos/94629810_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 1400607. Angel Islington , Just off Islington green.. Top floor of Victorian town house... 1 Double bedroom , furnished self contained flat.. Situated on a quite residential turning 10 mins walk from Angel Islington station & Upper Street ..15 Mins walk to Regents Canal High spot lit ceilings , Large sash windows, central heating, Laminate flooring & neutral décor through out. ..Entry phone .. Double bedroom, King size bed , fitted wardrobes with rail & shelving .. Sash window to rear aspect Open plan kitchen/ diner/ Lounge with dishwasher , washing machine, Frige Freezer .. Dinning table & Chairs, Sofa included .. Two sash windows to front aspect Shower / bathroom room.. Carpeted internal stairs & landing ..Sash window to rear aspect on landing Shared use of rear courtyard style garden..Eligable for residents parking permit Not suitable for children or pets Reference",
+  "hood": "Hoodmaps: Rich (St. Peter's); nearby tags: \" architecture studios\", \"calm AF\", \"Long lines for croissant\", \"cute shops + cafes\".",
+  "date_found": "2026-10-22",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 1400607",
+  "listed": "2026-10-22",
+  "lat": 51.53493,
+  "lng": -0.098541,
+  "agent": "OpenRent, London",
+  "commute_min": 33,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 72,
+  "score_breakdown": {
+   "style": {
+    "points": 12.6,
+    "max": 22,
+    "reason": "keywords: fitted wardrobes(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.2,
+    "max": 20,
+    "reason": "33 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.5,
+    "max": 10,
+    "reason": "22 Oct: 10 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, terrace"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94630413",
+  "title": "Grosvenor Park Road — 2-bed",
+  "area": "Grosvenor Park Road, London",
+  "price": 2100,
+  "size": "77 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-10",
+  "commute": "41 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94630413",
+  "source": "rightmove",
+  "photos": [
+   "photos/94630413_0.jpg",
+   "photos/94630413_1.jpg",
+   "photos/94630413_2.jpg",
+   "photos/94630413_3.jpg",
+   "photos/94630413_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] The Stow Brothers, Walthamstow & Leyton. A bright and spacious two bedroom apartment, situated on the the top floor of a stunning red brick period conversion located on a leafy residential road in Walthamstow Village. While you're a short walk from bustling Hoe Street, connecting you to central Walthamstow and beyond, you're also moments from the centre of the serene Village. Walthamstow's much loved old town is filled with independent shops, pubs and eateries, and is wonderful to explore on foot or by bike. IF YOU LIVED HERE You'll have one of our most enviable neighbourhoods right on your doorstep – the peaceful, part pedestrianised streets of Walthamstow Village are just a handful of strides away, and home to a wide range of artisanal shops, high quality gastropubs, chic bars and excellent restaurants plus a regular, thriving farmers market. Inside, your almost 210 square foot reception is a generous space – flooded with nat",
+  "hood": "Hoodmaps: Hipsters (Hoe Street), also painted Normies; nearby tags: \"Crackstow\".",
+  "date_found": "2026-10-22",
+  "features": "Available Late March; Two Bedrooms; Sleek Interior; Period Conversion; Walthamstow Village Location; Permit Parking available; EPC Rating D; Council Tax Band B; Holding Deposit Equivalent To 1 Week's Rent Capped at £400; Security Deposit Amount Equivalent To 5 Weeks' Of The Agreed Rent",
+  "listed": "2026-10-22",
+  "lat": 51.579345,
+  "lng": -0.017352,
+  "agent": "The Stow Brothers, Walthamstow & Leyton",
+  "commute_min": 41,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: bright(+2), sleek(+2), conversion(+1), period(+1)"
+   },
+   "size": {
+    "points": 15,
+    "max": 15,
+    "reason": "77 m²"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "Hipsters; negative tags: crack"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "10 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "fx-2431120",
   "title": "Pembroke Road — 1-bed",
   "area": "Pembroke Road, Crouch End N8",
@@ -28,9 +522,6 @@
   "lat": 51.588868,
   "lng": -0.119184,
   "agent": "Foxtons Crouch End",
-  "commute_min": 45,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -79,7 +570,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 45,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20607552",
@@ -110,9 +604,6 @@
   "lat": 51.442886,
   "lng": -0.064116,
   "agent": "GP Properties of London - Bromley",
-  "commute_min": 64,
-  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 61,
@@ -163,7 +654,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 64,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": false
  },
  {
   "id": "94615824",
@@ -194,9 +688,6 @@
   "lat": 51.511005,
   "lng": -0.19373,
   "agent": "OpenRent, London",
-  "commute_min": 35,
-  "commute_mode": "🚇 Central + Victoria",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -245,7 +736,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 35,
+  "commute_mode": "🚇 Central + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94618521",
@@ -276,9 +770,6 @@
   "lat": 51.4491,
   "lng": -0.130523,
   "agent": "Orlando Reid, London",
-  "commute_min": 55,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 64,
@@ -329,7 +820,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 55,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94620072",
@@ -360,9 +854,6 @@
   "lat": 51.553009,
   "lng": -0.209544,
   "agent": "Kinleigh Folkard & Hayward - Lettings, West Hampstead",
-  "commute_min": 41,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -411,7 +902,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94622571",
@@ -442,9 +936,6 @@
   "lat": 51.521248,
   "lng": -0.264214,
   "agent": "OpenRent, London",
-  "commute_min": 39,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -493,7 +984,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 39,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "otm-20603086",
