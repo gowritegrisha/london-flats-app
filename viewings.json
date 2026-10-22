@@ -362,23 +362,6 @@
   "type": null
  },
  {
-  "id": "hold-94311600@2026-10-22T15:30",
-  "listing_id": "94311600",
-  "title": "Sussex Way — 1-bed",
-  "address": "Sussex Way, Upper Holloway, N19",
-  "datetime": "2026-10-22T15:30:00+01:00",
-  "agent": "Chestertons (Stevie Walton)",
-  "agent_email": "lettings.kentishtown.enquiries@chestertons.co.uk",
-  "agent_phone": "+44 (0)20 7267 1010",
-  "thread_id": null,
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": "7h4neslempe2aletg98dqo7ing",
-  "calendar_link": "https://www.google.com/calendar/event?eid=N2g0bmVzbGVtcGUyYWxldGc5OGRxbzdpbmcgZ293cml0ZW1hc2hhQG0",
-  "notes": "(?) предварительно — агент не подтвердил. Asked Stevie Walton (Chestertons Kentish Town) for WhatsApp video Thu 22 15:30 or Fri 23 14:30 London (19 Oct)"
- },
- {
   "id": "hold-94311600@2026-10-23T14:30",
   "listing_id": "94311600",
   "title": "Sussex Way — 1-bed",
