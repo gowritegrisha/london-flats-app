@@ -362,21 +362,21 @@
   "calendar_link": "https://www.google.com/calendar/event?eid=c2N1b2NmaW8yMDAxOHVyNXJtYTR0bDAzNzggZ293cml0ZW1hc2hhQG0"
  },
  {
-  "id": "hold-163036916@2026-10-22T14:45",
+  "id": "prop-163036916",
   "listing_id": "163036916",
-  "title": "Loftus Road — 1-bed",
+  "title": "Loftus Road, London, W12",
   "address": "Loftus Road, London, W12",
-  "datetime": "2026-10-22T14:45:00+01:00",
-  "agent": "Winkworth (Janine Coleman)",
+  "datetime": null,
+  "agent": "Winkworth, Shepherds Bush",
+  "agent_contact": null,
   "agent_email": "jcoleman@winkworth.co.uk",
   "agent_phone": "020 8735 3257",
   "thread_id": "1a11fffe18c33971",
-  "status": "cancelled",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": "shecmfbbjrgqp58731k871l950",
-  "calendar_link": "https://www.google.com/calendar/event?eid=c2hlY21mYmJqcmdxcDU4NzMxazg3MWw5NTAgZ293cml0ZW1hc2hhQG0",
-  "notes": "Не состоится: Winkworth не делает просмотры по WhatsApp, Джанин просит прислать кого-то лично (22 окт)."
+  "status": "proposed",
+  "asked": "2026-10-22T12:05:35Z",
+  "notes": "Unfortunately, we do not conduct WhatApp viewings, could you send someone to view this property on your behalf instead? Janine Coleman Lettings Negotiator Winkworth Shepherds Bush Office 97 Uxbridge Road, Shepherds Bush,",
+  "source": "masha-mail",
+  "type": null
  },
  {
   "id": "hold-94311600@2026-10-22T15:30",
@@ -394,23 +394,6 @@
   "calendar_event_id": "7h4neslempe2aletg98dqo7ing",
   "calendar_link": "https://www.google.com/calendar/event?eid=N2g0bmVzbGVtcGUyYWxldGc5OGRxbzdpbmcgZ293cml0ZW1hc2hhQG0",
   "notes": "(?) предварительно — агент не подтвердил. Asked Stevie Walton (Chestertons Kentish Town) for WhatsApp video Thu 22 15:30 or Fri 23 14:30 London (19 Oct)"
- },
- {
-  "id": "hold-163036916@2026-10-23T13:30",
-  "listing_id": "163036916",
-  "title": "Loftus Road — 1-bed",
-  "address": "Loftus Road, London, W12",
-  "datetime": "2026-10-23T13:30:00+01:00",
-  "agent": "Winkworth (Janine Coleman)",
-  "agent_email": "jcoleman@winkworth.co.uk",
-  "agent_phone": "020 8735 3257",
-  "thread_id": "1a11fffe18c33971",
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": "g24s1fvv6mr1inf067d6uhtpis",
-  "calendar_link": "https://www.google.com/calendar/event?eid=ZzI0czFmdnY2bXIxaW5mMDY3ZDZ1aHRwaXMgZ293cml0ZW1hc2hhQG0",
-  "notes": "(?) предварительно — агент не подтвердил. Masha proposed Thu 22 13:00 or Fri 23 13:30 London to Janine (Winkworth), 21 Oct"
  },
  {
   "id": "hold-94311600@2026-10-23T14:30",
