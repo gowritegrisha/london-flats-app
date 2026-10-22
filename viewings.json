@@ -340,10 +340,11 @@
   "agent_email": "hamptonsprsandbtr@hamptons.co.uk",
   "agent_phone": "+44 07594517007",
   "thread_id": "1a15ef9baba43704",
-  "status": "confirmed",
+  "status": "cancelled",
   "source": "masha-mail",
   "calendar_event_id": "pvq8a0l9p3f7o4tug81k8up1rc",
-  "calendar_link": "https://www.google.com/calendar/event?eid=cHZxOGEwbDlwM2Y3bzR0dWc4MWs4dXAxcmMgZ293cml0ZW1hc2hhQG0"
+  "calendar_link": "https://www.google.com/calendar/event?eid=cHZxOGEwbDlwM2Y3bzR0dWc4MWs4dXAxcmMgZ293cml0ZW1hc2hhQG0",
+  "notes": "Отменён: агент сказал, что квартиры по £2,500, слишком дорого (Маша, 22 окт)."
  },
  {
   "id": "mail-1a15edd81d77e4ab",
@@ -370,12 +371,12 @@
   "agent_email": "jcoleman@winkworth.co.uk",
   "agent_phone": "020 8735 3257",
   "thread_id": "1a11fffe18c33971",
-  "status": "proposed",
+  "status": "cancelled",
   "type": "video",
   "source": "calendar-hold",
   "calendar_event_id": "shecmfbbjrgqp58731k871l950",
   "calendar_link": "https://www.google.com/calendar/event?eid=c2hlY21mYmJqcmdxcDU4NzMxazg3MWw5NTAgZ293cml0ZW1hc2hhQG0",
-  "notes": "(?) предварительно — агент не подтвердил. агент предлагает лично, не по видео"
+  "notes": "Не состоится: Winkworth не делает просмотры по WhatsApp, Джанин просит прислать кого-то лично (22 окт)."
  },
  {
   "id": "hold-94311600@2026-10-22T15:30",
