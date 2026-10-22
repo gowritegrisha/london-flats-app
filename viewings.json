@@ -378,23 +378,6 @@
   "notes": "(?) предварительно — агент не подтвердил. Masha asked Fiona (Savills) for a live WhatsApp video Thu 22 or Fri 23 at 12:00 London (21 Oct)"
  },
  {
-  "id": "hold-163036916@2026-10-22T13:00",
-  "listing_id": "163036916",
-  "title": "Loftus Road — 1-bed",
-  "address": "Loftus Road, London, W12",
-  "datetime": "2026-10-22T13:00:00+01:00",
-  "agent": "Winkworth (Janine Coleman)",
-  "agent_email": "jcoleman@winkworth.co.uk",
-  "agent_phone": "020 8735 3257",
-  "thread_id": "1a11fffe18c33971",
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": "sqtvu3o258nab5p8qvg4gt0cr0",
-  "calendar_link": "https://www.google.com/calendar/event?eid=c3F0dnUzbzI1OG5hYjVwOHF2ZzRndDBjcjAgZ293cml0ZW1hc2hhQG0",
-  "notes": "(?) предварительно — агент не подтвердил. Masha proposed Thu 22 13:00 or Fri 23 13:30 London to Janine (Winkworth), 21 Oct"
- },
- {
   "id": "hold-94311600@2026-10-22T15:30",
   "listing_id": "94311600",
   "title": "Sussex Way — 1-bed",
