@@ -33976,8 +33976,7 @@
   },
   "nbhd": "Lea Bridge E5",
   "fresh_days": 7,
-  "hidden": true,
-  "hidden_reason": "commute>45",
+  "kept_reason": "agent thread",
   "commute_min": 51,
   "commute_mode": "🚆 Greater Anglia + Victoria",
   "commute_ok": false
