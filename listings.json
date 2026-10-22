@@ -28,9 +28,6 @@
   "lat": 51.536114,
   "lng": -0.1409655,
   "agent": "OpenRent (private landlord)",
-  "commute_min": 17,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 7
+  "fresh_days": 7,
+  "nbhd": "Regent's Park NW1",
+  "commute_min": 17,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true
  },
  {
   "id": "otm-20593978",
@@ -110,9 +111,6 @@
   "lat": 51.46418,
   "lng": -0.1025,
   "agent": "Home Made - Southwark",
-  "commute_min": 43,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -161,7 +159,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Herne Hill/Loughborough Junction SE24",
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-10001217",
@@ -192,9 +194,6 @@
   "lat": 51.52782,
   "lng": -0.052597,
   "agent": "Utile Dulci - Kensington",
-  "commute_min": 35,
-  "commute_mode": "🚇 Central + Metropolitan",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -243,7 +242,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Bethnal Green East E2",
+  "commute_min": 35,
+  "commute_mode": "🚇 Central + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94460136",
@@ -274,9 +277,6 @@
   "lat": 51.563377,
   "lng": -0.128375,
   "agent": "Drivers & Norris, Islington- Lettings",
-  "commute_min": 32,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -325,7 +325,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3
+  "fresh_days": 3,
+  "nbhd": "Junction · Upper Holloway N19",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94570914",
@@ -356,9 +360,6 @@
   "lat": 51.57676,
   "lng": -0.24039,
   "agent": "Right Now Residential, London",
-  "commute_min": 54,
-  "commute_mode": "🚆 Thameslink + Hammersmith & City",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 60,
@@ -409,7 +410,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "West Hendon · Colindale NW9",
+  "commute_min": 54,
+  "commute_mode": "🚆 Thameslink + Hammersmith & City",
+  "commute_ok": false
  },
  {
   "id": "94574817",
@@ -438,9 +443,6 @@
   "lat": 51.42889,
   "lng": -0.173,
   "agent": "Barnard Marcus Lettings, Tooting Lettings",
-  "commute_min": 45,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -489,7 +491,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Tooting Broadway SW17",
+  "commute_min": 45,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94590246",
@@ -520,9 +526,6 @@
   "lat": 51.52275,
   "lng": -0.265305,
   "agent": "The Chant Group, Bank",
-  "commute_min": 44,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -571,7 +574,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "North Acton W3",
+  "commute_min": 44,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94590828",
@@ -601,9 +608,6 @@
   "lat": 51.585987,
   "lng": -0.113406,
   "agent": "OpenRent, London",
-  "commute_min": 35,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -652,7 +656,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Hornsey · Hornsey/Crouch End N8",
+  "commute_min": 35,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20600633",
@@ -732,6 +740,7 @@
    }
   },
   "fresh_days": 1,
+  "nbhd": "South Balham SW17",
   "commute_min": 42,
   "commute_mode": "🚇 Northern + Victoria",
   "commute_ok": true
@@ -814,6 +823,7 @@
    }
   },
   "fresh_days": 1,
+  "nbhd": "Limehouse · Poplar/Canary Wharf E14",
   "commute_min": 40,
   "commute_mode": "🚈 DLR + Northern + Victoria",
   "commute_ok": true
@@ -895,6 +905,7 @@
    }
   },
   "fresh_days": 1,
+  "nbhd": "Friern Barnet N11",
   "commute_min": 45,
   "commute_mode": "🚆 Thameslink + Victoria",
   "commute_ok": true
@@ -977,6 +988,7 @@
    }
   },
   "fresh_days": 1,
+  "nbhd": "Friern Barnet N11",
   "commute_min": 45,
   "commute_mode": "🚆 Thameslink + Victoria",
   "commute_ok": true
@@ -1059,6 +1071,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Chiswick Homefields W4",
   "commute_min": 44,
   "commute_mode": "🚇 District + Victoria",
   "commute_ok": true
@@ -1143,6 +1156,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "West Ham E15",
   "commute_min": 55,
   "commute_mode": "🚇 Hammersmith & City",
   "commute_ok": false
@@ -36458,7 +36472,7 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-07. One Bedroom Flat; High Ceilings; Modern Kitchen; Close to Transport; Close to High Street. This immaculate one bedroom flat comes to market in walk-in condition. The property boasts a bright, spacious reception room benefiting from high ceilings, modern kitchen, bathroom and double bedroom. The Avenue is a pretty tree-lined road with easy access to the cafes, restaurants and amenities of Salusbury Road. Local transport include Queen's Park (Bakerloo Line) & Brondesbury Park (London Overground). Security Deposit: £2,192 Council Tax Band: D",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (Brondesbury Park), also painted Rich; nearby tags: \"Dog Walkers\", \"Too many kids/parents but otherwise nice\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "One Bedroom Flat High Ceilings Modern Kitchen Close to Transport Close to High Street",
@@ -36480,9 +36494,9 @@
     "reason": "41 min door-to-door (TfL): 🚆 Mildmay + Jubilee + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 4.0,
@@ -36548,11 +36562,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-07. SOLE USE OF GARDEN; NEW BATHROOM SUITE; CLOSE TO TRANSPORT &amp; AMENITIES; UN FURNISHED.  A superb one-bedroom garden flat, set on the ground floor of an attractive Victorian converted house and benefiting from sole use of a private south-facing rear garden. The property offers bright and well-proportioned accommodation throughout, comprising a spacious reception room, generous double bedroom, large kitchen/diner and bathroom. The private south-facing garden provides an excellent outdoor space for relaxing and entertaining. Vartry Road is well positioned for a variety of local shops, cafés and everyday",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Seven Sisters), also painted Normies/Rich; nearby tags: \"kids on scooters everywhere\", \"literally nothing here. \".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "SOLE USE OF GARDEN NEW BATHROOM SUITE CLOSE TO TRANSPORT &amp; AMENITIES UN FURNISHED",
-  "score": 68,
+  "score": 72,
   "score_breakdown": {
    "style": {
     "points": 15.4,
@@ -36570,9 +36584,9 @@
     "reason": "40 min door-to-door (TfL): 🚇 Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 10,
@@ -36640,11 +36654,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-07. 1 Bedroom; Sq Ft: 441; Epc Band: C; Open Plan Kitchen/Reception Room; Bathroom. The property offers a good size open plan kitchen reception room with fully integrated appliances, double bedroom and contemporary bathroom with shower. Ideally positioned close to Shepherds Bush underground station and local amenities. **Virtual tours are not offered. All properties must be viewed in person** As well as paying rent, as agreed (usually monthly in advance), you will also have to pay the following: Before the tenancy starts: Deposit (equivalent to five weeks). Stamp Duty (on tenancies that amount to",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Shepherd's Bush Green), also painted Normies; nearby tags: \"More Aussies and Kiwis\", \"Bye bye BBC\", \"Cess pit\", \"come on you r's\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "1 Bedroom Sq Ft: 441 Epc Band: C Open Plan Kitchen/Reception Room Bathroom",
-  "score": 72,
+  "score": 77,
   "score_breakdown": {
    "style": {
     "points": 12.6,
@@ -36662,9 +36676,9 @@
     "reason": "38 min door-to-door (TfL): 🚇 Circle"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -36732,7 +36746,7 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-07. Close to local amenities ; Good transport links ; One bedroom ; Recently renovated .  Modern 1-Bedroom Apartment – Recently Renovated – St Ann’s Road, London LettingaProperty are delighted to offer this modern one bedroom, one bathroom apartment , ideally located on St Ann’s Road, London. Recently renovated to a high standard , this well-presented property provides comfortable and contemporary accommodation in a convenient North London location. The apartment is offered unfurnished and is available from 14 August 2026 on a rolling periodic tenancy. The property also benefits from an electric heatin",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (St. Ann's); nearby tags: \"Cat lovers\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Close to local amenities  Good transport links  One bedroom  Recently renovated ",
@@ -36754,9 +36768,9 @@
     "reason": "34 min door-to-door (TfL): 🚇 Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 4.0,
@@ -36822,11 +36836,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-07. . Two bedroom ground floor maisonette with own section rear garden. Located just off East End Road, close top shops, buses and Archer Academy. East Finchley underground station is within half a mile. * QUIETLY SITUATED BRIGHT & SPACIOUS TWO BEDROOM GROUND FLOOR GARDEN MAISONETTE * TWO GOOD SIZE BEDROOMS * LARGE RECEPTION ROOM * FITTED KITCHEN * MODERN BATHROOM / WC * GAS CENTRAL HEATING * DOUBLE GLAZED WINDOWS * EASY WALKING DISTANCE TO EAST FINCHLEY UNDERGROUND STATION & SHOPPING CENTRE * UNFURNISHED * AVAILABLE EAR",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (East Finchley); no user tags within ~450 m.",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "",
-  "score": 64,
+  "score": 70,
   "score_breakdown": {
    "style": {
     "points": 16.8,
@@ -36844,9 +36858,9 @@
     "reason": "41 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 1.5,
@@ -36919,7 +36933,7 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-08. One Bedroom Flat; Available 14th November 2026; Furnished or Unfurnished; Wood Flooring; Modern Kitchen; Council Tax Band: C. A bright and recently refurbished apartment located within close proximity of all amenities of Willesden Green. The property comprises a spacious reception room with high ceilings and wood flooring, fully fitted kitchen, large double bedroom and a modern three piece bathroom suite. Available 14th November 2026 offered either furnished or unfurnished.",
-  "hood": "",
+  "hood": "Hoodmaps: Normies (Willesden Green); no user tags within ~450 m.",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "One Bedroom Flat Available 14th November 2026 Furnished or Unfurnished Wood Flooring Modern Kitchen Council Tax Band: C",
@@ -36941,9 +36955,9 @@
     "reason": "44 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 8.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Normies"
    },
    "availability": {
     "points": 10,
@@ -37011,11 +37025,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-08. . Spacious One-Bedroom Ground Floor Flat with Private Garden – Salisbury Road Available now, this well-presented one-bedroom ground floor flat offers a fantastic opportunity for a single occupant or couple looking for a comfortable home in a convenient Leyton location. The property comprises a generously sized double bedroom, a good-sized living room, a well-equipped kitchen, and a bright conservatory leading onto a generous private garden — ideal for relaxing, entertaining or enjoying some outdoor space. Located on",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Grove Green), also painted Rich; nearby tags: \"Gentrification road\", \"Even more Somali's\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "",
-  "score": 58,
+  "score": 63,
   "score_breakdown": {
    "style": {
     "points": 16.8,
@@ -37033,9 +37047,9 @@
     "reason": "54 min (TfL): 🚇 Central + Metropolitan — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 5.8,
@@ -37104,11 +37118,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-08. One Bedroom; Bathroom; Seperate Kitchen; Gated Parking; Close to Transport; Secured Parking. Winkworth are pleased to present this recently refurbished spacious one bedroom apartment situated on the top floor of this purpose built block that also has its own gated parking space. The property consists of one double bedroom with a built in wardrobe, good size reception room which boasts a juliet balcony, fitted kitchen and a fitted bathroom. The property is tastefully decorated throughout, with views of Canary Wharf. Situated close to Bow Church DLR access to Canary Wharf, The City and Stratford are made eas",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Bromley North), also painted Normies/Hipsters; nearby tags: \"Small penis boy racers\", \"Pathetic boy racers\", \"Don’t walk here at night\", \"I see dead people\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "One Bedroom Bathroom Seperate Kitchen Gated Parking Close to Transport Secured Parking",
-  "score": 64,
+  "score": 70,
   "score_breakdown": {
    "style": {
     "points": 18.1,
@@ -37126,9 +37140,9 @@
     "reason": "42 min door-to-door (TfL): 🚇 District + Central + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -37196,11 +37210,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. 25m swimming pool; Jacuzzi and sauna; State-of-the-art gym; Rooftop terraces with BBQ’s; Resident lounges; Co-working spaces. CBRE are proud to present The Maple, Brent Cross Town, a professionally managed Build to Rent development offering a collection of brand new 1,2 & 3 bedroom apartments in one of North London’s newest neighbourhoods. Located within Brent Cross Town, The Maple is perfectly positioned for contemporary London living. Brent Cross West station is approximately a five-minute walk away, providing fast connections across London, including journeys of around 12 minutes to King’s Cross St Pancras and 15 minutes to Farringdon.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Golders Green), also painted Normies; no user tags within ~450 m.",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "25m swimming pool Jacuzzi and sauna State-of-the-art gym Rooftop terraces with BBQ’s Resident lounges Co-working spaces Sports simulation room and Games Room 24-hour concierge and security On-site maintenance Wi-Fi included",
-  "score": 61,
+  "score": 67,
   "score_breakdown": {
    "style": {
     "points": 20.9,
@@ -37218,9 +37232,9 @@
     "reason": "49 min (TfL): 🚇 Northern + Victoria — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 6.0,
@@ -37287,11 +37301,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. High Ceilings; Unfurnished; Open Plan Kitchen. Newly refurbished to a high standard, this stylish apartment offers a contemporary finish throughout, combining modern living with the charm and character of its period setting. The property boasts attractive wooden flooring, brand new grey carpets, generous built-in wardrobe storage and a sleek, newly fitted kitchen. Finished with modern fixtures and fittings throughout, the apartment provides a bright, fresh and inviting living space. Ideally positioned in the heart of Camberwell, residents can enjoy an excellent",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Herne Hill); nearby tags: \"Yummy Caribbean food \".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "High Ceilings Unfurnished Open Plan Kitchen",
-  "score": 67,
+  "score": 72,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -37309,9 +37323,9 @@
     "reason": "35 min door-to-door (TfL): 🚆 Thameslink + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 1.5,
@@ -37379,11 +37393,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. Furnished 1 bedroom flat; Available 6th December 2026; Communal Garden; 10 minutes to Herne Hill station. Property Ref: L9224 We are delighted to present a spacious 1-bedroom flat with a garden in the heart of Herne Hill, located only a 10-minute walk to Herne Hill Station and Brixton Tube Station. The flat is available furnished from the 6th of December 2026 The property comprises a double bedroom, a cozy kitchen, a large living space, a modern bathroom, and a garden. The bedroom has a double bed, a mattress, a large wardrobe, and built-in shelves. The living room has high ceilings and the kitchen is fitted with a fri",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Herne Hill), also painted Hipsters; nearby tags: \"jerk chicken and gentrification\", \"do not walk under here at night \", \"Cosy Pubs\", \"Used to be cool\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Furnished 1 bedroom flat Available 6th December 2026 Communal Garden 10 minutes to Herne Hill station",
-  "score": 71,
+  "score": 76,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -37401,9 +37415,9 @@
     "reason": "45 min door-to-door (TfL): 🚇 Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 5.8,
@@ -37471,11 +37485,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. Large One Bedroom; Furnished ; Close To Amenities ; One Bathroom ; Pet Friendly. This bright and well planned one bedroom flat comprises a large reception room, separate eat in kitchen, tiled bathroom and separate storage room. Our China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat ( ChestertonsLettings )",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (West Hampstead); nearby tags: \"Judie Dench lives here \", \"Olaplex babies\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Large One Bedroom Furnished  Close To Amenities  One Bathroom  Pet Friendly",
-  "score": 74,
+  "score": 79,
   "score_breakdown": {
    "style": {
     "points": 16.8,
@@ -37493,9 +37507,9 @@
     "reason": "34 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -37563,11 +37577,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. One Double Bedroom; First-Floor Apartment; Approx. 358 Sq Ft / 33.25 Sq M; Modern Fitted Kitchen with Integrated Appliances; Contemporary Tiled Shower Room; Attractive Wood Flooring. Beautifully presented one-bedroom apartment featuring a bright open-plan kitchen/reception room, modern fitted kitchen, contemporary shower room and wood flooring, ideally situated on Beehive Place, SW9. Cedar Estates are delighted to offer this stylish and well-presented one-bedroom apartment, situated in a convenient location on Beehive Place. The property offers approximately 358 sq ft of accommodation and benefits from a modern finish throughout. The apartment features a bright and spacious open-plan kitchen/re",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Coldharbour), also painted Rich; nearby tags: \"never relax\", \"light sprinkling of hipsters!\", \"avoid unless stab vest\", \"this is brixton\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "One Double Bedroom First-Floor Apartment Approx. 358 Sq Ft / 33.25 Sq M Modern Fitted Kitchen with Integrated Appliances Contemporary Tiled Shower Room Attractive Wood Flooring High Ceilings Large Windows Providing Natural Light Gas Central Heating Excellent Use of Space",
-  "score": 64,
+  "score": 62,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -37585,9 +37599,9 @@
     "reason": "31 min door-to-door (TfL): 🚇 Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 6.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters; negative tags: avoid, stab"
    },
    "availability": {
     "points": 1.5,
@@ -37655,11 +37669,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. Separate kitchen; Double bedroom(s); Communal gardens; Pets considered; Professionally managed; Onsite maintenance. Walworth Village is delighted to present this one bedroom apartment to the market. Property Features • Generous Living Room: The expansive living area is ideal for both relaxation and entertaining, with ample natural light flooding the space. • Double Bedroom: A cozy yet spacious double bedroom offers a peaceful retreat, with plenty of room for storage and personal touches. • Large Kitchen: A well-proportioned kitchen that offers plenty of space for cooking and storage, perfect for those who enjoy spending time cre",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Faraday), also painted Hipsters/Normies; nearby tags: \"its new usa :D\", \"Spitting\", \"Black\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Separate kitchen Double bedroom(s) Communal gardens Pets considered Professionally managed Onsite maintenance On-street parking",
-  "score": 43,
+  "score": 49,
   "score_breakdown": {
    "style": {
     "points": 11.3,
@@ -37677,9 +37691,9 @@
     "reason": "46 min (TfL): 🚇 Northern — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 5.8,
@@ -37752,11 +37766,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-10. No Agent Fees; Students Can Enquire; Property Reference Number: 3011590. Property Reference: 3011590. 🏡 BRIGHT & MODERN 1-BED FLAT – SE1 PRIVATE BALCONY A bright and modern 1-bedroom apartment on Old Kent Road, SE1, offering comfortable contemporary living with excellent connections to Central London. Ideal for a professional or couple looking for a stylish, well-connected home with the added benefit of a private balcony and water & gas included in the rent. 🎥 VIDEO TOUR AVAILABLE – Please check out the video of the flat! Key Features 🛋 Bright & spacious living area with contemporary op",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Grange), also painted Hipsters/Normies; nearby tags: \"Dodgy at night\", \"Cheapest street in monopoly\", \"its new usa :D\", \"Weirdos\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "No Agent Fees Students Can Enquire Property Reference Number: 3011590",
-  "score": 63,
+  "score": 68,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -37774,9 +37788,9 @@
     "reason": "50 min (TfL): 🚇 Bakerloo + Victoria — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 4.0,
@@ -37843,11 +37857,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. Walking distance to Leyton high road; Walking distance to Leyton underground station; Recently refurbished; Period property; Long term . Ambassador are pleased to offer this recently refurbished one bedroom within walking distance to Leyton high road and Leyton underground station. This Victorian property benefits with high ceilings and period features throughout. A modern fitted kitchen and three piece bathroom suite complete this well presented one bedroom apartment in the sought after Leyton area.",
-  "hood": "",
+  "hood": "Hoodmaps: Hipsters (Grove Green), also painted Rich; nearby tags: \"Bangin' Italian cafe\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Walking distance to Leyton high road Walking distance to Leyton underground station Recently refurbished Period property Long term ",
-  "score": 54,
+  "score": 59,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -37865,9 +37879,9 @@
     "reason": "46 min (TfL): 🚇 Central + Metropolitan — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 12.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Hipsters"
    },
    "availability": {
     "points": 4.0,
@@ -37940,11 +37954,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. Split Level One Bedroom Apartment; Bright Reception Room Semi Open To Kitchen; Double Bedroom; Modern Bathroom; Ample Storage. A spacious one double bedroom apartment situated over the ground and first floors within this period conversion. The property is composed of a semi-open-plan kitchen/reception room, good-sized bathroom, and a double bedroom. The property further benefits from ample storage, an abundance of natural light, and high ceilings. The property is offered furnished and available late November. Sussex Way is ideally situated close to all the amenities of Holloway Road, with good transport links into the City and West End. Ou",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Tollington); nearby tags: \"Bomboclat arthur lives here\", \"Hairy Lesbians\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Split Level One Bedroom Apartment Bright Reception Room Semi Open To Kitchen Double Bedroom Modern Bathroom Ample Storage",
-  "score": 71,
+  "score": 76,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -37962,9 +37976,9 @@
     "reason": "40 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 7.0,
@@ -38032,11 +38046,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. Bright &amp; Spacious One-Bedroom Apartment; Approx. 450 Sq Ft; South-Facing; Spacious Reception; Access to Communal Garden; Separate Fitted Kitchen. As sole agents, Cedar Estates are delighted to offer this bright and spacious south-facing one-bedroom apartment, extending to approximately 450 sq. ft., with high ceilings, a separate fitted kitchen and a generous double bedroom with excellent fitted storage, situated on a desirable and quiet residential road in South Hampstead. Positioned on the second floor of an attractive period building, the property offers well-proportioned accommodation throughout. The spacious reception/dining room is flooded with natural",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Swiss Cottage); nearby tags: \"Its rather cool here\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Bright &amp; Spacious One-Bedroom Apartment Approx. 450 Sq Ft South-Facing Spacious Reception Access to Communal Garden Separate Fitted Kitchen High Ceilings Excellent Transport Links Excellent Fitted Storage Quiet Residential Road",
-  "score": 64,
+  "score": 70,
   "score_breakdown": {
    "style": {
     "points": 19.5,
@@ -38054,9 +38068,9 @@
     "reason": "35 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 1.5,
@@ -38124,11 +38138,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. Large double bedroom; Modern open plan living space; Integrated kitchen. A beautifully presented one-bedroom flat situated in the heart of West Kensington. This bright and spacious property comprises a modern fitted kitchen, a generous reception room, a large double bedroom, and a contemporary bathroom. A bright and spacious one bedroom conversion flat to rent wonderfully located on a quiet residential street moments from the abundance of amenities that West Kensington has to offer. The property comprises bright and airy open plan living space with integrated kitchen, spacious double be",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Avonmore and Brook Green); nearby tags: \"Italians\", \"underrated\", \"Aussies\", \"Italians\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Large double bedroom Modern open plan living space Integrated kitchen",
-  "score": 67,
+  "score": 72,
   "score_breakdown": {
    "style": {
     "points": 20.9,
@@ -38146,9 +38160,9 @@
     "reason": "40 min door-to-door (TfL): 🚇 District + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 7.0,
@@ -38216,11 +38230,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. . A PART-FURNISHED one bedroom raised ground floor flat located on this popular residential street. The flat has a lounge, a double bedroom, a separate fitted kitchen and bathroom. Richford Street is well placed for the transport and shopping facilities located at Shepherds Bush Green and Hammersmith Broadway. AVAILABLE 31st of October 2026. Council tax band: C 5 Week deposit is required. EPC Band: D Please note the following: -There is no referencing or contract fees applicable to tenants -Should you make an offer o",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Shepherd's Bush Green); nearby tags: \"Druggies\", \"Cess pit\", \"alfred morland\", \"Carlson Gracie BJJ\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "",
-  "score": 66,
+  "score": 70,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -38238,9 +38252,9 @@
     "reason": "34 min door-to-door (TfL): 🚇 Circle"
    },
    "hood": {
-    "points": 7.5,
+    "points": 11.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich; negative tags: drug"
    },
    "availability": {
     "points": 9.8,
@@ -38308,11 +38322,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. No Agent Fees; Students Can Enquire; Property Reference Number: 3068530. Property Reference: 3068530. A spacious one-bedroom second-floor flat located on Wood Lane, London, W12. The property offers a generously sized bedroom, a comfortable living area, a fitted kitchen and a bathroom, providing practical and comfortable accommodation. Ideally situated close to local shops, cafés, restaurants and supermarkets. The property also benefits from convenient transport links, providing access to Central London and surrounding areas. Ideal for a single professional or a couple looking for a well",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Shepherd's Bush Green); nearby tags: \"soulless shopping centre \", \"Druggies\", \"Bye bye BBC\", \"desperate man and gyal do laps here\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "No Agent Fees Students Can Enquire Property Reference Number: 3068530",
-  "score": 66,
+  "score": 69,
   "score_breakdown": {
    "style": {
     "points": 9.9,
@@ -38330,9 +38344,9 @@
     "reason": "35 min door-to-door (TfL): 🚇 Circle"
    },
    "hood": {
-    "points": 7.5,
+    "points": 11.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich; negative tags: drug"
    },
    "availability": {
     "points": 5.8,
@@ -38400,11 +38414,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. One Bedroom; One Bathroom; Separate Kitchen; Wood Flooring; Private Balcony; Unallocated Parking. A well-presented one bedroom apartment in this popular development. The property has a large reception room, a separate kitchen, wood flooring throughout, a private balcony and unallocated parking. Ellesmere Road offers excellent access to the amenities on Chiswick High Road as well as to Chiswick Park tube station and Chiswick railway station, which has a frequent service into central London. Security Deposit: £2,076 Council Tax Band: C",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Turnham Green); nearby tags: \"beatles music video location\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "One Bedroom One Bathroom Separate Kitchen Wood Flooring Private Balcony Unallocated Parking",
-  "score": 51,
+  "score": 57,
   "score_breakdown": {
    "style": {
     "points": 15.4,
@@ -38422,9 +38436,9 @@
     "reason": "60 min (TfL): 🚇 District + Victoria — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 4.0,
@@ -38493,11 +38507,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. Resident's Lounge; Rooftop terrace; On-site management team; Co-working space; Next to Central Line; Resident Events. This spacious one-bedroom apartment at Rehearsal Rooms offers modern living directly above North Acton Underground station, located on the boundary of Zones 2/3. The apartment features a bright, open-plan living area with floor-to-ceiling windows, a contemporary kitchen with integrated all-electric appliances and a private balcony. The bedroom includes built-in storage and blackout blinds, while the modern bathroom features stylish fittings and a heated towel rail. Direct Central line connections from North Acton i",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (East Acton); nearby tags: \"Poor mansCanary Wharf \".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Resident's Lounge Rooftop terrace On-site management team Co-working space Next to Central Line Resident Events BBQ areas Secure Bicycle Storage Pet-Friendly Development",
-  "score": 74,
+  "score": 79,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -38515,9 +38529,9 @@
     "reason": "39 min door-to-door (TfL): 🚇 Central + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 1.5,
@@ -38585,11 +38599,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. NEWLY REFURBISHED; WOOD FLOORING; CLOSE TO MULTIPLE TUBE STATION; MODERN KITCHEN; SPACIOUS AND BRIGHT ; GAS CENTRAL HEATING .  Located on Holloway Road N7, we offer you this first floor newly refurbished 1 bed flat, comprising double bedroom, separate spacious living room, fully fitted kitchen with large fridge/ freezer, washing machine & gas hob. Tiled bathroom, lots of storage space , laminate flooring, double gazed windows and gas central heating. The property is located between Holloway, Tufnell Park & Archway Tube Stations. Council Tax : Band C £1,873.67 EPC : C",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Finsbury Park); nearby tags: \"Crackheads feeding pidgeons\", \"chavs\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "NEWLY REFURBISHED WOOD FLOORING CLOSE TO MULTIPLE TUBE STATION MODERN KITCHEN SPACIOUS AND BRIGHT  GAS CENTRAL HEATING  DOUBLE GLAZING ",
-  "score": 63,
+  "score": 65,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -38607,9 +38621,9 @@
     "reason": "40 min door-to-door (TfL): 🚇 Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 10.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich; negative tags: crack"
    },
    "availability": {
     "points": 6.8,
@@ -38677,11 +38691,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. No Agent Fees; Students Can Enquire; Property Reference Number: 3059027. Property Reference: 3059027. One Bedroom First-Floor Flat – North Hill Road, N6 We are pleased to offer this well-presented one-bedroom first-floor flat, ideally located on North Hill Road, N6. The property comprises: Good-sized double bedroom Spacious living room with direct access from the front balacoy Fully fitted kitchen Good-sized bathroom Gas central heating throughout The property is ideally situated within a short walk of Highgate train Station, a variety of local restaurants, pubs and amenities, with exce",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Highgate); nearby tags: \"Shaun of the Dead\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "No Agent Fees Students Can Enquire Property Reference Number: 3059027",
-  "score": 66,
+  "score": 71,
   "score_breakdown": {
    "style": {
     "points": 12.6,
@@ -38699,9 +38713,9 @@
     "reason": "40 min door-to-door (TfL): 🚇 Northern + Victoria"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 5.8,
@@ -38769,11 +38783,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. No Agent Fees; Property Reference Number: 3073280. Property Reference: 3073280. Beautifully presented and light filled one bedroom first floor flat situated on Muswell Hill Road near Muswell Hill Broadway with its village atmosphere and fantastic array of shops, cafes, restaurants, cinema and within close proximity of Highgate Wood and Queens Wood and within walking distance of Highgate tube station on the Northern Line with a bus stop conveniently located nearby. The property offers a spacious kitchen/diner area with a modern, sleek fitted kitchen and appliances,",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Muswell Hill); no user tags within ~450 m.",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "No Agent Fees Property Reference Number: 3073280",
-  "score": 62,
+  "score": 67,
   "score_breakdown": {
    "style": {
     "points": 18.1,
@@ -38791,9 +38805,9 @@
     "reason": "46 min (TfL): 🚇 Northern + Victoria — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 10,
@@ -38862,11 +38876,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. 🚇 No-bus option: 26-min walk to Highgate + Northern line, about 51 min. (Google's 'Princes Ave' by Alexandra Palace station is a different street, N22; this flat is N10 by Muswell Hill Broadway.) One bedroom; Ground floor; Private entrance; Private garden; Unfurnished; Available 1st March. Set on the ground floor of an attractive conversion, this charming one bedroom garden flat is perfectly positioned just a short stroll from Muswell Hill Broadway. Combining character and comfort, the property offers bright living space, a spacious double bedroom, a fitted kitchen, and a modern bathroom. A charming one bedroom ground floor conversion flat to rent, ideally located just moments from Muswell Hill's vibrant Broadway. This well-presented home offers bright and spacious accommodation, featuring a generous 💬 Masha 19 Oct: amazing flat but location a bit too far.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Muswell Hill); nearby tags: \"posh who work in central london\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "One bedroom Ground floor Private entrance Private garden Unfurnished Available 1st March",
-  "score": 62,
+  "score": 67,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -38884,9 +38898,9 @@
     "reason": "51 min (TfL): 🚇 Northern + Victoria — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 5.8,
@@ -38955,11 +38969,11 @@
   ],
   "status": "enquired",
   "notes": "💜 Masha enquired 2026-10-14. Double Bedroom; Living Room; Kitchen; Bathroom; Garden; Modern. NO DEPOSIT OPTION AVAILABLE. A well-presented and modern one-bedroom ground floor flat, ideally situated in the heart of central Muswell Hill. Offering approximately 52 sq m of well-proportioned accommodation, the property comprises a separate reception room, modern separate kitchen, double bedroom and contemporary bathroom. The property benefits from high ceilings throughout, creating a bright and spacious feel. A further benefit is access to a private share of the garden, providing a pleasant outdoor space. An ex 💬 Masha 19 Oct: amazing flat but location a bit too far.",
-  "hood": "",
+  "hood": "Hoodmaps: Rich (Muswell Hill); nearby tags: \"posh who work in central london\".",
   "date_found": "2026-10-15",
   "masha_enquired": true,
   "features": "Double Bedroom Living Room Kitchen Bathroom Garden Modern Council Tax Band D",
-  "score": 62,
+  "score": 68,
   "score_breakdown": {
    "style": {
     "points": 22,
@@ -38977,9 +38991,9 @@
     "reason": "53 min (TfL): 🚇 Northern + Victoria — over Masha's 45-min limit"
    },
    "hood": {
-    "points": 7.5,
+    "points": 13.0,
     "max": 15,
-    "reason": "no Hoodmaps data"
+    "reason": "Rich"
    },
    "availability": {
     "points": 5.8,
