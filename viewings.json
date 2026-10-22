@@ -212,8 +212,8 @@
   "thread_id": "1a13b22cd63d401a",
   "status": "cancelled",
   "source": "masha-mail",
-  "calendar_event_id": "dmmtbn3kt3qn2vh12g0k98jbrk",
-  "calendar_link": "https://www.google.com/calendar/event?eid=ZG1tdGJuM2t0M3FuMnZoMTJnMGs5OGpicmsgZ293cml0ZW1hc2hhQG0",
+  "calendar_event_id": null,
+  "calendar_link": null,
   "url": "https://www.rightmove.co.uk/properties/94310331",
   "postponed": true,
   "notes": "Postponed: Matteo called 16 Oct — they lost the keys; he'll reschedule when they have them."
@@ -325,8 +325,8 @@
   "thread_id": "1a15ef9baba43704",
   "status": "cancelled",
   "source": "masha-mail",
-  "calendar_event_id": "pvq8a0l9p3f7o4tug81k8up1rc",
-  "calendar_link": "https://www.google.com/calendar/event?eid=cHZxOGEwbDlwM2Y3bzR0dWc4MWs4dXAxcmMgZ293cml0ZW1hc2hhQG0",
+  "calendar_event_id": null,
+  "calendar_link": null,
   "notes": "Отменён: агент сказал, что квартиры по £2,500, слишком дорого (Маша, 22 окт)."
  },
  {
@@ -374,8 +374,8 @@
   "status": "proposed",
   "type": "video",
   "source": "calendar-hold",
-  "calendar_event_id": "d593kq5phrm1ulabfusiv49trg",
-  "calendar_link": "https://www.google.com/calendar/event?eid=ZDU5M2txNXBocm0xdWxhYmZ1c2l2NDl0cmcgZ293cml0ZW1hc2hhQG0",
+  "calendar_event_id": null,
+  "calendar_link": null,
   "notes": "(?) предварительно — агент не подтвердил. Asked Stevie Walton (Chestertons Kentish Town) for WhatsApp video Thu 22 15:30 or Fri 23 14:30 London (19 Oct)"
  },
  {
@@ -391,8 +391,8 @@
   "status": "proposed",
   "type": "video",
   "source": "calendar-hold",
-  "calendar_event_id": "lhs0243go0qh0bj5cn69275sks",
-  "calendar_link": "https://www.google.com/calendar/event?eid=bGhzMDI0M2dvMHFoMGJqNWNuNjkyNzVza3MgZ293cml0ZW1hc2hhQG0",
+  "calendar_event_id": null,
+  "calendar_link": null,
   "notes": "(?) предварительно — агент не подтвердил. Masha proposed Fri 23 16:30 or Mon 26 15:00 London to Dershan (Foxtons Bow), 20 Oct"
  },
  {
@@ -408,8 +408,8 @@
   "status": "proposed",
   "type": "video",
   "source": "calendar-hold",
-  "calendar_event_id": "aeo4c1bou40db2ignj42brq22o",
-  "calendar_link": "https://www.google.com/calendar/event?eid=YWVvNGMxYm91NDBkYjJpZ25qNDJicnEyMm8gZ293cml0ZW1hc2hhQG0",
+  "calendar_event_id": null,
+  "calendar_link": null,
   "notes": "(?) предварительно — агент не подтвердил. Masha proposed Wed 21 17:00 or Mon 26 14:00 London (20 Oct); John D Wood hasn't confirmed"
  },
  {
@@ -425,8 +425,8 @@
   "status": "proposed",
   "type": "video",
   "source": "calendar-hold",
-  "calendar_event_id": "2dti95sc6bdphgjc0uagfm20os",
-  "calendar_link": "https://www.google.com/calendar/event?eid=MmR0aTk1c2M2YmRwaGdqYzB1YWdmbTIwb3MgZ293cml0ZW1hc2hhQG0",
+  "calendar_event_id": null,
+  "calendar_link": null,
   "notes": "(?) предварительно — агент не подтвердил. Masha proposed Fri 23 16:30 or Mon 26 15:00 London to Dershan (Foxtons Bow), 20 Oct"
  }
 ]
