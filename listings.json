@@ -1,5 +1,581 @@
 [
  {
+  "id": "otm-20606634",
+  "title": "Brixton Junction — 1-bed",
+  "area": "Brixton Junction, Brixton, SE24",
+  "price": 1860,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "43 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20606634/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20606634_0.jpg",
+   "photos/otm-20606634_1.jpg",
+   "photos/otm-20606634_2.jpg",
+   "photos/otm-20606634_3.jpg",
+   "photos/otm-20606634_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Home Made - Southwark. Brixton Junction Brixton, a stylishly restored 1940s period building, offers more than just a place to live. Residents will benefit from tech-savvy features such as seamless keyless check-in/access, resident app, and package tracking. Enjoy the energising communal spaces, a beautiful sycamore-shaded private terrace, a residents' lounge and a co-working space. - Fully Furnished Spaces - Residents App - Track Package Delivery - Residents Lounge Area - Transfer within the Global Network of Brixton Junction - Walking distance to Brixton Market, Herne Hill & Denmark Hill - Social Events - Seamless self-check-in Located just a 10-minute walk to Brixton Underground Station & just 3 minute walk to Loughborough Junction (City Thameslink Station). * The development features a number of different apartments, with a variety of layouts and aspects. The photos and the floor plan are for illustration p",
+  "hood": "Hoodmaps: Hipsters (Coldharbour), also painted Rich; nearby tags: \"Yummy Caribbean food \", \"welcome to brixton\".",
+  "date_found": "2026-10-23",
+  "features": "Residents Lounge Area & Garden; Built-in Storage and Ottoman Bed; Communal Gardens with BBQ; Parcel storage; Monthly Social Events; Dishwasher; Washer/ Dryer; On-site Management Team",
+  "listed": "2026-10-22",
+  "lat": 51.46418,
+  "lng": -0.1025,
+  "agent": "Home Made - Southwark",
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: stylish(+3), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.8,
+    "max": 3,
+    "reason": "£1,860"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "otm-20607789",
+  "title": "78 — 1-bed",
+  "area": "78, Track Street E17",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Available as furnished or unfurnished",
+  "available": "",
+  "commute": "43 min · 🚆 Suffragette + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20607789/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20607789_0.jpg",
+   "photos/otm-20607789_1.jpg",
+   "photos/otm-20607789_2.jpg",
+   "photos/otm-20607789_3.jpg",
+   "photos/otm-20607789_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Right Now Residential - London Bridge. Stylish one-bedroom apartment in the sought-after Rally Building, Walthamstow. The property features a bright open-plan living, kitchen and dining area with a high-gloss kitchen, island, integrated appliances and stone worktops, plus a private balcony. Pet-friendly development with excellent local amenities nearby. St James Street station is just 0.2 miles away, with Walthamstow Central 0.5 miles away, providing easy access to Central London via the Overground and Victoria line.",
+  "hood": "Hoodmaps: Hipsters (Markhouse), also painted Normies; no user tags within ~450 m.",
+  "date_found": "2026-10-23",
+  "features": "Large double bedroom; Open-plan layout; Modern interiors; Private balcony; Excellent transport links; Short walk to St James Street Station; Pet friendly; Available 1st November",
+  "listed": "2026-10-22",
+  "lat": 51.580807,
+  "lng": -0.029464,
+  "agent": "Right Now Residential - London Bridge",
+  "commute_min": 43,
+  "commute_mode": "🚆 Suffragette + Victoria",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), open-plan(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚆 Suffragette + Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, pet-friendly"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "otm-20608999",
+  "title": "Southfield Road — 1-bed",
+  "area": "Southfield Road, London W4",
+  "price": 1603,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "2026-10-29",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20608999/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20608999_0.jpg",
+   "photos/otm-20608999_1.jpg",
+   "photos/otm-20608999_2.jpg",
+   "photos/otm-20608999_3.jpg",
+   "photos/otm-20608999_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Capital Properties Management - Chiswick.  A bright and spacious furnished one-bedroom ground floor flat, ideally situated just 6-7 minutes' walk from Turnham Green Tube Station. The property offers excellent living space and comprises a large open-plan reception room and kitchen/diner, a generous double bedroom with en-suite shower room and WC, plus a separate WC/utility room. The property further benefits from a private patio garden, good storage throughout and bright, well-presented open-plan living accommodation. An excellent opportunity to rent a spacious and conveniently located home, with Turnham Green's shops, cafés, restaurants and transport links all within easy reach. Council Tax: C EPC: C Deposit equivalent to five weeks deposit ",
+  "hood": "Hoodmaps: Rich (Southfield); no user tags within ~450 m.",
+  "date_found": "2026-10-23",
+  "features": "",
+  "listed": "2026-10-22",
+  "lat": 51.50133,
+  "lng": -0.256702,
+  "agent": "Capital Properties Management - Chiswick",
+  "commute_min": 57,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: bright(+2), open-plan(+1), well-presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "57 min (TfL): 🚇 District + Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.2,
+    "max": 10,
+    "reason": "29 Oct: 3 days before Nov"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,603"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "94639407",
+  "title": "Thornfield Road — 1-bed",
+  "area": "Thornfield Road, Shepherds Bush",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "",
+  "commute": "40 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94639407",
+  "source": "rightmove",
+  "photos": [
+   "photos/94639407_0.jpg",
+   "photos/94639407_1.jpg",
+   "photos/94639407_2.jpg",
+   "photos/94639407_3.jpg",
+   "photos/94639407_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Fletchers, Brook Green. A one double bedroom garden apartment available on Thornfield Road. The property benefits from a private entrance, a open planed reception/kitchen and a private patio garden. Thornfield Road is located on a quiet residential road, located with easy access to a range of local transport hubs including Shepherd's Bush Market tube station, local amenities and Westfield Shopping Centre. Security Deposit: £2,192 Council Tax Band: Not yet available ",
+  "hood": "Hoodmaps: Rich (Shepherd's Bush Green); nearby tags: \"More Aussies and Kiwis\", \"Cess pit\", \"The Commonwealth club!\", \"shopping centre/hood\".",
+  "date_found": "2026-10-23",
+  "features": "Private Garden; Open Planed; Private entrance; One Double Bedroom; Part-Furnished; Ample Storage",
+  "listed": "2026-10-23",
+  "lat": 51.504011,
+  "lng": -0.231232,
+  "agent": "Fletchers, Brook Green",
+  "commute_min": 40,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: private garden(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.0,
+    "max": 20,
+    "reason": "40 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94639629",
+  "title": "Shepherds Bush Road — 1-bed",
+  "area": "Shepherds Bush Road, London, W6 7LN",
+  "price": 1850,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished or unfurnished, landlord is flexible",
+  "available": "2026-10-23",
+  "commute": "37 min · 🚇 Central + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94639629",
+  "source": "rightmove",
+  "photos": [
+   "photos/94639629_0.jpg",
+   "photos/94639629_1.jpg",
+   "photos/94639629_2.jpg",
+   "photos/94639629_3.jpg",
+   "photos/94639629_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Savoy Property Consultants, West London. Savoy Property Consultants are pleased to present this one-bedroom apartment situated within the impressive Art Deco building of The Grampians, on Shepherds Bush Road, W6. The property offers a spacious reception room, featuring large windows that allow an abundance of natural light, with ample space for both relaxing and entertaining. The separate kitchen and bathroom provide practical living accommodation, while the generous proportions and character of the building make this an appealing home for a professional individual or couple. Available to rent immediately at £1,850 per calendar month, early viewings are highly recommended. Ideally positioned on Shepherds Bush Road, The Grampians benefits from a convenient West London location, with a variety of local shops, cafés, restaurants and amenities nearby. The property is well placed for access to Hammersmith and Shepherd\"s Bush, offeri",
+  "hood": "Hoodmaps: Rich (Addison); nearby tags: \"Druggies\", \"desperate man and gyal do laps here\", \"Cess pit\", \"needles\".",
+  "date_found": "2026-10-23",
+  "features": "One-bedroom flat; Spacious reception room; Separate kitchen; Modern family bathroom; Characterful Art Deco building; Excellent access to local amenities; Available now; Early viewing advised",
+  "listed": "2026-10-23",
+  "lat": 51.502575,
+  "lng": -0.222339,
+  "agent": "Savoy Property Consultants, West London",
+  "commute_min": 37,
+  "commute_mode": "🚇 Central + Victoria",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), light(+1), character(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Central + Victoria"
+   },
+   "hood": {
+    "points": 11.0,
+    "max": 15,
+    "reason": "Rich; negative tags: drug"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 4.0,
+    "max": 5,
+    "reason": "Furnished or unfurnished, landlord is flexible"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94640988",
+  "title": "METHLEY STREET — 1-bed",
+  "area": "METHLEY STREET, SE11",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-31",
+  "commute": "32 min · 🚇 Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94640988",
+  "source": "rightmove",
+  "photos": [
+   "photos/94640988_0.jpg",
+   "photos/94640988_1.jpg",
+   "photos/94640988_2.jpg",
+   "photos/94640988_3.jpg",
+   "photos/94640988_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Noble Estates, London. Situated in a great location in the heart of Kennington, this charming one-bedroom property offers comfortable living space, characterful features and excellent potential for enjoying everything South London has to offer. The property comprises a bright and welcoming reception room, a fitted kitchen with ample cupboard space and integrated cooking appliances, and a well-proportioned double bedroom with useful storage. The neutral décor and large windows create a light and airy feel throughout, making it an ideal home for a single professional or couple. Set within an attractive period brick building, the property combines traditional London charm with practical modern living. The surrounding area offers a fantastic selection of local shops, cafés, restaurants and everyday amenities, with convenient transport links providing easy access to central London and beyond.",
+  "hood": "Hoodmaps: Rich (Prince's), also painted Hipsters; nearby tags: \"Gay Disneyland\", \"Rappers\", \"Kennington where it started\", \"Asexual Plant Ladies And Murder Addicts\".",
+  "date_found": "2026-10-23",
+  "features": "One Double Bedroom; Bright Reception Room; Fitted Kitchen with Appliances; Attractive Period Building; Great Location in Kennington; Convenient Access to Local Amenities and Transport Links",
+  "listed": "2026-10-23",
+  "lat": 51.48706,
+  "lng": -0.10975,
+  "agent": "Noble Estates, London",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true,
+  "score": 72,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), light(+1), period(+1), character(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Northern"
+   },
+   "hood": {
+    "points": 10.0,
+    "max": 15,
+    "reason": "Rich; negative tags: murder"
+   },
+   "availability": {
+    "points": 9.8,
+    "max": 10,
+    "reason": "31 Oct: 1 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94641699",
+  "title": "Ilbert Street — 1-bed",
+  "area": "Ilbert Street, London, W10",
+  "price": 1900,
+  "size": "58 m²",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-10-23",
+  "commute": "42 min · 🚆 Lioness (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94641699",
+  "source": "rightmove",
+  "photos": [
+   "photos/94641699_0.jpg",
+   "photos/94641699_1.jpg",
+   "photos/94641699_2.jpg",
+   "photos/94641699_3.jpg",
+   "photos/94641699_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Camerons Stiff & Co, Lettings- London. An attractive one-bedroom flat offering well-proportioned accommodation and a comfortable living environment, ideally suited to a professional individual or couple seeking a well-connected London home. The property features a generously sized bedroom, a well-appointed bathroom and inviting living accommodation, creating a practical and appealing space for modern living. The layout offers an excellent balance of comfort and functionality, making it an ideal choice for those looking to enjoy the convenience of city living. Situated on Ilbert Street, the property is well placed for a variety of local amenities, including independent shops, cafés and everyday conveniences. Excellent transport links provide access to the wider London area, making the property particularly appealing to commuters and those wishing to take advantage of everything the capital has to offer. Combining comfortable a",
+  "hood": "Hoodmaps: Rich (Queen's Park); nearby tags: \"\"The Avenues\" and \"Mozart\" estates\".",
+  "date_found": "2026-10-23",
+  "features": "Spacious One-Bedroom Flat; Spacious Kitchen &amp; Comfortable Living Space; Queen’s Park Bakerloo Line &amp; Overground Connections; Convenient Access to Local Shops, Cafés &amp; Amenities; Council Tax: Band D; Deposit: £2,192",
+  "listed": "2026-10-23",
+  "lat": 51.528786,
+  "lng": -0.208029,
+  "agent": "Camerons Stiff & Co, Lettings- London",
+  "commute_min": 42,
+  "commute_mode": "🚆 Lioness",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 10.8,
+    "max": 15,
+    "reason": "58 m²"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚆 Lioness"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-17130917",
   "title": "Marble Arch Apartments — 1-bed",
   "area": "Marble Arch Apartments, W1H",
@@ -27,9 +603,6 @@
   "lat": 51.51723399999999,
   "lng": -0.1641008,
   "agent": "Westgate Utama - London",
-  "commute_min": 21,
-  "commute_mode": "🚌 bus 205",
-  "commute_ok": true,
   "score": 82,
   "score_breakdown": {
    "style": {
@@ -78,7 +651,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5
+  "fresh_days": 5,
+  "nbhd": "Marylebone W1H",
+  "commute_min": 21,
+  "commute_mode": "🚌 bus 205",
+  "commute_ok": true
  },
  {
   "id": "otm-20604848",
@@ -105,9 +682,6 @@
   "lat": 51.5684768,
   "lng": -0.1380151,
   "agent": "Upper Class Estates - Stoke Newington",
-  "commute_min": 31,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 74,
   "score_breakdown": {
    "style": {
@@ -156,7 +730,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Junction · Upper Holloway N19",
+  "commute_min": 31,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94638132",
@@ -187,9 +765,6 @@
   "lat": 51.53086,
   "lng": -0.2312,
   "agent": "Foxtons, Willesden Green",
-  "commute_min": 40,
-  "commute_mode": "🚆 Lioness",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -238,7 +813,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "College Park/Old Oak · Willesden NW10",
+  "commute_min": 40,
+  "commute_mode": "🚆 Lioness",
+  "commute_ok": true
  },
  {
   "id": "94626246",
@@ -5680,7 +6259,7 @@
   "lat": 51.54757,
   "lng": -0.20494,
   "agent": "Paramount, London - Lettings",
-  "score": 64,
+  "score": 72,
   "score_breakdown": {
    "style": {
     "points": 14.0,
@@ -5726,13 +6305,19 @@
     "points": 0,
     "max": 6,
     "reason": "no outdoor space mentioned"
+   },
+   "feedback": {
+    "points": 8,
+    "max": 8,
+    "reason": "👍 liked"
    }
   },
   "fresh_days": 2,
   "nbhd": "Cricklewood/Mapesbury NW2",
   "commute_min": 31,
   "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true
+  "commute_ok": true,
+  "rating": "like"
  },
  {
   "id": "otm-20274544",
@@ -28168,10 +28753,10 @@
   "nbhd": "Telegraph Hill SE4",
   "fresh_days": 8,
   "kept_reason": "enquired (sent.json)",
+  "stale": true,
   "commute_min": 52,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": false,
-  "stale": true
+  "commute_ok": false
  },
  {
   "id": "94344711",
@@ -28259,10 +28844,10 @@
   "fresh_days": 8,
   "kept_reason": "enquired (Masha)",
   "rating": "like",
+  "stale": true,
   "commute_min": 51,
   "commute_mode": "🚆 Greater Anglia + Victoria",
-  "commute_ok": false,
-  "stale": true
+  "commute_ok": false
  },
  {
   "id": "94371882",
@@ -28517,10 +29102,10 @@
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
   "fresh_days": 8,
+  "stale": true,
   "commute_min": 28,
   "commute_mode": "🚆 Lioness",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "94022025",
@@ -29352,10 +29937,10 @@
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
   "fresh_days": 8,
+  "stale": true,
   "commute_min": 26,
   "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "94032756",
@@ -29724,10 +30309,10 @@
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
   "fresh_days": 8,
+  "stale": true,
   "commute_min": 41,
   "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "93960210",
@@ -29999,10 +30584,10 @@
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
   "fresh_days": 8,
+  "stale": true,
   "commute_min": 34,
   "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "93947868",
@@ -30465,10 +31050,10 @@
   "listed_reason": "page error HTTP Error 410: Gone",
   "fresh_days": 8,
   "kept_reason": "enquired (sent.json)",
+  "stale": true,
   "commute_min": 49,
   "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": false,
-  "stale": true
+  "commute_ok": false
  },
  {
   "id": "94160553",
@@ -31022,10 +31607,10 @@
   "listed_reason": "page error HTTP Error 410: Gone",
   "fresh_days": 8,
   "kept_reason": "enquired (sent.json)",
+  "stale": true,
   "commute_min": 50,
   "commute_mode": "🚇 Bakerloo + Victoria",
-  "commute_ok": false,
-  "stale": true
+  "commute_ok": false
  },
  {
   "id": "128733527",
