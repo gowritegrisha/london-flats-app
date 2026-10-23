@@ -28,9 +28,6 @@
   "lat": 51.514894,
   "lng": -0.058871,
   "agent": "Savills - Wapping",
-  "commute_min": 39,
-  "commute_mode": "🚇 Hammersmith & City",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Whitechapel E1",
+  "commute_min": 39,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true
  },
  {
   "id": "otm-15365400",
@@ -110,9 +111,6 @@
   "lat": 51.586269,
   "lng": -0.024812,
   "agent": "Churchill Estates - Walthamstow",
-  "commute_min": 43,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -161,7 +159,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "High Street E17",
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94614957",
@@ -192,9 +194,6 @@
   "lat": 51.464869,
   "lng": -0.012686,
   "agent": "Fizzy Living, Lewisham",
-  "commute_min": 47,
-  "commute_mode": "🚆 Southeastern + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -245,7 +244,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Lewisham Central SE13",
+  "commute_min": 47,
+  "commute_mode": "🚆 Southeastern + Northern",
+  "commute_ok": false
  },
  {
   "id": "94641201",
@@ -276,9 +279,6 @@
   "lat": 51.47918,
   "lng": -0.12303,
   "agent": "Garrett Whitelock, London Bridge",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -327,7 +327,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Oval · Vauxhall SW8",
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "94643526",
@@ -358,9 +362,6 @@
   "lat": 51.503365,
   "lng": -0.102749,
   "agent": "Emoov, Chelmsford",
-  "commute_min": 32,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 75,
   "score_breakdown": {
    "style": {
@@ -409,7 +410,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Borough/Bankside · Southwark SE1",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "94487157",
@@ -440,9 +445,6 @@
   "lat": 51.525394,
   "lng": -0.018767,
   "agent": "Keatons, Bow",
-  "commute_min": 46,
-  "commute_mode": "🚇 District + Central + Metropolitan",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 61,
@@ -493,7 +495,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4
+  "fresh_days": 4,
+  "nbhd": "Bromley North · Bow E3",
+  "commute_min": 46,
+  "commute_mode": "🚇 District + Central + Metropolitan",
+  "commute_ok": false
  },
  {
   "id": "94644402",
@@ -524,9 +530,6 @@
   "lat": 51.606417,
   "lng": -0.111653,
   "agent": "Mayfords Estate Agent, Southbank",
-  "commute_min": 44,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -575,7 +578,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Woodside · Wood Green N22",
+  "commute_min": 44,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94645260",
@@ -606,9 +613,6 @@
   "lat": 51.496325,
   "lng": -0.228218,
   "agent": "Carter Jonas Lettings, Fulham",
-  "commute_min": 39,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 76,
   "score_breakdown": {
    "style": {
@@ -657,7 +661,11 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Grove · Hammersmith W6",
+  "commute_min": 39,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94646358",
@@ -688,9 +696,6 @@
   "lat": 51.550003,
   "lng": -0.107891,
   "agent": "Hello Neighbour, London",
-  "commute_min": 29,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 79,
   "score_breakdown": {
    "style": {
@@ -739,7 +744,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Highbury N5",
+  "commute_min": 29,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94431291",
@@ -770,9 +779,6 @@
   "lat": 51.541729,
   "lng": -0.135187,
   "agent": "Olivers Town, Kentish Town - Lettings",
-  "commute_min": 21,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true,
   "score": 75,
   "score_breakdown": {
    "style": {
@@ -821,7 +827,11 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6
+  "fresh_days": 6,
+  "nbhd": "Camden Square NW1",
+  "commute_min": 21,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true
  },
  {
   "id": "94648236",
@@ -852,9 +862,6 @@
   "lat": 51.47779,
   "lng": -0.16629,
   "agent": "Bairstow Eves Lettings, Battersea",
-  "commute_min": 53,
-  "commute_mode": "🚆 Southern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 67,
@@ -905,7 +912,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Battersea Park SW11",
+  "commute_min": 53,
+  "commute_mode": "🚆 Southern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94649727",
@@ -936,9 +947,6 @@
   "lat": 51.46479,
   "lng": -0.26284,
   "agent": "James Anderson, East Sheen - Lettings",
-  "commute_min": 57,
-  "commute_mode": "🚆 South Western Railway + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -989,7 +997,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "East Sheen SW14",
+  "commute_min": 57,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94649871",
@@ -1020,9 +1032,6 @@
   "lat": 51.453221,
   "lng": -0.1034,
   "agent": "Kinleigh Folkard & Hayward - Lettings, East Dulwich",
-  "commute_min": 39,
-  "commute_mode": "🚆 Thameslink + Metropolitan",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -1071,7 +1080,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Herne Hill/Loughborough Junction SE24",
+  "commute_min": 39,
+  "commute_mode": "🚆 Thameslink + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94649961",
@@ -1102,9 +1115,6 @@
   "lat": 51.45315,
   "lng": -0.10381,
   "agent": "Kinleigh Folkard & Hayward - Lettings, East Dulwich",
-  "commute_min": 39,
-  "commute_mode": "🚆 Thameslink + Metropolitan",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -1153,7 +1163,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Herne Hill/Loughborough Junction SE24",
+  "commute_min": 39,
+  "commute_mode": "🚆 Thameslink + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94645140",
@@ -2219,10 +2233,10 @@
   },
   "fresh_days": 1,
   "nbhd": "Grove · Hammersmith W6",
+  "rating": "like",
   "commute_min": 37,
   "commute_mode": "🚇 Circle",
-  "commute_ok": true,
-  "rating": "like"
+  "commute_ok": true
  },
  {
   "id": "otm-20584619",
@@ -15168,10 +15182,10 @@
   "fresh_days": 4,
   "nbhd": "Southfield · Acton W3",
   "kept_reason": "enquired (Masha)",
+  "rating": "like",
   "commute_min": 56,
   "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
-  "commute_ok": false,
-  "rating": "like"
+  "commute_ok": false
  },
  {
   "id": "94466004",
