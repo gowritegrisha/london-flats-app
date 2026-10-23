@@ -28,9 +28,6 @@
   "lat": 51.488426,
   "lng": -0.193386,
   "agent": "Moveli - London",
-  "commute_min": 35,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": true,
   "score": 70,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 35,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-19301420",
@@ -110,9 +110,6 @@
   "lat": 51.57918,
   "lng": -0.152765,
   "agent": "Goldschmidt & Howland - Highgate Lettings",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -161,7 +158,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 40,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20618438",
@@ -192,9 +192,6 @@
   "lat": 51.431002,
   "lng": -0.172486,
   "agent": "Rosewood Estates - London",
-  "commute_min": 48,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 63,
@@ -245,7 +242,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 48,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "otm-20618475",
@@ -276,9 +276,6 @@
   "lat": 51.431002,
   "lng": -0.172486,
   "agent": "Rosewood Estates - London",
-  "commute_min": 48,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 64,
@@ -329,7 +326,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 48,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "otm-20618591",
@@ -360,9 +360,6 @@
   "lat": 51.577556,
   "lng": -0.209853,
   "agent": "OpenRent - UK",
-  "commute_min": 35,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 71,
   "score_breakdown": {
    "style": {
@@ -411,7 +408,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 35,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94667991",
@@ -442,9 +442,6 @@
   "lat": 51.575643,
   "lng": -0.214142,
   "agent": "Relo Redac Strattons, North London Office",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -493,7 +490,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94668891",
@@ -524,9 +524,6 @@
   "lat": 51.603274,
   "lng": -0.190202,
   "agent": "Zen Homes, London",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -575,7 +572,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 40,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94669482",
@@ -606,9 +606,6 @@
   "lat": 51.52996,
   "lng": -0.028286,
   "agent": "Inner City Estates, Bow",
-  "commute_min": 42,
-  "commute_mode": "🚇 District + Central + Metropolitan",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -657,7 +654,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 42,
+  "commute_mode": "🚇 District + Central + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94673130",
@@ -686,9 +686,6 @@
   "lat": 51.48296,
   "lng": -0.04137,
   "agent": "John Payne, Greenwich",
-  "commute_min": 58,
-  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 64,
@@ -739,7 +736,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 58,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": false
  },
  {
   "id": "94674768",
@@ -770,9 +770,6 @@
   "lat": 51.49093,
   "lng": -0.05499,
   "agent": "Acorn, London Bridge",
-  "commute_min": 47,
-  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 61,
@@ -823,7 +820,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 47,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": false
  },
  {
   "id": "94675872",
@@ -854,9 +854,6 @@
   "lat": 51.566799,
   "lng": -0.069676,
   "agent": "Felicity J Lord, Stoke Newington Lettings",
-  "commute_min": 42,
-  "commute_mode": "🚆 Weaver + Victoria",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -905,7 +902,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 42,
+  "commute_mode": "🚆 Weaver + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94676538",
@@ -935,9 +935,6 @@
   "lat": 51.514854,
   "lng": -0.125288,
   "agent": "gLocalAgents.co.uk, Covering Nationwide",
-  "commute_min": 17,
-  "commute_mode": "🚌 bus 24",
-  "commute_ok": true,
   "score": 70,
   "score_breakdown": {
    "style": {
@@ -986,7 +983,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 17,
+  "commute_mode": "🚌 bus 24",
+  "commute_ok": true
  },
  {
   "id": "94676589",
@@ -1017,9 +1017,6 @@
   "lat": 51.514988,
   "lng": -0.184963,
   "agent": "Mountgrange Heritage, Kensington",
-  "commute_min": 31,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -1068,7 +1065,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 31,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94676862",
@@ -1099,9 +1099,6 @@
   "lat": 51.451402,
   "lng": -0.142458,
   "agent": "Marsh & Parsons, Balham & Clapham South",
-  "commute_min": 39,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -1150,7 +1147,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 39,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94452012",
@@ -1181,9 +1181,6 @@
   "lat": 51.54903,
   "lng": -0.12927,
   "agent": "Chestertons, Islington",
-  "commute_min": 23,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -1232,7 +1229,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4
+  "fresh_days": 4,
+  "commute_min": 23,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true
  },
  {
   "id": "94678251",
@@ -1263,9 +1263,6 @@
   "lat": 51.61569,
   "lng": -0.11221,
   "agent": "Anthony Charles, Southgate",
-  "commute_min": 46,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 66,
@@ -1316,7 +1313,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 46,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "otm-9532079",
@@ -5136,10 +5136,10 @@
   "fresh_days": 1,
   "nbhd": "St James E17",
   "note": "Агент показывает только вживую, онлайн не может, но обещал прислать видео (Маша, 23 окт).",
+  "rating": "like",
   "commute_min": 35,
   "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
-  "rating": "like"
+  "commute_ok": true
  },
  {
   "id": "94629810",
@@ -6138,10 +6138,10 @@
   },
   "fresh_days": 1,
   "nbhd": "Hoe Street E17",
+  "rating": "like",
   "commute_min": 41,
   "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
-  "rating": "like"
+  "commute_ok": true
  },
  {
   "id": "94607445",
@@ -12070,10 +12070,10 @@
   },
   "fresh_days": 3,
   "nbhd": "Lancaster Gate · Paddington W2",
+  "rating": "like",
   "commute_min": 28,
   "commute_mode": "🚇 Central + Victoria",
-  "commute_ok": true,
-  "rating": "like"
+  "commute_ok": true
  },
  {
   "id": "94526052",
