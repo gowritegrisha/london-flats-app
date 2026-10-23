@@ -362,23 +362,6 @@
   "type": null
  },
  {
-  "id": "prop-94570059",
-  "listing_id": "94570059",
-  "title": null,
-  "address": null,
-  "datetime": null,
-  "agent": null,
-  "agent_contact": "Dani Pathman",
-  "agent_email": "Dani Pathman <dani@paramount-properties.co.uk>",
-  "agent_phone": "020 7644 2256",
-  "thread_id": "1a16792a32ec4bbb",
-  "status": "proposed",
-  "asked": "2026-10-23T07:03:44Z",
-  "notes": "Dear Maria Surkova, Thank you for your enquiry. When are you free to view the property at 703 Jubilee Heights, 1 Shoot Up Hill, NW2 3UQ? I will be there at 11:15 this morning if that suits? https://www.paramount-properti",
-  "source": "masha-mail",
-  "type": null
- },
- {
   "id": "hold-94570059@2026-10-23T11:15",
   "listing_id": "94570059",
   "title": "Shoot Up Hill — 1-bed",
@@ -462,5 +445,52 @@
   "calendar_event_id": null,
   "calendar_link": null,
   "notes": "(?) предварительно — агент не подтвердил. Masha proposed Fri 23 16:30 or Mon 26 15:00 London to Dershan (Foxtons Bow), 20 Oct"
+ },
+ {
+  "id": "prop-94583259",
+  "listing_id": "94583259",
+  "title": null,
+  "address": null,
+  "datetime": null,
+  "agent": null,
+  "agent_contact": null,
+  "agent_email": "Dani from Paramount Properties <reply@homeflow.co.uk>",
+  "agent_phone": null,
+  "thread_id": "1a167f624df35c11",
+  "status": "proposed",
+  "asked": "2026-10-23T08:52:25Z",
+  "notes": "Dear Maria Surkova, Thank you for your enquiry. When are you free to view the property at 56b Chichele Road, NW2 3DD? https://www.paramount-properties.co.uk/properties/22233246/lettings/chichele-road-willesden-green-lond",
+  "source": "masha-mail",
+  "type": null
+ },
+ {
+  "id": "mail-1a167fa4bcda1610",
+  "listing_id": "94570059",
+  "title": "703 Jubilee Heights, 1 Shoot Up Hill, Kilburn, London NW2 3UQ",
+  "address": "703 Jubilee Heights, 1 Shoot Up Hill, Kilburn, London NW2 3UQ",
+  "datetime": "2026-10-23T11:15:00+01:00",
+  "agent": "Dani Pathman",
+  "agent_email": "Dani from Paramount Properties <reply@homeflow.co.uk>",
+  "agent_phone": "020 7644 2256",
+  "thread_id": "1a16792a32ec4bbb",
+  "status": "confirmed",
+  "source": "masha-mail"
+ },
+ {
+  "id": "prop-central-callis-road-e17",
+  "listing_id": "central-callis-road-e17",
+  "title": "Callis Road, Walthamstow E17",
+  "address": "Callis Road, Walthamstow E17",
+  "datetime": null,
+  "agent": "Central Estates Walthamstow (Grace Woollard)",
+  "agent_contact": null,
+  "agent_email": "Grace Woollard <grace@central-estates.co.uk>",
+  "agent_phone": null,
+  "thread_id": "1a16804154d87675",
+  "status": "proposed",
+  "asked": "2026-10-23T09:07:22Z",
+  "notes": "Good morning, You recently enquired on a property we have to rent on Callis Road: Walthamstow, London Central Estates Before we arrange a viewing, please advise of the below: * Budget per month? * Minimum number of bedro",
+  "source": "masha-mail",
+  "type": null
  }
 ]

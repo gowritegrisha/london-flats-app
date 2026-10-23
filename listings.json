@@ -1,5 +1,81 @@
 [
  {
+  "id": "chestertons-COB210008",
+  "title": "Ashburton Triangle — 1-bed",
+  "area": "Ashburton Triangle, Drayton Park, London N5",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "",
+  "commute": "34 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.chestertons.co.uk/en-gb/find/property-COB210008/",
+  "source": "chestertons",
+  "photos": [],
+  "status": "new",
+  "notes": "[Chestertons] Chestertons Islington (Marco Caimi). Modern one bedroom apartment on the third floor in a modern development moments from Arsenal stadium. Large open plan kitchen living room with balcony, integrated appliances.",
+  "hood": "Hoodmaps: Rich (Highbury West); nearby tags: \"Is yours gold?\", \"london is red!!!!\", \"Blud fam\", \"coyg coyg coyg coyg\".",
+  "date_found": "2026-10-23",
+  "features": "",
+  "listed": "2026-10-23",
+  "lat": 51.5562,
+  "lng": -0.1068,
+  "agent": "Chestertons Islington (Marco Caimi)",
+  "commute_min": 34,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20606634",
   "title": "Brixton Junction — 1-bed",
   "area": "Brixton Junction, Brixton, SE24",
@@ -28,9 +104,6 @@
   "lat": 51.46418,
   "lng": -0.1025,
   "agent": "Home Made - Southwark",
-  "commute_min": 43,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -79,7 +152,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Herne Hill/Loughborough Junction SE24",
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20607789",
@@ -110,9 +187,6 @@
   "lat": 51.580807,
   "lng": -0.029464,
   "agent": "Right Now Residential - London Bridge",
-  "commute_min": 43,
-  "commute_mode": "🚆 Suffragette + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -161,7 +235,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "High Street E17",
+  "commute_min": 43,
+  "commute_mode": "🚆 Suffragette + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20608999",
@@ -192,9 +270,6 @@
   "lat": 51.50133,
   "lng": -0.256702,
   "agent": "Capital Properties Management - Chiswick",
-  "commute_min": 57,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 60,
@@ -245,7 +320,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Southfield · Chiswick W4",
+  "commute_min": 57,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94639407",
@@ -276,9 +355,6 @@
   "lat": 51.504011,
   "lng": -0.231232,
   "agent": "Fletchers, Brook Green",
-  "commute_min": 40,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -327,7 +403,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Coningham · Shepherd's Bush W12",
+  "commute_min": 40,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94639629",
@@ -358,9 +438,6 @@
   "lat": 51.502575,
   "lng": -0.222339,
   "agent": "Savoy Property Consultants, West London",
-  "commute_min": 37,
-  "commute_mode": "🚇 Central + Victoria",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -409,7 +486,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Addison · Hammersmith W6",
+  "commute_min": 37,
+  "commute_mode": "🚇 Central + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94640988",
@@ -440,9 +521,6 @@
   "lat": 51.48706,
   "lng": -0.10975,
   "agent": "Noble Estates, London",
-  "commute_min": 32,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -491,7 +569,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Kennington SE11",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "94641699",
@@ -522,9 +604,6 @@
   "lat": 51.528786,
   "lng": -0.208029,
   "agent": "Camerons Stiff & Co, Lettings- London",
-  "commute_min": 42,
-  "commute_mode": "🚆 Lioness",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -573,7 +652,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Queen's Park W10",
+  "commute_min": 42,
+  "commute_mode": "🚆 Lioness",
+  "commute_ok": true
  },
  {
   "id": "otm-17130917",
@@ -6314,10 +6397,10 @@
   },
   "fresh_days": 2,
   "nbhd": "Cricklewood/Mapesbury NW2",
+  "rating": "like",
   "commute_min": 31,
   "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
-  "rating": "like"
+  "commute_ok": true
  },
  {
   "id": "otm-20274544",
