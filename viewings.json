@@ -404,11 +404,12 @@
   "agent_email": "Claudia Bomoto <Claudia.Bomoto@keatons.com>",
   "agent_phone": null,
   "thread_id": "1a16813b5ec30735",
-  "status": "confirmed",
+  "status": "rescheduled",
   "source": "masha-mail",
   "type": "video",
-  "calendar_event_id": "9459qf1s820n9mahp7dq8s0j18",
-  "calendar_link": "https://www.google.com/calendar/event?eid=OTQ1OXFmMXM4MjBuOW1haHA3ZHE4czBqMTggZ293cml0ZW1hc2hhQG0"
+  "calendar_event_id": null,
+  "calendar_link": null,
+  "note": "Claudia (Keatons) moved the video viewing to Monday 26 Oct; time TBC (Masha, 23 Oct 18:14)"
  },
  {
   "id": "mail-1a1683c95b260300",
@@ -475,23 +476,6 @@
   "source": "masha-mail",
   "calendar_event_id": "an3vgd6s4661e6lor4tm7kbnrg",
   "calendar_link": "https://www.google.com/calendar/event?eid=YW4zdmdkNnM0NjYxZTZsb3I0dG03a2JucmcgZ293cml0ZW1hc2hhQG0"
- },
- {
-  "id": "hold-fx-chpk3683153@2026-10-23T16:30",
-  "listing_id": "fx-chpk3683153",
-  "title": "Merchant Street, Bow, E3 4PS — 1-bed",
-  "address": "Merchant Street, Bow, London E3 4PS",
-  "datetime": "2026-10-23T16:30:00+01:00",
-  "agent": "Foxtons (Dershan Morris)",
-  "agent_email": "Dershan.Morris@foxtons.co.uk",
-  "agent_phone": "020 7659 8910",
-  "thread_id": "1a1586d89ed72e6f",
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": null,
-  "calendar_link": null,
-  "notes": "(?) предварительно — агент не подтвердил. Masha proposed Fri 23 16:30 or Mon 26 15:00 London to Dershan (Foxtons Bow), 20 Oct"
  },
  {
   "id": "hold-94446669@2026-10-26T14:00",
