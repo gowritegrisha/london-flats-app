@@ -79,7 +79,8 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Kentish Town South NW5"
  },
  {
   "id": "94661166",
@@ -155,7 +156,8 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Earl's Court SW5"
  },
  {
   "id": "94663137",
@@ -237,7 +239,8 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Hornsey · Hornsey/Crouch End N8"
  },
  {
   "id": "94665444",
@@ -319,7 +322,8 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Hornsey · Hornsey/Crouch End N8"
  },
  {
   "id": "otm-20612368",
