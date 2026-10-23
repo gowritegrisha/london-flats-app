@@ -362,6 +362,23 @@
   "type": null
  },
  {
+  "id": "prop-94570059",
+  "listing_id": "94570059",
+  "title": null,
+  "address": null,
+  "datetime": null,
+  "agent": null,
+  "agent_contact": null,
+  "agent_email": "Dani from Paramount Properties <reply@homeflow.co.uk>",
+  "agent_phone": null,
+  "thread_id": "1a16792a32ec4bbb",
+  "status": "proposed",
+  "asked": "2026-10-23T07:03:44Z",
+  "notes": "Dear Maria Surkova, Thank you for your enquiry. When are you free to view the property at 703 Jubilee Heights, 1 Shoot Up Hill, NW2 3UQ? I will be there at 11:15 this morning if that suits? https://www.paramount-properti",
+  "source": "masha-mail",
+  "type": null
+ },
+ {
   "id": "hold-94311600@2026-10-23T14:30",
   "listing_id": "94311600",
   "title": "Sussex Way — 1-bed",
