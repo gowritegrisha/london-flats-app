@@ -388,10 +388,11 @@
   "agent_email": "Dani from Paramount Properties <reply@homeflow.co.uk>",
   "agent_phone": "020 7644 2256",
   "thread_id": "1a16792a32ec4bbb",
-  "status": "confirmed",
+  "status": "cancelled",
   "source": "masha-mail",
   "calendar_event_id": "rvr17lni80phid13dn0641lrrk",
-  "calendar_link": "https://www.google.com/calendar/event?eid=cnZyMTdsbmk4MHBoaWQxM2RuMDY0MWxycmsgZ293cml0ZW1hc2hhQG0"
+  "calendar_link": "https://www.google.com/calendar/event?eid=cnZyMTdsbmk4MHBoaWQxM2RuMDY0MWxycmsgZ293cml0ZW1hc2hhQG0",
+  "notes": "23 окт Dani написал, что не может попасть в квартиру, и предложил перенести на следующую неделю (в офисе)."
  },
  {
   "id": "prop-central-callis-road-e17",
@@ -411,21 +412,36 @@
   "type": null
  },
  {
-  "id": "hold-92736453@2026-10-23T14:00",
+  "id": "mail-1a16813b5ec30735",
+  "listing_id": "amhurst-park-keatons",
+  "title": "Flat A, 33 Amhurst Park, Stamford Hill, London, N16 5DJ",
+  "address": "Flat A, 33 Amhurst Park, Stamford Hill, London, N16 5DJ",
+  "datetime": "2026-10-23T18:00:00+01:00",
+  "agent": "Keatons Stamford Hill (Claudia Bomoto)",
+  "agent_email": "Claudia Bomoto <Claudia.Bomoto@keatons.com>",
+  "agent_phone": null,
+  "thread_id": "1a16813b5ec30735",
+  "status": "confirmed",
+  "source": "masha-mail",
+  "type": "video",
+  "calendar_event_id": "9459qf1s820n9mahp7dq8s0j18",
+  "calendar_link": "https://www.google.com/calendar/event?eid=OTQ1OXFmMXM4MjBuOW1haHA3ZHE4czBqMTggZ293cml0ZW1hc2hhQG0"
+ },
+ {
+  "id": "mail-1a1683c95b260300",
   "listing_id": "92736453",
   "title": "Manstone Road, London NW2",
-  "address": "Manstone Road, London NW2",
+  "address": "4, 4 Manstone Road, London, NW2 3XG",
   "datetime": "2026-10-23T14:00:00+01:00",
-  "agent": "(Nye Newcombe)",
+  "agent": "KFH West Hampstead (Nye Newcombe)",
   "agent_email": "Nye Newcombe <Nye.Newcombe@kfh.co.uk>",
   "agent_phone": "020 7604 5150",
-  "thread_id": "1a167eb971b742c7",
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": null,
-  "calendar_link": null,
-  "notes": "(?) предварительно — агент не подтвердил. "
+  "thread_id": "1a1683c95b260300",
+  "status": "confirmed",
+  "source": "masha-mail",
+  "calendar_event_id": "cvbh57i4j3o0mroq0q8vj0jmqk",
+  "calendar_link": "https://www.google.com/calendar/event?eid=Y3ZiaDU3aTRqM28wbXJvcTBxOHZqMGptcWsgZ293cml0ZW1hc2hhQG0",
+  "type": "video"
  },
  {
   "id": "hold-94311600@2026-10-23T14:30",
