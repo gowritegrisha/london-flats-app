@@ -1343,7 +1343,8 @@
   "nbhd": "St James E17",
   "commute_min": 35,
   "commute_mode": "🚇 Victoria",
-  "commute_ok": true
+  "commute_ok": true,
+  "note": "Агент показывает только вживую, онлайн не может, но обещал прислать видео (Маша, 23 окт)."
  },
  {
   "id": "94629810",
