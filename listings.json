@@ -1,5 +1,905 @@
 [
  {
+  "id": "otm-20612368",
+  "title": "Atlanta Building — 2-bed",
+  "area": "Atlanta Building, London SE13",
+  "price": 1950,
+  "size": "72 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20612368/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20612368_0.jpg",
+   "photos/otm-20612368_1.jpg",
+   "photos/otm-20612368_2.jpg",
+   "photos/otm-20612368_3.jpg",
+   "photos/otm-20612368_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] LiFE Residential - Greenwich. This furnished two-bedroom apartment is on the second floor of the Deals Gateway development, with 779 sq ft of space, a separate kitchen and a living area with a Juliet balcony. There's one bathroom, and the layout could work well for a couple or two people sharing. Get ready to be blown away by this stunning two-bedroom, one-bathroom apartment in the sought-after OneSE8 development in Deptford! Life Residential is thrilled to present this incredible top-floor property, nestled within the iconic Atlanta building, just steps from Deptford Bridge DLR station and within easy reach of Greenwich station. Step inside and youll be greeted by a spacious and stylish living space, featuring sleek wood flooring, a fully fitted kitchen, and a charming Juliet balcony. Both large double bedrooms offer ample space, while generous storage solutions ensure a clutter-free home. But that’s not all – the d",
+  "hood": "Hoodmaps: Hipsters (Brockley), also painted Tourists; nearby tags: \"the birds nest - best pub in town\", \"Toxic gay men\".",
+  "date_found": "2026-10-23",
+  "features": "2 bed / 1 bath / Juliet Balcony / Separate Kitchen/  2nd Floor Furnished / Close to Deptford Bridge Station",
+  "listed": "2026-10-23",
+  "lat": 51.472682,
+  "lng": -0.020424,
+  "agent": "LiFE Residential - Greenwich",
+  "commute_min": 56,
+  "commute_mode": "🚆 Thameslink + Hammersmith & City",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: stylish(+3), sleek(+2), balcony(+2)"
+   },
+   "size": {
+    "points": 15,
+    "max": 15,
+    "reason": "72 m²"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "56 min (TfL): 🚆 Thameslink + Hammersmith & City — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-15572089",
+  "title": "Durward Street — 1-bed",
+  "area": "Durward Street, LONDON",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-29",
+  "commute": "32 min · 🚆 Elizabeth line + Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/15572089/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-15572089_0.jpg",
+   "photos/otm-15572089_1.jpg",
+   "photos/otm-15572089_2.jpg",
+   "photos/otm-15572089_3.jpg",
+   "photos/otm-15572089_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Felicity J. Lord - Bow. Trinity Hall, which dates back to 1876, is ideally located, just off of Whitechapel Road and is within short distance of Whitechapel station. Located on the first floor, as you enter the open plan apartment you are greeted by an abundance of natural light form the two large double height windows. There is an additional mezzanine area where the bedroom is located, and this has fitted wardrobes and stunning city views. The semi open plan kitchen is beautifully recently refurbished, and the apartment benefits from additional storage cupboards. The apartment further benefits from a communal roof terrace. WIFI is included within the rent. This property is available with a Deposit Free option which means that instead of paying a traditional five weeks security deposit, you pay a fee of one weeks rent + VAT (subject to a minimum of £120 + VAT) to become a member of a deposit free renting scheme",
+  "hood": "Hoodmaps: Hipsters (Spitalfields & Banglatown), also painted Tourists; nearby tags: \"Banglatown\", \"Mr. Ripper's gaff\", \"Farhats barbering\", \"Better Curry \".",
+  "date_found": "2026-10-23",
+  "features": "Historic Building; Mezzanine Bedroom; Tall Ceilings; Internet/Wifi INCLUDED; Furnished",
+  "listed": "2026-10-23",
+  "lat": 51.519844,
+  "lng": -0.0607,
+  "agent": "Felicity J. Lord - Bow",
+  "commute_min": 32,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true,
+  "score": 77,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: recently refurbished(+2), refurbished(+2), light(+1), fitted wardrobes(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚆 Elizabeth line + Northern"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 9.2,
+    "max": 10,
+    "reason": "29 Oct: 3 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20614302",
+  "title": "Massingham Street — 1-bed",
+  "area": "Massingham Street, London E1",
+  "price": 700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-01",
+  "commute": "38 min · 🚇 Hammersmith & City (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20614302/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20614302_0.jpg",
+   "photos/otm-20614302_1.jpg",
+   "photos/otm-20614302_2.jpg",
+   "photos/otm-20614302_3.jpg",
+   "photos/otm-20614302_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Appleby Property - London. Nestled on the sought-after Massingham Street in the lively heart of London’s E1, this stylishly furnished one-bedroom apartment offers a prime opportunity for those seeking modern city living. Finished with a keen eye for detail, the flat presents generous proportions throughout, featuring a bright double bedroom complemented by not just one, but two contemporary bathrooms—ideal for added convenience and privacy. Step into a welcoming open-plan layout, perfectly arranged to provide both comfortable living and entertaining space. Plush furnishings ensure a move-in-ready experience; simply unpack and settle into your new home in effortless style. Residents are sure to appreciate the all-inclusive rent, covering every bill to support stress-free accommodation. Situated in Council Tax Band C, the flat is perfect for professionals or couples desiring outstanding value without compromise. Wit",
+  "hood": "Hoodmaps: Hipsters (Bethnal Green), also painted Normies; nearby tags: \"Chicken shops\", \"Students\", \"Asian Central \", \"crackheads!!!!1!\".",
+  "date_found": "2026-10-23",
+  "features": "",
+  "listed": "2026-10-23",
+  "lat": 51.524845,
+  "lng": -0.046671,
+  "agent": "Appleby Property - London",
+  "commute_min": 38,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true,
+  "score": 71,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2), open-plan(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 14.6,
+    "max": 20,
+    "reason": "38 min door-to-door (TfL): 🚇 Hammersmith & City"
+   },
+   "hood": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "Hipsters; negative tags: crack"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 3,
+    "max": 3,
+    "reason": "£700"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94651719",
+  "title": "Crowder Street — 1-bed",
+  "area": "Crowder Street, E1",
+  "price": 2095,
+  "size": "44 m²",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "",
+  "commute": "42 min · 🚈 DLR + Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94651719",
+  "source": "rightmove",
+  "photos": [
+   "photos/94651719_0.jpg",
+   "photos/94651719_1.jpg",
+   "photos/94651719_2.jpg",
+   "photos/94651719_3.jpg",
+   "photos/94651719_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Hurford Salvi Carr, Docklands. Hurford Salvi Carr are favoured as sole agents to market this newly decorated one double bedroom apartment which spans in excess of 470 sq ft*. This well presented property is accessed via a lift and is located on the seventh floor within in a contemporary development within walking distance of Tower Hill and The City. The development was built by home builder 'Telford Homes' who are regarded as one of the premium developers in the area. This particular apartment comes complete with air conditioning. Accommodation comprises an open plan fitted kitchen / reception room with direct access to the private balcony which offers panoramic views towards The City skyline. Additional features include a good size double bedroom, complete with fitted wardrobes, and a four piece contemporary bathroom suite. The property is close to the amenities and restaurants of St. Katherine's Docks and Tower Hill",
+  "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Tourists; nearby tags: \"9 pound a pint \"Rooftop\"\", \"Residential and parks\", \"Yuppie tiger parents\", \"ANTIFA Mecca\".",
+  "date_found": "2026-10-23",
+  "features": "471 SQ FT / 43.8 SQ M; ONE BEDROOM; NEWLY DECORATED; BALCONY; AIR CONDITIOINING; FITTED KITCHEN WITH ALL APPLIANCES; AVAILABLE NOW",
+  "listed": "2026-10-23",
+  "lat": 51.509519,
+  "lng": -0.061515,
+  "agent": "Hurford Salvi Carr, Docklands",
+  "commute_min": 42,
+  "commute_mode": "🚈 DLR + Northern + Victoria",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: contemporary(+2), well presented(+2), balcony(+2), fitted wardrobes(+2)"
+   },
+   "size": {
+    "points": 0.9,
+    "max": 15,
+    "reason": "44 m²"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚈 DLR + Northern + Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,095"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, lift"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94652574",
+  "title": "West Green Road — 1-bed",
+  "area": "West Green Road, London",
+  "price": 1595,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-10-23",
+  "commute": "32 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94652574",
+  "source": "rightmove",
+  "photos": [
+   "photos/94652574_0.jpg",
+   "photos/94652574_1.jpg",
+   "photos/94652574_2.jpg",
+   "photos/94652574_3.jpg",
+   "photos/94652574_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Wilkinson Byrne, Harringay. Step into character and charm with this beautifully presented, spacious one-bedroom flat, set across two inviting levels. Bathed in natural light, the elegant reception room boasts original stripped wood floorboards, creating a warm and airy ambience perfect for both relaxing and entertaining. The thoughtfully designed fitted kitchen offers both style and practicality, while the generous double bedroom provides a serene retreat at the end of the day. Ideally situated just a stone´s throw from the vibrant Turnpike Lane shops and with excellent transport links nearby, this delightful home combines convenience with character. Available from 23 October your perfect North London haven awaits.",
+  "hood": "Hoodmaps: Hipsters (Harringay), also painted Normies; nearby tags: \"Knife crime\", \"no mans land\", \"Turkish Delight\".",
+  "date_found": "2026-10-23",
+  "features": "Characterful split-level one-bedroom flat; Bright and airy reception with original stripped wood floorboards; Fully fitted kitchen with practical layout,; Spacious double bedroom with tranquil atmosphere; Moments from local shops, cafes, and amenities; Excellent transport links – easy reach of Turnpike Lane Tube (Piccadilly Line)",
+  "listed": "2026-10-23",
+  "lat": 51.58881,
+  "lng": -0.10163,
+  "agent": "Wilkinson Byrne, Harringay",
+  "commute_min": 32,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: bright(+2), light(+1), character(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,595"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94653606",
+  "title": "King Street — 1-bed",
+  "area": "King Street",
+  "price": 1885,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "2026-11-15",
+  "commute": "42 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94653606",
+  "source": "rightmove",
+  "photos": [
+   "photos/94653606_0.jpg",
+   "photos/94653606_1.jpg",
+   "photos/94653606_2.jpg",
+   "photos/94653606_3.jpg",
+   "photos/94653606_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Barnard Marcus Lettings, West Kensington - Lettings. **Zero Deposit Guarantee Available** SUMMARY Modern one double bedroom top floor apartment which has recently undergone full refurbishment. Offered unfurnished with stylish contemporary kitchen, sleek modern bathroom and wooden flooring throughout. Over 460 sqft of lateral space, available Mid - Novemberr Ideally located just moments away from the transport links at Hammersmith Broadway (Piccadilly, District, Hammersmith and City and Circle lines). Great apartment for a professional single or couple. DESCRIPTION Modern one double bedroom top floor apartment which has recently undergone full refurbishment. Offered unfurnished with stylish contemporary kitchen, sleek modern bathroom and wooden flooring throughout. Over 460 sqft of lateral space, available Mid - November Ideally located just moments away from the transport links at Hammersmith Broadway (Piccadilly, District, Hammersmith and",
+  "hood": "Hoodmaps: Rich (Hammersmith Broadway); nearby tags: \"Proper locals\", \"Expensive Yogurt and Salmon\", \"posh people drinking\", \"Eddie and Richie lived here\".",
+  "date_found": "2026-10-23",
+  "features": "One Double bedroom Apartment; Wooden Flooring; EPC Rating C; Double Glazing; Recently refurbished; Modern Kitchen and Bathroom; Part furnished; Available mid November",
+  "listed": "2026-10-23",
+  "lat": 51.49235,
+  "lng": -0.23024,
+  "agent": "Barnard Marcus Lettings, West Kensington - Lettings",
+  "commute_min": 42,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), recently refurbished(+2), refurbished(+2), sleek(+2), contemporary(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "15 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 0.7,
+    "max": 3,
+    "reason": "£1,885"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94567749",
+  "title": "FF — 2-bed",
+  "area": "FF, Green Lanes, Palmers Green, N13",
+  "price": 1700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-23",
+  "commute": "43 min · 🚆 Great Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94567749",
+  "source": "rightmove",
+  "photos": [
+   "photos/94567749_0.jpg",
+   "photos/94567749_1.jpg",
+   "photos/94567749_2.jpg",
+   "photos/94567749_3.jpg",
+   "photos/94567749_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Paul Simon Estate Agents, London. Unique completely refurbished 2-bedroom, 1 bathroom first floor duplex apartment. The property comprises 2 double bedrooms, brand new fitted spacious open plan kitchen/reception. New wooden floors throughout, modern brand new bathroom and split level. Further benefits include double glazing, and off-street parking. The property is situated within easy reach of Palmers Green BR station (Finsbury Park/Moorgate) as well as all the shopping, restaurants and amenities of Green Lanes. Offered unfurnished. Available now! Image Disclaimer: This image has been digitally enhanced using AI to improve clarity, lighting and overall presentation. Vehicles and minor visual obstructions have been removed for marketing purposes. To Confirm please view in person, ",
+  "hood": "Hoodmaps: Rich (Palmers Green), also painted Tourists; nearby tags: \"Greeks\".",
+  "date_found": "2026-10-23",
+  "features": "2 Double Bedrooms; Duplex Flat; Completely Refurbished; Wooden Flooring; Brand New Kitchen; Open Plan Living Room; Spacious Brand New Bathroom; Unfurnished; Close to Palmers Green BR Station; Available Now!",
+  "listed": "2026-10-21",
+  "lat": 51.616343,
+  "lng": -0.109092,
+  "agent": "Paul Simon Estate Agents, London",
+  "commute_min": 43,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), refurbished(+2), light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚆 Great Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 2
+ },
+ {
+  "id": "94655862",
+  "title": "Gladstone Avenue — 3-bed",
+  "area": "Gladstone Avenue, Wood Green N22",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-24",
+  "commute": "38 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94655862",
+  "source": "rightmove",
+  "photos": [
+   "photos/94655862_0.jpg",
+   "photos/94655862_1.jpg",
+   "photos/94655862_2.jpg",
+   "photos/94655862_3.jpg",
+   "photos/94655862_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Neptune Homes, London. Neptune Homes are pleased to present for rent this three bedroom flat on the 1st floor This flat comprises of 2 x double bedroom, 1 x single roomseparate large living room, separate kitchen and bathroom with the tube Further benefits include wooden flooring, double glazing and gas central heating. Located a short walk to Turnpike Lane and Wood Green station. Also other benefits include all the shopping and cinema of Wood Green High Street and on the other side it is with in walking distance to all the trendy bars & restaurants of Haringey. To arrange a viewing, call one of our friendly lettings team now on Energy performance certificate (EPC) rating: D Council Tax band C:",
+  "hood": "Hoodmaps: Normies (Noel Park); nearby tags: \"place your guranteed to get robbed at\", \"playce youll get shanked at\", \"nigety\", \"turkish shops\".",
+  "date_found": "2026-10-23",
+  "features": "Three bedrooms flat; Two double bedrooms and one single bedroom; Separate Kitchen and Separate living room; Private Garden; Gas Central heating &amp;  ouble ; Fully furnished; Minutes walk to turnpike lane tube and all the amenities of Wood Green High Street; Available now; To arrange a viewing , please call and speak to one of our friendly lettings team on  ; Photographs were taken prior&nbsp;to&nbsp;occupation",
+  "listed": "2026-10-23",
+  "lat": 51.596134,
+  "lng": -0.10255,
+  "agent": "Neptune Homes, London",
+  "commute_min": 38,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true,
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: private garden(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 14.6,
+    "max": 20,
+    "reason": "38 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 8.0,
+    "max": 10,
+    "reason": "24 Oct: 8 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94655916",
+  "title": "Henshaw Parade — 1-bed",
+  "area": "Henshaw Parade, The Hyde, London, NW9",
+  "price": 1850,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-20",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94655916",
+  "source": "rightmove",
+  "photos": [
+   "photos/94655916_0.jpg",
+   "photos/94655916_1.jpg",
+   "photos/94655916_2.jpg",
+   "photos/94655916_3.jpg",
+   "photos/94655916_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Benham & Reeves - Hampstead, Hampstead. Situated within Bower House, part of the sought-after Silkstream development, this attractive apartment combines stylish interiors with generous private outdoor space. The spacious terrace overlooks beautifully maintained communal gardens, providing an ideal setting for relaxing or entertaining. The property comprises a bright reception and dining area, a modern fitted kitchen with integrated appliances, a well-proportioned double bedroom with ample storage and a contemporary bathroom finished to a high standard. Residents benefit from a range of on-site amenities, including concierge services, a fully equipped gym, secure bicycle storage and landscaped communal gardens. Ideally positioned for convenient access to nearby rail and Underground stations, the development offers excellent connections into Central London. A variety of local shops, restaurants and leisure facilities are close b",
+  "hood": "Hoodmaps: Normies (Colindale), also painted Rich; no user tags within ~450 m.",
+  "date_found": "2026-10-23",
+  "features": "",
+  "listed": "2026-10-23",
+  "lat": 51.582101,
+  "lng": -0.244816,
+  "agent": "Benham & Reeves - Hampstead, Hampstead",
+  "commute_min": 52,
+  "commute_mode": "🚆 Thameslink + Hammersmith & City",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "52 min (TfL): 🚆 Thameslink + Hammersmith & City — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "20 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, terrace, concierge, gym"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94657167",
+  "title": "Holden Road — 2-bed",
+  "area": "Holden Road, North Finchley",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "",
+  "commute": "41 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94657167",
+  "source": "rightmove",
+  "photos": [
+   "photos/94657167_0.jpg",
+   "photos/94657167_1.jpg",
+   "photos/94657167_2.jpg",
+   "photos/94657167_3.jpg",
+   "photos/94657167_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Dexters, Finchley. Stylishly renovated, this two double bedroom maisonette comes complete with two double bedrooms, two bathrooms, spacious and bright living room, modern kitchen and its own garden. Ideally situated, this beautiful apartment is within walking distance of Woodside Park Station as well as local amenities found on both Ballards Lane and High Road, including a Sainsburys Supermarket. Security Deposit: £2,654 Council Tax Band: D ",
+  "hood": "Hoodmaps: Rich (Totteridge), also painted Normies; nearby tags: \"rich and boring\".",
+  "date_found": "2026-10-23",
+  "features": "Two Bedrooms; Two Bathrooms; One Reception; Separate Kitchen; Modern; Garden",
+  "listed": "2026-10-23",
+  "lat": 51.61968,
+  "lng": -0.186022,
+  "agent": "Dexters, Finchley",
+  "commute_min": 41,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 69,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94657575",
+  "title": "Little Dimocks London SW12 — 1-bed",
+  "area": "Little Dimocks London SW12",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-23",
+  "commute": "44 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94657575",
+  "source": "rightmove",
+  "photos": [],
+  "status": "new",
+  "notes": "[Rightmove] Hamptons, Balham. A good size first floor flat located just off Bedford Hill. This superb property has recently been redecorated and is available to welcome new tenants from mid June. The spacious property comprises of a large reception room which leads into the modern kitchen, a large double bedroom and a modern bathroom. The property also offers ample amount of storage space. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+  "hood": "Hoodmaps: Rich (Bedford); nearby tags: \"scotland\", \"don't walk here at night on your ones\".",
+  "date_found": "2026-10-23",
+  "features": "Bright and spacious flat; First floor, purpose built; Ample storage; One large double bedroom; Modern kitchen; Modern bathroom; Furnished; Wandsworth Borough ",
+  "listed": "2026-10-23",
+  "lat": 51.43974,
+  "lng": -0.14698,
+  "agent": "Hamptons, Balham",
+  "commute_min": 44,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20612894",
   "title": "Philpot Street — 1-bed",
   "area": "Philpot Street, London, E1",
