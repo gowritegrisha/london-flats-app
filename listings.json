@@ -1,5 +1,1161 @@
 [
  {
+  "id": "otm-20612894",
+  "title": "Philpot Street — 1-bed",
+  "area": "Philpot Street, London, E1",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-27",
+  "commute": "39 min · 🚇 Hammersmith & City (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20612894/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20612894_0.jpg",
+   "photos/otm-20612894_1.jpg",
+   "photos/otm-20612894_2.jpg",
+   "photos/otm-20612894_3.jpg",
+   "photos/otm-20612894_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Savills - Wapping. A Spacious, bright, open plan Studio flat with separate bedroom area situated in the centre of Whitechapel a short walk from transport links. Description A spacious and bright open-plan studio apartment with a separate bedroom area, ideally situated in the heart of Whitechapel, just a short walk from excellent transport links. The property offers a well-designed open-plan living and kitchen area, fitted with integrated appliances including a fridge freezer, dishwasher, oven and induction hob. A built-in wardrobe and a modern shower room complete the main living space. The bedroom area is positioned to the rear of the apartment, providing a clear separation from the living area and enhancing comfort and privacy. Further benefits include a separate utility room offering additional storage and housing a washer dryer. The apartment is offered furnished, with items including a double bed, din",
+  "hood": "Hoodmaps: Hipsters (Whitechapel); nearby tags: \"Banglatown\", \"Heavy drug dealing\", \"Better Curry \", \"Heavier drug dealing\".",
+  "date_found": "2026-10-23",
+  "features": "Available Now; Studio Apartment; On site Building Manager; Newly Refurbished; Fifth Floor; Lift; Internal Bike Storage; EPC Rating = D",
+  "listed": "2026-10-23",
+  "lat": 51.514894,
+  "lng": -0.058871,
+  "agent": "Savills - Wapping",
+  "commute_min": 39,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true,
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), newly refurbished(+3), refurbished(+2), open-plan(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚇 Hammersmith & City"
+   },
+   "hood": {
+    "points": 10.0,
+    "max": 15,
+    "reason": "Hipsters; negative tags: drug"
+   },
+   "availability": {
+    "points": 8.8,
+    "max": 10,
+    "reason": "27 Oct: 5 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-15365400",
+  "title": "Campbell Road — 2-bed",
+  "area": "Campbell Road, Walthamstow, E17",
+  "price": 2000,
+  "size": "55 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-21",
+  "commute": "43 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/15365400/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-15365400_0.jpg",
+   "photos/otm-15365400_1.jpg",
+   "photos/otm-15365400_2.jpg",
+   "photos/otm-15365400_3.jpg",
+   "photos/otm-15365400_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Churchill Estates - Walthamstow. Coming Soon | Unfurnished | Located superbly for access to Walthamstow Central Station | Less than 1 mile from Walthamstow's sought after Village location | Double Glazing | Gas Central Heating | Two Bedroom Ground Floor Flat | Private Section of Rear Garden | Nestled on the charming Campbell Road in Walthamstow, this delightful Victorian conversion flat offers a perfect blend of character and modern convenience. Spanning an inviting 592 square feet, this ground floor residence features two well-proportioned bedrooms, making it an ideal choice for couples, small families, or professionals seeking a comfortable living space. Upon entering, you are welcomed into a spacious reception room that provides a warm and inviting atmosphere, perfect for relaxation or entertaining guests. The flat boasts a well-appointed bathroom and a functional kitchen, ensuring all your daily needs are met with e",
+  "hood": "Hoodmaps: Hipsters (William Morris); nearby tags: \"Dumped mattresses\", \"Deliveroo drivers\".",
+  "date_found": "2026-10-23",
+  "features": "Coming Soon; Unfurnished; Two Double Bedroom; Ground Floor; Private Section of Rear Garden; Central Location; Gas Central Heating; Double Glazing; Walthamstow Central Station",
+  "listed": "2026-10-23",
+  "lat": 51.586269,
+  "lng": -0.024812,
+  "agent": "Churchill Estates - Walthamstow",
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), light(+1), conversion(+1), character(+1)"
+   },
+   "size": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "55 m²"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "21 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94614957",
+  "title": "Fizzy Lewisham — 1-bed",
+  "area": "Fizzy Lewisham, River Mill Two, Lewisham SE13 5FQ",
+  "price": 2050,
+  "size": "56 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-07",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94614957",
+  "source": "rightmove",
+  "photos": [
+   "photos/94614957_0.jpg",
+   "photos/94614957_1.jpg",
+   "photos/94614957_2.jpg",
+   "photos/94614957_3.jpg",
+   "photos/94614957_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Fizzy Living, Lewisham. South East London living, made simple… Fizzy Lewisham is a collection of contemporary rental apartments designed for people who want convenience, comfort and a better renting experience. With thoughtfully designed homes, professional management and resident-focused amenities, it’s a place that works around your lifestyle. The apartments: Every apartment at Fizzy Lewisham is designed with modern living in mind. Expect bright, open-plan layouts, large windows and private balconies that bring in natural light and outdoor space. Kitchens are fully fitted with high-quality appliances, while bedrooms offer built-in storage to keep things streamlined. Bathrooms are finished to a modern standard, and washer/dryers come as standard. Furnishing options are available, so you can move in your way. Life beyond your front door: At Fizzy Lewisham, your rent includes more than just your apartment. Work ",
+  "hood": "Hoodmaps: Hipsters (Lewisham Central), also painted Tourists; nearby tags: \"dogs barking\", \"microcosm of the universe\", \"stark rich/poor divide\", \"Welcome to a nightmare\".",
+  "date_found": "2026-10-23",
+  "features": "1 minute from Lewisham station with National Rail and DLR connections ; 15th-floor rooftop terrace; Free superfast fibre optic broadband for the length of tenancy; Pet-friendly development ; Co-working space and resident lounge, all included ; On-site management and maintenance team ; Zero Deposit Guarantee Available; Fully integrated kitchen with modern appliances ; Floor 12",
+  "listed": "2026-10-22",
+  "lat": 51.464869,
+  "lng": -0.012686,
+  "agent": "Fizzy Living, Lewisham",
+  "commute_min": 47,
+  "commute_mode": "🚆 Southeastern + Northern",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), open-plan(+1)"
+   },
+   "size": {
+    "points": 9.6,
+    "max": 15,
+    "reason": "56 m²"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "47 min (TfL): 🚆 Southeastern + Northern — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "07 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,050"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "94641201",
+  "title": "South Lambeth Road — 1-bed",
+  "area": "South Lambeth Road, London",
+  "price": 1842,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-09",
+  "commute": "34 min · 🚇 Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94641201",
+  "source": "rightmove",
+  "photos": [
+   "photos/94641201_0.jpg",
+   "photos/94641201_1.jpg",
+   "photos/94641201_2.jpg",
+   "photos/94641201_3.jpg",
+   "photos/94641201_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Garrett Whitelock, London Bridge. A delightful period one double apartment situated within a low rise building moments from the areas local amenities and various transport links. The property benefits from a bright reception room, a modern and contemporary bathroom, a fully equipped kitchen and a double bedroom with copious amounts of storage. Viewings are highly recommended.",
+  "hood": "Hoodmaps: Rich (Oval); nearby tags: \"many rich gays\", \"oval shaped head\", \"gaysgaysgay\".",
+  "date_found": "2026-10-23",
+  "features": "Charming one bedroom apartment; Excellent Location; Separate Reception room; Lots of storage ; Available mid December ",
+  "listed": "2026-10-23",
+  "lat": 51.47918,
+  "lng": -0.12303,
+  "agent": "Garrett Whitelock, London Bridge",
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚇 Northern"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "09 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,842"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94643526",
+  "title": "Rowland Hill House — 1-bed",
+  "area": "Rowland Hill House, Nelson Square, London, SE1",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-23",
+  "commute": "32 min · 🚇 Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94643526",
+  "source": "rightmove",
+  "photos": [
+   "photos/94643526_0.jpg",
+   "photos/94643526_1.jpg",
+   "photos/94643526_2.jpg",
+   "photos/94643526_3.jpg",
+   "photos/94643526_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Emoov, Chelmsford. Property Ref: L9249 We proudly present a spacious 1 bedroom flat with a private balcony located across the road from Southwark Station. This flat is available now, and is furnished as shown. Nestled within the vibrant borough of Southwark, the property offers a modern living experience with excellent connections and amenities. Ideally located, this property is within easy reach of Southwark Station (Jubilee Line) just 0.2 miles away, and Borough Station (Northern Line) at 0.4 miles, ensuring swift access to the city. Upon entering, you'll find a sleek, contemporary kitchen, boasting high-gloss white cabinetry and integrated appliances, including a dishwasher, oven, and a washing machine, complemented by under-cabinet lighting and a stainless steel backsplash. Adjacent, the bright living and dining area features tasteful finishes, abundant natural light from large windows, and elegant woo",
+  "hood": "Hoodmaps: Tourists (Cathedrals), also painted Rich; nearby tags: \"mainly railway arches\", \"I got head here\", \"Nice German pub\", \"Dont Visit LDN if you value your LIFE!\".",
+  "date_found": "2026-10-23",
+  "features": "Available Now; 1 minute to Southwark Station; Furnished; Private Balcony; Dishwasher; Excellent Finish",
+  "listed": "2026-10-23",
+  "lat": 51.503365,
+  "lng": -0.102749,
+  "agent": "Emoov, Chelmsford",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true,
+  "score": 75,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), sleek(+2), contemporary(+2), light(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Northern"
+   },
+   "hood": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "Tourists"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94487157",
+  "title": "Priestman Point — 2-bed",
+  "area": "Priestman Point, 2 Rainhill Way, Bow, London, E3",
+  "price": 2100,
+  "size": "64 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-21",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94487157",
+  "source": "rightmove",
+  "photos": [
+   "photos/94487157_0.jpg",
+   "photos/94487157_1.jpg",
+   "photos/94487157_2.jpg",
+   "photos/94487157_3.jpg",
+   "photos/94487157_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Keatons, Bow. A two double bedroom apartment offering open plan lounge/kitchen, modern bathroom and balcony with views across London. Moments from Bow Church DLR and Bow Road tube.",
+  "hood": "Hoodmaps: Rich (Bromley North), also painted Normies/Hipsters; nearby tags: \"Meal Deals and Weed Deals\", \"Small penis boy racers\", \"Pathetic boy racers\", \"Best PFC and Weed Deals\".",
+  "date_found": "2026-10-23",
+  "features": "Furnished; 24th Floor; Private Balcony; Near Tube/DLR/Bus Links; Near Local Shops; Open Plan Living",
+  "listed": "2026-10-19",
+  "lat": 51.525394,
+  "lng": -0.018767,
+  "agent": "Keatons, Bow",
+  "commute_min": 46,
+  "commute_mode": "🚇 District + Central + Metropolitan",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), balcony(+2)"
+   },
+   "size": {
+    "points": 14.4,
+    "max": 15,
+    "reason": "64 m²"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "46 min (TfL): 🚇 District + Central + Metropolitan — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "21 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 4
+ },
+ {
+  "id": "94644402",
+  "title": "High Road — 1-bed",
+  "area": "High Road, Wood Green, London, N22",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-23",
+  "commute": "44 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94644402",
+  "source": "rightmove",
+  "photos": [
+   "photos/94644402_0.jpg",
+   "photos/94644402_1.jpg",
+   "photos/94644402_2.jpg",
+   "photos/94644402_3.jpg",
+   "photos/94644402_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Mayfords Estate Agent, Southbank.  This well-presented one-bedroom ground floor apartment offers spacious and comfortable living in the heart of Wood Green, making it an ideal home for professionals or couples. The property comprises a generous double bedroom, a bright and well-proportioned reception room, and a modern fitted kitchen with dining space, complete with integrated appliances, including a washing machine. Benefiting from gas central heating throughout, the apartment has been thoughtfully laid out to maximise both space and practicality. A particular feature of the property is the private rear garden, providing an excellent outdoor space to relax or entertain, with direct access from the reception room. Ideally located on High Road, the property is within easy reach of an excellent selection of local shops, cafés, restaurants and everyday amenities. Both Wood Green Underground Station (Piccadilly Line) and Bow",
+  "hood": "Hoodmaps: Normies (Bounds Green), also painted Tourists; nearby tags: \"Pretty much Albania\".",
+  "date_found": "2026-10-23",
+  "features": "Ground floor flat; Large double bedroom; Good size rear garden; Gas central heating; Good size reception; Fully Fitted kitchen; Garden; Great Transport links; Close to wood green station; Kitchen-Diner",
+  "listed": "2026-10-23",
+  "lat": 51.606417,
+  "lng": -0.111653,
+  "agent": "Mayfords Estate Agent, Southbank",
+  "commute_min": 44,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true,
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), well-presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94645260",
+  "title": "Overstone Road — 1-bed",
+  "area": "Overstone Road, London, W6",
+  "price": 2000,
+  "size": "82 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-23",
+  "commute": "39 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94645260",
+  "source": "rightmove",
+  "photos": [
+   "photos/94645260_0.jpg",
+   "photos/94645260_1.jpg",
+   "photos/94645260_2.jpg",
+   "photos/94645260_3.jpg",
+   "photos/94645260_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Carter Jonas Lettings, Fulham. The property offers an impressive open plan reception, kitchen and dining space with high ceilings and floor to ceiling glazing, providing excellent natural light throughout. Double French doors lead directly onto a shared garden. The modern kitchen offers excellent storage and a range of integrated appliances including a dishwasher, washing machine, double oven and generous fridge and freezer space. There is a substantial double bedroom with ample space for a home office,. The property further benefits from a spacious marble bathroom, air conditioning, gas central heating and additional storage suitable for bicycles. Overstone Road is a quiet residential street conveniently positioned for the amenities of King Street, the River Thames and excellent transport links from Hammersmith. Available unfurnished. Holding deposit: 1 week's rent Security deposit: 5 weeks' rent Council tax: Band E",
+  "hood": "Hoodmaps: Rich (Hammersmith Broadway); nearby tags: \"Carlson Gracie BJJ\", \"Expensive Yogurt and Salmon\", \"Eddie and Richie lived here\", \"druggies\".",
+  "date_found": "2026-10-23",
+  "features": "Shared garden; Open plan living; Floor to ceiling windows; Exceptionally spacious bedroom; High ceilings; Air conditioning",
+  "listed": "2026-10-23",
+  "lat": 51.496325,
+  "lng": -0.228218,
+  "agent": "Carter Jonas Lettings, Fulham",
+  "commute_min": 39,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 76,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), light(+1), high ceilings(+2), high ceiling(+1)"
+   },
+   "size": {
+    "points": 15,
+    "max": 15,
+    "reason": "82 m²"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 11.0,
+    "max": 15,
+    "reason": "Rich; negative tags: drug"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94646358",
+  "title": "Ronalds Road — 1-bed",
+  "area": "Ronalds Road, London, N5",
+  "price": 1950,
+  "size": "44 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-16",
+  "commute": "29 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94646358",
+  "source": "rightmove",
+  "photos": [
+   "photos/94646358_0.jpg",
+   "photos/94646358_1.jpg",
+   "photos/94646358_2.jpg",
+   "photos/94646358_3.jpg",
+   "photos/94646358_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Hello Neighbour, London. Large 1 Bedroom Flat with private outside space. Located close to Highbury & Islington tube, this 1-bed garden flat is bright and spacious and has sole use of a private garden/outside space. Living room with sofa, dining table and chairs. Large double bedroom with plenty of wardrobe storage. Kitchen including dishwasher, washing machine and fridge freezer. Shower-room. Private garden. Secure, answerphone entrance. Located in a period Victorian building. Highbury & Islington, Drayton Park overground and Holloway Road tube stations are nearby. Offered fully furnished. 1 month's deposit and references required. Credit check will be undertaken. Rent excludes utility bills, broadband and Council tax ** This property is being marketed using our Landlord Direct service, where the landlord manages enquiries themselves. If you have a question about the property, simply use the enquiry button (e.g",
+  "hood": "Hoodmaps: Rich (Highbury East); nearby tags: \"Rich AF\", \"Fancy mansions \", \"Old money (pretending lefties)\".",
+  "date_found": "2026-10-23",
+  "features": "Bright &amp; spacious; Good decorative order; Modern kitchen; Fully fitted kitchen; Large living area; Desirable location; Close to local amenities; Close to transport links; To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min",
+  "listed": "2026-10-23",
+  "lat": 51.550003,
+  "lng": -0.107891,
+  "agent": "Hello Neighbour, London",
+  "commute_min": 29,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 79,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), period(+1), garden flat(+2), private garden(+1)"
+   },
+   "size": {
+    "points": 0.9,
+    "max": 15,
+    "reason": "44 m²"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "29 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "16 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94431291",
+  "title": "St. Pancras Way — 1-bed",
+  "area": "St. Pancras Way, Camden, NW1",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-10-23",
+  "commute": "21 min · 🚌 bus 29 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94431291",
+  "source": "rightmove",
+  "photos": [
+   "photos/94431291_0.jpg",
+   "photos/94431291_1.jpg",
+   "photos/94431291_2.jpg",
+   "photos/94431291_3.jpg",
+   "photos/94431291_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Olivers Town, Kentish Town - Lettings. A newly renovated, one bedroom apartment with a small home office in a prime location. Recently refurbished to an incredibly high standard. It consists of the solid wood flooring, modern fully fitted kitchen and bathroom. Situated in the heart of Camden. Offering a short walk to all transport links and shopping facilities of Camden Town, Mornington Crescent, Euston and Kings Cross. EPC: C. Council tax band C. Location Reception 1 Kitchen Bedroom 1 Bathroom Communal Garden ",
+  "hood": "Hoodmaps: Tourists (St. Pancras and Somers Town); nearby tags: \"watch dogs legion place\", \"post post post post post gentrification\", \"ur probably getting shanked\", \"too busy\".",
+  "date_found": "2026-10-23",
+  "features": "Bright One Bedrooom; Separate Home Office\n\n\n; Open Plan Kitchen/Reception; Modern Apartment \n; Walking distance King's Cross &amp; Camden Town; Communal Garden ",
+  "listed": "2026-10-17",
+  "lat": 51.541729,
+  "lng": -0.135187,
+  "agent": "Olivers Town, Kentish Town - Lettings",
+  "commute_min": 21,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true,
+  "score": 75,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), recently refurbished(+2), refurbished(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "21 min door-to-door (TfL): 🚌 bus 29"
+   },
+   "hood": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "Tourists"
+   },
+   "availability": {
+    "points": 7.8,
+    "max": 10,
+    "reason": "23 Oct: 9 days before Nov"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 6
+ },
+ {
+  "id": "94648236",
+  "title": "Worfield Street — 1-bed",
+  "area": "Worfield Street, Battersea, SW11",
+  "price": 1850,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-26",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94648236",
+  "source": "rightmove",
+  "photos": [
+   "photos/94648236_0.jpg",
+   "photos/94648236_1.jpg",
+   "photos/94648236_2.jpg",
+   "photos/94648236_3.jpg",
+   "photos/94648236_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Bairstow Eves Lettings, Battersea. ** Zero Deposit Guarantee Available ** A beautifully presented and spacious one double bedroom ground floor apartment ideally located on Worfield Street SW11 a few moments from Battersea Park, Battersea Power Station and the iconic Albert Bridge. This attractive property offers the perfect combination of modern living, outdoor space and exceptional connectivity, making it ideal for professionals and couples seeking a home in one of South West London's most desirable neighbourhoods. The accommodation comprises a generously sized double bedroom with excellent storage, a bright and spacious reception room filled with natural light, a modern fully fitted kitchen complete with a gas hob, dishwasher and ample cupboard space, and a contemporary bathroom with shower over bath. A standout feature is the private balcony overlooking beautifully maintained communal gardens, providing a peaceful retr",
+  "hood": "Hoodmaps: Rich (St. Mary's Park); nearby tags: \"Also Wannabe Chelsea\", \"Power Station\".",
+  "date_found": "2026-10-23",
+  "features": "Ground Floor Apartment; 1 Bedroom; 1 Bathroom; Available Now; Next to Battersea Park; Private Balcony; Communal Garden; Furnished",
+  "listed": "2026-10-23",
+  "lat": 51.47779,
+  "lng": -0.16629,
+  "agent": "Bairstow Eves Lettings, Battersea",
+  "commute_min": 53,
+  "commute_mode": "🚆 Southern + Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "53 min (TfL): 🚆 Southern + Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 8.5,
+    "max": 10,
+    "reason": "26 Oct: 6 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94649727",
+  "title": "Sheengate Mansions — 1-bed",
+  "area": "Sheengate Mansions, East Sheen, SW14",
+  "price": 1750,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-30",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94649727",
+  "source": "rightmove",
+  "photos": [
+   "photos/94649727_0.jpg",
+   "photos/94649727_1.jpg",
+   "photos/94649727_2.jpg",
+   "photos/94649727_3.jpg",
+   "photos/94649727_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] James Anderson, East Sheen - Lettings. A one double bedroom ground floor apartment situated in the heart of East Sheen with its array of local shops, restaurants and close to the parks and Mortlake Station (25mins to Waterloo). The apartment benefits from being recently renovated throughout and includes a modern fitted kitchen, decent sized living room, generous sized bathroom and good sized double bedroom. Communal gardens and bike storage also come with the property. ",
+  "hood": "Hoodmaps: Rich (East Sheen); nearby tags: \"Wannabe Putney\".",
+  "date_found": "2026-10-23",
+  "features": "One Bedroom; One Bathroom; Unfurnished; Modern Fitted Kitchen; EPC Rating C | Council Tax B; Mortlake Station approximately 0.4 miles; East Sheen Primary School; Recently Refurbished; Great Location; Holding Deposit £403.84 | Deposit £2019.23",
+  "listed": "2026-10-23",
+  "lat": 51.46479,
+  "lng": -0.26284,
+  "agent": "James Anderson, East Sheen - Lettings",
+  "commute_min": 57,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), recently refurbished(+2), refurbished(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "57 min (TfL): 🚆 South Western Railway + Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.5,
+    "max": 10,
+    "reason": "30 Oct: 2 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.5,
+    "max": 3,
+    "reason": "£1,750"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94649871",
+  "title": "Rymer Street — 1-bed",
+  "area": "Rymer Street, London, SE24",
+  "price": 1850,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-11",
+  "commute": "39 min · 🚆 Thameslink + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94649871",
+  "source": "rightmove",
+  "photos": [
+   "photos/94649871_0.jpg",
+   "photos/94649871_1.jpg",
+   "photos/94649871_2.jpg",
+   "photos/94649871_3.jpg",
+   "photos/94649871_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Kinleigh Folkard & Hayward - Lettings, East Dulwich. Located walking distance from Herne Hill station and the popular Brockwell Park is this modern one bedroom apartment. With multiple windows in the living room, you're not shy of natural light giving the proeprty a bright and airy feel. Additional Information Holding Deposit: £426.92 (1 week)* Tenancy Deposit: £2,134.61 (5 weeks)* Council Tax Band: C *The deposit amounts are approximate and will vary depending on the final rent agreed. *If Chinese is your preferred language. Please get in touch via WeChat ID: KFH1977 ",
+  "hood": "Hoodmaps: Rich (Herne Hill), also painted Hipsters; nearby tags: \"jerk chicken and gentrification\", \"Cosy Pubs\", \"Brockwell parkrun\", \"Locals\".",
+  "date_found": "2026-10-23",
+  "features": "One double bedroom; Unfurnished; Modern finish throughout; Brockwell Park near by; Close to Herne Hill Station; Available early November",
+  "listed": "2026-10-23",
+  "lat": 51.453221,
+  "lng": -0.1034,
+  "agent": "Kinleigh Folkard & Hayward - Lettings, East Dulwich",
+  "commute_min": 39,
+  "commute_mode": "🚆 Thameslink + Metropolitan",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚆 Thameslink + Metropolitan"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "11 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94649961",
+  "title": "Rymer Street — 1-bed",
+  "area": "Rymer Street, Herne Hill, London, SE24",
+  "price": 1750,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-24",
+  "commute": "39 min · 🚆 Thameslink + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94649961",
+  "source": "rightmove",
+  "photos": [
+   "photos/94649961_0.jpg",
+   "photos/94649961_1.jpg",
+   "photos/94649961_2.jpg",
+   "photos/94649961_3.jpg",
+   "photos/94649961_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Kinleigh Folkard & Hayward - Lettings, East Dulwich. A modern one-bedroom flat situated on Rymer Street, SE24, offering comfortable living in a convenient South London location. The property features a separate bedroom, open living and kitchin area and double bedroom, making it ideal for a single professional or a couple. Holding Deposit: £403.84 (1 week)* Tenancy Deposit: £2,019.23 (5 weeks)* Council Tax Band: C *The deposit amounts are approximate and will vary depending on the final rent agreed. *If Chinese is your preferred language. Please get in touch via WeChat ID: KFH1977 ",
+  "hood": "Hoodmaps: Rich (Herne Hill), also painted Hipsters; nearby tags: \"jerk chicken and gentrification\", \"Cosy Pubs\", \"Brockwell parkrun\", \"Locals\".",
+  "date_found": "2026-10-23",
+  "features": "One double bedroom; Modern finish throughout; Open plan kitchen living space; Unfurnished; Good transport links; Local amenities nearby; Available NOW",
+  "listed": "2026-10-23",
+  "lat": 51.45315,
+  "lng": -0.10381,
+  "agent": "Kinleigh Folkard & Hayward - Lettings, East Dulwich",
+  "commute_min": 39,
+  "commute_mode": "🚆 Thameslink + Metropolitan",
+  "commute_ok": true,
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚆 Thameslink + Metropolitan"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 8.0,
+    "max": 10,
+    "reason": "24 Oct: 8 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.5,
+    "max": 3,
+    "reason": "£1,750"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "94645140",
   "title": "Willesden Lane, London, NW2",
   "area": "Willesden Green, NW2",
@@ -16,7 +1172,58 @@
   "status": "viewing",
   "notes": "Masha found it herself and arranged a WhatsApp video viewing with Camerons Stiff & Co for 23 Oct ~12:00 London. Private parking, large windows.",
   "hood": "",
-  "date_found": "2026-10-23"
+  "date_found": "2026-10-23",
+  "score": 51,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 6.0,
+    "max": 15,
+    "reason": "50 m²"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "~25 min avg to NW1 3BF"
+   },
+   "hood": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "no Hoodmaps data"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 1.5,
+    "max": 3,
+    "reason": "£1,750"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "listed_reason": "Added today",
+  "listed": "2026-10-23",
+  "fresh_days": 0
  },
  {
   "id": "otm-20606634",
@@ -957,7 +2164,7 @@
   "lat": 51.494667,
   "lng": -0.225818,
   "agent": "Kinleigh Folkard & Hayward - Lettings, Hammersmith",
-  "score": 61,
+  "score": 69,
   "score_breakdown": {
    "style": {
     "points": 14.0,
@@ -1003,13 +2210,19 @@
     "points": 0,
     "max": 6,
     "reason": "no outdoor space mentioned"
+   },
+   "feedback": {
+    "points": 8,
+    "max": 8,
+    "reason": "👍 liked"
    }
   },
   "fresh_days": 1,
   "nbhd": "Grove · Hammersmith W6",
   "commute_min": 37,
   "commute_mode": "🚇 Circle",
-  "commute_ok": true
+  "commute_ok": true,
+  "rating": "like"
  },
  {
   "id": "otm-20584619",
@@ -1341,10 +2554,10 @@
   },
   "fresh_days": 1,
   "nbhd": "St James E17",
+  "note": "Агент показывает только вживую, онлайн не может, но обещал прислать видео (Маша, 23 окт).",
   "commute_min": 35,
   "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
-  "note": "Агент показывает только вживую, онлайн не может, но обещал прислать видео (Маша, 23 окт)."
+  "commute_ok": true
  },
  {
   "id": "94629810",
@@ -13899,7 +15112,7 @@
   "lat": 51.505907,
   "lng": -0.256671,
   "agent": "R Whitley in association with Chase Buchanan, West Drayton",
-  "score": 48,
+  "score": 56,
   "score_breakdown": {
    "style": {
     "points": 16.8,
@@ -13945,6 +15158,11 @@
     "points": 0,
     "max": 6,
     "reason": "no outdoor space mentioned"
+   },
+   "feedback": {
+    "points": 8,
+    "max": 8,
+    "reason": "👍 liked"
    }
   },
   "fresh_days": 4,
@@ -13952,7 +15170,8 @@
   "kept_reason": "enquired (Masha)",
   "commute_min": 56,
   "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
-  "commute_ok": false
+  "commute_ok": false,
+  "rating": "like"
  },
  {
   "id": "94466004",
