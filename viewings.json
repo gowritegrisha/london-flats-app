@@ -444,6 +444,24 @@
   "type": "video"
  },
  {
+  "id": "wa-94645140-20261023",
+  "listing_id": "94645140",
+  "title": "Willesden Lane, London, NW2",
+  "address": "Willesden Lane, London, NW2",
+  "datetime": "2026-10-23T12:05:00+01:00",
+  "agent": "Camerons Stiff & Co",
+  "agent_email": null,
+  "agent_phone": null,
+  "thread_id": null,
+  "status": "confirmed",
+  "source": "masha-whatsapp",
+  "type": "video",
+  "notes": "Masha arranged it on WhatsApp herself (approx. time, 'in half an hour' from 12:33 Madrid).",
+  "calendar_link": "https://www.google.com/calendar/event?eid=MGNpb2ZlMTUzMXBpbm9rb2cya3Q4cmYwNTggZ293cml0ZW1hc2hhQG0",
+  "updated": "2026-10-23T10:37:31+00:00",
+  "calendar_event_id": "0ciofe1531pinokog2kt8rf058"
+ },
+ {
   "id": "hold-94311600@2026-10-23T14:30",
   "listing_id": "94311600",
   "title": "Sussex Way — 1-bed",
