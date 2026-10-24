@@ -1,5 +1,87 @@
 [
  {
+  "id": "94691031",
+  "title": "Vellum Court — 1-bed",
+  "area": "Vellum Court, 2 Hillyfield, London, E17",
+  "price": 1625,
+  "size": "46 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-30",
+  "commute": "44 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94691031",
+  "source": "rightmove",
+  "photos": [
+   "photos/94691031_0.jpg",
+   "photos/94691031_1.jpg",
+   "photos/94691031_2.jpg",
+   "photos/94691031_3.jpg",
+   "photos/94691031_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Ellis & Co, Bethnal Green. Available from November 30th is this 1 bedroom flat located conveniently for the transport links of Blackhorse Road station. This light and airy property measures 496 sq. ft. and comprises contemporary open plan living space with fitted kitchen leading onto a balcony, double bedroom with built-in storage, tiled bathroom and benefits from an underground allocated parking space. The green space of Lloyds Park is within a 10 minute walk and the amenities, bars and restaurants of Walthamstow Central are 15-20 minutes away. ",
+  "hood": "Hoodmaps: Rich (Higham Hill), also painted Hipsters; nearby tags: \"Hipster cafe\", \"older hipsters with kids\", \"Blackhorse Road Beer Mile\", \"Very up and coming\".",
+  "date_found": "2026-10-24",
+  "features": "Deposit £1875; EPC Rating B; Council tax band B; Light and airy 1 bedroom apartment; Contemporary open-plan living space; Balcony; Underground parking spot; Located conveniently for the transport links of Blackhorse Road station.; Available from November 30th",
+  "listed": "2026-10-24",
+  "lat": 51.592437,
+  "lng": -0.036079,
+  "agent": "Ellis & Co, Bethnal Green",
+  "commute_min": 44,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: contemporary(+2), light(+1), open-plan(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 1.9,
+    "max": 15,
+    "reason": "46 m²"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "30 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 2.2,
+    "max": 3,
+    "reason": "£1,625"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20604855",
   "title": "15 Waterlow Road — 1-bed",
   "area": "15 Waterlow Road, London",
@@ -28,9 +110,6 @@
   "lat": 51.568561,
   "lng": -0.137726,
   "agent": "Mays Management - Stamford Hill",
-  "commute_min": 32,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -79,7 +158,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5
+  "fresh_days": 5,
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20611478",
@@ -110,9 +192,6 @@
   "lat": 51.46418,
   "lng": -0.1025,
   "agent": "Home Made - Southwark",
-  "commute_min": 43,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -161,7 +240,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20615593",
@@ -192,9 +274,6 @@
   "lat": 51.5145964,
   "lng": -0.06130559999999999,
   "agent": "Hawk & Eagle Property Consultants - London",
-  "commute_min": 37,
-  "commute_mode": "🚇 Hammersmith & City",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -243,7 +322,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 37,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true
  },
  {
   "id": "otm-20617558",
@@ -274,9 +356,6 @@
   "lat": 51.5967399,
   "lng": -0.25055,
   "agent": "Andrew Lloyd Estates - Tottenham",
-  "commute_min": 41,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -325,7 +404,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 41,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94568673",
@@ -356,9 +438,6 @@
   "lat": 51.61787,
   "lng": -0.10836,
   "agent": "Ariston Property, London",
-  "commute_min": 43,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -407,7 +486,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3
+  "fresh_days": 3,
+  "commute_min": 43,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94633119",
@@ -438,9 +520,6 @@
   "lat": 51.538639,
   "lng": -0.099405,
   "agent": "HAUZOO, London",
-  "commute_min": 33,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -489,7 +568,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 2
+  "fresh_days": 2,
+  "commute_min": 33,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94645005",
@@ -520,9 +602,6 @@
   "lat": 51.577872,
   "lng": -0.217849,
   "agent": "Dexters, Hendon",
-  "commute_min": 36,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -571,7 +650,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 36,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94681803",
@@ -602,9 +684,6 @@
   "lat": 51.484776,
   "lng": -0.219487,
   "agent": "OpenRent, London",
-  "commute_min": 49,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 61,
@@ -655,7 +734,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 49,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": false
  },
  {
   "id": "otm-20619551",
