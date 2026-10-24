@@ -1,5 +1,22 @@
 {
- "rules": [],
+ "rules": [
+  {
+   "id": "exclude_area:639a79",
+   "label": "не показывать Leyton",
+   "type": "exclude_area",
+   "from": null,
+   "date": "2026-10-24",
+   "text": "Masha after video viewing: location (Leyton, not Islington) doesn't suit; flat lovely; declined to Abby (Estates East)"
+  },
+  {
+   "id": "exclude_area:12987d",
+   "label": "не показывать Islington",
+   "type": "exclude_area",
+   "from": null,
+   "date": "2026-10-24",
+   "text": "Masha after video viewing: location (Leyton, not Islington) doesn't suit; flat lovely; declined to Abby (Estates East)"
+  }
+ ],
  "base": [
   "до £2,100 в месяц",
   "площадь от 42 м² (если указана)",
