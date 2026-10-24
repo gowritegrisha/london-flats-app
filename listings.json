@@ -1,5 +1,333 @@
 [
  {
+  "id": "94698237",
+  "title": "Francis Chichester Way — 2-bed",
+  "area": "Francis Chichester Way, London, SW11",
+  "price": 1700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-24",
+  "commute": "43 min · 🚆 Southern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94698237",
+  "source": "rightmove",
+  "photos": [
+   "photos/94698237_0.jpg",
+   "photos/94698237_1.jpg",
+   "photos/94698237_2.jpg",
+   "photos/94698237_3.jpg",
+   "photos/94698237_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3036694. A modern cosy small two bedroom apartment with a double and a single bedroom (only fits a single bed, single wardrobe and a desk) sitting room, kitchen, bathroom and corridor and wood flooring. Close to many amenities of Battersea park. The estate is well maintained with several facilities and safe. Summary & Exclusions: - Rent Amount: £1,700.00 per month (£392.31 per week) - Deposit / Bond: £1,961.53 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 24 October 2026 - Maximum number of tenants is 3 - Students welcome to enquire - No Smokers - Bills not included - Property has parking - Property has garden access - EPC Rating: C If calling, please quote reference: 3036694 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlord show you round! ** Request Details form responded to 2",
+  "hood": "Hoodmaps: Rich (Queenstown); nearby tags: \"Extremely rowdy Ethiopian Church \".",
+  "date_found": "2026-10-24",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3036694",
+  "listed": "2026-10-24",
+  "lat": 51.47294,
+  "lng": -0.15383,
+  "agent": "OpenRent, London",
+  "commute_min": 43,
+  "commute_mode": "🚆 Southern + Victoria",
+  "commute_ok": true,
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚆 Southern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 8.0,
+    "max": 10,
+    "reason": "24 Oct: 8 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94698057",
+  "title": "Carillon Court — 1-bed",
+  "area": "Carillon Court, 41 Greatorex Street, London, E1",
+  "price": 2100,
+  "size": "42 m²",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-10-26",
+  "commute": "36 min · 🚇 Hammersmith & City (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94698057",
+  "source": "rightmove",
+  "photos": [
+   "photos/94698057_0.jpg",
+   "photos/94698057_1.jpg",
+   "photos/94698057_2.jpg",
+   "photos/94698057_3.jpg",
+   "photos/94698057_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] JBrown International, London.  This modern and stylish one bedroom apartment is available to rent now. Situated in Carillon Court and offering an excellent combination of comfort, convenience and contemporary living in a highly sought-after location. The property comprises an open-plan kitchen, separate bedroom and contemporary bathroom. Ideally located in the heart of London and within walking distance of Liverpool Street, Aldgate East and Whitechapel stations. Residents can also enjoy easy access to some of London's most vibrant destinations, including Spitalfields Market, Brick Lane and Shoreditch. *Some of these photos may be digitally enhanced* ",
+  "hood": "Hoodmaps: Hipsters (Spitalfields & Banglatown), also painted Tourists; nearby tags: \"Brick-Lane Market (Sun)\", \"Hipsters\", \"Start up be appearing here\", \"Curry hustlers\".",
+  "date_found": "2026-10-24",
+  "features": "Close to public transport; Shops and amenities nearby",
+  "listed": "2026-10-24",
+  "lat": 51.519634,
+  "lng": -0.070053,
+  "agent": "JBrown International, London",
+  "commute_min": 36,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true,
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), open-plan(+1)"
+   },
+   "size": {
+    "points": 0,
+    "max": 15,
+    "reason": "42 m²"
+   },
+   "commute": {
+    "points": 16.2,
+    "max": 20,
+    "reason": "36 min door-to-door (TfL): 🚇 Hammersmith & City"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 8.5,
+    "max": 10,
+    "reason": "26 Oct: 6 days before Nov"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94698306",
+  "title": "Galton Court — 2-bed",
+  "area": "Galton Court, London, NW9",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-24",
+  "commute": "39 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94698306",
+  "source": "rightmove",
+  "photos": [
+   "photos/94698306_0.jpg",
+   "photos/94698306_1.jpg",
+   "photos/94698306_2.jpg",
+   "photos/94698306_3.jpg",
+   "photos/94698306_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3082167. Beautifully Refurbished 2-Bedroom Apartment – 3 Minutes from Colindale Station (Northern Line) A beautifully presented, newly refurbished two-bedroom apartment, ideally located just a 3-minute walk from Colindale Underground Station (Northern Line), offering excellent transport links into Central London. The apartment has undergone a complete refurbishment throughout, featuring a fresh, modern interior with high-quality finishes. Offered unfurnished, the property is ready for its new tenants to make it their home. Property features: Two well-proportioned bedrooms with fitted wardrobes Brand-new contemporary kitchen with integrated appliances, modern cabinetry and stylish worktops Newly refurbished bathroom featuring a spacious walk-in-style shower enclosure, elegant tiling and modern fittings Beautiful new oak flooring throughout the hallway and main living a",
+  "hood": "Hoodmaps: Normies (Colindale); no user tags within ~450 m.",
+  "date_found": "2026-10-24",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3082167",
+  "listed": "2026-10-24",
+  "lat": 51.595314,
+  "lng": -0.252037,
+  "agent": "OpenRent, London",
+  "commute_min": 39,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), newly refurbished(+3), refurbished(+2), contemporary(+2), fitted wardrobes(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 8.0,
+    "max": 10,
+    "reason": "24 Oct: 8 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94698813",
+  "title": "Fordwych Road — 1-bed",
+  "area": "Fordwych Road, London, NW2",
+  "price": 2097,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-31",
+  "commute": "37 min · 🚇 Jubilee + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94698813",
+  "source": "rightmove",
+  "photos": [
+   "photos/94698813_0.jpg",
+   "photos/94698813_1.jpg",
+   "photos/94698813_2.jpg",
+   "photos/94698813_3.jpg",
+   "photos/94698813_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3064814. This delightful, recently decorated, fully furnished 1 bedroom flat, with a study, in a great location, is available for a responsible person or couple to rent. The property benefits from high ceilings, constant hot water, central heating, and warm fires in the lounge and bedroom. The spacious lounge/dining room overlooks a mature garden, where foxes, squirrels and birds are regularly seen, and the unusual kitchen is equipped with all modern conveniences. The property is close to all amenities, including the bustling bakeries, coffee shops and restaurants of Mill Lane and West End Lane. Transport links are excellent with numerous bus stops just minutes away, and West Hampstead and Kilburn stations, with the 24 hour Jubilee Line, within easy walking distance. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! Summary 1",
+  "hood": "Hoodmaps: Normies (Fortune Green); nearby tags: \"dirty\", \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\".",
+  "date_found": "2026-10-24",
+  "features": "No Agent Fees; Property Reference Number: 3064814",
+  "listed": "2026-10-24",
+  "lat": 51.551083,
+  "lng": -0.205868,
+  "agent": "OpenRent, London",
+  "commute_min": 37,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), light(+1), high ceilings(+2), high ceiling(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
+   },
+   "hood": {
+    "points": 5.0,
+    "max": 15,
+    "reason": "Normies; negative tags: crack"
+   },
+   "availability": {
+    "points": 9.8,
+    "max": 10,
+    "reason": "31 Oct: 1 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,097"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20621239",
   "title": "94 Frobisher Road — 1-bed",
   "area": "94 Frobisher Road, London, N8",
@@ -28,9 +356,6 @@
   "lat": 51.58662,
   "lng": -0.10116,
   "agent": "Charles Henry Peppiatt - London",
-  "commute_min": 36,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -79,7 +404,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 36,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20621264",
@@ -110,9 +438,6 @@
   "lat": 51.481494,
   "lng": -0.034454,
   "agent": "OpenRent - UK",
-  "commute_min": 51,
-  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 63,
@@ -163,7 +488,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 51,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": false
  },
  {
   "id": "94696443",
@@ -194,9 +522,6 @@
   "lat": 51.550793,
   "lng": -0.204453,
   "agent": "OpenRent, London",
-  "commute_min": 39,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 70,
   "score_breakdown": {
    "style": {
@@ -245,7 +570,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 39,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94696575",
@@ -276,9 +604,6 @@
   "lat": 51.548773,
   "lng": -0.143608,
   "agent": "Olivers Town, Kentish Town - Lettings",
-  "commute_min": 24,
-  "commute_mode": "🚌 bus 134",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -327,7 +652,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 24,
+  "commute_mode": "🚌 bus 134",
+  "commute_ok": true
  },
  {
   "id": "94696932",
@@ -358,9 +686,6 @@
   "lat": 51.575598,
   "lng": -0.099122,
   "agent": "Network Agencies, Finsbury Park",
-  "commute_min": 34,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -409,7 +734,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94697256",
@@ -440,9 +768,6 @@
   "lat": 51.589801,
   "lng": -0.081639,
   "agent": "Cousins Estate Agents, South Tottenham",
-  "commute_min": 41,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -491,7 +816,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94697925",
@@ -522,9 +850,6 @@
   "lat": 51.51458,
   "lng": -0.06609,
   "agent": "Maplewood Property, London",
-  "commute_min": 34,
-  "commute_mode": "🚇 Hammersmith & City",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -573,7 +898,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true
  },
  {
   "id": "otm-20621078",
