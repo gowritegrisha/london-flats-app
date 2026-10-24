@@ -1,5 +1,663 @@
 [
  {
+  "id": "otm-20604855",
+  "title": "15 Waterlow Road — 1-bed",
+  "area": "15 Waterlow Road, London",
+  "price": 2000,
+  "size": "51 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "",
+  "commute": "32 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20604855/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20604855_0.jpg",
+   "photos/otm-20604855_1.jpg",
+   "photos/otm-20604855_2.jpg",
+   "photos/otm-20604855_3.jpg",
+   "photos/otm-20604855_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Mays Management - Stamford Hill. Situated on the ground floor of an attractive period property on Waterlow Road, this beautifully refurbished one-bedroom flat offers stylish and comfortable accommodation, complemented by a private rear garden, in a desirable residential location within easy reach of Archway Underground Station. Extending to approximately 548.96 sq. ft., the property has been newly refurbished throughout and features a spacious separate reception room, providing a bright and welcoming environment for relaxing and entertaining. The contemporary fitted kitchen is separately arranged and benefits from modern cabinetry, generous worktop space, and attractive patterned splashback tiling, creating a practical and well-presented cooking area. The property further comprises a generously sized double bedroom and a beautifully finished modern bathroom, featuring contemporary sanitaryware, a bathtub with overhead s",
+  "hood": "Hoodmaps: Rich (Junction); nearby tags: \"crackheads\", \"Irish bars\".",
+  "date_found": "2026-10-24",
+  "features": "Newly refurbished one-bedroom ground-floor flat; Attractive period property in a desirable residential location; Spacious and bright separate reception room; Generously proportioned double bedroom; Contemporary separate fitted kitchen with modern finishes; Beautifully finished bathroom with bathtub and overhead shower; Private rear garden offering valuable outdoor space; Double-glazed windows throughout and approximately 548.96 sq. ft. of accommodation; Council Tax Band D (Islington) and EPC Rating D (59); Approximately 8 minutes' walk to Archway Underground Station (Northern Line), with numerous local amenities nearby",
+  "listed": "2026-10-19",
+  "lat": 51.568561,
+  "lng": -0.137726,
+  "agent": "Mays Management - Stamford Hill",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 72,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), newly refurbished(+3), refurbished(+2), contemporary(+2), well-presented(+2), period(+1)"
+   },
+   "size": {
+    "points": 6.6,
+    "max": 15,
+    "reason": "51 m²"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 10.0,
+    "max": 15,
+    "reason": "Rich; negative tags: crack"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 5
+ },
+ {
+  "id": "otm-20611478",
+  "title": "Brixton Junction — 1-bed",
+  "area": "Brixton Junction, Brixton, SE24",
+  "price": 1760,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "43 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20611478/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20611478_0.jpg",
+   "photos/otm-20611478_1.jpg",
+   "photos/otm-20611478_2.jpg",
+   "photos/otm-20611478_3.jpg",
+   "photos/otm-20611478_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Home Made - Southwark. Brixton Junction Brixton, a stylishly restored 1940s period building, offers more than just a place to live. Residents will benefit from tech-savvy features such as seamless keyless check-in/access, resident app, and package tracking. Enjoy the energising communal spaces, a beautiful sycamore-shaded private terrace, a residents' lounge and a co-working space. - Fully Furnished Spaces - Residents App - Track Package Delivery - Residents Lounge Area - Transfer within the Global Network of Brixton Junction - Walking distance to Brixton Market, Herne Hill & Denmark Hill - Social Events - Seamless self-check-in Located just a 10-minute walk to Brixton Underground Station & just 3 minute walk to Loughborough Junction (City Thameslink Station). * The development features a number of different apartments, with a variety of layouts and aspects. The photos and the floor plan are for illustration p",
+  "hood": "Hoodmaps: Hipsters (Coldharbour), also painted Rich; nearby tags: \"Yummy Caribbean food \", \"welcome to brixton\".",
+  "date_found": "2026-10-24",
+  "features": "Residents Lounge Area; Built-in Storage and Ottoman Bed; Communal Gardens with BBQ; Parcel storage; Monthly Social Events; Dishwasher; Washer/ Dryer; On-site Management Team",
+  "listed": "2026-10-23",
+  "lat": 51.46418,
+  "lng": -0.1025,
+  "agent": "Home Made - Southwark",
+  "commute_min": 43,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: stylish(+3), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.4,
+    "max": 3,
+    "reason": "£1,760"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "otm-20615593",
+  "title": "Commercial Road — 1-bed",
+  "area": "Commercial Road, Tower Hamlets, E1 2JY",
+  "price": 1725,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "37 min · 🚇 Hammersmith & City (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20615593/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20615593_0.jpg",
+   "photos/otm-20615593_1.jpg",
+   "photos/otm-20615593_2.jpg",
+   "photos/otm-20615593_3.jpg",
+   "photos/otm-20615593_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Hawk & Eagle Property Consultants - London.  * Available Now * Hawk & Eagle Property Consultants are proud to present this spacious and well-presented 1-bedroom maisonette located in the sought-after E1 area. This bright and airy property is offered fully furnished and benefits from a generous open-plan lounge and kitchen area, creating a comfortable and modern living space. The fitted kitchen comes complete with a gas cooker and ample storage. The spacious bedroom is situated on the upper floor, providing added privacy and a unique layout. Further benefits include double glazing, gas cooking facilities, and plenty of natural light throughout the property. The flat is ideal for professionals or a couple seeking a comfortable home in a convenient location. Situated in a fantastic location, the property is within easy reach of local amenities, transport links, shops, restaurants, and all the attractions that East London has to offer",
+  "hood": "Hoodmaps: Tourists (Shadwell), also painted Hipsters; nearby tags: \"Banglatown\", \"Heavy drug dealing\", \"Better Curry \", \"Bangaltown\".",
+  "date_found": "2026-10-24",
+  "features": "Furnished; Open Plan Lounge",
+  "listed": "2026-10-23",
+  "lat": 51.5145964,
+  "lng": -0.06130559999999999,
+  "agent": "Hawk & Eagle Property Consultants - London",
+  "commute_min": 37,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), light(+1), open-plan(+1), well-presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Hammersmith & City"
+   },
+   "hood": {
+    "points": 7.0,
+    "max": 15,
+    "reason": "Tourists; negative tags: drug"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.7,
+    "max": 3,
+    "reason": "£1,725"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "otm-20617558",
+  "title": "2 Bedroom Flat – Aeroville — 2-bed",
+  "area": "2 Bedroom Flat – Aeroville, Colindale, London NW9",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-30",
+  "commute": "41 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20617558/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20617558_0.jpg",
+   "photos/otm-20617558_1.jpg",
+   "photos/otm-20617558_2.jpg",
+   "photos/otm-20617558_3.jpg",
+   "photos/otm-20617558_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Andrew Lloyd Estates - Tottenham. Welcome to this beautifully presented two bedroom flat, available to rent in the highly sought-after NW9 area. The property has been recently refurbished throughout, offering a fresh, modern finish and exceptional comfort from the moment you step inside. Boasting two generous double bedrooms, this flat provides ample space for sharers, couples wishing to enjoy extra room. The bright and airy living space is complemented by contemporary décor, while the well-appointed bathroom is both stylish and practical. The location is ideal, situated within the vibrant community of NW9. Residents benefit from a wealth of local amenities, with supermarkets, cafés, and restaurants just a short stroll away. For outdoor enthusiasts, the picturesque Fryent Country Park and the wide open spaces of Welsh Harp Reservoir are nearby, perfect for weekend walks or picnics. Excellent transport links connect you s",
+  "hood": "Hoodmaps: Normies (Colindale), also painted Rich; no user tags within ~450 m.",
+  "date_found": "2026-10-24",
+  "features": "",
+  "listed": "2026-10-23",
+  "lat": 51.5967399,
+  "lng": -0.25055,
+  "agent": "Andrew Lloyd Estates - Tottenham",
+  "commute_min": 41,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), recently refurbished(+2), refurbished(+2), contemporary(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 9.5,
+    "max": 10,
+    "reason": "30 Oct: 2 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "94568673",
+  "title": "Green Lanes — 2-bed",
+  "area": "Green Lanes, Palmers Green",
+  "price": 1600,
+  "size": "46 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-09",
+  "commute": "43 min · 🚆 Great Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94568673",
+  "source": "rightmove",
+  "photos": [
+   "photos/94568673_0.jpg",
+   "photos/94568673_1.jpg",
+   "photos/94568673_2.jpg",
+   "photos/94568673_3.jpg",
+   "photos/94568673_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Ariston Property, London. Situated on the vibrant Green Lanes, this well-presented two bedroom flat offers bright and comfortable accommodation in a highly convenient North London location. Surrounded by an excellent selection of independent cafés, restaurants, supermarkets and everyday amenities, the property is also within easy reach of Broomfield Park and benefits from excellent transport connections, including Palmers Green railway station with direct services into Central London, as well as numerous local bus routes. The accommodation comprises a spacious open plan living and kitchen area, creating an ideal space for both relaxing and entertaining. The modern fitted kitchen is equipped with a gas hob, oven, fridge freezer, dishwasher, washing machine and a generous range of storage cupboards. Both bedrooms are well-proportioned and benefit from plenty of natural light, making them suitable for professionals,",
+  "hood": "Hoodmaps: Rich (Palmers Green); no user tags within ~450 m.",
+  "date_found": "2026-10-24",
+  "features": "Flat - Unfurnished; Two bedroom flat; Spacious open plan kitchen/living room; Energy Rating : D; Council Tax Band C; Modern fitted kitchen with appliances; Ample kitchen storage cupboards; Two well-sized bedrooms; Bright and naturally lit accommodation; Available from 09th November 2026",
+  "listed": "2026-10-21",
+  "lat": 51.61787,
+  "lng": -0.10836,
+  "agent": "Ariston Property, London",
+  "commute_min": 43,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), light(+1), well-presented(+2)"
+   },
+   "size": {
+    "points": 1.9,
+    "max": 15,
+    "reason": "46 m²"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚆 Great Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "09 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,600"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 3
+ },
+ {
+  "id": "94633119",
+  "title": "1-5 Cross Street — 1-bed",
+  "area": "1-5 Cross Street, London, N1 2BJ",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-02",
+  "commute": "33 min · 🚆 Great Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94633119",
+  "source": "rightmove",
+  "photos": [
+   "photos/94633119_0.jpg",
+   "photos/94633119_1.jpg",
+   "photos/94633119_2.jpg",
+   "photos/94633119_3.jpg",
+   "photos/94633119_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] HAUZOO, London.  **All enquiries or viewing requests should be submitted online via this advert - Thank you ** Enjoy comfortable urban living in this delightful one-bedroom apartment, perfectly situated in the heart of Islington, on Cross Street, between Essex Road and Upper Street. This well-appointed home features a nicely sized reception room (currently used as a second bedroom) and a bright double bedroom. The separate kitchen provides a practical and efficient area for daily living. A modern bathroom completes this inviting property, with all rooms benefiting from tasteful décor throughout. Cross Street boasts an enviable location in Islington, Zone 2, with the plethora of independent and mainstream shops, cafes, restaurants and cinemas on your door step. There are excellent transport links. It is just a short walk to Essex Road overground and Angel underground stations (Northern Line). This ensure",
+  "hood": "Hoodmaps: Rich (St. Mary's); nearby tags: \" architecture studios\", \"Frenchies\", \"Corbynistas\", \"rich AF village vibe\".",
+  "date_found": "2026-10-24",
+  "features": "1 bedroom ground floor flat; Reception or 2nd bedroom; Separate kitchen; Modern bathroom; Communal garden; Gas central heating; Situated in central Islington; Near to Essex Road and Angel stations; Available on a furnished basis; Available 2nd December 2026",
+  "listed": "2026-10-22",
+  "lat": 51.538639,
+  "lng": -0.099405,
+  "agent": "HAUZOO, London",
+  "commute_min": 33,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true,
+  "score": 69,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.2,
+    "max": 20,
+    "reason": "33 min door-to-door (TfL): 🚆 Great Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "02 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 2
+ },
+ {
+  "id": "94645005",
+  "title": "Shirehall Lane — 2-bed",
+  "area": "Shirehall Lane, London",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "",
+  "commute": "36 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94645005",
+  "source": "rightmove",
+  "photos": [
+   "photos/94645005_0.jpg",
+   "photos/94645005_1.jpg",
+   "photos/94645005_2.jpg",
+   "photos/94645005_3.jpg",
+   "photos/94645005_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Dexters, Hendon. A newly redecorated ground floor two bedroom apartment in prime location with double bedrooms, spacious living room, modern bathroom/WC, separate kitchen, and well maintained communal gardens. Prime location and within walking distance to Brent Cross shopping centre, and all the local amenities in Hendon Central and Golders Green Security Deposit: £2,192 Council Tax Band: C ",
+  "hood": "Hoodmaps: Rich (West Hendon), also painted Normies; no user tags within ~450 m.",
+  "date_found": "2026-10-24",
+  "features": "Newly Redecorated; Spacious; Good Condition; Communal Gardens; Close to Local Amenities; Prime Residential Location",
+  "listed": "2026-10-23",
+  "lat": 51.577872,
+  "lng": -0.217849,
+  "agent": "Dexters, Hendon",
+  "commute_min": 36,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 16.2,
+    "max": 20,
+    "reason": "36 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "94681803",
+  "title": "Greyhound Road — 1-bed",
+  "area": "Greyhound Road, Fulham, W6",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-24",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94681803",
+  "source": "rightmove",
+  "photos": [
+   "photos/94681803_0.jpg",
+   "photos/94681803_1.jpg",
+   "photos/94681803_2.jpg",
+   "photos/94681803_3.jpg",
+   "photos/94681803_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3084229. This beautifully presented one double bedroom flat offers stylish and comfortable living in a fantastic location with private roof terrace. The property features a bright and spacious reception room with a modern kitchen, fully fitted with a washing machine, fridge/freezer, and air conditioning throughout. The contemporary bathroom is finished to a high standard and includes a bathtub. Ideally located just moments from an excellent selection of shops, cafés, bars, and restaurants, the flat is within a few minutes' walk of Hammersmith Underground Station, providing excellent transport links into Central London. Available Now! Rent: £1900.00 PCM Summary & Exclusions: - Rent Amount: £1,900.00 per month (£438.46 per week) - Deposit / Bond: £2,192.30 - 1 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 23 October 2026 - Maximum number ",
+  "hood": "Hoodmaps: Rich (Fulham Reach); nearby tags: \"nice neighbourhood but noisy sirens\", \"The Verve Lucky Man video\", \"best matcha\".",
+  "date_found": "2026-10-24",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3084229",
+  "listed": "2026-10-23",
+  "lat": 51.484776,
+  "lng": -0.219487,
+  "agent": "OpenRent, London",
+  "commute_min": 49,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), contemporary(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "49 min (TfL): 🚇 District + Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 8.0,
+    "max": 10,
+    "reason": "24 Oct: 8 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
   "id": "otm-20619551",
   "title": "Carson Road — 1-bed",
   "area": "Carson Road, London SE21",
@@ -28,9 +686,6 @@
   "lat": 51.439941,
   "lng": -0.094889,
   "agent": "Hindwoods - Greenwich",
-  "commute_min": 45,
-  "commute_mode": "🚆 Southeastern + Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -79,7 +734,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 45,
+  "commute_mode": "🚆 Southeastern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20619552",
@@ -110,9 +768,6 @@
   "lat": 51.547678,
   "lng": 0.003837,
   "agent": "Arlington Estates - Islington",
-  "commute_min": 41,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -161,7 +816,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 41,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "otm-17560958",
@@ -192,9 +850,6 @@
   "lat": 51.534326,
   "lng": -0.140433,
   "agent": "Chestertons - Camden",
-  "commute_min": 13,
-  "commute_mode": "🚌 bus 27",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -243,7 +898,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 13,
+  "commute_mode": "🚌 bus 27",
+  "commute_ok": true
  },
  {
   "id": "otm-20619822",
@@ -274,9 +932,6 @@
   "lat": 51.436997,
   "lng": -0.161352,
   "agent": "Chestertons - Wandsworth Common & Earlsfield Lettings",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -325,7 +980,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 40,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94683210",
@@ -356,9 +1014,6 @@
   "lat": 51.46778,
   "lng": -0.075977,
   "agent": "OpenRent, London",
-  "commute_min": 51,
-  "commute_mode": "🚆 Southeastern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -409,7 +1064,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 51,
+  "commute_mode": "🚆 Southeastern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "otm-20614501",
@@ -22790,10 +23448,10 @@
   },
   "nbhd": "Woodside · Wood Green N22",
   "fresh_days": 8,
+  "stale": true,
   "commute_min": 40,
   "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "fx-4646196",
@@ -22874,10 +23532,10 @@
   },
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "fresh_days": 8,
+  "stale": true,
   "commute_min": 45,
   "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "fx-5248284",
