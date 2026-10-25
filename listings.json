@@ -28,9 +28,6 @@
   "lat": 51.486939,
   "lng": -0.092989,
   "agent": "OpenRent - UK",
-  "commute_min": 42,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 42,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "otm-20622696",
@@ -110,9 +110,6 @@
   "lat": 51.488567,
   "lng": -0.019774,
   "agent": "OpenRent - UK",
-  "commute_min": 54,
-  "commute_mode": "🚈 DLR + Elizabeth line + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 60,
@@ -163,7 +160,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 54,
+  "commute_mode": "🚈 DLR + Elizabeth line + Northern",
+  "commute_ok": false
  },
  {
   "id": "otm-20622556",
