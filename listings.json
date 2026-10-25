@@ -1,5 +1,87 @@
 [
  {
+  "id": "94711542",
+  "title": "Page Green Terrace — 1-bed",
+  "area": "Page Green Terrace, London, N15",
+  "price": 1550,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-02",
+  "commute": "29 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94711542",
+  "source": "rightmove",
+  "photos": [
+   "photos/94711542_0.jpg",
+   "photos/94711542_1.jpg",
+   "photos/94711542_2.jpg",
+   "photos/94711542_3.jpg",
+   "photos/94711542_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 2941011. ** Open day on Sunday 1st November. Viewings by appointment only** A bright, quiet and modern 1 bedroom flat on the upper ground floor of a converted Edwardian building, moments from Seven Sisters, Victoria Line and Weaver Line stations. Property benefits from large windows, high ceilings, separate kitchen, access to a shared garden and private off-street parking. The property is less than 1 minute walk from Seven Sisters (Victoria Line 24 hour) and South Tottenham Station (Overground) with fast connections into Kings Cross, Oxford Circus etc It is also a 2-minute walk from Sainsbury’s, Tesco, Costa Coffee, a large retail park, and the charming local stores of Seven Sisters High Road and West Green Road. Summary & Exclusions: - Rent Amount: £1,550.00 per month (£357.69 per week) - Deposit / Bond: £1,788.46 - 1 Bedrooms - 1 Bathrooms - Property comes unfurnish",
+  "hood": "Hoodmaps: Crime (Tottenham Green), also painted Normies; nearby tags: \"Turkish Haven and Cat lovers\", \"London’s best chicken shop\", \"delicious cakes in industrial park\", \"Little Colombia\".",
+  "date_found": "2026-10-25",
+  "features": "No Agent Fees; Property Reference Number: 2941011",
+  "listed": "2026-10-25",
+  "lat": 51.58242,
+  "lng": -0.071609,
+  "agent": "OpenRent, London",
+  "commute_min": 29,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 76,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), high ceilings(+2), high ceiling(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "29 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 2.0,
+    "max": 15,
+    "reason": "Crime"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "02 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 2.7,
+    "max": 3,
+    "reason": "£1,550"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, terrace"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20622651",
   "title": "Bridport — 1-bed",
   "area": "Bridport, London, SE17",
