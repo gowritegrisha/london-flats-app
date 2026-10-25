@@ -1,5 +1,87 @@
 [
  {
+  "id": "otm-20622556",
+  "title": "Scala Street — 1-bed",
+  "area": "Scala Street, Fitzrovia, London",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-07",
+  "commute": "9 min · 🚌 bus 24 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20622556/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20622556_0.jpg",
+   "photos/otm-20622556_1.jpg",
+   "photos/otm-20622556_2.jpg",
+   "photos/otm-20622556_3.jpg",
+   "photos/otm-20622556_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Avrasons - Kennington. A modern 2nd floor 1 double bedroom apartment in a fantastic location on Scala Street minutes from Goodge Street underground station, Regent Street and Tottenham Court Road. VIDEO TOUR AVAILABLE This lovely apartment was recently renovated to an extremely high standard throughout and consists of a Double bedroom with built in storage, large open plan kitchen/living room with all modern appliances, and a modern bathroom suite with bath and overhead shower. Offered furnished and available 7th November Council Tax - Camden Band C Holding Deposit: 1 Weeks Rent Damage Deposit: 5 Weeks Rent Bathroom - 0.0 - Bedroom - 0.0 - Front - 0.0 - Kitchen - 0.0 - Living Room - 0.0 - Sitting Room - 0.0 - ",
+  "hood": "Hoodmaps: Rich (Bloomsbury), also painted Students; nearby tags: \"Disease Outbreak starts here\", \"Furniture shops you can't afford\", \"New Facebook office\", \"Good Espresso To Go!!!\".",
+  "date_found": "2026-10-25",
+  "features": "One double bedroom; Open plan kitchen/Living room; Modern bathroom suite; Fully fitted modern kitchen; Available 7th November; 2nd Floor period conversion; Minutes from Goodge street underground; Minutes from Tottenham Court Road; Minutes from Regent Street; Available 11th June",
+  "listed": "2026-10-25",
+  "lat": 51.520084,
+  "lng": -0.135283,
+  "agent": "Avrasons - Kennington",
+  "commute_min": 9,
+  "commute_mode": "🚌 bus 24",
+  "commute_ok": true,
+  "score": 72,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), conversion(+1), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "9 min door-to-door (TfL): 🚌 bus 24"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "07 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20621715",
   "title": "Bamborough Gardens — 1-bed",
   "area": "Bamborough Gardens, London W12",
@@ -24,9 +106,6 @@
   "lat": 51.502525,
   "lng": -0.224222,
   "agent": "Sab Estate Agent - Ealing Common",
-  "commute_min": 37,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 70,
   "score_breakdown": {
    "style": {
@@ -75,7 +154,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 37,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94572294",
@@ -106,9 +188,6 @@
   "lat": 51.57467,
   "lng": -0.09442,
   "agent": "Peter Michael Estates & Lettings, London",
-  "commute_min": 34,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -157,7 +236,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4
+  "fresh_days": 4,
+  "commute_min": 34,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94708854",
@@ -188,9 +270,6 @@
   "lat": 51.586235,
   "lng": -0.074397,
   "agent": "OpenRent, London",
-  "commute_min": 31,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -239,7 +318,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 31,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20374417",
