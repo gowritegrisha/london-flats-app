@@ -1,5 +1,247 @@
 [
  {
+  "id": "otm-20621715",
+  "title": "Bamborough Gardens — 1-bed",
+  "area": "Bamborough Gardens, London W12",
+  "price": 1500,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "2026-11-10",
+  "commute": "37 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20621715/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20621715_0.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Sab Estate Agent - Ealing Common.  Second-Floor Flat | Open-Plan Living | Next to Westfield London Overview: A one-bedroom first-floor flat located in Bamborough Gardens, W12, featuring an open-plan kitchen and living area. Property Details: The flat comprises a bedroom, a bathroom and an open-plan kitchen and living area, creating a practical and well-connected living space. Its second-floor position provides convenient access, while the location places a wide range of shopping, dining and leisure facilities within easy reach. Westfield London is located nearby, offering an extensive selection of high-street and designer shops, restaurants, cafés, supermarkets, a cinema and leisure facilities. Additional local shops and everyday amenities are available throughout Shepherd's Bush and White City. Transport: The property benefits from excellent transport connections, with Shepherd's Bush Underground Station providing acces",
+  "hood": "Hoodmaps: Rich (Addison); nearby tags: \"Druggies\", \"desperate man and gyal do laps here\", \"Cess pit\", \"needles\".",
+  "date_found": "2026-10-25",
+  "features": "",
+  "listed": "2026-10-24",
+  "lat": 51.502525,
+  "lng": -0.224222,
+  "agent": "Sab Estate Agent - Ealing Common",
+  "commute_min": 37,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 70,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: open-plan(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 11.0,
+    "max": 15,
+    "reason": "Rich; negative tags: drug"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "10 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 3,
+    "max": 3,
+    "reason": "£1,500"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 1
+ },
+ {
+  "id": "94572294",
+  "title": "Vale Road — 1-bed",
+  "area": "Vale Road, Finsbury Park",
+  "price": 2100,
+  "size": "55 m²",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "2026-11-09",
+  "commute": "34 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94572294",
+  "source": "rightmove",
+  "photos": [
+   "photos/94572294_0.jpg",
+   "photos/94572294_1.jpg",
+   "photos/94572294_2.jpg",
+   "photos/94572294_3.jpg",
+   "photos/94572294_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Peter Michael Estates & Lettings, London. **Vale Road, Finsbury Park, London N4** A well-presented one bedroom flat located on the popular Vale Road in the heart of Finsbury Park. Offered **part furnished**, the property comprises a bright and spacious **reception room**, a good-sized **double bedroom**, a **separate kitchen/diner**, and a **modern bathroom** with **shower**, along with the added convenience of a **separate WC**. Further benefits include a **washing machine** and **gas central heating** throughout. The property is ideally suited to a professional single occupant or couple seeking a comfortable home in a well-connected North London location, allowing direct access to all local shops and transport facilities. Situated within easy reach of excellent local amenities, green open spaces, and transport connections, the flat is well placed for access across London. Nearby transport links include **Finsbury Park Station*",
+  "hood": "Hoodmaps: Hipsters (Seven Sisters), also painted Rich; nearby tags: \"Gentrifying Yuppies\", \"Feels like the longest road in London\", \"Take me out to the ball game\", \"Warehouse Community\".",
+  "date_found": "2026-10-25",
+  "features": "Flat - Part Furnished; 1 Bed + 1 Reception; 1 Bathroom; Shower; Council Tax Band C; No special accessibility; No Parking; Separate WC; Washing Machine; Gas Central Heating",
+  "listed": "2026-10-21",
+  "lat": 51.57467,
+  "lng": -0.09442,
+  "agent": "Peter Michael Estates & Lettings, London",
+  "commute_min": 34,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true,
+  "score": 72,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), well-presented(+2)"
+   },
+   "size": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "55 m²"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "09 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 4
+ },
+ {
+  "id": "94708854",
+  "title": "Portland Road — 1-bed",
+  "area": "Portland Road, London, N15",
+  "price": 1600,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-25",
+  "commute": "31 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94708854",
+  "source": "rightmove",
+  "photos": [
+   "photos/94708854_0.jpg",
+   "photos/94708854_1.jpg",
+   "photos/94708854_2.jpg",
+   "photos/94708854_3.jpg",
+   "photos/94708854_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3086862. We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location. Available to move in from 25 October 2026, this property benefits from available parking, and garden access. Property is offered furnished. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! Summary Rent £1,600.00 per month (£369.23 per week) Deposit / Bond is £1,600.00 Maximum number of tenants is 2 Summary & Exclusions: - Rent Amount: £1,600.00 per month (£369.23 per week) - Deposit / Bond: £1,600.00 - 1 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 25 October 2026 - Maximum number of tenants is 2 - Students welcome to enquire - No Smokers - Bills not included - Property has parking - Property has garden access - EPC Rating: D If calling, please quote reference: 3086862 Fees: You will not be charged ",
+  "hood": "Hoodmaps: Crime (Tottenham Green), also painted Normies/Hipsters; nearby tags: \"London’s unhealthiest street\", \"London’s best chicken shop\", \"bandokay's mum\", \"Little Colombia\".",
+  "date_found": "2026-10-25",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3086862",
+  "listed": "2026-10-25",
+  "lat": 51.586235,
+  "lng": -0.074397,
+  "agent": "OpenRent, London",
+  "commute_min": 31,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 19.4,
+    "max": 20,
+    "reason": "31 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 2.0,
+    "max": 15,
+    "reason": "Crime"
+   },
+   "availability": {
+    "points": 8.2,
+    "max": 10,
+    "reason": "25 Oct: 7 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,600"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20374417",
   "title": "Hannibal Road — 1-bed",
   "area": "Hannibal Road, London, E1",
@@ -28,9 +270,6 @@
   "lat": 51.519752,
   "lng": -0.049167,
   "agent": "OpenRent - UK",
-  "commute_min": 40,
-  "commute_mode": "🚇 Hammersmith & City",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -79,7 +318,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 40,
+  "commute_mode": "🚇 Hammersmith & City",
+  "commute_ok": true
  },
  {
   "id": "otm-20622191",
@@ -109,9 +351,6 @@
   "lat": 51.524043,
   "lng": -0.066614,
   "agent": "Next Location - Stoke Newington",
-  "commute_min": 40,
-  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -160,7 +399,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 40,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94474527",
@@ -191,9 +433,6 @@
   "lat": 51.544342,
   "lng": -0.076754,
   "agent": "Maxwells Estates, Islington",
-  "commute_min": 34,
-  "commute_mode": "🚆 Windrush + Victoria",
-  "commute_ok": true,
   "score": 73,
   "score_breakdown": {
    "style": {
@@ -242,7 +481,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6
+  "fresh_days": 6,
+  "commute_min": 34,
+  "commute_mode": "🚆 Windrush + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94703451",
@@ -273,9 +515,6 @@
   "lat": 51.589386,
   "lng": -0.115334,
   "agent": "OpenRent, London",
-  "commute_min": 41,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 77,
   "score_breakdown": {
    "style": {
@@ -324,7 +563,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 41,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94698237",
