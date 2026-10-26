@@ -1,5 +1,169 @@
 [
  {
+  "id": "94718058",
+  "title": "Minster Road — 2-bed",
+  "area": "Minster Road, Kilburn, NW2",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-11-19",
+  "commute": "39 min · 🚇 Jubilee + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94718058",
+  "source": "rightmove",
+  "photos": [
+   "photos/94718058_0.jpg",
+   "photos/94718058_1.jpg",
+   "photos/94718058_2.jpg",
+   "photos/94718058_3.jpg",
+   "photos/94718058_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Peter Martin, NW11. Due to be redecorated throughout and new carpets in the bedrooms is this large, bright and modern two bedroom first floor period conversion. The apartment has a very large reception with wood floors. Separate kitchen with all appliances. Two double bedrooms (one with fitted wardrobe). Tiled bathroom. Excellent storage in the hallway. Excellently located close to the amenities of West Hampstead and Kilburn.",
+  "hood": "Hoodmaps: Normies (Fortune Green); nearby tags: \"dirty\", \"crackheads fighting with golf clubs\", \"King of the world lives here\", \"Lily was here ;)\".",
+  "date_found": "2026-10-26",
+  "features": "Two Double Bedroom Apartment; Due To Be Redecorated Throughout; New Carpets In Bedrooms; Large Reception; Wood Floors; Separated Fully Fitted Kitchen; Tiled Bathroom; Excellent Location",
+  "listed": "2026-10-26",
+  "lat": 51.551984,
+  "lng": -0.206627,
+  "agent": "Peter Martin, NW11",
+  "commute_min": 39,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 20.9,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), wood floors(+1), conversion(+1), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
+   },
+   "hood": {
+    "points": 5.0,
+    "max": 15,
+    "reason": "Normies; negative tags: crack"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "19 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94716933",
+  "title": "Cartwright Street — 1-bed",
+  "area": "Cartwright Street, London, E1",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-10",
+  "commute": "37 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94716933",
+  "source": "rightmove",
+  "photos": [
+   "photos/94716933_0.jpg",
+   "photos/94716933_1.jpg",
+   "photos/94716933_2.jpg",
+   "photos/94716933_3.jpg",
+   "photos/94716933_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] PropertyLoop, London. Property Reference Number: 100053. Experience elevated living in the heart of London with this sophisticated luxury apartment, ideally located on Cartwright Street. Set on the fourth floor, this modern apartment features an exquisite open plan reception/kitchen area that promises both comfort and style. The apartment includes a spacious bedroom, complemented by a well-appointed bathroom that speaks to both function and form. Designed for modern living, this home is a sanctuary of tranquility in one of the world's most vibrant cities. Offering ample natural light, contemporary finishes, and a peaceful ambiance, this property ensures a luxurious urban living experience. Getting Around: Nestled in Tower Hamlets, this apartment offers unparalleled access to the city. Well-connected by public transport, the Tower Hill Underground Station is just minutes away, providing swift travel around Lon",
+  "hood": "Hoodmaps: Hipsters (Whitechapel), also painted Suits/Tourists; nearby tags: \"Tourists in the way taking selfies\", \"Yachts\", \"bare history\", \"Lovely swans\".",
+  "date_found": "2026-10-26",
+  "features": "Property Ref No: 100053; Modern 1-Bed Apartment; Located in Tower Hamlets; Fourth Floor Position; Open Plan Kitchen/Reception; Prime London Location; Close to Transport Links; Communal Roof",
+  "listed": "2026-10-26",
+  "lat": 51.5089,
+  "lng": -0.07037,
+  "agent": "PropertyLoop, London",
+  "commute_min": 37,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 69,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), contemporary(+2), light(+1), luxury(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "10 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "94713339",
   "title": "Acton House — 2-bed",
   "area": "Acton House, London, W3",
@@ -28,9 +192,6 @@
   "lat": 51.516674,
   "lng": -0.267341,
   "agent": "OpenRent, London",
-  "commute_min": 33,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 74,
   "score_breakdown": {
    "style": {
@@ -79,7 +240,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "North Acton W3",
+  "commute_min": 33,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94656114",
@@ -110,9 +275,6 @@
   "lat": 51.52534,
   "lng": -0.01197,
   "agent": "OpenRent, London",
-  "commute_min": 40,
-  "commute_mode": "🚇 District + Central + Metropolitan",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -161,7 +323,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 3
+  "fresh_days": 3,
+  "nbhd": "Bromley North · Bow E3",
+  "commute_min": 40,
+  "commute_mode": "🚇 District + Central + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94712703",
@@ -190,9 +356,6 @@
   "lat": 51.585987,
   "lng": -0.113406,
   "agent": "OpenRent, London",
-  "commute_min": 35,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -241,7 +404,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Hornsey · Hornsey/Crouch End N8",
+  "commute_min": 35,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94712727",
@@ -272,9 +439,6 @@
   "lat": 51.52238,
   "lng": -0.057846,
   "agent": "OpenRent, London",
-  "commute_min": 36,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -323,7 +487,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Bethnal Green West · Whitechapel E1",
+  "commute_min": 36,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "otm-20623137",
