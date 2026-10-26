@@ -631,23 +631,6 @@
   "type": null
  },
  {
-  "id": "hold-fx-chpk3683153@2026-10-26T15:00",
-  "listing_id": "fx-chpk3683153",
-  "title": "Merchant Street, Bow, E3 4PS — 1-bed",
-  "address": "Merchant Street, Bow, London E3 4PS",
-  "datetime": "2026-10-26T15:00:00+00:00",
-  "agent": "Foxtons (Dershan Morris)",
-  "agent_email": "Dershan.Morris@foxtons.co.uk",
-  "agent_phone": "020 7659 8910",
-  "thread_id": "1a1586d89ed72e6f",
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": null,
-  "calendar_link": null,
-  "notes": "(?) предварительно — агент не подтвердил. Masha proposed Fri 23 16:30 or Mon 26 15:00 London to Dershan (Foxtons Bow), 20 Oct"
- },
- {
   "id": "hold-otm-20614501@2026-10-27T13:10",
   "listing_id": "otm-20614501",
   "title": "Old Brompton Road — 1-bed",
