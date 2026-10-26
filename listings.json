@@ -1,5 +1,169 @@
 [
  {
+  "id": "otm-13109189",
+  "title": "Wood Close — 1-bed",
+  "area": "Wood Close, E1",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-11",
+  "commute": "40 min · 🚆 Windrush + Elizabeth line + Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/13109189/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-13109189_0.jpg",
+   "photos/otm-13109189_1.jpg",
+   "photos/otm-13109189_2.jpg",
+   "photos/otm-13109189_3.jpg",
+   "photos/otm-13109189_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] View Lettings - London Bridge. One double bedroom apartment situated within a small private block, on a very quiet residential Street located within minutes of Brick Lane and Shoreditch. The apartment has been finished to a good modern standard with modern neutral decor throughout, modern fitted kitchen and good natural light. The apartment is situated on the top floor and although it's a very quiet, the location means you can be in the hustle and bustle of Brick Lane in a few minutes where you can find many trendy bars, clubs and restaurants. The apartment is well located for the City which can be accessed by foot or push bike and boasts excellent transport links into the City and Central London. EPC rating: D Council Tax Band: C 5 weeks deposit £2750 Council Tax Band: C",
+  "hood": "Hoodmaps: Hipsters (Weavers), also painted Tourists; nearby tags: \"Best bagels in town\", \"ooh look at me, I've got a beard...\", \"gentrification lol\", \"secret joint garden\".",
+  "date_found": "2026-10-26",
+  "features": "Good transport links; Quiet residential street; Short walk from Brick Lane and Shoreditch; Spacious living area; Furnished",
+  "listed": "2026-10-26",
+  "lat": 51.524494,
+  "lng": -0.066682,
+  "agent": "View Lettings - London Bridge",
+  "commute_min": 40,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": true,
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: modern(+3), light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.0,
+    "max": 20,
+    "reason": "40 min door-to-door (TfL): 🚆 Windrush + Elizabeth line + Northern"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "11 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94754727",
+  "title": "Quex Road — 1-bed",
+  "area": "Quex Road, Kilburn NW6",
+  "price": 1798,
+  "size": "57 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-12-08",
+  "commute": "34 min · 🚆 Lioness (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94754727",
+  "source": "rightmove",
+  "photos": [
+   "photos/94754727_0.jpg",
+   "photos/94754727_1.jpg",
+   "photos/94754727_2.jpg",
+   "photos/94754727_3.jpg",
+   "photos/94754727_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Cedar Estates, West Hampstead. A well-presented one-bedroom property located on sought-after Quex Road, Kilburn, offering stylish and practical living in a prime North West London location. This modern home comprises one spacious double bedroom, one bright reception room and a modern bathroom with shower. The property benefits from wood flooring throughout, double glazing, central heating and a washing machine, making it an ideal choice for comfortable everyday living. Perfectly positioned close to excellent transport links, the property is within easy reach of Kilburn High Road Overground, Brondesbury Overground and Kilburn Park Underground station (Bakerloo line), providing quick and convenient access across London. Additional features include Council Tax Band C. This property is ideal for a professional tenant or couple seeking a well-located home with superb transport connections. Please note, no vehicle parking i",
+  "hood": "Hoodmaps: Rich (Kilburn); no user tags within ~450 m.",
+  "date_found": "2026-10-26",
+  "features": "P.Built - Unfurnished; 1 Bed + 1 Reception; 1 Bathroom; Shower; Close to transport links; Council Tax Band C; Double Glazed; No Parking; Wood Flooring; Washing Machine",
+  "listed": "2026-10-26",
+  "lat": 51.53966,
+  "lng": -0.19524,
+  "agent": "Cedar Estates, West Hampstead",
+  "commute_min": 34,
+  "commute_mode": "🚆 Lioness",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), well-presented(+2)"
+   },
+   "size": {
+    "points": 10.2,
+    "max": 15,
+    "reason": "57 m²"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚆 Lioness"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "08 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,798"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "or-3088262",
   "title": "1 Bed Flat — 1-bed",
   "area": "1 Bed Flat, Holloway Road, N19",
@@ -28,9 +192,6 @@
   "lat": 51.56356,
   "lng": -0.1287925,
   "agent": "OpenRent (private landlord)",
-  "commute_min": 31,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -79,7 +240,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 31,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20422377",
@@ -110,9 +274,6 @@
   "lat": 51.460908,
   "lng": -0.105374,
   "agent": "OpenRent - UK",
-  "commute_min": 41,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -161,7 +322,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-3174652",
@@ -192,9 +356,6 @@
   "lat": 51.52409,
   "lng": -0.11089,
   "agent": "Winkworth - Clerkenwell",
-  "commute_min": 25,
-  "commute_mode": "🚌 bus 38 + bus 24",
-  "commute_ok": true,
   "score": 75,
   "score_breakdown": {
    "style": {
@@ -243,7 +404,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 25,
+  "commute_mode": "🚌 bus 38 + bus 24",
+  "commute_ok": true
  },
  {
   "id": "otm-20630030",
@@ -274,9 +438,6 @@
   "lat": 51.550652,
   "lng": -0.240882,
   "agent": "A To Z Property Services - Willesden",
-  "commute_min": 37,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -325,7 +486,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 37,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94623081",
@@ -356,9 +520,6 @@
   "lat": 51.55177,
   "lng": -0.095942,
   "agent": "Nova Realty, London",
-  "commute_min": 34,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 73,
   "score_breakdown": {
    "style": {
@@ -407,7 +568,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4
+  "fresh_days": 4,
+  "commute_min": 34,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94751958",
@@ -438,9 +602,6 @@
   "lat": 51.48684,
   "lng": -0.09103,
   "agent": "Dorrington, Walworth Village",
-  "commute_min": 45,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 73,
   "score_breakdown": {
    "style": {
@@ -489,7 +650,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 45,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "94752528",
@@ -520,9 +684,6 @@
   "lat": 51.51546,
   "lng": -0.057306,
   "agent": "Bells Estate Agent, London",
-  "commute_min": 37,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -571,7 +732,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 37,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94752999",
@@ -602,9 +766,6 @@
   "lat": 51.525993,
   "lng": -0.090719,
   "agent": "Humphrey & CO Property Services, London",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -653,7 +814,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-14190596",
