@@ -79,7 +79,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Fortune Green · Cricklewood NW2"
   },
   {
     "id": "94716933",
@@ -161,7 +162,8 @@
         "reason": "no outdoor space mentioned"
       }
     },
-    "fresh_days": 0
+    "fresh_days": 0,
+    "nbhd": "Whitechapel E1"
   },
   {
     "id": "94713339",
