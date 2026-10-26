@@ -631,23 +631,6 @@
   "type": null
  },
  {
-  "id": "hold-94446669@2026-10-26T14:00",
-  "listing_id": "94446669",
-  "title": "Lithos Road — 1-bed",
-  "address": "Lithos Road",
-  "datetime": "2026-10-26T14:00:00+00:00",
-  "agent": "John D Wood & Co. Lettings (Cyntia Almeida)",
-  "agent_email": "CAlmeida@johndwood.co.uk",
-  "agent_phone": null,
-  "thread_id": "1a1585d33ca7f5ad",
-  "status": "proposed",
-  "type": "video",
-  "source": "calendar-hold",
-  "calendar_event_id": null,
-  "calendar_link": null,
-  "notes": "(?) предварительно — агент не подтвердил. Masha proposed Wed 21 17:00 or Mon 26 14:00 London (20 Oct); John D Wood hasn't confirmed"
- },
- {
   "id": "hold-fx-chpk3683153@2026-10-26T15:00",
   "listing_id": "fx-chpk3683153",
   "title": "Merchant Street, Bow, E3 4PS — 1-bed",
