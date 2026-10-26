@@ -322,7 +322,7 @@
   "agent_email": "Eli@cedarestates.com",
   "agent_phone": "020 7431 1100",
   "thread_id": "1a15edd81d77e4ab",
-  "status": "confirmed",
+  "status": "done",
   "source": "masha-mail",
   "calendar_event_id": "scuocfio20018ur5rma4tl0378",
   "calendar_link": "https://www.google.com/calendar/event?eid=c2N1b2NmaW8yMDAxOHVyNXJtYTR0bDAzNzggZ293cml0ZW1hc2hhQG0"
@@ -582,7 +582,7 @@
   "title": "Flat A, 15 Waterlow Road, London, N19 5NJ",
   "address": "Flat A, 15 Waterlow Road, London, N19 5NJ",
   "datetime": "2026-10-28T17:00:00+00:00",
-  "agent": "Ali, Mays Management",
+  "agent": null,
   "agent_email": "Roy Bateson <roy@maysgroup.co.uk>",
   "agent_phone": "+44 7943 802896",
   "thread_id": "1a177dfb553c31f7",
@@ -595,6 +595,40 @@
   "note": "WhatsApp video viewing confirmed by Roy Bateson (Mays) on 26 Oct; falls on a Wednesday (Masha has surgery)",
   "calendar_event_id": "79iuoi935v14ghrvcc621qbe7s",
   "calendar_link": "https://www.google.com/calendar/event?eid=NzlpdW9pOTM1djE0Z2hydmNjNjIxcWJlN3MgZ293cml0ZW1hc2hhQG0"
+ },
+ {
+  "id": "prop-94136856",
+  "listing_id": "94136856",
+  "title": "Beehive Place, Brixton SW9",
+  "address": "Beehive Place, Brixton SW9",
+  "datetime": null,
+  "agent": "Cedar Estates, West Hampstead",
+  "agent_contact": "Eli Gold",
+  "agent_email": "Eli@cedarestates.com",
+  "agent_phone": "020 7431 1100",
+  "thread_id": "1a15edd81d77e4ab",
+  "status": "proposed",
+  "asked": "2026-10-21T14:28:26Z",
+  "notes": "Dear Maria, This is just a reminder that we have an appointment for you to view the following properties at 12:00 PM on Monday 26 Oct 2026: Flat 5 19 Beehive Place, Brixton We look forward to helping you find a home. Eli",
+  "source": "masha-mail",
+  "type": null
+ },
+ {
+  "id": "prop-hamptons-the-eades-e17",
+  "listing_id": "hamptons-the-eades-e17",
+  "title": "The Eades, 11 Selborne Road, E17 (1-bed)",
+  "address": "The Eades, 11 Selborne Road, E17 (1-bed)",
+  "datetime": null,
+  "agent": "Fred Wilsher (Hamptons Muswell Hill)",
+  "agent_contact": null,
+  "agent_email": "Darya Azodi <daryaa@wayoflife.com>",
+  "agent_phone": null,
+  "thread_id": "1a17818eea2363b4",
+  "status": "proposed",
+  "asked": "2026-10-26T12:04:09Z",
+  "notes": "Hi Maria, Thank you for your interest in our exciting new development, The Eades. If you could kindly let me know the following information! - Studio, 1 bedroom or 2 bedroom? - Do you prefer a furnished or unfurnished ap",
+  "source": "masha-mail",
+  "type": null
  },
  {
   "id": "hold-94446669@2026-10-26T14:00",
@@ -629,5 +663,22 @@
   "calendar_event_id": null,
   "calendar_link": null,
   "notes": "(?) предварительно — агент не подтвердил. Masha proposed Fri 23 16:30 or Mon 26 15:00 London to Dershan (Foxtons Bow), 20 Oct"
+ },
+ {
+  "id": "hold-otm-20614501@2026-10-27T13:10",
+  "listing_id": "otm-20614501",
+  "title": "Old Brompton Road — 1-bed",
+  "address": "3/302A Old Brompton Road, London SW5 9JF",
+  "datetime": "2026-10-27T13:10:00+00:00",
+  "agent": "Moveli - London (Charles Perry-Adlam (Moveli))",
+  "agent_email": "Charles Perry-Adlam <charles@moveli.co.uk>",
+  "agent_phone": "07957 352 773",
+  "thread_id": "1a178072f62ad0c4",
+  "status": "proposed",
+  "type": "video",
+  "source": "calendar-hold",
+  "calendar_event_id": null,
+  "calendar_link": null,
+  "notes": "(?) предварительно — агент не подтвердил. "
  }
 ]
