@@ -28,9 +28,6 @@
   "lat": 51.572296,
   "lng": -0.198241,
   "agent": "OpenRent (private landlord)",
-  "commute_min": 31,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 73,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Childs Hill NW11",
+  "commute_min": 31,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "or-1285359",
@@ -110,9 +111,6 @@
   "lat": 51.55142,
   "lng": -0.1288928,
   "agent": "OpenRent (private landlord)",
-  "commute_min": 26,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -161,7 +159,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Tufnell Park · Holloway N7",
+  "commute_min": 26,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true
  },
  {
   "id": "otm-10752386",
@@ -192,9 +194,6 @@
   "lat": 51.4652723,
   "lng": -0.1302554,
   "agent": "Oliver Burn Residential - Clapham",
-  "commute_min": 31,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -243,7 +242,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Clapham Town · Brixton/Stockwell SW9",
+  "commute_min": 31,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-17564531",
@@ -274,9 +277,6 @@
   "lat": 51.473967,
   "lng": -0.118351,
   "agent": "Kinleigh Folkard & Hayward - Kennington Lettings",
-  "commute_min": 33,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -325,7 +325,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Stockwell East · Brixton/Stockwell SW9",
+  "commute_min": 33,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-10614098",
@@ -356,9 +360,6 @@
   "lat": 51.51595,
   "lng": -0.210089,
   "agent": "Coolcribs - Hampstead",
-  "commute_min": 30,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -407,7 +408,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Notting Dale W11",
+  "commute_min": 30,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94775244",
@@ -437,9 +442,6 @@
   "lat": 51.543949,
   "lng": -0.108397,
   "agent": "Myspace, London",
-  "commute_min": 27,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -488,7 +490,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Barnsbury N1",
+  "commute_min": 27,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94777281",
@@ -519,9 +525,6 @@
   "lat": 51.552291,
   "lng": -0.209711,
   "agent": "Dutch & Dutch, West Hampstead",
-  "commute_min": 39,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -570,7 +573,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Cricklewood/Mapesbury NW2",
+  "commute_min": 39,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94779354",
@@ -601,9 +608,6 @@
   "lat": 51.540995,
   "lng": -0.09922,
   "agent": "Chestertons, Islington",
-  "commute_min": 32,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 71,
   "score_breakdown": {
    "style": {
@@ -652,7 +656,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "St Mary's/St James' N1",
+  "commute_min": 32,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94767621",
