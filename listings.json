@@ -28,9 +28,6 @@
   "lat": 51.585937,
   "lng": -0.079219,
   "agent": "Winkworth - Harringay",
-  "commute_min": 34,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,11 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Tottenham Central · South Tottenham N15",
+  "commute_min": 34,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20630898",
@@ -110,9 +111,6 @@
   "lat": 51.553974,
   "lng": -0.200783,
   "agent": "OpenRent - UK",
-  "commute_min": 44,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -161,7 +159,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "nbhd": "Fortune Green · Kilburn/West Hampstead NW6",
+  "commute_min": 44,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "otm-13109189",
@@ -20169,10 +20171,10 @@
   "fresh_days": 8,
   "nbhd": "Willesden Green · Cricklewood NW2",
   "rating": "like",
+  "stale": true,
   "commute_min": 35,
   "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "94465560",
@@ -20260,10 +20262,10 @@
   "nbhd": "Southfield · Acton W3",
   "kept_reason": "enquired (sent.json)",
   "rating": "like",
+  "stale": true,
   "commute_min": 56,
   "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
-  "commute_ok": false,
-  "stale": true
+  "commute_ok": false
  },
  {
   "id": "94446495",
@@ -20351,10 +20353,10 @@
   "fresh_days": 8,
   "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
   "rating": "like",
+  "stale": true,
   "commute_min": 36,
   "commute_mode": "🚆 Lioness",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "94446669",
@@ -20442,10 +20444,10 @@
   "fresh_days": 8,
   "nbhd": "West Hampstead NW3",
   "rating": "like",
+  "stale": true,
   "commute_min": 32,
   "commute_mode": "🚇 Metropolitan",
-  "commute_ok": true,
-  "stale": true
+  "commute_ok": true
  },
  {
   "id": "fx-2636942",
