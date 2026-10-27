@@ -1,5 +1,81 @@
 [
  {
+  "id": "winkworth-SHE260283",
+  "title": "Goldhawk Road — 2-bed",
+  "area": "Goldhawk Road, London W12",
+  "price": 2100,
+  "size": "50 m²",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-27",
+  "commute": "41 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.winkworth.co.uk/rent/property/SHE260283",
+  "source": "winkworth",
+  "photos": [],
+  "status": "new",
+  "notes": "[Winkworth] Winkworth Shepherds Bush (Pav Vasiliou). A well presented two bedroom flat on the first floor of this popular building. Unfurnished, available immediately. Recently refurbished two bedroom flat just off Goldhawk Road: bright reception room with access to a balcony, separate kitchen, two double bedrooms and a family bathroom. Lift access. 538 sq ft / 50 sq m. Council tax band C, EPC C. Virtual tours are not offered; all properties must be viewed in person. Agent: Pav Vasiliou, Winkworth Shepherds Bush, 020 8735 3261.",
+  "hood": "Hoodmaps: Normies (Askew), also painted Rich; nearby tags: \"The Commonwealth club!\", \"wild lands\".",
+  "date_found": "2026-10-27",
+  "features": "",
+  "listed": "2026-10-27",
+  "lat": 51.50119,
+  "lng": -0.234043,
+  "agent": "Winkworth Shepherds Bush (Pav Vasiliou)",
+  "commute_min": 41,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), well presented(+2), balcony(+2)"
+   },
+   "size": {
+    "points": 6.0,
+    "max": 15,
+    "reason": "50 m²"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 8.8,
+    "max": 10,
+    "reason": "27 Oct: 5 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, lift"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "94767621",
   "title": "Earls Court Gardens — 1-bed",
   "area": "Earls Court Gardens, Earls Court",
@@ -28,9 +104,6 @@
   "lat": 51.492294,
   "lng": -0.192486,
   "agent": "Pomp Properties, London",
-  "commute_min": 31,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": true,
   "score": 74,
   "score_breakdown": {
    "style": {
@@ -79,7 +152,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Earl's Court SW5",
+  "commute_min": 31,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94767975",
@@ -110,9 +187,6 @@
   "lat": 51.518834,
   "lng": -0.100593,
   "agent": "Dexters, Clerkenwell",
-  "commute_min": 23,
-  "commute_mode": "🚇 Metropolitan",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -161,7 +235,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Farringdon Within EC1A",
+  "commute_min": 23,
+  "commute_mode": "🚇 Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94495677",
@@ -192,9 +270,6 @@
   "lat": 51.464314,
   "lng": -0.132152,
   "agent": "Aspire, Clapham - Lettings",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -243,7 +318,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 7
+  "fresh_days": 7,
+  "nbhd": "Clapham Town SW4",
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94769931",
@@ -274,9 +353,6 @@
   "lat": 51.591228,
   "lng": -0.179421,
   "agent": "ADN Residential, Hampstead, London",
-  "commute_min": 49,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -327,7 +403,11 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "East Finchley N2",
+  "commute_min": 49,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94770963",
@@ -357,9 +437,6 @@
   "lat": 51.552316,
   "lng": -0.136004,
   "agent": "Marsh & Parsons, Camden Town & Tufnell Park",
-  "commute_min": 26,
-  "commute_mode": "🚌 bus 134",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -408,7 +485,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Kentish Town North NW5",
+  "commute_min": 26,
+  "commute_mode": "🚌 bus 134",
+  "commute_ok": true
  },
  {
   "id": "or-3080779",
@@ -488,6 +569,7 @@
    }
   },
   "fresh_days": 7,
+  "nbhd": "Holborn/Covent Garden WC2H",
   "commute_min": 16,
   "commute_mode": "🚌 bus 24",
   "commute_ok": true
@@ -568,6 +650,7 @@
    }
   },
   "fresh_days": 4,
+  "nbhd": "Abbey Road · St John's Wood NW8",
   "commute_min": 27,
   "commute_mode": "🚌 bus 113 + bus 18",
   "commute_ok": true
@@ -650,6 +733,7 @@
    }
   },
   "fresh_days": 1,
+  "nbhd": "Junction · Upper Holloway N19",
   "commute_min": 32,
   "commute_mode": "🚇 Northern + Victoria",
   "commute_ok": true
@@ -732,6 +816,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "East Acton W3",
   "commute_min": 43,
   "commute_mode": "🚇 Central + Victoria",
   "commute_ok": true
@@ -814,6 +899,7 @@
    }
   },
   "fresh_days": 5,
+  "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 43,
   "commute_mode": "🚆 Great Northern + Victoria",
   "commute_ok": true
@@ -896,6 +982,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Dalgarno W10",
   "commute_min": 39,
   "commute_mode": "🚇 Circle",
   "commute_ok": true
@@ -978,6 +1065,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Colindale South NW9",
   "commute_min": 44,
   "commute_mode": "🚇 Northern + Victoria",
   "commute_ok": true
@@ -1062,6 +1150,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "East Greenwich SE10",
   "commute_min": 63,
   "commute_mode": "🚆 Thameslink + Hammersmith & City",
   "commute_ok": false
@@ -1144,6 +1233,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "West Hampstead · Kilburn/West Hampstead NW6",
   "commute_min": 35,
   "commute_mode": "🚇 Jubilee + Metropolitan",
   "commute_ok": true
