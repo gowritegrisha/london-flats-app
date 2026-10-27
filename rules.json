@@ -37,7 +37,8 @@
   "build to rent": 2,
   "build-to-rent": 2,
   "fitted wardrobes": 2,
-  "small bedroom": -3
+  "small bedroom": -3,
+  "washing machine": -3
  },
  "review": 4
 }
