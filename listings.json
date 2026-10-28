@@ -1,5 +1,828 @@
 [
  {
+  "id": "otm-20641426",
+  "title": "Maryland Road — 1-bed",
+  "area": "Maryland Road, Wood Green",
+  "price": 1750,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Part furnished",
+  "available": "2026-11-07",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20641426/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20641426_0.jpg",
+   "photos/otm-20641426_1.jpg",
+   "photos/otm-20641426_2.jpg",
+   "photos/otm-20641426_3.jpg",
+   "photos/otm-20641426_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Barnard Marcus - Muswell Hill.  *Zero Deposit Guarantee Available* Holding deposit: £403.00 SUMMARY Copilot said: A stunning architect-designed one-bedroom house on Maryland Road, N22. Featuring a private garden, balcony, stylish contemporary interiors and quality finishes throughout. Offered part-furnished and available from November. A rare and unique home in a sought-after location. DESCRIPTION A truly exceptional one-bedroom house, inspired by award-winning contemporary architecture and occupying a unique position on sought-after Maryland Road, N22. This striking home offers a rare opportunity to rent a beautifully designed property that perfectly combines modern living with characterful architectural detail. The design draws influence from the acclaimed Haringey Brick House, renowned for transforming a compact urban plot into a distinctive, high-quality home through careful craftsmanship and innovative use of spa",
+  "hood": "Hoodmaps: Normies (Woodside), also painted Tourists; nearby tags: \"Pretty much Albania\", \"uytfjyvjhvg\".",
+  "date_found": "2026-10-28",
+  "features": "Stunning One Bedroom HOUSE; Private Garden & Balcony; Part Furnished; Council Tax Band D £192pm; Unique brickwork and contemporary detailing",
+  "listed": "2026-10-28",
+  "lat": 51.607501,
+  "lng": -0.107828,
+  "agent": "Barnard Marcus - Muswell Hill",
+  "commute_min": 50,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), character(+1), private garden(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "50 min (TfL): 🚆 Great Northern + Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "07 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 3.5,
+    "max": 5,
+    "reason": "part furnished"
+   },
+   "price": {
+    "points": 1.5,
+    "max": 3,
+    "reason": "£1,750"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94823094",
+  "title": "Garlinge Road Chevington NW2 — 1-bed",
+  "area": "Garlinge Road Chevington NW2",
+  "price": 1850,
+  "size": "73 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-15",
+  "commute": "32 min · 🚇 Jubilee + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94823094",
+  "source": "rightmove",
+  "photos": [
+   "photos/94823094_0.jpg",
+   "photos/94823094_1.jpg",
+   "photos/94823094_2.jpg",
+   "photos/94823094_3.jpg",
+   "photos/94823094_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Hamptons, West Hampstead. A very spacious one bedroom garden flat located on a quiet residential street. The property is entered on the ground floor and boasts its own private patio garden, large reception room, separate fitted kitchen, spacious bedroom and modern bathroom with separate toilet. The property is conveniently situated in Kilburn moments from many local amenities and close to all the shops, bars and restaurants of West Hampstead. Local transport links include Kilburn Underground Station (Jubilee Line & Overground) Available 14th March furnished. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+  "hood": "Hoodmaps: Normies (Fortune Green); nearby tags: \"da hood\", \"dirty\", \"crackheads fighting with golf clubs\".",
+  "date_found": "2026-10-28",
+  "features": "One Bedroom Apartment; Private Garden; Separate Kitchen; Furnished; Short Walk to Jubilee Line; Available end of April; -      Garage ",
+  "listed": "2026-10-28",
+  "lat": 51.54797,
+  "lng": -0.20357,
+  "agent": "Hamptons, West Hampstead",
+  "commute_min": 32,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true,
+  "score": 72,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), garden flat(+2), private garden(+1)"
+   },
+   "size": {
+    "points": 15,
+    "max": 15,
+    "reason": "73 m²"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
+   },
+   "hood": {
+    "points": 5.0,
+    "max": 15,
+    "reason": "Normies; negative tags: crack"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "15 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94715739",
+  "title": "Chandos Road — 2-bed",
+  "area": "Chandos Road, London, NW2",
+  "price": 1700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-28",
+  "commute": "37 min · 🚇 Jubilee + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94715739",
+  "source": "rightmove",
+  "photos": [
+   "photos/94715739_0.jpg",
+   "photos/94715739_1.jpg",
+   "photos/94715739_2.jpg",
+   "photos/94715739_3.jpg",
+   "photos/94715739_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3054791. 2 Bedroom flat with garden on Chandos Road, Willesden Green London walking distance from train station This is an unfurnished flat even though there is furniture in the photographs. The flat will be unfurnished. Immediate availability Call Harvey on (Number Removed) to arrange viewing. Please note viewings are Monday to Friday between 9 am to 4 pm only. No evening viewings or weekend viewings available Immediate availability Summary & Exclusions: - Rent Amount: £1,700.00 per month (£392.31 per week) - Deposit / Bond: £1,700.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 28 October 2026 - Maximum number of tenants is 2 - No Students - No Smokers - Bills not included - No Parking Available - No Garden Access - EPC Rating: D If calling, please quote reference: 3054791 Fees: You will not be charged any admin fees. ** Contac",
+  "hood": "Hoodmaps: Normies (Dudden Hill); no user tags within ~450 m.",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Property Reference Number: 3054791",
+  "listed": "2026-10-26",
+  "lat": 51.551254,
+  "lng": -0.224335,
+  "agent": "OpenRent, London",
+  "commute_min": 37,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 2
+ },
+ {
+  "id": "94824909",
+  "title": "Dulford Street — 1-bed",
+  "area": "Dulford Street, London, W11",
+  "price": 1899,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-12-06",
+  "commute": "35 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94824909",
+  "source": "rightmove",
+  "photos": [
+   "photos/94824909_0.jpg",
+   "photos/94824909_1.jpg",
+   "photos/94824909_2.jpg",
+   "photos/94824909_3.jpg",
+   "photos/94824909_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3090429. We are proud to offer this very spacious delightful 1 bedroom, 1 bathroom flat in a great location. The property is offered unfurnished. Comes with large sliding-door wardrobe in bedroom and a new Electric Cooker and Fridge Freezer (Fridge not in photos as will be installed). Gas Boiler is Valiant. Significant storage/shelf space. Located in a small 6-apartment purpose-built building. 2-minute walk from Kensington Leisure Centre (Basketball, Tennis, Swimming Pools, Gyms). Very quiet and clean neighborhood. 8 min walk to Ladbroke Grove Underground Station and 14min walk to Holland Park Underground Station. Residents Parking Permit can be applied for in order to park in Kensington & Chelsea area. Available to move in from 6th December 2026, this property benefits from garden access as well as a children's playground next door. Viewing highly recommended. Contac",
+  "hood": "Hoodmaps: Rich (Notting Dale); nearby tags: \"Grenfell Tower R I P\", \"carnival \", \"Tourists who's seen Notting Hill\", \"morocco\".",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3090429",
+  "listed": "2026-10-28",
+  "lat": 51.514313,
+  "lng": -0.214088,
+  "agent": "OpenRent, London",
+  "commute_min": 35,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.0,
+    "max": 20,
+    "reason": "35 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "06 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,899"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, gym"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94829757",
+  "title": "Astra House — 2-bed",
+  "area": "Astra House, Arklow Road, SE14",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-11-14",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94829757",
+  "source": "rightmove",
+  "photos": [
+   "photos/94829757_0.jpg",
+   "photos/94829757_1.jpg",
+   "photos/94829757_2.jpg",
+   "photos/94829757_3.jpg",
+   "photos/94829757_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Alex & Matteo, London. Beautifully refurbished two-bedroom, two-shower-room duplex apartment spanning the fifth and sixth floors of a modern New Cross development, offering over 800 sq ft of living space, including a large private balcony. The apartment features a spacious open-plan living and dining area with balcony access, a separate modern kitchen with ample storage, dishwasher and washing machine, two generous double bedrooms, and two contemporary shower rooms, one with underfloor heating. Recently refurbished to a high standard with new flooring, radiators and furnishings, the property is offered fully furnished and available immediately. Ideal for a professional couple or two sharers. Both New Cross and Deptford stations are approximately a 10-minute walk away, providing excellent connections to Central London, Canary Wharf and Greenwich. Local cafés, restaurants, bars, shops and parks are all within ea",
+  "hood": "Hoodmaps: Rich (Evelyn), also painted Hipsters/Students; nearby tags: \"Punx and Gigs\".",
+  "date_found": "2026-10-28",
+  "features": "Spacious two-bedroom duplex apartment; Fully furnished and ready to move into; Two contemporary shower rooms; Generous private balcony; Convenient lift access; Recently refurbished with new flooring and radiators; Secure on-site bike storage; Approx. 10-minute walk to New Cross and Deptford stations",
+  "listed": "2026-10-28",
+  "lat": 51.480392,
+  "lng": -0.034046,
+  "agent": "Alex & Matteo, London",
+  "commute_min": 49,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), recently refurbished(+2), refurbished(+2), contemporary(+2), open-plan(+1), balcony(+2), washing machine(-3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "49 min (TfL): 🚆 Windrush + Elizabeth line + Northern — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "14 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94834308",
+  "title": "Dollis Road — 1-bed",
+  "area": "Dollis Road, London, N3",
+  "price": 1600,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-11-04",
+  "commute": "45 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94834308",
+  "source": "rightmove",
+  "photos": [
+   "photos/94834308_0.jpg",
+   "photos/94834308_1.jpg",
+   "photos/94834308_2.jpg",
+   "photos/94834308_3.jpg",
+   "photos/94834308_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Stones Residential, Belsize Park. A well presented, bright one bedroom flat situated on the first floor of a period conversion with the benefit of an off street parking space. The apartment comprises a modern fully fitted kitchen, large reception room, bedroom with fitted wardrobes and bathroom. Available immediately on an unfurnished basis. ",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"Tehran\", \"good running trail\".",
+  "date_found": "2026-10-28",
+  "features": "One Bedroom Flat; Available Immediately; Unfurnished; Off Street Parking; Recently Refurbished; Council Tax Band: C",
+  "listed": "2026-10-28",
+  "lat": 51.604381,
+  "lng": -0.197548,
+  "agent": "Stones Residential, Belsize Park",
+  "commute_min": 45,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), recently refurbished(+2), refurbished(+2), well presented(+2), conversion(+1), period(+1), fitted wardrobes(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.0,
+    "max": 20,
+    "reason": "45 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "04 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 2.4,
+    "max": 3,
+    "reason": "£1,600"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94834845",
+  "title": "Shad Thames — 1-bed",
+  "area": "Shad Thames, Anchor Brewhouse",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "41 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94834845",
+  "source": "rightmove",
+  "photos": [
+   "photos/94834845_0.jpg",
+   "photos/94834845_1.jpg",
+   "photos/94834845_2.jpg",
+   "photos/94834845_3.jpg",
+   "photos/94834845_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Marsh & Parsons, London Bridge. A one bedroom apartment in one of Shad Thames' most prestigious buildings. The apartment has been recently renovated with modern kitchen and bathroom and is offered furnished. Located in Anchor Brewhouse highly sought after development and close to some of London's most popular tourist attractions including Tower Bridge and the Tower of London. Security Deposit: £2,307 Council Tax Band: D ",
+  "hood": "Hoodmaps: Rich (Riverside), also painted Tourists/Suits; nearby tags: \"Not London Bridge\", \"Tourists in the way taking selfies\", \"i said not london bridge\", \"Yachts\".",
+  "date_found": "2026-10-28",
+  "features": "One Bedroom; One Bathroom; Riverside Development; Furnished; 24 Hour Concierge; Recently Refurbished",
+  "listed": "2026-10-28",
+  "lat": 51.504188,
+  "lng": -0.075399,
+  "agent": "Marsh & Parsons, London Bridge",
+  "commute_min": 41,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), recently refurbished(+2), refurbished(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94836108",
+  "title": "Chandos Road — 3-bed",
+  "area": "Chandos Road, London, NW2",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-28",
+  "commute": "37 min · 🚇 Jubilee + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94836108",
+  "source": "rightmove",
+  "photos": [
+   "photos/94836108_0.jpg",
+   "photos/94836108_1.jpg",
+   "photos/94836108_2.jpg",
+   "photos/94836108_3.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 2667898. 3 Bedroom flat on Chandos Road, Willesden Green London walking distance from train station This is an unfurnished flat even though there is furniture in the photographs. The flat will be unfurnished. Immediate availability Please note viewings are Monday to Friday between 9 am to 4 pm only. No evening viewings or weekend viewings available Immediate availability Summary & Exclusions: - Rent Amount: £1,800.00 per month (£415.38 per week) - Deposit / Bond: £1,800.00 - 3 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 28 October 2026 - Maximum number of tenants is 3 - No Students - No Smokers - Bills not included - No Parking Available - No Garden Access - EPC Rating: D If calling, please quote reference: 2667898 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlord show you round! ",
+  "hood": "Hoodmaps: Normies (Dudden Hill); no user tags within ~450 m.",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Property Reference Number: 2667898",
+  "listed": "2026-10-28",
+  "lat": 51.551224,
+  "lng": -0.22434,
+  "agent": "OpenRent, London",
+  "commute_min": 37,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 15.4,
+    "max": 20,
+    "reason": "37 min door-to-door (TfL): 🚇 Jubilee + Metropolitan"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94837431",
+  "title": "Pilgrims Close — 2-bed",
+  "area": "Pilgrims Close, Palmers Green",
+  "price": 1795,
+  "size": "67 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-28",
+  "commute": "42 min · 🚆 Great Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94837431",
+  "source": "rightmove",
+  "photos": [
+   "photos/94837431_0.jpg",
+   "photos/94837431_1.jpg",
+   "photos/94837431_2.jpg",
+   "photos/94837431_3.jpg",
+   "photos/94837431_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Peter Michael Estates & Lettings, London. Welcome to this exquisite 2-bedroom split-level maisonette, presented by PM Estates - where modern living meets convenience. Boasting two generously sized double bedrooms, this property is thoughtfully designed to provide comfort and style. Step into the heart of this home, where a modern kitchen awaits, inviting you to unleash your culinary creativity. Equipped with contemporary appliances and ample storage space, this kitchen is as functional as it is aesthetically pleasing. The spacious bathroom adds a touch of luxury to your daily routine, offering a haven of relaxation. Immerse yourself in tranquility within this well-appointed space, featuring modern fixtures and a layout designed for ease. No need to worry about parking with the convenience of an allocated parking space right at your doorstep. Enjoy the luxury of hassle-free parking, ensuring your daily life is as convenient as po",
+  "hood": "Hoodmaps: Rich (Palmers Green); no user tags within ~450 m.",
+  "date_found": "2026-10-28",
+  "features": "Maisonette - Furnished; 2 Beds + 1 Reception; 1 Bathroom; Shower; Council Tax Band C; No special accessibility; On Street Parking; Garden; Washing Machine; Gas Central Heating",
+  "listed": "2026-10-28",
+  "lat": 51.61721,
+  "lng": -0.11185,
+  "agent": "Peter Michael Estates & Lettings, London",
+  "commute_min": 42,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true,
+  "score": 73,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3), contemporary(+2), luxury(+1), washing machine(-3)"
+   },
+   "size": {
+    "points": 15,
+    "max": 15,
+    "reason": "67 m²"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚆 Great Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,795"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94838022",
+  "title": "12 Charlotte Place — 1-bed",
+  "area": "12 Charlotte Place",
+  "price": 1976,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-15",
+  "commute": "13 min · 🚌 bus 24 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94838022",
+  "source": "rightmove",
+  "photos": [
+   "photos/94838022_0.jpg",
+   "photos/94838022_1.jpg",
+   "photos/94838022_2.jpg",
+   "photos/94838022_3.jpg",
+   "photos/94838022_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Pearl & Coutts, London. Newly refurbished one bed flat to rent on the first floor of this attractive period property on a quiet pedestrian side street in the heart of Fitzrovia. This smart and modern refurbishment consists of a large living area with fully fitted kitchen including electric oven and gas hob. To the rear is the bedroom with high quality carpet and the fully tiled modern bathroom includes integrated shower and heated towel rail. The property is situated on a lovely, quiet pedestrianised mews in London's West End and is within walking distance from Soho, Oxford Street and Goodge Street, Zone 1 (Northern Line) and Tottenham Court Road Zone 1 (Northern Line) Underground Stations. AVAILABLE 15th NOVEMBER",
+  "hood": "Hoodmaps: Rich (West End), also painted Students; nearby tags: \"Disease Outbreak starts here\", \"Furniture shops you can't afford\", \"OnlyFans\", \"New Facebook office\".",
+  "date_found": "2026-10-28",
+  "features": "EPC Rating: C;  Council Tax Band: C;  Central Heating;  City Centre Location;  Entry Phone System;  Excellent Transport Links;  Separate Bathroom;  Walking Distance From Tube Station;  Wooden Floors",
+  "listed": "2026-10-28",
+  "lat": 51.51893,
+  "lng": -0.135914,
+  "agent": "Pearl & Coutts, London",
+  "commute_min": 13,
+  "commute_mode": "🚌 bus 24",
+  "commute_ok": true,
+  "score": 75,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), newly refurbished(+3), refurbished(+2), period(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "13 min door-to-door (TfL): 🚌 bus 24"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "15 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.1,
+    "max": 3,
+    "reason": "£1,976"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "94665324",
   "title": "Boleyn Road — 1-bed",
   "area": "Boleyn Road, London, N16",
@@ -28,9 +851,6 @@
   "lat": 51.548001,
   "lng": -0.076616,
   "agent": "Stirling Ackroyd Lettings, Dalston",
-  "commute_min": 35,
-  "commute_mode": "🚆 Mildmay + Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -79,7 +899,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5
+  "fresh_days": 5,
+  "commute_min": 35,
+  "commute_mode": "🚆 Mildmay + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20639749",
