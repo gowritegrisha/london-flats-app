@@ -1,5 +1,329 @@
 [
  {
+  "id": "otm-20642922",
+  "title": "Mayflower Road — 1-bed",
+  "area": "Mayflower Road, London, SW9",
+  "price": 1450,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "35 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20642922/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20642922_0.jpg",
+   "photos/otm-20642922_1.jpg",
+   "photos/otm-20642922_2.jpg",
+   "photos/otm-20642922_3.jpg",
+   "photos/otm-20642922_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Portico - Clapham. A lovely first floor conversion flat with one bedroom conveniently located close to Clapham North underground station and the many local amenities, shops, bars and restaurants of Clapham High Street. With neutral decor and carpets throughout this cosy property is full of character and offers a separate kitchen, a bright reception room, a double bedroom with inbuilt storage, and bathroom separate from the flat. Ideal for a professional couple or single looking to settle down in a new home with fantastic access to central London as well as the open grounds of Clapham Common. NO DEPOSIT OPTION AVAILABLE EPC E LAMBETH COUNCIL TAX",
+  "hood": "Hoodmaps: Rich (Larkhall), also painted Hipsters; nearby tags: \"block parties\", \"Caribbeans\".",
+  "date_found": "2026-10-28",
+  "features": "One Bedroom Flat; Separate kitchen; First Floor Conversion; Carpets throughout; Inbuilt storage; EPC - E",
+  "listed": "2026-10-28",
+  "lat": 51.466999,
+  "lng": -0.127,
+  "agent": "Portico - Clapham",
+  "commute_min": 35,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 65,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: bright(+2), conversion(+1), character(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.0,
+    "max": 20,
+    "reason": "35 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 3,
+    "max": 3,
+    "reason": "£1,450"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94611291",
+  "title": "Jean House — 2-bed",
+  "area": "Jean House, London, SW17",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-01",
+  "commute": "44 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94611291",
+  "source": "rightmove",
+  "photos": [
+   "photos/94611291_0.jpg",
+   "photos/94611291_1.jpg",
+   "photos/94611291_2.jpg",
+   "photos/94611291_3.jpg",
+   "photos/94611291_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3074493. Modern 2-Bedroom Flat Near Tooting Broadway – Available immediately Located just a 6-minute walk from Tooting Broadway Station and within easy reach of St. George’s Hospital, this well-presented 2-bedroom, 1-bathroom flat offers both convenience and comfort in a sought-after area of South London. Key Features: Two spacious bedrooms and a modern bathroom Furnished and ready to move in New energy-efficient heating system with wireless control Off-street parking available Surrounded by communal garden space Perfect for professionals, couples or small families, this property combines excellent transport links with a peaceful residential setting. Early viewing is highly recommended. For more information or to arrange a viewing, please get in touch today! Summary Rent £2,100.00 per month Deposit / Bond is £2,100.00 Desired minimum tenancy is 12 months Maximum numbe",
+  "hood": "Hoodmaps: Hipsters (Tooting); nearby tags: \"very tooting\".",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3074493",
+  "listed": "2026-10-22",
+  "lat": 51.42615,
+  "lng": -0.172615,
+  "agent": "OpenRent, London",
+  "commute_min": 44,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: modern(+3), well-presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 6
+ },
+ {
+  "id": "94652394",
+  "title": "Bibsworth Lodge — 2-bed",
+  "area": "Bibsworth Lodge, Finchley, N3",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished or unfurnished, landlord is flexible",
+  "available": "2026-11-02",
+  "commute": "44 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94652394",
+  "source": "rightmove",
+  "photos": [
+   "photos/94652394_0.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3084965. Newly Refurbished Two Double Bedroom First Floor Maisonette, Spacious Reception Room, Separate Kitchen, Bathroom Toilet, Parking withing walking distance of Shops, Restaurants and Transports Newly Refurbished F First Floor Maisonette Two Spacious Double Bedrooms Spacious Reception Room Separate Kitchen Bathroom/ Toilet Parking Conveniently located within walking distance of local shops, restaurants and public transport links AVAILABLE FROM 2ND NOVEMBER 2026 Walking Distance to Stations: Finchley Central: 7–10 minutes' walk (0.4 miles) Mill Hill East: 18–22 minutes' walk (0.9 miles) West Finchley: 18–22 minutes' walk (0.9–1 mile) Nearest Bus Stop (Gravel Hill): 1–2 minutes' walk Northern Line: Zone 4 AVAILABLE FROM 2ND NOVEMBER 2026 Summary & Exclusions: - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 2 Bedrooms - 1 Bathroom",
+  "hood": "Hoodmaps: Rich (Finchley Church End), also painted Normies; no user tags within ~450 m.",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3084965",
+  "listed": "2026-10-23",
+  "lat": 51.59748,
+  "lng": -0.199131,
+  "agent": "OpenRent, London",
+  "commute_min": 44,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: newly refurbished(+3), refurbished(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "02 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 4.0,
+    "max": 5,
+    "reason": "Furnished or unfurnished, landlord is flexible"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 5
+ },
+ {
+  "id": "94844514",
+  "title": "Ballards Lane — 3-bed",
+  "area": "Ballards Lane, LONDON",
+  "price": 1850,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-30",
+  "commute": "42 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94844514",
+  "source": "rightmove",
+  "photos": [
+   "photos/94844514_0.jpg",
+   "photos/94844514_1.jpg",
+   "photos/94844514_2.jpg",
+   "photos/94844514_3.jpg",
+   "photos/94844514_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Barnard Marcus Lettings, North Finchley Lettings. Holding Deposit: £507.00 SUMMARY A stunning newly refurbished three-bedroom apartment located on the first floor of a well-maintained building. This stylish home features a spacious layout with modern finishes throughout. The property includes a bright and airy living space, three generously sized bedrooms, and a sleek, contemporary bathroom. Conveniently situated just a short walk from Finchley Central Station, this apartment offers excellent transport links, making it ideal for commuters. With local amenities, shops, and dining options nearby, this property combines comfort, style, and convenience. Perfect for families or professionals. Property Video Available DESCRIPTION A stunning newly refurbished three-bedroom apartment located on the first floor of a well-maintained building. This stylish home features a spacious layout with modern finishes throughout. The property includes a bri",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"Tehran\", \"Persians\".",
+  "date_found": "2026-10-28",
+  "features": "Three bedroom apartment; First floor; One bathroom; Newly refurbished; Close to Finchley Central Station; Property Video Available",
+  "listed": "2026-10-28",
+  "lat": 51.60502,
+  "lng": -0.18818,
+  "agent": "Barnard Marcus Lettings, North Finchley Lettings",
+  "commute_min": 42,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 67,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), newly refurbished(+3), refurbished(+2), sleek(+2), contemporary(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.5,
+    "max": 10,
+    "reason": "30 Oct: 2 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20641673",
   "title": "28 Harston Walk — 1-bed",
   "area": "28 Harston Walk, London E3",
@@ -28,9 +352,6 @@
   "lat": 51.523602,
   "lng": -0.012285,
   "agent": "Foxtons - Bow",
-  "commute_min": 42,
-  "commute_mode": "🚇 District + Central + Metropolitan",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -79,7 +400,11 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Bromley South · Bow E3",
+  "commute_min": 42,
+  "commute_mode": "🚇 District + Central + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "otm-20642103",
@@ -110,9 +435,6 @@
   "lat": 51.539783,
   "lng": -0.177906,
   "agent": "Wellington Estates - Swiss Cottage",
-  "commute_min": 27,
-  "commute_mode": "🚌 bus 113 + bus 18",
-  "commute_ok": true,
   "score": 73,
   "score_breakdown": {
    "style": {
@@ -161,7 +483,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Abbey Road · St John's Wood NW8",
+  "commute_min": 27,
+  "commute_mode": "🚌 bus 113 + bus 18",
+  "commute_ok": true
  },
  {
   "id": "94838526",
@@ -191,9 +517,6 @@
   "lat": 51.596441,
   "lng": -0.252522,
   "agent": "Orient Estates, London",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -242,7 +565,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Colindale South NW9",
+  "commute_min": 40,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "stow-old-brewery-way-2",
@@ -316,6 +643,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "High Street E17",
   "commute_min": 44,
   "commute_mode": "🚇 Victoria",
   "commute_ok": true
@@ -400,6 +728,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Woodside · Wood Green N22",
   "commute_min": 50,
   "commute_mode": "🚆 Great Northern + Victoria",
   "commute_ok": false
@@ -482,6 +811,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Fortune Green · Cricklewood NW2",
   "commute_min": 32,
   "commute_mode": "🚇 Jubilee + Metropolitan",
   "commute_ok": true
@@ -564,6 +894,7 @@
    }
   },
   "fresh_days": 2,
+  "nbhd": "Willesden Green · Cricklewood NW2",
   "commute_min": 37,
   "commute_mode": "🚇 Jubilee + Metropolitan",
   "commute_ok": true
@@ -646,6 +977,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Notting Dale W11",
   "commute_min": 35,
   "commute_mode": "🚇 Circle",
   "commute_ok": true
@@ -730,6 +1062,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Deptford SE14",
   "commute_min": 49,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
   "commute_ok": false
@@ -812,6 +1145,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Finchley Church End N3",
   "commute_min": 45,
   "commute_mode": "🚇 Northern + Victoria",
   "commute_ok": true
@@ -894,6 +1228,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "North Bermondsey · Southwark SE1",
   "commute_min": 41,
   "commute_mode": "🚇 Circle",
   "commute_ok": true
@@ -975,6 +1310,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Willesden Green · Cricklewood NW2",
   "commute_min": 37,
   "commute_mode": "🚇 Jubilee + Metropolitan",
   "commute_ok": true
@@ -1057,6 +1393,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Palmers Green N13",
   "commute_min": 42,
   "commute_mode": "🚆 Great Northern + Victoria",
   "commute_ok": true
@@ -1139,6 +1476,7 @@
    }
   },
   "fresh_days": 0,
+  "nbhd": "Bloomsbury W1T",
   "commute_min": 13,
   "commute_mode": "🚌 bus 24",
   "commute_ok": true
@@ -1221,6 +1559,7 @@
    }
   },
   "fresh_days": 5,
+  "nbhd": "Dalston · Stoke Newington N16",
   "commute_min": 35,
   "commute_mode": "🚆 Mildmay + Victoria",
   "commute_ok": true
