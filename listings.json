@@ -1,5 +1,579 @@
 [
  {
+  "id": "otm-20644141",
+  "title": "Devons Road — 1-bed",
+  "area": "Devons Road, London E3",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-15",
+  "commute": "44 min · 🚇 District + Central + Metropolitan (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20644141/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20644141_0.jpg",
+   "photos/otm-20644141_1.jpg",
+   "photos/otm-20644141_2.jpg",
+   "photos/otm-20644141_3.jpg",
+   "photos/otm-20644141_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Holimpia - London.  Top-Floor One-Bedroom Apartment with Balcony – St Andrews, Devons Road, E3 £1,800 pcm | Furnished We are pleased to offer this stylish, fully furnished one-bedroom apartment on the top floor of the popular St Andrews development in Bow, with a private balcony and open views across East London. The bright open-plan reception room features wood-effect flooring and floor-to-ceiling windows, with plenty of space for both lounge and dining areas. The sofa is a sofa bed, ideal for guests, and doors lead out to the private balcony, the perfect spot to relax with views towards the City skyline. The modern kitchen is fitted with sleek units, integrated appliances and a full-height fridge freezer. The double bedroom offers a calm retreat, with a storage bed, wardrobe, chest of drawers and bedside tables. The bathroom has a bath with overhead shower and glass screen. The development benefits from ",
+  "hood": "Hoodmaps: Normies (Bromley South); nearby tags: \"High-pitched dog-walking lululemon mums\", \"Small penis boy racers\", \"Small penis boy racers\", \"Watch out for Steino and Jonesey i\".",
+  "date_found": "2026-10-28",
+  "features": "",
+  "listed": "2026-10-28",
+  "lat": 51.523709,
+  "lng": -0.014832,
+  "agent": "Holimpia - London",
+  "commute_min": 44,
+  "commute_mode": "🚇 District + Central + Metropolitan",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), sleek(+2), open-plan(+1), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 District + Central + Metropolitan"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "15 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "balcony"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20644501",
+  "title": "Claremont Road — 1-bed",
+  "area": "Claremont Road, London NW2",
+  "price": 1450,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "",
+  "commute": "39 min · 🚆 Thameslink + Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20644501/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20644501_0.jpg",
+   "photos/otm-20644501_1.jpg",
+   "photos/otm-20644501_2.jpg",
+   "photos/otm-20644501_3.jpg",
+   "photos/otm-20644501_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Marsh & Parsons - Willesden Green. This spacious second floor one bedroom flat is ideally situated in the heart of Cricklewood. The flat has an open plan living area with a modern kitchen, a bright double bedroom, well maintained communal grounds, and good storage space. Claremont Road is well located close to Cricklewood Station (Thameslink), Cricklewood Broadway with a range of local amenities, restaurants, cafés, Brent Cross, and excellent transport and motorway links. Security Deposit: £1,673 Council Tax Band: D ",
+  "hood": "Hoodmaps: Rich (Childs Hill), also painted Normies; no user tags within ~450 m.",
+  "date_found": "2026-10-28",
+  "features": "One Bedroom; Open Plan; Tiled Bathroom; Wood Floors; Communal Grounds; Close To Transport",
+  "listed": "2026-10-28",
+  "lat": 51.559044,
+  "lng": -0.212044,
+  "agent": "Marsh & Parsons - Willesden Green",
+  "commute_min": 39,
+  "commute_mode": "🚆 Thameslink + Circle",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 18.1,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), wood floors(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 13.8,
+    "max": 20,
+    "reason": "39 min door-to-door (TfL): 🚆 Thameslink + Circle"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 3,
+    "max": 3,
+    "reason": "£1,450"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94844079",
+  "title": "BALLARDS LANE — 2-bed",
+  "area": "BALLARDS LANE, FINCHLEY, N3",
+  "price": 1850,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-14",
+  "commute": "42 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94844079",
+  "source": "rightmove",
+  "photos": [
+   "photos/94844079_0.jpg",
+   "photos/94844079_1.jpg",
+   "photos/94844079_2.jpg",
+   "photos/94844079_3.jpg",
+   "photos/94844079_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Bennett & Hall, London. TWO DOUBLE BEDROOM first floor flat with STUDY, located above shops on Ballards Lane, only a short walk from Finchley Central underground station. Buses and Victoria Park are also nearby. The property suits single tenant, couple or 2 sharing, max. * TWO DOUBLE BEDROOMS * STUDY * RECEPTION ROOM * FITTED KITCHEN WITH APPLIANCES * MODERN BATHROOM / WC * GAS CENTRAL HEATING * DOUBLE GLAZED * NEUTRAL DECORATIONS & FLOORING * UNFURNISHED * EPC – BAND D * COUNCIL TAX BAND C, BARNET * AVAILABLE NOW * FIVE WEEKS RENT AS DEPOSIT * ONE WEEKS RENT AS HOLDING DEPOSIT",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"Tehran\", \"Persians\", \"The Irish...\".",
+  "date_found": "2026-10-28",
+  "features": "",
+  "listed": "2026-10-28",
+  "lat": 51.604797,
+  "lng": -0.188423,
+  "agent": "Bennett & Hall, London",
+  "commute_min": 42,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "14 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,850"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94847565",
+  "title": "Mawbey Street — 2-bed",
+  "area": "Mawbey Street, London, SW8",
+  "price": 1855,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-10-28",
+  "commute": "32 min · 🚇 Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94847565",
+  "source": "rightmove",
+  "photos": [
+   "photos/94847565_0.jpg",
+   "photos/94847565_1.jpg",
+   "photos/94847565_2.jpg",
+   "photos/94847565_3.jpg",
+   "photos/94847565_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Residential Realtors, London. That moment when you have your heart set on your dream property only to be told it has been let! London rental market is not just one of the most competitive markets in the world but fastmoving, with multiple tenants in a race to get the top properties. On many occasions up to 15 applicants for a single open house viewing. Here at Residential Realtors we have listened to your feedback and are proud to be the first London agent to offer the opportunity to make a Pre Viewing Reservation (PVR) What is a Pre Viewing Reservation (PVR)? If all tenants are unable to view the property immediately. Reserve the property before your scheduled viewing time, by placing a PVR offer you will have the comfort of knowing that the property is reserved for you until your scheduled viewing slot. How can a make a PVR offer? 1. Complete our Pre-viewing Reservation Form (E-sign Application available on request",
+  "hood": "Hoodmaps: Rich (Oval); nearby tags: \"Portuguese brothel\", \"third world from the outside\", \"Little Portugal\", \"Little Portugal\".",
+  "date_found": "2026-10-28",
+  "features": "",
+  "listed": "2026-10-28",
+  "lat": 51.47784,
+  "lng": -0.126548,
+  "agent": "Residential Realtors, London",
+  "commute_min": 32,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Northern"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.9,
+    "max": 3,
+    "reason": "£1,855"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94848627",
+  "title": "St. Charles Square — 1-bed",
+  "area": "St. Charles Square, London, W10",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished or unfurnished, landlord is flexible",
+  "available": "2026-12-14",
+  "commute": "36 min · 🚇 Circle (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94848627",
+  "source": "rightmove",
+  "photos": [
+   "photos/94848627_0.jpg",
+   "photos/94848627_1.jpg",
+   "photos/94848627_2.jpg",
+   "photos/94848627_3.jpg",
+   "photos/94848627_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3044896. We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location. Available to move in from 07 December 2026. Viewing highly recommended. Contact us today for more details or to arrange a viewing! Summary Rent £1,950.00 per month (£450.00 per week) Maximum number of tenants is 2 Summary & Exclusions: - Rent Amount: £1,950.00 per month (£450.00 per week) - Deposit / Bond: £2,250.00 - 1 Bedrooms - 1 Bathrooms - Property comes furnished or unfurnished (tenant can decide) - Available to move in from 14 December 2026 - Maximum number of tenants is 2 - Students welcome to enquire - Smokers considered - Bills not included - No Parking Available - No Garden Access - EPC Rating: D If calling, please quote reference: 3044896 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlord show you round! ** Requ",
+  "hood": "Hoodmaps: Rich (St. Helen's); nearby tags: \"it's the hood but ppl are rich too\", \"morocco\", \"aj tracy\".",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3044896",
+  "listed": "2026-10-28",
+  "lat": 51.519638,
+  "lng": -0.215494,
+  "agent": "OpenRent, London",
+  "commute_min": 36,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 16.2,
+    "max": 20,
+    "reason": "36 min door-to-door (TfL): 🚇 Circle"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "14 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 4.0,
+    "max": 5,
+    "reason": "Furnished or unfurnished, landlord is flexible"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94851582",
+  "title": "St. Pauls Terrace London SE17 — 1-bed",
+  "area": "St. Pauls Terrace London SE17",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-10-28",
+  "commute": "33 min · 🚇 Northern (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94851582",
+  "source": "rightmove",
+  "photos": [
+   "photos/94851582_0.jpg",
+   "photos/94851582_1.jpg",
+   "photos/94851582_2.jpg",
+   "photos/94851582_3.jpg",
+   "photos/94851582_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Acorn, Kennington. A Well-Proportioned One-Bedroom Home with Generous Living Space Situated on St. Pauls Terrace, SE17 3QH, this well-proportioned one-bedroom home offers comfortable living, a practical layout and excellent potential for tenants seeking a welcoming place to call home in South East London. The property boasts a spacious reception room measuring approximately 5.63m x 3.63m, providing plenty of room to relax, entertain guests or create a dedicated dining area. The neutral décor and wood-effect flooring create a bright, versatile space that can easily be personalised to suit your own style, while the large window allows natural light to flow through the room. The separate kitchen is thoughtfully arranged, making efficient use of the available space and providing the essential facilities for everyday cooking. The double bedroom offers a comfortable and peaceful retreat, with generous proportion",
+  "hood": "Hoodmaps: Hipsters (Newington), also painted Rich; nearby tags: \"last remaining non-hipster high street i\", \"HENLLOOOO, this my hosueeee!\".",
+  "date_found": "2026-10-28",
+  "features": "One-bedroom home to rent in SE17; Spacious reception room; Separate fitted kitchen; Well-proportioned double bedroom; Bathroom with bath and shower; Approx. 493 sq. ft. of accommodation; Convenient South East London location; Early viewing highly recommended",
+  "listed": "2026-10-28",
+  "lat": 51.48514,
+  "lng": -0.10248,
+  "agent": "Acorn, Kennington",
+  "commute_min": 33,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: bright(+2), light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.2,
+    "max": 20,
+    "reason": "33 min door-to-door (TfL): 🚇 Northern"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "terrace"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94852101",
+  "title": "Bartholomew Villas — 1-bed",
+  "area": "Bartholomew Villas, Kentish Town",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "",
+  "commute": "19 min · 🚌 bus 134 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94852101",
+  "source": "rightmove",
+  "photos": [
+   "photos/94852101_0.jpg",
+   "photos/94852101_1.jpg",
+   "photos/94852101_2.jpg",
+   "photos/94852101_3.jpg",
+   "photos/94852101_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Dexters, Kentish Town & Camden. A well presenting one bedroom flat. This property boasts a double bedroom with ample storage space throughout, an open plan Kitchen-Living-Dining area that opens up to a communal garden. Bartholomew Villas is located only a short walk away from Kentish Town West (Mildmay Line) as well as Kentish Town Tube Station (Northern Line) and local amenities. Security Deposit: £2,250 Council Tax Band: D ",
+  "hood": "Hoodmaps: Hipsters (Cantelowes), also painted Tourists; nearby tags: \"watch dogs legion place\", \"The road of a thousand weirdos\", \"20p Man\", \"Spanish, grunge and punk\".",
+  "date_found": "2026-10-28",
+  "features": "Double Bedroom; Communal Garden; Hardwood Flooring; Sash Windows; Local Amenities; Great Transport Links",
+  "listed": "2026-10-28",
+  "lat": 51.545866,
+  "lng": -0.140951,
+  "agent": "Dexters, Kentish Town & Camden",
+  "commute_min": 19,
+  "commute_mode": "🚌 bus 134",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "19 min door-to-door (TfL): 🚌 bus 134"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20642922",
   "title": "Mayflower Road — 1-bed",
   "area": "Mayflower Road, London, SW9",
@@ -28,9 +602,6 @@
   "lat": 51.466999,
   "lng": -0.127,
   "agent": "Portico - Clapham",
-  "commute_min": 35,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -79,7 +650,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Clapham East · Brixton/Stockwell SW9",
+  "commute_min": 35,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94611291",
@@ -110,9 +685,6 @@
   "lat": 51.42615,
   "lng": -0.172615,
   "agent": "OpenRent, London",
-  "commute_min": 44,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -161,7 +733,11 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6
+  "fresh_days": 6,
+  "nbhd": "Tooting Broadway SW17",
+  "commute_min": 44,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94652394",
@@ -188,9 +764,6 @@
   "lat": 51.59748,
   "lng": -0.199131,
   "agent": "OpenRent, London",
-  "commute_min": 44,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -239,7 +812,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5
+  "fresh_days": 5,
+  "nbhd": "Finchley Church End N3",
+  "commute_min": 44,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94844514",
@@ -270,9 +847,6 @@
   "lat": 51.60502,
   "lng": -0.18818,
   "agent": "Barnard Marcus Lettings, North Finchley Lettings",
-  "commute_min": 42,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -321,7 +895,11 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "West Finchley N3",
+  "commute_min": 42,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20641673",
