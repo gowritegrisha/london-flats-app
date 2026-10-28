@@ -1,5 +1,81 @@
 [
  {
+  "id": "stow-old-brewery-way-2",
+  "title": "2 Old Brewery Way — 1-bed",
+  "area": "2 Old Brewery Way, Walthamstow, London E17",
+  "price": 1900,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "2026-10-28",
+  "commute": "44 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.stowbrothers.com/properties/lettings",
+  "source": "stow-brothers",
+  "photos": [],
+  "status": "new",
+  "notes": "[Stow Brothers] Stow Brothers (Ryan Goullee). Spacious one bedroom apartment in a contemporary designer development (Malt Court) near Walthamstow High Street and St James Street station. Private balcony, residents' garden, communal bike storage, open plan living. Available now. Agent: Ryan Goullee, Stow Brothers.",
+  "hood": "Hoodmaps: Hipsters (Markhouse), also painted Normies; nearby tags: \"best bus route (158)\".",
+  "date_found": "2026-10-28",
+  "features": "",
+  "listed": "2026-10-28",
+  "lat": 51.5806,
+  "lng": -0.0318,
+  "agent": "Stow Brothers (Ryan Goullee)",
+  "commute_min": 44,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 65,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: contemporary(+2), balcony(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0.6,
+    "max": 3,
+    "reason": "£1,900"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20641426",
   "title": "Maryland Road — 1-bed",
   "area": "Maryland Road, Wood Green",
@@ -28,9 +104,6 @@
   "lat": 51.607501,
   "lng": -0.107828,
   "agent": "Barnard Marcus - Muswell Hill",
-  "commute_min": 50,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -81,7 +154,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 50,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94823094",
@@ -112,9 +188,6 @@
   "lat": 51.54797,
   "lng": -0.20357,
   "agent": "Hamptons, West Hampstead",
-  "commute_min": 32,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -163,7 +236,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 32,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94715739",
@@ -194,9 +270,6 @@
   "lat": 51.551254,
   "lng": -0.224335,
   "agent": "OpenRent, London",
-  "commute_min": 37,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -245,7 +318,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 2
+  "fresh_days": 2,
+  "commute_min": 37,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94824909",
@@ -276,9 +352,6 @@
   "lat": 51.514313,
   "lng": -0.214088,
   "agent": "OpenRent, London",
-  "commute_min": 35,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -327,7 +400,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 35,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94829757",
@@ -358,9 +434,6 @@
   "lat": 51.480392,
   "lng": -0.034046,
   "agent": "Alex & Matteo, London",
-  "commute_min": 49,
-  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 60,
@@ -411,7 +484,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 49,
+  "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
+  "commute_ok": false
  },
  {
   "id": "94834308",
@@ -442,9 +518,6 @@
   "lat": 51.604381,
   "lng": -0.197548,
   "agent": "Stones Residential, Belsize Park",
-  "commute_min": 45,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -493,7 +566,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 45,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94834845",
@@ -524,9 +600,6 @@
   "lat": 51.504188,
   "lng": -0.075399,
   "agent": "Marsh & Parsons, London Bridge",
-  "commute_min": 41,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -575,7 +648,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚇 Circle",
+  "commute_ok": true
  },
  {
   "id": "94836108",
@@ -605,9 +681,6 @@
   "lat": 51.551224,
   "lng": -0.22434,
   "agent": "OpenRent, London",
-  "commute_min": 37,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -656,7 +729,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 37,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94837431",
@@ -687,9 +763,6 @@
   "lat": 51.61721,
   "lng": -0.11185,
   "agent": "Peter Michael Estates & Lettings, London",
-  "commute_min": 42,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 73,
   "score_breakdown": {
    "style": {
@@ -738,7 +811,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 42,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94838022",
@@ -769,9 +845,6 @@
   "lat": 51.51893,
   "lng": -0.135914,
   "agent": "Pearl & Coutts, London",
-  "commute_min": 13,
-  "commute_mode": "🚌 bus 24",
-  "commute_ok": true,
   "score": 75,
   "score_breakdown": {
    "style": {
@@ -820,7 +893,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 13,
+  "commute_mode": "🚌 bus 24",
+  "commute_ok": true
  },
  {
   "id": "94665324",
