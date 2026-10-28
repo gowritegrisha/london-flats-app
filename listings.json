@@ -1,5 +1,87 @@
 [
  {
+  "id": "otm-20639749",
+  "title": "Ballards Lane — 1-bed",
+  "area": "Ballards Lane, London",
+  "price": 1800,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-01",
+  "commute": "42 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20639749/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20639749_0.jpg",
+   "photos/otm-20639749_1.jpg",
+   "photos/otm-20639749_2.jpg",
+   "photos/otm-20639749_3.jpg",
+   "photos/otm-20639749_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] LGK Properties - London. LGK Properties are pleased to offer a brand new one-bedroom flat finished to a high standard throughout. Featuring a spacious double bedroom, bright open-plan living area, modern fitted kitchen and stylish bathroom. Located in Finchley, close to local shops, amenities and excellent transport links. Please contact on Office Landline[use Contact Agent Button] Mobile[use Contact Agent Button] Regards LGK Properties Holding Deposit: £415.38",
+  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"Tehran\", \"Persians\".",
+  "date_found": "2026-10-28",
+  "features": "",
+  "listed": "2026-10-28",
+  "lat": 51.605027,
+  "lng": -0.188023,
+  "agent": "LGK Properties - London",
+  "commute_min": 42,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 68,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), open-plan(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 1.2,
+    "max": 3,
+    "reason": "£1,800"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "94808751",
   "title": "Majestic Court — 1-bed",
   "area": "Majestic Court, Portland Rise, Finsbury Park",
@@ -28,9 +110,6 @@
   "lat": 51.5686,
   "lng": -0.09756,
   "agent": "Ariston Property, London",
-  "commute_min": 36,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -79,7 +158,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 1,
+  "commute_min": 36,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20638715",
@@ -158,7 +240,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Friern Barnet N11",
   "commute_min": 43,
   "commute_mode": "🚆 Thameslink + Victoria",
@@ -241,7 +323,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "New Southgate N11",
   "commute_min": 44,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -324,7 +406,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Herne Hill/Loughborough Junction SE24",
   "commute_min": 35,
   "commute_mode": "🚆 Thameslink + Metropolitan",
@@ -409,7 +491,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "South Bermondsey · Southwark SE1",
   "commute_min": 52,
   "commute_mode": "🚇 Jubilee + Victoria",
@@ -488,7 +570,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Alexandra Park · Wood Green N22",
   "commute_min": 39,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -571,7 +653,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Hackney Downs E5",
   "commute_min": 43,
   "commute_mode": "🚆 Weaver + Victoria",
@@ -654,7 +736,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Fulham Town SW6",
   "commute_min": 42,
   "commute_mode": "🚇 District + Victoria",
@@ -739,7 +821,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Stratford E15",
   "commute_min": 51,
   "commute_mode": "🚈 DLR + Elizabeth line + Northern",
@@ -822,7 +904,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Crouch End · Hornsey/Crouch End N8",
   "commute_min": 42,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -904,7 +986,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Holloway N7",
   "commute_min": 28,
   "commute_mode": "🚌 bus 29",
@@ -987,7 +1069,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Walham Green SW6",
   "commute_min": 38,
   "commute_mode": "🚇 District + Victoria",
@@ -1070,7 +1152,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Hackney Wick E9",
   "commute_min": 45,
   "commute_mode": "🚆 Mildmay + Victoria",
@@ -1153,7 +1235,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Clissold · Stoke Newington N16",
   "commute_min": 40,
   "commute_mode": "🚆 Mildmay + Victoria",
@@ -1236,7 +1318,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Barnsbury N1",
   "commute_min": 30,
   "commute_mode": "🚇 Northern + Victoria",
@@ -1321,7 +1403,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Brockley SE4",
   "commute_min": 52,
   "commute_mode": "🚆 Southeastern + Jubilee + Victoria",
@@ -1400,7 +1482,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Caledonian N1",
   "commute_min": 26,
   "commute_mode": "🚌 bus 390",
@@ -1483,7 +1565,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Balham SW12",
   "commute_min": 42,
   "commute_mode": "🚇 Northern + Victoria",
@@ -1566,7 +1648,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Totteridge/Woodside NW7",
   "commute_min": 38,
   "commute_mode": "🚇 Northern + Victoria",
@@ -1649,7 +1731,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "South Tottenham N15",
   "commute_min": 31,
   "commute_mode": "🚇 Victoria",
@@ -1731,7 +1813,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Abbey Road · St John's Wood NW8",
   "commute_min": 38,
   "commute_mode": "🚆 Lioness",
@@ -1814,7 +1896,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Childs Hill NW11",
   "commute_min": 31,
   "commute_mode": "🚇 Northern + Victoria",
@@ -1897,7 +1979,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Tufnell Park · Holloway N7",
   "commute_min": 26,
   "commute_mode": "🚌 bus 29",
@@ -1980,7 +2062,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Clapham Town · Brixton/Stockwell SW9",
   "commute_min": 31,
   "commute_mode": "🚇 Northern + Victoria",
@@ -2063,7 +2145,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Stockwell East · Brixton/Stockwell SW9",
   "commute_min": 33,
   "commute_mode": "🚇 Victoria",
@@ -2146,7 +2228,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Notting Dale W11",
   "commute_min": 30,
   "commute_mode": "🚇 Circle",
@@ -2228,7 +2310,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Barnsbury N1",
   "commute_min": 27,
   "commute_mode": "🚇 Victoria",
@@ -2311,7 +2393,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Cricklewood/Mapesbury NW2",
   "commute_min": 39,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -2394,7 +2476,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "St Mary's/St James' N1",
   "commute_min": 32,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -2477,7 +2559,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Earl's Court SW5",
   "commute_min": 31,
   "commute_mode": "🚇 District + Victoria",
@@ -2560,93 +2642,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Farringdon Within EC1A",
   "commute_min": 23,
   "commute_mode": "🚇 Metropolitan",
-  "commute_ok": true
- },
- {
-  "id": "94495677",
-  "title": "Slievemore Close — 1-bed",
-  "area": "Slievemore Close, London, SW4",
-  "price": 1900,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Part furnished",
-  "available": "2026-11-19",
-  "commute": "34 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94495677",
-  "source": "rightmove",
-  "photos": [
-   "photos/94495677_0.jpg",
-   "photos/94495677_1.jpg",
-   "photos/94495677_2.jpg",
-   "photos/94495677_3.jpg",
-   "photos/94495677_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Aspire, Clapham - Lettings. A well proportioned one bedroom flat situated in Slievemore Close, a gated development located just moments away from Clapham North underground station providing easy access to The City and West End. This accommodation is in good order throughout and comprises of a good sized reception room with a kitchen just off, a double bedroom and a family bathroom. This property also benefits from access to communal parking. Local amenities can be found close by including numerous shops, bars, cafés and restaurants. Available Part Furnished. ",
-  "hood": "Hoodmaps: Rich (Clapham Town), also painted Normies; nearby tags: \"Jamaica\", \"Brunch brunch brunch brunch\", \"Australian Bogans\", \"block parties\".",
-  "date_found": "2026-10-27",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.464314,
-  "lng": -0.132152,
-  "agent": "Aspire, Clapham - Lettings",
-  "score": 62,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 17.6,
-    "max": 20,
-    "reason": "34 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "19 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 3.5,
-    "max": 5,
-    "reason": "part furnished"
-   },
-   "price": {
-    "points": 0.6,
-    "max": 3,
-    "reason": "£1,900"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Clapham Town SW4",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern + Victoria",
   "commute_ok": true
  },
  {
@@ -2728,7 +2727,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "East Finchley N2",
   "commute_min": 49,
   "commute_mode": "🚇 Northern + Victoria",
@@ -2810,93 +2809,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Kentish Town North NW5",
   "commute_min": 26,
   "commute_mode": "🚌 bus 134",
-  "commute_ok": true
- },
- {
-  "id": "or-3080779",
-  "title": "1 Bed Flat — 1-bed",
-  "area": "1 Bed Flat, Earlham St, WC2H",
-  "price": 1995,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-10-27",
-  "commute": "16 min · 🚌 bus 24 (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/3080779",
-  "source": "openrent",
-  "photos": [
-   "photos/or-3080779_0.jpg",
-   "photos/or-3080779_1.jpg",
-   "photos/or-3080779_2.jpg",
-   "photos/or-3080779_3.jpg",
-   "photos/or-3080779_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). ",
-  "hood": "Hoodmaps: Rich (St. James's), also painted Tourists/Students; nearby tags: \"Gay++\", \"Chinatown\", \"Hillsong Church\", \"LDN's times sq\".",
-  "date_found": "2026-10-27",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.51355,
-  "lng": -0.1278186,
-  "agent": "OpenRent (private landlord)",
-  "score": 64,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 20,
-    "max": 20,
-    "reason": "16 min door-to-door (TfL): 🚌 bus 24"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 8.8,
-    "max": 10,
-    "reason": "27 Oct: 5 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0.0,
-    "max": 3,
-    "reason": "£1,995"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "pets allowed"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Holborn/Covent Garden WC2H",
-  "commute_min": 16,
-  "commute_mode": "🚌 bus 24",
   "commute_ok": true
  },
  {
@@ -2974,7 +2890,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Abbey Road · St John's Wood NW8",
   "commute_min": 27,
   "commute_mode": "🚌 bus 113 + bus 18",
@@ -3057,7 +2973,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Junction · Upper Holloway N19",
   "commute_min": 32,
   "commute_mode": "🚇 Northern + Victoria",
@@ -3140,7 +3056,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "East Acton W3",
   "commute_min": 43,
   "commute_mode": "🚇 Central + Victoria",
@@ -3223,7 +3139,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 43,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -3306,7 +3222,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Dalgarno W10",
   "commute_min": 39,
   "commute_mode": "🚇 Circle",
@@ -3389,7 +3305,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "Colindale South NW9",
   "commute_min": 44,
   "commute_mode": "🚇 Northern + Victoria",
@@ -3474,7 +3390,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "East Greenwich SE10",
   "commute_min": 63,
   "commute_mode": "🚆 Thameslink + Hammersmith & City",
@@ -3557,7 +3473,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0,
+  "fresh_days": 1,
   "nbhd": "West Hampstead · Kilburn/West Hampstead NW6",
   "commute_min": 35,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -3640,7 +3556,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Tottenham Central · South Tottenham N15",
   "commute_min": 34,
   "commute_mode": "🚇 Victoria",
@@ -3723,7 +3639,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Fortune Green · Kilburn/West Hampstead NW6",
   "commute_min": 44,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -3806,7 +3722,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Weavers E2",
   "commute_min": 40,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -3889,7 +3805,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
   "commute_min": 34,
   "commute_mode": "🚆 Lioness",
@@ -3972,7 +3888,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Junction · Upper Holloway N19",
   "commute_min": 31,
   "commute_mode": "🚇 Northern + Victoria",
@@ -4055,7 +3971,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Brixton Windrush · Brixton/Stockwell SW9",
   "commute_min": 41,
   "commute_mode": "🚇 Victoria",
@@ -4138,7 +4054,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Clerkenwell EC1R",
   "commute_min": 25,
   "commute_mode": "🚌 bus 38 + bus 24",
@@ -4221,7 +4137,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Willesden Green NW10",
   "commute_min": 37,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -4304,7 +4220,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Highbury N5",
   "commute_min": 34,
   "commute_mode": "🚇 Victoria",
@@ -4387,7 +4303,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Faraday · Walworth SE17",
   "commute_min": 45,
   "commute_mode": "🚇 Northern",
@@ -4470,7 +4386,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Whitechapel E1",
   "commute_min": 37,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -4553,7 +4469,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bunhill EC1V",
   "commute_min": 34,
   "commute_mode": "🚇 Northern + Victoria",
@@ -4635,7 +4551,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Childs Hill NW11",
   "commute_min": 30,
   "commute_mode": "🚇 Northern + Victoria",
@@ -4718,7 +4634,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "West Kensington W14",
   "commute_min": 39,
   "commute_mode": "🚇 District + Victoria",
@@ -4801,7 +4717,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Mill Hill NW7",
   "commute_min": 43,
   "commute_mode": "🚇 Northern + Victoria",
@@ -4886,7 +4802,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Cricklewood/Mapesbury NW2",
   "commute_min": 49,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -4969,7 +4885,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Maida Vale W9",
   "commute_min": 41,
   "commute_mode": "🚇 Circle",
@@ -5052,7 +4968,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Bromley North · Bow E3",
   "commute_min": 43,
   "commute_mode": "🚇 District + Central + Metropolitan",
@@ -5135,7 +5051,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Walham Green SW6",
   "commute_min": 44,
   "commute_mode": "🚇 District + Victoria",
@@ -5225,7 +5141,7 @@
     "reason": "⛔ не показывать Leyton"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Leyton E10",
   "commute_min": 52,
   "commute_mode": "🚇 Central + Metropolitan",
@@ -5308,7 +5224,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Brook Green · West Kensington W14",
   "commute_min": 41,
   "commute_mode": "🚆 Mildmay + District + Victoria",
@@ -5391,7 +5307,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Highgate N6",
   "commute_min": 42,
   "commute_mode": "🚇 Northern + Victoria",
@@ -5474,7 +5390,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Colindale North NW9",
   "commute_min": 43,
   "commute_mode": "🚇 Northern + Victoria",
@@ -5557,7 +5473,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "St James E17",
   "commute_min": 35,
   "commute_mode": "🚇 Victoria",
@@ -5636,7 +5552,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Regent's Park NW1",
   "commute_min": 15,
   "commute_mode": "🚌 bus 18",
@@ -5719,7 +5635,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Addison · Hammersmith W6",
   "commute_min": 40,
   "commute_mode": "🚇 Circle",
@@ -5802,7 +5718,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Willesden Green NW10",
   "commute_min": 44,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -5885,7 +5801,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Stroud Green · Finsbury Park N4",
   "commute_min": 35,
   "commute_mode": "🚇 Victoria",
@@ -5970,7 +5886,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Kingsbury · Colindale NW9",
   "commute_min": 59,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -6053,7 +5969,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Highgate N6",
   "commute_min": 33,
   "commute_mode": "🚇 Northern + Victoria",
@@ -6135,7 +6051,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Fortune Green · Kilburn/West Hampstead NW6",
   "commute_min": 40,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -6218,7 +6134,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Arsenal N5",
   "commute_min": 31,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -6301,7 +6217,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "High Street E17",
   "commute_min": 34,
   "commute_mode": "🚇 Victoria",
@@ -6384,7 +6300,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Marylebone W1H",
   "commute_min": 20,
   "commute_mode": "🚌 bus 18",
@@ -6467,7 +6383,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Harringay · Hornsey/Crouch End N8",
   "commute_min": 36,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -6550,7 +6466,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Totteridge/Woodside N12",
   "commute_min": 45,
   "commute_mode": "🚇 Northern + Victoria",
@@ -6633,7 +6549,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Hoxton West N1",
   "commute_min": 38,
   "commute_mode": "🚇 Northern + Victoria",
@@ -6716,7 +6632,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Totteridge/Woodside N12",
   "commute_min": 39,
   "commute_mode": "🚇 Northern + Victoria",
@@ -6799,7 +6715,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Fortune Green · Cricklewood NW2",
   "commute_min": 39,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -6882,7 +6798,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "Whitechapel E1",
   "commute_min": 37,
   "commute_mode": "🚇 Circle",
@@ -6965,7 +6881,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 1,
+  "fresh_days": 2,
   "nbhd": "North Acton W3",
   "commute_min": 33,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -7048,7 +6964,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Bromley North · Bow E3",
   "commute_min": 40,
   "commute_mode": "🚇 District + Central + Metropolitan",
@@ -7129,7 +7045,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 35,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -7212,7 +7128,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Bethnal Green West · Whitechapel E1",
   "commute_min": 36,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -7295,7 +7211,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Arsenal · Holloway N7",
   "commute_min": 31,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -7377,7 +7293,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Clapham Town SW4",
   "commute_min": 35,
   "commute_mode": "🚇 Northern + Victoria",
@@ -7460,7 +7376,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "South Tottenham N15",
   "commute_min": 29,
   "commute_mode": "🚇 Victoria",
@@ -7543,7 +7459,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "North Walworth SE17",
   "commute_min": 42,
   "commute_mode": "🚇 Northern",
@@ -7628,7 +7544,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Island Gardens · Poplar/Canary Wharf E14",
   "commute_min": 54,
   "commute_mode": "🚈 DLR + Elizabeth line + Northern",
@@ -7711,7 +7627,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Bloomsbury W1T",
   "commute_min": 9,
   "commute_mode": "🚌 bus 24",
@@ -7790,7 +7706,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Addison · Shepherd's Bush W12",
   "commute_min": 37,
   "commute_mode": "🚇 Circle",
@@ -7873,7 +7789,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Hermitage/Gardens · Finsbury Park N4",
   "commute_min": 34,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -7956,7 +7872,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 2,
+  "fresh_days": 3,
   "nbhd": "Tottenham Central · South Tottenham N15",
   "commute_min": 31,
   "commute_mode": "🚇 Victoria",
@@ -8039,7 +7955,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Stepney Green · Whitechapel E1",
   "commute_min": 40,
   "commute_mode": "🚇 Hammersmith & City",
@@ -8121,7 +8037,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Weavers E2",
   "commute_min": 40,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -8204,7 +8120,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 41,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -8287,7 +8203,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Battersea Park SW11",
   "commute_min": 43,
   "commute_mode": "🚆 Southern + Victoria",
@@ -8370,7 +8286,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Spitalfields/Banglatown · Whitechapel E1",
   "commute_min": 36,
   "commute_mode": "🚇 Hammersmith & City",
@@ -8453,7 +8369,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Colindale South NW9",
   "commute_min": 39,
   "commute_mode": "🚇 Northern + Victoria",
@@ -8536,7 +8452,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Fortune Green · Kilburn/West Hampstead NW6",
   "commute_min": 37,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -8619,7 +8535,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Harringay · Hornsey/Crouch End N8",
   "commute_min": 36,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -8704,7 +8620,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Deptford SE14",
   "commute_min": 51,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -8787,7 +8703,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Fortune Green · Kilburn/West Hampstead NW6",
   "commute_min": 39,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -8870,7 +8786,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Kentish Town South NW5",
   "commute_min": 24,
   "commute_mode": "🚌 bus 134",
@@ -8953,7 +8869,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Harringay · Finsbury Park N4",
   "commute_min": 34,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -9036,7 +8952,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Tottenham Central N17",
   "commute_min": 41,
   "commute_mode": "🚇 Victoria",
@@ -9119,7 +9035,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Whitechapel E1",
   "commute_min": 34,
   "commute_mode": "🚇 Hammersmith & City",
@@ -9204,7 +9120,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Hendon NW4",
   "commute_min": 50,
   "commute_mode": "🚇 Northern + Victoria",
@@ -9287,7 +9203,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Brownswood · Finsbury Park N4",
   "commute_min": 33,
   "commute_mode": "🚇 Victoria",
@@ -9370,7 +9286,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Higham Hill E17",
   "commute_min": 44,
   "commute_mode": "🚇 Victoria",
@@ -9453,7 +9369,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Herne Hill/Loughborough Junction SE24",
   "commute_min": 43,
   "commute_mode": "🚇 Victoria",
@@ -9536,7 +9452,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Shadwell · Whitechapel E1",
   "commute_min": 37,
   "commute_mode": "🚇 Hammersmith & City",
@@ -9619,7 +9535,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Colindale North NW9",
   "commute_min": 41,
   "commute_mode": "🚇 Northern + Victoria",
@@ -9702,7 +9618,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Palmers Green N13",
   "commute_min": 43,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -9785,7 +9701,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "St Mary's/St James' N1",
   "commute_min": 33,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -9868,7 +9784,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Hendon NW4",
   "commute_min": 36,
   "commute_mode": "🚇 Northern + Victoria",
@@ -9953,7 +9869,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Fulham Reach · Hammersmith W6",
   "commute_min": 49,
   "commute_mode": "🚇 District + Victoria",
@@ -10036,7 +9952,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "West Dulwich SE21",
   "commute_min": 45,
   "commute_mode": "🚆 Southeastern + Victoria",
@@ -10119,7 +10035,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Maryland E15",
   "commute_min": 41,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -10202,7 +10118,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Regent's Park NW1",
   "commute_min": 13,
   "commute_mode": "🚌 bus 27",
@@ -10285,7 +10201,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Trinity SW17",
   "commute_min": 40,
   "commute_mode": "🚇 Northern + Victoria",
@@ -10370,7 +10286,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 3,
+  "fresh_days": 4,
   "nbhd": "Rye Lane SE15",
   "commute_min": 51,
   "commute_mode": "🚆 Southeastern + Victoria",
@@ -10453,7 +10369,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Earl's Court SW5",
   "commute_min": 35,
   "commute_mode": "🚇 District + Victoria",
@@ -10536,7 +10452,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Highgate N6",
   "commute_min": 40,
   "commute_mode": "🚇 Northern + Victoria",
@@ -10621,7 +10537,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Tooting Broadway SW17",
   "commute_min": 48,
   "commute_mode": "🚇 Northern + Victoria",
@@ -10706,7 +10622,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Tooting Broadway SW17",
   "commute_min": 48,
   "commute_mode": "🚇 Northern + Victoria",
@@ -10789,7 +10705,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Golders Green NW11",
   "commute_min": 35,
   "commute_mode": "🚇 Northern + Victoria",
@@ -10872,7 +10788,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Golders Green NW11",
   "commute_min": 34,
   "commute_mode": "🚇 Northern + Victoria",
@@ -10955,7 +10871,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "West Finchley N3",
   "commute_min": 40,
   "commute_mode": "🚇 Northern + Victoria",
@@ -11038,7 +10954,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Bow East E3",
   "commute_min": 42,
   "commute_mode": "🚇 District + Central + Metropolitan",
@@ -11121,7 +11037,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Evelyn SE8",
   "commute_min": 58,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -11206,7 +11122,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "North Bermondsey SE16",
   "commute_min": 47,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -11289,7 +11205,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Cazenove · Stoke Newington N16",
   "commute_min": 42,
   "commute_mode": "🚆 Weaver + Victoria",
@@ -11371,7 +11287,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Holborn/Covent Garden WC2H",
   "commute_min": 17,
   "commute_mode": "🚌 bus 24",
@@ -11454,7 +11370,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Lancaster Gate · Paddington W2",
   "commute_min": 31,
   "commute_mode": "🚇 Circle",
@@ -11537,7 +11453,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Clapham Common/Abbeville SW12",
   "commute_min": 39,
   "commute_mode": "🚇 Northern + Victoria",
@@ -11622,7 +11538,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Palmers Green N13",
   "commute_min": 46,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -11705,7 +11621,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Kentish Town South NW5",
   "commute_min": 26,
   "commute_mode": "🚌 bus 88 + bus 29",
@@ -11782,7 +11698,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Earl's Court SW5",
   "commute_min": 34,
   "commute_mode": "🚇 District + Victoria",
@@ -11865,7 +11781,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 40,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -11948,7 +11864,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 36,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -12033,7 +11949,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Brockley SE13",
   "commute_min": 56,
   "commute_mode": "🚆 Thameslink + Hammersmith & City",
@@ -12116,7 +12032,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Spitalfields/Banglatown · Whitechapel E1",
   "commute_min": 32,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -12199,7 +12115,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Bethnal Green East · Whitechapel E1",
   "commute_min": 38,
   "commute_mode": "🚇 Hammersmith & City",
@@ -12282,7 +12198,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Whitechapel E1",
   "commute_min": 42,
   "commute_mode": "🚈 DLR + Northern + Victoria",
@@ -12365,7 +12281,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "West Green · South Tottenham N15",
   "commute_min": 32,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -12448,7 +12364,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Hammersmith Broadway W6",
   "commute_min": 42,
   "commute_mode": "🚇 Circle",
@@ -12531,7 +12447,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Palmers Green N13",
   "commute_min": 43,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -12614,7 +12530,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Noel Park · Wood Green N22",
   "commute_min": 38,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -12699,7 +12615,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "West Hendon · Colindale NW9",
   "commute_min": 52,
   "commute_mode": "🚆 Thameslink + Hammersmith & City",
@@ -12782,7 +12698,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Totteridge/Woodside N12",
   "commute_min": 41,
   "commute_mode": "🚇 Northern + Victoria",
@@ -12859,7 +12775,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "South Balham SW12",
   "commute_min": 44,
   "commute_mode": "🚇 Northern + Victoria",
@@ -12942,7 +12858,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Whitechapel E1",
   "commute_min": 39,
   "commute_mode": "🚇 Hammersmith & City",
@@ -13025,7 +12941,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "High Street E17",
   "commute_min": 43,
   "commute_mode": "🚇 Victoria",
@@ -13110,7 +13026,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Lewisham Central SE13",
   "commute_min": 47,
   "commute_mode": "🚆 Southeastern + Northern",
@@ -13193,7 +13109,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Oval · Vauxhall SW8",
   "commute_min": 34,
   "commute_mode": "🚇 Northern",
@@ -13276,7 +13192,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Borough/Bankside · Southwark SE1",
   "commute_min": 32,
   "commute_mode": "🚇 Northern",
@@ -13359,7 +13275,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Woodside · Wood Green N22",
   "commute_min": 44,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -13442,7 +13358,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Grove · Hammersmith W6",
   "commute_min": 39,
   "commute_mode": "🚇 Circle",
@@ -13525,7 +13441,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Highbury N5",
   "commute_min": 29,
   "commute_mode": "🚇 Victoria",
@@ -13610,7 +13526,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Battersea Park SW11",
   "commute_min": 53,
   "commute_mode": "🚆 Southern + Victoria",
@@ -13695,7 +13611,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "East Sheen SW14",
   "commute_min": 57,
   "commute_mode": "🚆 South Western Railway + Victoria",
@@ -13778,7 +13694,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Herne Hill/Loughborough Junction SE24",
   "commute_min": 39,
   "commute_mode": "🚆 Thameslink + Metropolitan",
@@ -13861,7 +13777,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Herne Hill/Loughborough Junction SE24",
   "commute_min": 39,
   "commute_mode": "🚆 Thameslink + Metropolitan",
@@ -13940,7 +13856,7 @@
   },
   "listed_reason": "Added today",
   "listed": "2026-10-23",
-  "fresh_days": 4,
+  "fresh_days": 5,
   "rating": "like"
  },
  {
@@ -14020,7 +13936,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Herne Hill/Loughborough Junction SE24",
   "commute_min": 43,
   "commute_mode": "🚇 Victoria",
@@ -14103,7 +14019,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "High Street E17",
   "commute_min": 43,
   "commute_mode": "🚆 Suffragette + Victoria",
@@ -14188,7 +14104,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Southfield · Chiswick W4",
   "commute_min": 57,
   "commute_mode": "🚇 District + Victoria",
@@ -14271,7 +14187,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Coningham · Shepherd's Bush W12",
   "commute_min": 40,
   "commute_mode": "🚇 Circle",
@@ -14354,7 +14270,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Addison · Hammersmith W6",
   "commute_min": 37,
   "commute_mode": "🚇 Central + Victoria",
@@ -14437,7 +14353,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Kennington SE11",
   "commute_min": 32,
   "commute_mode": "🚇 Northern",
@@ -14520,7 +14436,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "Queen's Park W10",
   "commute_min": 42,
   "commute_mode": "🚆 Lioness",
@@ -14599,7 +14515,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Junction · Upper Holloway N19",
   "commute_min": 31,
   "commute_mode": "🚇 Northern + Victoria",
@@ -14682,7 +14598,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 4,
+  "fresh_days": 5,
   "nbhd": "College Park/Old Oak · Willesden NW10",
   "commute_min": 40,
   "commute_mode": "🚆 Lioness",
@@ -14765,7 +14681,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Queens Park · Kilburn/West Hampstead NW6",
   "commute_min": 36,
   "commute_mode": "🚆 Lioness",
@@ -14853,7 +14769,7 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Grove · Hammersmith W6",
   "rating": "like",
   "commute_min": 37,
@@ -14937,7 +14853,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Brixton Acre Lane SW2",
   "commute_min": 39,
   "commute_mode": "🚇 Victoria",
@@ -15022,7 +14938,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Chiswick Homefields W4",
   "commute_min": 52,
   "commute_mode": "🚇 District + Victoria",
@@ -15110,7 +15026,7 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "St James E17",
   "note": "Агент показывает только вживую, онлайн не может, но обещал прислать видео (Маша, 23 окт).",
   "rating": "like",
@@ -15200,7 +15116,7 @@
     "reason": "⛔ не показывать Islington"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "St Mary's/St James' N1",
   "commute_min": 33,
   "commute_mode": "🚇 Northern + Victoria",
@@ -15283,7 +15199,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Hoe Street E17",
   "commute_min": 41,
   "commute_mode": "🚇 Victoria",
@@ -15366,7 +15282,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 45,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -15451,7 +15367,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Dulwich Wood SE23",
   "commute_min": 64,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -15534,7 +15450,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Pembridge · Paddington W2",
   "commute_min": 35,
   "commute_mode": "🚇 Central + Victoria",
@@ -15619,7 +15535,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Clapham Park SW4",
   "commute_min": 55,
   "commute_mode": "🚇 Northern + Victoria",
@@ -15702,7 +15618,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Fortune Green · Cricklewood NW2",
   "commute_min": 41,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -15785,7 +15701,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "North Acton W3",
   "commute_min": 39,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -15868,7 +15784,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Newington · Walworth SE17",
   "commute_min": 37,
   "commute_mode": "🚇 Northern",
@@ -15951,7 +15867,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Frognal NW3",
   "commute_min": 30,
   "commute_mode": "🚇 Northern + Victoria",
@@ -16030,7 +15946,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Earl's Court SW5",
   "commute_min": 33,
   "commute_mode": "🚇 District + Victoria",
@@ -16118,7 +16034,7 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Hoe Street E17",
   "rating": "like",
   "commute_min": 41,
@@ -16202,7 +16118,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "North Acton W3",
   "commute_min": 40,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -16285,7 +16201,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Tottenham Hale N17",
   "commute_min": 34,
   "commute_mode": "🚇 Victoria",
@@ -16368,7 +16284,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Totteridge/Woodside N12",
   "commute_min": 45,
   "commute_mode": "🚇 Northern + Victoria",
@@ -16451,7 +16367,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Stroud Green · Finsbury Park N4",
   "commute_min": 31,
   "commute_mode": "🚇 Victoria",
@@ -16534,7 +16450,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Trinity SW17",
   "commute_min": 43,
   "commute_mode": "🚇 Northern + Victoria",
@@ -16618,7 +16534,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "East Finchley N2",
   "commute_min": 47,
   "commute_mode": "🚇 Northern + Victoria",
@@ -16701,7 +16617,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Addison · Shepherd's Bush W12",
   "commute_min": 37,
   "commute_mode": "🚇 Circle",
@@ -16786,7 +16702,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "White City · Shepherd's Bush W12",
   "commute_min": 46,
   "commute_mode": "🚇 Central + Victoria",
@@ -16869,7 +16785,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Coningham · Shepherd's Bush W12",
   "commute_min": 41,
   "commute_mode": "🚇 Circle",
@@ -16954,7 +16870,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Lewisham Central SE13",
   "commute_min": 52,
   "commute_mode": "🚆 Southeastern + Northern",
@@ -17037,7 +16953,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Bounds Green N11",
   "commute_min": 34,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -17120,7 +17036,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Coningham · Shepherd's Bush W12",
   "commute_min": 38,
   "commute_mode": "🚇 Circle",
@@ -17203,7 +17119,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Brondesbury Park · Kilburn/West Hampstead NW6",
   "commute_min": 43,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -17286,7 +17202,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Herne Hill/Loughborough Junction SE24",
   "commute_min": 43,
   "commute_mode": "🚇 Victoria",
@@ -17369,7 +17285,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Bethnal Green East E2",
   "commute_min": 35,
   "commute_mode": "🚇 Central + Metropolitan",
@@ -17454,7 +17370,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "West Hendon · Colindale NW9",
   "commute_min": 54,
   "commute_mode": "🚆 Thameslink + Hammersmith & City",
@@ -17535,7 +17451,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Tooting Broadway SW17",
   "commute_min": 45,
   "commute_mode": "🚇 Northern + Victoria",
@@ -17618,7 +17534,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "North Acton W3",
   "commute_min": 44,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -17700,7 +17616,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
   "commute_min": 35,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -17783,7 +17699,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "South Balham SW17",
   "commute_min": 42,
   "commute_mode": "🚇 Northern + Victoria",
@@ -17866,7 +17782,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Limehouse · Poplar/Canary Wharf E14",
   "commute_min": 40,
   "commute_mode": "🚈 DLR + Northern + Victoria",
@@ -17948,7 +17864,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Friern Barnet N11",
   "commute_min": 45,
   "commute_mode": "🚆 Thameslink + Victoria",
@@ -18031,7 +17947,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Friern Barnet N11",
   "commute_min": 45,
   "commute_mode": "🚆 Thameslink + Victoria",
@@ -18114,7 +18030,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "Chiswick Homefields W4",
   "commute_min": 44,
   "commute_mode": "🚇 District + Victoria",
@@ -18199,7 +18115,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 5,
+  "fresh_days": 6,
   "nbhd": "West Ham E15",
   "commute_min": 55,
   "commute_mode": "🚇 Hammersmith & City",
@@ -18284,7 +18200,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Wandsworth Common SW17",
   "commute_min": 62,
   "commute_mode": "🚆 South Western Railway + Victoria",
@@ -18369,7 +18285,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "West Ham E15",
   "commute_min": 47,
   "commute_mode": "🚇 District + Central + Metropolitan",
@@ -18452,7 +18368,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Fortune Green NW3",
   "commute_min": 38,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -18537,7 +18453,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Old Kent Road SE15",
   "commute_min": 56,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -18625,7 +18541,7 @@
     "reason": "⛔ не показывать Leyton"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Cathall E11",
   "commute_min": 43,
   "commute_mode": "🚇 Central + Metropolitan",
@@ -18710,7 +18626,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "South Acton W3",
   "commute_min": 48,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -18795,7 +18711,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Southfield · Acton W3",
   "commute_min": 59,
   "commute_mode": "🚇 District + Victoria",
@@ -18880,7 +18796,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "East Putney SW15",
   "commute_min": 59,
   "commute_mode": "🚆 South Western Railway + Victoria",
@@ -18963,7 +18879,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Waterloo/South Bank · Southwark SE1",
   "commute_min": 33,
   "commute_mode": "🚇 Bakerloo + Victoria",
@@ -19046,7 +18962,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Clapham Common/Abbeville SW4",
   "commute_min": 39,
   "commute_mode": "🚇 Northern + Victoria",
@@ -19123,7 +19039,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Primrose Hill NW3",
   "commute_min": 35,
   "commute_mode": "🚇 Northern + Victoria",
@@ -19205,7 +19121,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "East Acton W3",
   "commute_min": 37,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -19290,7 +19206,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Stonebridge · Willesden NW10",
   "commute_min": 55,
   "commute_mode": "🚇 Central + Victoria",
@@ -19375,7 +19291,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Surrey Docks SE16",
   "commute_min": 56,
   "commute_mode": "🚆 Windrush + Elizabeth line + Northern",
@@ -19458,7 +19374,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Ealing Broadway W5",
   "commute_min": 43,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -19541,7 +19457,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Brixton North · Brixton/Stockwell SW9",
   "commute_min": 38,
   "commute_mode": "🚇 Victoria",
@@ -19624,7 +19540,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Lancaster Gate · Paddington W2",
   "commute_min": 29,
   "commute_mode": "🚇 District + Hammersmith & City",
@@ -19707,7 +19623,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Chaucer · Southwark SE1",
   "commute_min": 36,
   "commute_mode": "🚇 Northern",
@@ -19790,7 +19706,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Willesden Green · Cricklewood NW2",
   "commute_min": 35,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -19878,7 +19794,7 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Cricklewood/Mapesbury NW2",
   "rating": "like",
   "commute_min": 31,
@@ -19964,7 +19880,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "West Hill SW19",
   "commute_min": 61,
   "commute_mode": "🚇 District + Victoria",
@@ -20047,7 +19963,7 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Notting Dale W11",
   "commute_min": 34,
   "commute_mode": "🚇 Circle",
@@ -20130,7 +20046,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Frognal NW3",
   "commute_min": 29,
   "commute_mode": "🚇 Metropolitan",
@@ -20213,7 +20129,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "College Park/Old Oak · Willesden NW10",
   "commute_min": 45,
   "commute_mode": "🚆 Lioness",
@@ -20296,7 +20212,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Maryland E15",
   "commute_min": 40,
   "commute_mode": "🚆 Elizabeth line + Northern",
@@ -20381,7 +20297,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Wimbledon Park SW19",
   "commute_min": 51,
   "commute_mode": "🚇 District + Victoria",
@@ -20464,7 +20380,7 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "St Ann's · South Tottenham N15",
   "commute_min": 45,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -20549,7 +20465,7 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Faraday · Walworth SE17",
   "commute_min": 51,
   "commute_mode": "🚇 Bakerloo + Victoria",
@@ -20632,7 +20548,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "Spitalfields/Banglatown · Whitechapel E1",
   "commute_min": 33,
   "commute_mode": "🚇 Hammersmith & City",
@@ -20715,7 +20631,7 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "St Dunstan's · Whitechapel E1",
   "commute_min": 39,
   "commute_mode": "🚇 Hammersmith & City",
@@ -20798,178 +20714,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 6,
+  "fresh_days": 7,
   "nbhd": "West Finchley N3",
   "commute_min": 43,
   "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20592660",
-  "title": "Wellspring Crescent — 2-bed",
-  "area": "Wellspring Crescent, Wembley, HA9",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-11-25",
-  "commute": "37 min · 🚇 Metropolitan (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20592660/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20592660_0.jpg",
-   "photos/otm-20592660_1.jpg",
-   "photos/otm-20592660_2.jpg",
-   "photos/otm-20592660_3.jpg",
-   "photos/otm-20592660_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Oyster Properties - Stanmore.  Deposit Free Option Available!!! Oyster Properties are pleased to present this spacious two-bedroom flat offers comfortable and modern living in a highly convenient location, directly opposite Wembley Asda and just minutes from Wembley Park Station, providing excellent access to both the Jubilee and Metropolitan lines. Located in a vibrant area with a wide range of shops, restaurants, and amenities nearby, this property combines comfort, style, and convenience. The property features two generously sized double bedrooms. The open plan living area seamlessly incorporates a fully fitted kitchen, complete with contemporary appliances and ample storage, creating a perfect space for entertaining or relaxing at home. Residents will also benefit from a private balcony, ideal for enjoying fresh air and natural light. Additional features include an audio entry phone system for added security and ",
-  "hood": "Hoodmaps: Normies (Barnhill), also painted Tourists/Rich; no user tags within ~450 m.",
-  "date_found": "2026-10-21",
-  "features": "2 Double Bedrooms; Private Balcony; Open Plan Fully Fitted Kitchen; Audio Entry Phone System; On Street Parking; Situated opposite Wembley asda, minutes walk to Wembley Park Station ( Jubilee Line, Metropolitan Line )",
-  "listed": "2026-10-20",
-  "lat": 51.564561,
-  "lng": -0.273583,
-  "agent": "Oyster Properties - Stanmore",
-  "score": 62,
-  "score_breakdown": {
-   "style": {
-    "points": 16.8,
-    "max": 22,
-    "reason": "keywords: modern(+3), contemporary(+2), light(+1), wembley(-3), balcony(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 15.4,
-    "max": 20,
-    "reason": "37 min door-to-door (TfL): 🚇 Metropolitan"
-   },
-   "hood": {
-    "points": 8.0,
-    "max": 15,
-    "reason": "Normies"
-   },
-   "availability": {
-    "points": 7.0,
-    "max": 10,
-    "reason": "25 Nov: late Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "balcony"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 7,
-  "hidden": true,
-  "hidden_reason": "blocked: Wembley",
-  "nbhd": "Barnhill HA9",
-  "commute_min": 37,
-  "commute_mode": "🚇 Metropolitan",
-  "commute_ok": true
- },
- {
-  "id": "otm-20593355",
-  "title": "Wilderton Road — 1-bed",
-  "area": "Wilderton Road, London, N16",
-  "price": 1500,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-11-05",
-  "commute": "41 min · 🚆 Weaver + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20593355/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20593355_0.jpg",
-   "photos/otm-20593355_1.jpg",
-   "photos/otm-20593355_2.jpg",
-   "photos/otm-20593355_3.jpg",
-   "photos/otm-20593355_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] OpenRent - UK. Property Reference: 3081659. A spacious and well-presented one-bedroom flat situated in the popular residential area of Stamford Hill, offering comfortable and practical living accommodation. The property features a generously sized double bedroom and a bright, open-plan kitchen, dining and living area, creating an ideal space for both relaxing and entertaining. The modern fitted kitchen offers ample cupboard and worktop space and comes equipped with an oven, hob and essential appliances. The spacious double bedroom provides plenty of room for a large double bed, wardrobes and additional furniture. The property benefits from neutral decor, tiled flooring and recessed ceiling lighting, creating a bright and welcoming atmosphere throughout. Conveniently located in Stamford Hill, the flat offers easy access to local shops, supermarkets, cafes, restaurants and public transport links, providi",
-  "hood": "Hoodmaps: Rich (Stamford Hill West), also painted Hipsters; nearby tags: \"Mazel Tov\", \"israel\", \"Home of the Hanukkah \".",
-  "date_found": "2026-10-21",
-  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3081659",
-  "listed": "2026-10-20",
-  "lat": 51.571184,
-  "lng": -0.076016,
-  "agent": "OpenRent - UK",
-  "score": 73,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), light(+1), open-plan(+1), well-presented(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 12.2,
-    "max": 20,
-    "reason": "41 min door-to-door (TfL): 🚆 Weaver + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "05 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,500"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Stamford Hill West · Stoke Newington N16",
-  "commute_min": 41,
-  "commute_mode": "🚆 Weaver + Victoria",
   "commute_ok": true
  },
  {
@@ -21054,593 +20802,13 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 7,
+  "fresh_days": 8,
   "nbhd": "Willesden Green NW10",
   "rating": "like",
   "commute_min": 39,
   "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true
- },
- {
-  "id": "otm-20460392",
-  "title": "Willesden Lane — 1-bed",
-  "area": "Willesden Lane, London, NW6",
-  "price": 1145,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Available as furnished or unfurnished",
-  "available": "2026-10-21",
-  "commute": "41 min · 🚆 Lioness (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20460392/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20460392_0.jpg",
-   "photos/otm-20460392_1.jpg",
-   "photos/otm-20460392_2.jpg",
-   "photos/otm-20460392_3.jpg",
-   "photos/otm-20460392_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] OpenRent - UK. Property Reference: 3059737. A bright and well presented furnished one bedroom flat situated on Willesden Lane, NW6, offering modern accommodation with all household bills included within the monthly rent. The property features a separate double bedroom with mirrored wardrobe storage, a fitted kitchen with dining space and a modern bathroom. The kitchen is finished with contemporary cabinetry and includes a fitted oven, electric hob, full size fridge freezer, microwave and washing machine, with good worktop and storage space. There is also a dedicated dining area with space for a table and chairs. The double bedroom is well proportioned and benefits from natural light and mirrored wardrobe storage. The modern bathroom is finished with tiled walls and flooring and features a large enclosed shower, WC and wash basin with vanity storage. Further benefits include heating, air conditioning, b",
-  "hood": "Hoodmaps: Rich (Kilburn), also painted Normies; nearby tags: \"Dog Walkers\", \"Australians\".",
-  "date_found": "2026-10-20",
-  "features": "No Agent Fees; Students Can Enquire; Bills Included; Property Reference Number: 3059737",
-  "listed": "2026-10-20",
-  "lat": 51.540817,
-  "lng": -0.201302,
-  "agent": "OpenRent - UK",
-  "score": 65,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), well presented(+2), washing machine(-3)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 12.2,
-    "max": 20,
-    "reason": "41 min door-to-door (TfL): 🚆 Lioness"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 7.2,
-    "max": 10,
-    "reason": "21 Oct: 11 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,145"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
-  "commute_min": 41,
-  "commute_mode": "🚆 Lioness",
-  "commute_ok": true
- },
- {
-  "id": "otm-20593015",
-  "title": "Hilldrop Road — 1-bed",
-  "area": "Hilldrop Road, Kentish Town, London, N7",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "",
-  "available": "2026-12-05",
-  "commute": "28 min · 🚌 bus 29 (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20593015/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20593015_0.jpg",
-   "photos/otm-20593015_1.jpg",
-   "photos/otm-20593015_2.jpg",
-   "photos/otm-20593015_3.jpg",
-   "photos/otm-20593015_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Martyn Gerrard - Kentish Town. Martyn Gerrard are pleased to present this Recently refurbished one bedroom apartment set on the first floor of a very well kept and secured ex-local authority. The apartment comprises of a decent size reception room, modernised integrated kitchen, a bathroom, a separate W.C. and a large balcony. Further benefits include wooden flooring throughout, natural decor, double glazing and with close amenities of Tufnell Park and Kentish Town. Very well connected with Kentish Town and Tufnell Park tubes a 10 minute walk away and the 390 bus route which takes you through to the West End and Notting Hill Gate.",
-  "hood": "Hoodmaps: Rich (St. George's), also painted Hipsters; nearby tags: \"More Prams\", \"Bakery queues\".",
-  "date_found": "2026-10-20",
-  "features": "Wooden Flooring Throughout; Separate Reception Room; Double Glazing; Balcony; Recently Renovated; Separate W.C.",
-  "listed": "2026-10-20",
-  "lat": 51.552328,
-  "lng": -0.130741,
-  "agent": "Martyn Gerrard - Kentish Town",
-  "score": 72,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), recently refurbished(+2), refurbished(+2), balcony(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 20,
-    "max": 20,
-    "reason": "28 min door-to-door (TfL): 🚌 bus 29"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "05 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "balcony"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Tufnell Park · Holloway N7",
-  "commute_min": 28,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true
- },
- {
-  "id": "94532403",
-  "title": "West Green Road — 2-bed",
-  "area": "West Green Road, London, N15",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-12-10",
-  "commute": "35 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94532403",
-  "source": "rightmove",
-  "photos": [
-   "photos/94532403_0.jpg",
-   "photos/94532403_1.jpg",
-   "photos/94532403_2.jpg",
-   "photos/94532403_3.jpg",
-   "photos/94532403_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] OpenRent, London. Property Reference: 3081322. We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location. Available to move in from 10 December 2026. Property is offered furnished. Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! Summary Rent £1,950.00 per month (£450.00 per week) Deposit / Bond is £2,250.00 Maximum number of tenants is 3 Summary & Exclusions: - Rent Amount: £1,950.00 per month (£450.00 per week) - Deposit / Bond: £2,250.00 - 2 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 10 December 2026 - Maximum number of tenants is 3 - Students welcome to enquire - No Smokers - Bills not included - No Parking Available - No Garden Access - EPC Rating: C If calling, please quote reference: 3081322 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlord s",
-  "hood": "Hoodmaps: Hipsters (West Green), also painted Normies; nearby tags: \"Knife crime\", \"Turkish Delight\".",
-  "date_found": "2026-10-20",
-  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3081322",
-  "listed": "2026-10-20",
-  "lat": 51.58755,
-  "lng": -0.09855,
-  "agent": "OpenRent, London",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 11.3,
-    "max": 22,
-    "reason": "keywords: light(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 17.0,
-    "max": 20,
-    "reason": "35 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
-   },
-   "hood": {
-    "points": 12.0,
-    "max": 15,
-    "reason": "Hipsters"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "10 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "West Green · South Tottenham N15",
-  "commute_min": 35,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94532457",
-  "title": "Connaught Mansions — 2-bed",
-  "area": "Connaught Mansions, Coldharbour Lane, London, SW9",
-  "price": 2100,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-12-09",
-  "commute": "32 min · 🚇 Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94532457",
-  "source": "rightmove",
-  "photos": [
-   "photos/94532457_0.jpg",
-   "photos/94532457_1.jpg",
-   "photos/94532457_2.jpg",
-   "photos/94532457_3.jpg",
-   "photos/94532457_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Leaders Lettings, Forest Hill. **NO DEPOSIT OPTION AVAILABLE FOR TENANTS** (please call for more information) Funky, fabulous and fun is how I would describe this rather special apartment. You have two double bedrooms, a modern open plan living space, modern bathroom and access to the most epic roof terrace. The location is on point too! Off the high street behind an unassuming façade enter into this rather impressive mansion apartment block. Bring the bike in and secure it in the cycle store. Then ascend the stairs to the second floor. Step inside to a welcome lobby area (the video entry phone is here - so you can buzz your friends in) there is also a handy cubby here too. Through door find the open plan living room, light and bright in white, with carpet underfoot, cosies up the space. The kitchen is divided by the breakfast bar area, and included appliances are dishwasher, fridge, freezer, washing machine, oven and",
-  "hood": "Hoodmaps: Hipsters (Coldharbour); nearby tags: \"never relax\", \"wigwam breadbin yagetme \", \"brixton bullies\", \"do not walk under here at night \".",
-  "date_found": "2026-10-20",
-  "features": "**No Deposit Option; Communal Roof Terrace; Two double bedrooms; Great Location!; On Street Parking",
-  "listed": "2026-10-20",
-  "lat": 51.461399,
-  "lng": -0.1128,
-  "agent": "Leaders Lettings, Forest Hill",
-  "score": 62,
-  "score_breakdown": {
-   "style": {
-    "points": 14.0,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), light(+1), washing machine(-3)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 18.8,
-    "max": 20,
-    "reason": "32 min door-to-door (TfL): 🚇 Victoria"
-   },
-   "hood": {
-    "points": 12.0,
-    "max": 15,
-    "reason": "Hipsters"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "09 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,100"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "terrace"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Brixton Windrush SW2",
-  "commute_min": 32,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20589606",
-  "title": "Colindale Pulse — 1-bed",
-  "area": "Colindale Pulse, Colindale NW9",
-  "price": 1750,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "",
-  "commute": "40 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20589606/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20589606_0.jpg",
-   "photos/otm-20589606_1.jpg",
-   "photos/otm-20589606_2.jpg",
-   "photos/otm-20589606_3.jpg",
-   "photos/otm-20589606_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Greenstone Estates - St Johns Wood. Just repainted and in excellent condition, this fantastic apartment is available now. Arranged on the third floor with lift, it offers a bright reception with large double-glazed windows, a contemporary kitchen and bathroom and a double bedroom. New carpeting, high-quality fittings and fully furnished. A very popular block in this excellent development with numerous retailers and convenience stores at your doorstep. Fletcher Court is ideally positioned in the heart of Colindale, just a short walk from Colindale Underground station (Northern line), providing convenient connections to Central London. Nearby Colindale Avenue offers a variety of shops, cafés, restaurants and everyday amenities, while the green open spaces of Colindale Park and Montrose Park provide opportunities for walks, exercise and relaxation. An excellent location combining modern city living with convenient transport l",
-  "hood": "Hoodmaps: Normies (Colindale); no user tags within ~450 m.",
-  "date_found": "2026-10-20",
-  "features": "Newly Decorated; Bright 3rd floor property; Lift; High EPC rating; Available Now; Contemporary property",
-  "listed": "2026-10-20",
-  "lat": 51.595077,
-  "lng": -0.251751,
-  "agent": "Greenstone Estates - St Johns Wood",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), contemporary(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.0,
-    "max": 20,
-    "reason": "40 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 8.0,
-    "max": 15,
-    "reason": "Normies"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 1.5,
-    "max": 3,
-    "reason": "£1,750"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "lift"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Colindale South NW9",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-11111774",
-  "title": "Richmond Way — 1-bed",
-  "area": "Richmond Way, Shepherds Bush W14",
-  "price": 1800,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-11-17",
-  "commute": "40 min · 🚇 Central + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/11111774/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-11111774_0.jpg",
-   "photos/otm-11111774_1.jpg",
-   "photos/otm-11111774_2.jpg",
-   "photos/otm-11111774_3.jpg",
-   "photos/otm-11111774_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] LONDON HomeMoves - West Kensington.  *VICTORIAN CONVERSION* LONDON HomeMoves would like to introduce this one bedroom flat located in the heart of Brook Green triangle. This property is arranged over the raised ground floor of this Victorian conversion and is well presented throughout, consisting of a generously sized double bedroom, separate fully fitted kitchen, a sizeable lounge with plenty of natural light and a three piece tiled shower room. The property has plenty of character and features high ceilings and wooden floors and is offered on a furnished basis. For transport links, you have a choice of Shepherd's Bush Market and Goldhawk Road Stations (5 minute walk), both serviced by frequent Hammersmith & City and Circle Line trains into London as well as Shepherds Bush (Central Line). Uxbridge Road offers a wealth of shops, bars and restaurants to cater to all your needs whilst Westfield Shopping Centre can be reached",
-  "hood": "Hoodmaps: Rich (Addison); nearby tags: \"french, loads of french\", \"Young professionals and council housing\".",
-  "date_found": "2026-10-20",
-  "features": "Raised ground floor; High ceilings; Wooden floors; Victorian conversion; Tiled shower room; Great transport links",
-  "listed": "2026-10-20",
-  "lat": 51.500322,
-  "lng": -0.217709,
-  "agent": "LONDON HomeMoves - West Kensington",
-  "score": 71,
-  "score_breakdown": {
-   "style": {
-    "points": 20.9,
-    "max": 22,
-    "reason": "keywords: light(+1), high ceilings(+2), high ceiling(+1), well presented(+2), conversion(+1), character(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.0,
-    "max": 20,
-    "reason": "40 min door-to-door (TfL): 🚇 Central + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "17 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 1.2,
-    "max": 3,
-    "reason": "£1,800"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Addison · West Kensington W14",
-  "commute_min": 40,
-  "commute_mode": "🚇 Central + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94524576",
-  "title": "Cromwell Road — 1-bed",
-  "area": "Cromwell Road, London, SW7",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-10-30",
-  "commute": "33 min · 🚇 District + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94524576",
-  "source": "rightmove",
-  "photos": [
-   "photos/94524576_0.jpg",
-   "photos/94524576_1.jpg",
-   "photos/94524576_2.jpg",
-   "photos/94524576_3.jpg",
-   "photos/94524576_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Leaders Lettings, Forest Hill. **NO DEPOSIT OPTION AVAILABLE FOR TENANTS*** Situated within the highly sought-after Point West development on Cromwell Road, this bright and beautifully presented one-bedroom apartment offers an excellent opportunity to enjoy comfortable living in one of London's most desirable locations. The property boasts a lovely light-filled interior, creating a welcoming and inviting atmosphere throughout. The accommodation comprises a spacious reception room, ideal for both relaxing and entertaining, a well-appointed kitchen, a generous double bedroom and a bathroom. The apartment's bright and airy feel makes it a wonderful place to call home, whether you're a working professional or a couple seeking a stylish London base. Point West further benefits from lift access and a 24-hour concierge service, providing added convenience and peace of mind for residents. The location is a real highlight, wit",
-  "hood": "Hoodmaps: Rich (Queen's Gate), also painted Hipsters; nearby tags: \"most expensive property in UK\", \"Refugee hotel\".",
-  "date_found": "2026-10-20",
-  "features": "**No Depsot Option**; Close to Station; 24hr Concierge",
-  "listed": "2026-10-20",
-  "lat": 51.495601,
-  "lng": -0.187894,
-  "agent": "Leaders Lettings, Forest Hill",
-  "score": 73,
-  "score_breakdown": {
-   "style": {
-    "points": 18.1,
-    "max": 22,
-    "reason": "keywords: stylish(+3), bright(+2), light(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 18.2,
-    "max": 20,
-    "reason": "33 min door-to-door (TfL): 🚇 District + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 9.5,
-    "max": 10,
-    "reason": "30 Oct: 2 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "lift, concierge"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Queen's Gate SW7",
-  "commute_min": 33,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": true
+  "commute_ok": true,
+  "stale": true
  },
  {
   "id": "94525317",
@@ -21723,761 +20891,13 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 7,
+  "fresh_days": 8,
   "nbhd": "Lancaster Gate · Paddington W2",
   "rating": "like",
   "commute_min": 28,
   "commute_mode": "🚇 Central + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94526052",
-  "title": "Parade Mansions — 2-bed",
-  "area": "Parade Mansions, Watford Way, Hendon, Barnet, London",
-  "price": 1900,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished or unfurnished, landlord is flexible",
-  "available": "2026-11-18",
-  "commute": "37 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94526052",
-  "source": "rightmove",
-  "photos": [
-   "photos/94526052_0.jpg",
-   "photos/94526052_1.jpg",
-   "photos/94526052_2.jpg",
-   "photos/94526052_3.jpg",
-   "photos/94526052_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Live London Estates, Golders Green. Beautiful spacious 2 bedroom flat on the 1st floor directly opposite Hendon Central Tube Station The property comprises of: - 2 double bedrooms - Separate living room - Modern fully fitted kitchen - Double glazing - Wood flooring - High Ceilings - Storage Cupboard - Available from 18th Nov - Opposite Hendon Central Tube Station, Northern line - Convenience stores and restaurants on your door step - Pure Gym or Nuffield gym across the road from the property",
-  "hood": "Hoodmaps: Rich (West Hendon), also painted Normies; nearby tags: \"Not Golders Green\".",
-  "date_found": "2026-10-20",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.583387,
-  "lng": -0.228149,
-  "agent": "Live London Estates, Golders Green",
-  "score": 71,
-  "score_breakdown": {
-   "style": {
-    "points": 18.1,
-    "max": 22,
-    "reason": "keywords: modern(+3), high ceilings(+2), high ceiling(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 15.4,
-    "max": 20,
-    "reason": "37 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "18 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 4.0,
-    "max": 5,
-    "reason": "Furnished or unfurnished, landlord is flexible"
-   },
-   "price": {
-    "points": 0.6,
-    "max": 3,
-    "reason": "£1,900"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "gym"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "West Hendon NW4",
-  "commute_min": 37,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20590577",
-  "title": "Bounds Green N11 — 2-bed",
-  "area": "Bounds Green N11",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Part furnished",
-  "available": "2026-10-22",
-  "commute": "39 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20590577/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20590577_0.jpg",
-   "photos/otm-20590577_1.jpg",
-   "photos/otm-20590577_2.jpg",
-   "photos/otm-20590577_3.jpg",
-   "photos/otm-20590577_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] One to One Estates - Archway.  A beautiful first floor Edwardian conversion which has been recently refurbished. The rooms have generous proportions. The open plan lounge/kitchen area is spacious and bright. There is a large double bedroom and generous single bedroom with plenty of storage in both. A newly installed bathroom has a bath with overhead shower, toilet and wash basin. The property is located close to the tube with fast and convenient link to the city. The flat is offered part furnished. Suitable for professionals. Available from now. ",
-  "hood": "Hoodmaps: Normies (Bowes), also painted Rich; nearby tags: \"over 30 still broke\", \"carbon monoxide poisoning\", \"Wait for it\".",
-  "date_found": "2026-10-20",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.610339,
-  "lng": -0.126323,
-  "agent": "One to One Estates - Archway",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: bright(+2), recently refurbished(+2), refurbished(+2), conversion(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
-   },
-   "hood": {
-    "points": 8.0,
-    "max": 15,
-    "reason": "Normies"
-   },
-   "availability": {
-    "points": 7.5,
-    "max": 10,
-    "reason": "22 Oct: 10 days before Nov"
-   },
-   "furnished": {
-    "points": 3.5,
-    "max": 5,
-    "reason": "part furnished"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "New Southgate N11",
-  "commute_min": 39,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20590824",
-  "title": "Tooting High Street — 1-bed",
-  "area": "Tooting High Street, SW17",
-  "price": 1885,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-11-13",
-  "commute": "39 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20590824/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20590824_0.jpg",
-   "photos/otm-20590824_1.jpg",
-   "photos/otm-20590824_2.jpg",
-   "photos/otm-20590824_3.jpg",
-   "photos/otm-20590824_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Langford Lettings - SW London. A stunning and recently redeveloped one bedroom, one bathroom flat. The property offers bright and spacious accommodation with immediate access to all of the local amenities to be found in Tooting, including Tooting Broadway Underground Station and St George's Hospital. The flat boasts a modern kitchen with fully integrated appliances, a bright living area, one spacious bedroom and a stylish bathroom. This flat is available as of Mid-November, furnished. \"Wandsworth Council Tax Band B \"Furnished \"Available from 13th November. ",
-  "hood": "Hoodmaps: Hipsters (Tooting); nearby tags: \"very tooting\".",
-  "date_found": "2026-10-20",
-  "features": "Tooting; Flat; Furnished Property; Gas C/H; Wandsworth Band B; Deposit 5 weeks of agreed rent; No Garden; 2nd Floor; 1 Reception; Street parking Available",
-  "listed": "2026-10-20",
-  "lat": 51.427658,
-  "lng": -0.168608,
-  "agent": "Langford Lettings - SW London",
-  "score": 76,
-  "score_breakdown": {
-   "style": {
-    "points": 20.9,
-    "max": 22,
-    "reason": "keywords: modern(+3), stylish(+3), bright(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 12.0,
-    "max": 15,
-    "reason": "Hipsters"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "13 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.7,
-    "max": 3,
-    "reason": "£1,885"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Tooting Broadway SW17",
-  "commute_min": 39,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94514343",
-  "title": "Mossbury Road — 1-bed",
-  "area": "Mossbury Road, London, SW11",
-  "price": 2100,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-11-14",
-  "commute": "40 min · 🚆 South Western Railway + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94514343",
-  "source": "rightmove",
-  "photos": [
-   "photos/94514343_0.jpg",
-   "photos/94514343_1.jpg",
-   "photos/94514343_2.jpg",
-   "photos/94514343_3.jpg",
-   "photos/94514343_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] OpenRent, London. Property Reference: 3057191. Bright and airy first loor flat in period mews building. Located in quiet road 2 minutes from Clapham Junction station. Summary & Exclusions: - Rent Amount: £2,100.00 per month (£484.62 per week) - Deposit / Bond: £2,100.00 - 1 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 14 November 2026 - Maximum number of tenants is 2 - No Students - No Smokers - Bills not included - No Parking Available - No Garden Access - EPC Rating: D If calling, please quote reference: 3057191 Fees: You will not be charged any admin fees. ** Contact today to book a viewing and have the landlord show you round! ** Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week. ",
-  "hood": "Hoodmaps: Rich (Shaftesbury); nearby tags: \"Paris 2.0\", \"Trains, trains everywhere\", \"Old people\", \"The Duffy side of Clapham Junction\".",
-  "date_found": "2026-10-20",
-  "features": "No Agent Fees; Property Reference Number: 3057191",
-  "listed": "2026-10-20",
-  "lat": 51.46425,
-  "lng": -0.166468,
-  "agent": "OpenRent, London",
-  "score": 66,
-  "score_breakdown": {
-   "style": {
-    "points": 14.0,
-    "max": 22,
-    "reason": "keywords: bright(+2), period(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.0,
-    "max": 20,
-    "reason": "40 min door-to-door (TfL): 🚆 South Western Railway + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "14 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,100"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Lavender · Battersea SW11",
-  "commute_min": 40,
-  "commute_mode": "🚆 South Western Railway + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94521456",
-  "title": "Tredegar Road **** — 1-bed",
-  "area": "Tredegar Road ****, London",
-  "price": 1500,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "",
-  "available": "2026-11-20",
-  "commute": "39 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94521456",
-  "source": "rightmove",
-  "photos": [
-   "photos/94521456_0.jpg",
-   "photos/94521456_1.jpg",
-   "photos/94521456_2.jpg",
-   "photos/94521456_3.jpg",
-   "photos/94521456_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Star Estates & Lettings Ltd, London. Nestled in the vibrant area of Tredegar Road, London, this charming flat offers a delightful living experience for those seeking comfort and convenience. The property features a well-proportioned reception room, perfect for relaxation or entertaining guests. The single bedroom provides a cosy retreat, ideal for restful nights. The flat also includes a modern bathroom, designed with functionality in mind. This property is well-suited for individuals or couples looking for a stylish yet practical home in a bustling city. With its prime location, residents will enjoy easy access to local amenities, transport links, and the rich cultural offerings of London. This flat presents an excellent opportunity for anyone wishing to embrace city living in a welcoming environment. Don't miss the chance to make this lovely flat your new home. ",
-  "hood": "Hoodmaps: Normies (Bounds Green), also painted Rich; no user tags within ~450 m.",
-  "date_found": "2026-10-20",
-  "features": "Cosy 1-bedroom flat; Modern bathroom design; Spacious reception room; Located on Tredegar Road; Close to local amenities; Easy access to transport; Ideal for singles or couples; Contemporary flat style; Perfect London location; Viewing highly recommended",
-  "listed": "2026-10-20",
-  "lat": 51.603778,
-  "lng": -0.125567,
-  "agent": "Star Estates & Lettings Ltd, London",
-  "score": 67,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), stylish(+3), contemporary(+2), light(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
-   },
-   "hood": {
-    "points": 8.0,
-    "max": 15,
-    "reason": "Normies"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "20 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,500"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Bounds Green N11",
-  "commute_min": 39,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94521423",
-  "title": "Nether Street — 2-bed",
-  "area": "Nether Street, London",
-  "price": 1950,
-  "size": "56 m²",
-  "floor": "",
-  "furnished": "",
-  "available": "2026-10-20",
-  "commute": "37 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94521423",
-  "source": "rightmove",
-  "photos": [
-   "photos/94521423_0.jpg",
-   "photos/94521423_1.jpg",
-   "photos/94521423_2.jpg",
-   "photos/94521423_3.jpg",
-   "photos/94521423_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Wingate Estate Agents, London. Newly refurbished first-floor flat, ideally located on the popular Ballards Lane, with excellent access to shops, restaurants, transport links and local amenities. Featuring a modern kitchen, double glazing, gas central heating and a separate rear entrance. Ideal for professionals, individuals and families. Early viewing highly recommended. ",
-  "hood": "Hoodmaps: Rich (West Finchley), also painted Normies; nearby tags: \"Persians\".",
-  "date_found": "2026-10-20",
-  "features": "Newly refurbished flat; First floor above shops, with separate rear entrance.; Double glazing throughout; Separate modern kitchen; Gas central heating system; Viewing highly recommended; EPC Rating: C",
-  "listed": "2026-10-20",
-  "lat": 51.609493,
-  "lng": -0.188977,
-  "agent": "Wingate Estate Agents, London",
-  "score": 69,
-  "score_breakdown": {
-   "style": {
-    "points": 20.9,
-    "max": 22,
-    "reason": "keywords: modern(+3), newly refurbished(+3), refurbished(+2)"
-   },
-   "size": {
-    "points": 9.6,
-    "max": 15,
-    "reason": "56 m²"
-   },
-   "commute": {
-    "points": 15.4,
-    "max": 20,
-    "reason": "37 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 7.0,
-    "max": 10,
-    "reason": "20 Oct: 12 days before Nov"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "West Finchley N3",
-  "commute_min": 37,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20588648",
-  "title": "Empire Square South — 1-bed",
-  "area": "Empire Square South, Southwark, SE1",
-  "price": 2100,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-12-14",
-  "commute": "39 min · 🚇 Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20588648/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20588648_0.jpg",
-   "photos/otm-20588648_1.jpg",
-   "photos/otm-20588648_2.jpg",
-   "photos/otm-20588648_3.jpg",
-   "photos/otm-20588648_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Home Made - Southwark. A bright and spacious one bedroom flat, set in a secure modern development with concierge service. The property is located moments from Borough & London Bridge stations, with London's main attractions on your doorstep. The flat further benefits from floor to ceiling windows and two juliet-balconies. The property comprises of a large master bedroom with built-in storage, a bathroom with a shower over the bath, a fully integrated kitchen and an open-plan reception. About Home Made: We are a property-technology company that is working to make renting better for everyone. We believe that finding a new home should be simple, hassle-free, and fun so we’ve built a friendly, caring team and a user-friendly digital process to give renters an experience they can enjoy and trust. Get in touch with us today and discover Londoners’ favourite way to rent.",
-  "hood": "Hoodmaps: Rich (Chaucer), also painted Normies; nearby tags: \"I came from Miniminter's video\", \"rich hipsters\", \" Upcoming area=currently rubbish\", \"m u r d e r c a p i t al\".",
-  "date_found": "2026-10-20",
-  "features": "Full Height Windows; 24hr Concierge Service; Secure Modern Development; One Bedroom; Open-Plan Reception; Moments from London Bridge & Borough; Listing reference: EMP147123",
-  "listed": "2026-10-20",
-  "lat": 51.50068,
-  "lng": -0.08933,
-  "agent": "Home Made - Southwark",
-  "score": 61,
-  "score_breakdown": {
-   "style": {
-    "points": 18.1,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), open-plan(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 Northern"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "14 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,100"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "concierge"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "London Bridge/West Bermondsey · Southwark SE1",
-  "commute_min": 39,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true
- },
- {
-  "id": "94503234",
-  "title": "Perham Road — 1-bed",
-  "area": "Perham Road, London, W14",
-  "price": 1850,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-10-20",
-  "commute": "39 min · 🚇 District + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94503234",
-  "source": "rightmove",
-  "photos": [
-   "photos/94503234_0.jpg",
-   "photos/94503234_1.jpg",
-   "photos/94503234_2.jpg",
-   "photos/94503234_3.jpg",
-   "photos/94503234_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Shaws Kensington, Kensington.  An exceptional opportunity to let a beautifully presented one bedroom flat, ideally situated on Perham Road, Barons Court. This unfurnished property offers a fantastic living space, perfect for a single professional or a couple. The flat boasts wood flooring throughout, a generous open plan reception room, perfect for dining or relaxing. A modern Kitchen and stylish Bathroom. One of the most significant advantages of this property is its prime location. Residents will benefit from being incredibly close to both Barons Court and West Kensington tube stations. These stations offer excellent transport links via the District and Piccadilly lines, providing swift and direct access to Central London, Heathrow Airport, and various other key destinations. The surrounding area of Perham Road is vibrant, with a selection of local amenities, shops, cafes, and restaurants. Offered Unfurnished and A",
-  "hood": "Hoodmaps: Rich (North End); nearby tags: \"rich russians who don't use their homes\", \"tennis\", \"dirty\", \"Tennis\".",
-  "date_found": "2026-10-20",
-  "features": "One bedroom flat; Wood Flooring; Modern Kitchen; Modern bathroom; Close to Barons Court and West Kensington tube stations; Unfurnished",
-  "listed": "2026-10-20",
-  "lat": 51.487687,
-  "lng": -0.208804,
-  "agent": "Shaws Kensington, Kensington",
-  "score": 63,
-  "score_breakdown": {
-   "style": {
-    "points": 18.1,
-    "max": 22,
-    "reason": "keywords: modern(+3), stylish(+3)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 District + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 7.0,
-    "max": 10,
-    "reason": "20 Oct: 12 days before Nov"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0.9,
-    "max": 3,
-    "reason": "£1,850"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "West Kensington W14",
-  "commute_min": 39,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94501128",
-  "title": "Nether Street — 1-bed",
-  "area": "Nether Street, North Finchley, London, N12",
-  "price": 1625,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished or unfurnished, landlord is flexible",
-  "available": "2026-10-31",
-  "commute": "больше 45 мин на метро (TfL)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94501128",
-  "source": "rightmove",
-  "photos": [
-   "photos/94501128_0.jpg",
-   "photos/94501128_1.jpg",
-   "photos/94501128_2.jpg",
-   "photos/94501128_3.jpg",
-   "photos/94501128_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Drivers & Norris, Islington- Lettings. A one-bedroom garden flat with its own private entrance, ideally located within a short walk of North Finchley High Street and Woodside Park Station. The property comprises a separate fitted kitchen, spacious lounge, double bedroom and bathroom. Further benefits include a private terrace and garden, providing valuable outdoor space. The landlord is prepared to undertake some redecoration, offering an opportunity to refresh the property to suit the incoming tenant. The flat is available furnished or unfurnished, providing flexibility to suit individual requirements. ",
-  "hood": "Hoodmaps: Rich (West Finchley); nearby tags: \"posh and wierd\".",
-  "date_found": "2026-10-20",
-  "features": "Private Garden; Separate Kitchen; Lounge; Close to Station",
-  "listed": "2026-10-20",
-  "lat": 51.613677,
-  "lng": -0.178414,
-  "agent": "Drivers & Norris, Islington- Lettings",
-  "hidden": true,
-  "hidden_reason": "commute>45",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 14.0,
-    "max": 22,
-    "reason": "keywords: garden flat(+2), private garden(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 0,
-    "max": 20,
-    "reason": "49 min (TfL): 🚇 Northern + Victoria — over Masha's 45-min limit"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 9.8,
-    "max": 10,
-    "reason": "31 Oct: 1 days before Nov"
-   },
-   "furnished": {
-    "points": 4.0,
-    "max": 5,
-    "reason": "Furnished or unfurnished, landlord is flexible"
-   },
-   "price": {
-    "points": 2.2,
-    "max": 3,
-    "reason": "£1,625"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "garden, terrace"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "West Finchley N12",
-  "commute_min": 49,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": false
+  "commute_ok": true,
+  "stale": true
  },
  {
   "id": "94504167",
@@ -22561,1094 +20981,13 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 7,
+  "fresh_days": 8,
   "nbhd": "Shepherd's Bush Green W12",
   "rating": "like",
   "commute_min": 33,
   "commute_mode": "🚇 Circle",
-  "commute_ok": true
- },
- {
-  "id": "94505169",
-  "title": "Boleyn Road London N16 — 1-bed",
-  "area": "Boleyn Road London N16",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-11-16",
-  "commute": "34 min · 🚆 Windrush + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94505169",
-  "source": "rightmove",
-  "photos": [
-   "photos/94505169_0.jpg",
-   "photos/94505169_1.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Hamptons, Islington. Situated on the first floor, this bright and airy purpose built apartment offers an open plan layout that is perfectly designed for modern living in one of East London's most sought-after locations. The heart of the home is an open-plan kitchen, dining and reception room, providing a superb space for both everyday living and entertaining. Flooded with natural light from large south-facing windows, the room enjoys a wonderfully bright and sunny aspect throughout the day. The well proportioned double bedroom benefits from built-in wardrobes, offering excellent storage while maintaining a spacious feel. A modern bathroom completes the accommodation. Boleyn Road is located in the heart of vibrant Dalston with an abundance of local amenities, bars and restaurants as well as Dalston Kingsland Overground station on your doorstep for easy connections in to Shoreditch and The City. To check broad",
-  "hood": "Hoodmaps: Hipsters (Dalston), also painted Suits; nearby tags: \"Post-Post-Hipster\", \"3rd world country vibes\", \"Playground London\", \"Cafe OTO\".",
-  "date_found": "2026-10-20",
-  "features": "One Double Bedroom ; One Bathroom; Open Plan Reception With Modern Kitchen ; Good Natural Light ; Flexible On Furnishings; Secure Building; Popular Dalston Location With Local Amenities, Bars and Restaurants. ; Council Tax - Band C ",
-  "listed": "2026-10-20",
-  "lat": 51.54758,
-  "lng": -0.07709,
-  "agent": "Hamptons, Islington",
-  "score": 72,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), light(+1), open-plan(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 17.6,
-    "max": 20,
-    "reason": "34 min door-to-door (TfL): 🚆 Windrush + Victoria"
-   },
-   "hood": {
-    "points": 12.0,
-    "max": 15,
-    "reason": "Hipsters"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "16 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Mildmay · Stoke Newington N16",
-  "commute_min": 34,
-  "commute_mode": "🚆 Windrush + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94506537",
-  "title": "Hawke Place — 1-bed",
-  "area": "Hawke Place, London, SE16",
-  "price": 2000,
-  "size": "70 m²",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-11-24",
-  "commute": "43 min · 🚇 Jubilee + Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94506537",
-  "source": "rightmove",
-  "photos": [
-   "photos/94506537_0.jpg",
-   "photos/94506537_1.jpg",
-   "photos/94506537_2.jpg",
-   "photos/94506537_3.jpg",
-   "photos/94506537_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Winkworth, Surrey Quays. A generous one-bedroom flat at Hawke Place, offering approximately 70 sq m of accommodation in a convenient Canada Water location. The standout feature is the large open-plan kitchen, living and dining area, providing room to cook, relax and entertain within one sociable space. The layout allows for distinct seating and dining areas, while keeping the kitchen connected to the main living space. Ample natural light and a modern finish give the room an inviting feel, with Amtico flooring adding a practical finishing touch. The double bedroom includes wardrobes and enjoys partial views of Albion Channel. A stylish bathroom, finished to a high standard, provides a bath with an overhead shower. The property also benefits from its own entrance, double glazing and a video entry system. Location is a particular strength, with Canada Water Underground station nearby for Jubilee line services. Loc",
-  "hood": "Hoodmaps: Rich (Rotherhithe), also painted Normies; nearby tags: \"Forest walk\", \"Men in their 30s on skateboards\", \"great pubs\", \"rave central\".",
-  "date_found": "2026-10-20",
-  "features": "Approximately 70 sq m of internal accommodation; Large open-plan kitchen, living and dining area; Convenient location near Canada Water station; Double bedroom with wardrobes; Partial views of Albion Channel from the bedroom; Modern bathroom with a shower over the bath; Amtico flooring; Double glazing and video entry system; Own entrance; £2,000 per calendar month",
-  "listed": "2026-10-20",
-  "lat": 51.500955,
-  "lng": -0.044666,
-  "agent": "Winkworth, Surrey Quays",
-  "score": 72,
-  "score_breakdown": {
-   "style": {
-    "points": 20.9,
-    "max": 22,
-    "reason": "keywords: modern(+3), stylish(+3), light(+1), open-plan(+1)"
-   },
-   "size": {
-    "points": 15,
-    "max": 15,
-    "reason": "70 m²"
-   },
-   "commute": {
-    "points": 10.6,
-    "max": 20,
-    "reason": "43 min door-to-door (TfL): 🚇 Jubilee + Northern"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 7.0,
-    "max": 10,
-    "reason": "24 Nov: late Nov"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Rotherhithe SE16",
-  "commute_min": 43,
-  "commute_mode": "🚇 Jubilee + Northern",
-  "commute_ok": true
- },
- {
-  "id": "94507251",
-  "title": "Caxton Road — 2-bed",
-  "area": "Caxton Road, Wood Green, London, N22",
-  "price": 2100,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished or unfurnished, landlord is flexible",
-  "available": "",
-  "commute": "33 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94507251",
-  "source": "rightmove",
-  "photos": [
-   "photos/94507251_0.jpg",
-   "photos/94507251_1.jpg",
-   "photos/94507251_2.jpg",
-   "photos/94507251_3.jpg",
-   "photos/94507251_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Property Inc, Harringay. Newly refurbished and beautifully presented, this two-bedroom ground-floor flat is situated on Caxton Road and found in a semi detached victorian building. A quiet residential street in the vibrant heart of Wood Green. Offering approximately 611 sq ft of generously proportioned accommodation, the property features a spacious, bay-fronted main bedroom filled with natural light, alongside a well-sized second double bedroom that could also serve as a guest room or home office. Ideally located just a short walk from Wood Green Underground Station (Piccadilly line) and Alexandra Palace railway station, the flat benefits from excellent transport connections, with nearby bus routes providing further convenient travel options. THE PROPERTY At the rear, the home opens up into a bright and welcoming kitchen/dining room, with direct access to a charming private garden, a rare and valuable feature i",
-  "hood": "Hoodmaps: Normies (Noel Park); nearby tags: \"place your guranteed to get robbed at\", \"Crackheads in trees\", \"screaming at a dead pigeon\", \"playce youll get shanked at\".",
-  "date_found": "2026-10-20",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.595238,
-  "lng": -0.110976,
-  "agent": "Property Inc, Harringay",
-  "score": 71,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: bright(+2), newly refurbished(+3), refurbished(+2), light(+1), private garden(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 18.2,
-    "max": 20,
-    "reason": "33 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
-   },
-   "hood": {
-    "points": 5.0,
-    "max": 15,
-    "reason": "Normies; negative tags: crack"
-   },
-   "availability": {
-    "points": 6.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 4.0,
-    "max": 5,
-    "reason": "Furnished or unfurnished, landlord is flexible"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,100"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Noel Park · Wood Green N22",
-  "commute_min": 33,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "94510410",
-  "title": "Hammersmith Grove — 1-bed",
-  "area": "Hammersmith Grove, London, W6",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-12-15",
-  "commute": "38 min · 🚇 Circle (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.rightmove.co.uk/properties/94510410",
-  "source": "rightmove",
-  "photos": [
-   "photos/94510410_0.jpg",
-   "photos/94510410_1.jpg",
-   "photos/94510410_2.jpg",
-   "photos/94510410_3.jpg",
-   "photos/94510410_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[Rightmove] Kinleigh Folkard & Hayward - Lettings, Hammersmith. Spacious One-Bedroom Apartment on Hammersmith Grove. Bright and airy apartment in a prime Hammersmith location, featuring a large reception room with plenty of natural light. Offered unfurnished and just moments from transport links and local amenities. Stylish and Airy One-Bedroom Apartment on Hammersmith Grove. This beautifully presented one-bedroom apartment is set on the highly desirable Hammersmith Grove, offering generous living space and an abundance of natural light. The property features a spacious reception area with an open-plan kitchen, perfect for both relaxing and entertaining. The double bedroom is well-proportioned, providing comfort and tranquility. Blending modern décor with charming period details, such as high ceilings and elegant sash windows, this home exudes character and sophistication. Ideally located just a short stroll from Hammersmith Underground Station and a",
-  "hood": "Hoodmaps: Rich (Hammersmith Broadway); nearby tags: \"alfred morland\", \"Carlson Gracie BJJ\", \"druggies\", \"wild lands\".",
-  "date_found": "2026-10-20",
-  "features": "UNFURNISHED; 1 Bedroom; Bright and spacious; High ceilings; Period features; Close to Hammersmith tube station",
-  "listed": "2026-10-20",
-  "lat": 51.499021,
-  "lng": -0.228099,
-  "agent": "Kinleigh Folkard & Hayward - Lettings, Hammersmith",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), stylish(+3), bright(+2), light(+1), open-plan(+1), high ceilings(+2), high ceiling(+1), period(+1), character(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 14.6,
-    "max": 20,
-    "reason": "38 min door-to-door (TfL): 🚇 Circle"
-   },
-   "hood": {
-    "points": 11.0,
-    "max": 15,
-    "reason": "Rich; negative tags: drug"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "15 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Grove · Hammersmith W6",
-  "commute_min": 38,
-  "commute_mode": "🚇 Circle",
-  "commute_ok": true
- },
- {
-  "id": "or-3080981",
-  "title": "2 Bed Flat — 2-bed",
-  "area": "2 Bed Flat, Woodstock Avenue, NW11",
-  "price": 1850,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "At tenant choice",
-  "available": "",
-  "commute": "40 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Pets allowed (listing)",
-  "url": "https://www.openrent.co.uk/3080981",
-  "source": "openrent",
-  "photos": [
-   "photos/or-3080981_0.jpg",
-   "photos/or-3080981_1.jpg",
-   "photos/or-3080981_2.jpg",
-   "photos/or-3080981_3.jpg",
-   "photos/or-3080981_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OpenRent] OpenRent (private landlord). London We are proud to offer this delightful 2 bedroom, 2 bathroom Flat in a great location. Available to move in from 28 of October 2026 , this property benefits from available parking, and garden access. Property is offered furnished or unfurnished (tenant can decide). Viewing is highly recommended. Contact OpenRent today for more details or to arrange a viewing!",
-  "hood": "Hoodmaps: Rich (Childs Hill), also painted Normies; nearby tags: \"kosher kingdom\".",
-  "date_found": "2026-10-20",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.574375,
-  "lng": -0.2058121,
-  "agent": "OpenRent (private landlord)",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 11.3,
-    "max": 22,
-    "reason": "keywords: light(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.0,
-    "max": 20,
-    "reason": "40 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0.9,
-    "max": 3,
-    "reason": "£1,850"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "garden, pets allowed"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Childs Hill NW11",
-  "floorplan_checked": "2026-10-20",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20585669",
-  "title": "Slievemore Close — 1-bed",
-  "area": "Slievemore Close, London, SW4",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Part furnished",
-  "available": "2026-11-19",
-  "commute": "34 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20585669/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20585669_0.jpg",
-   "photos/otm-20585669_1.jpg",
-   "photos/otm-20585669_2.jpg",
-   "photos/otm-20585669_3.jpg",
-   "photos/otm-20585669_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Aspire - Clapham High Street. A well proportioned one bedroom flat situated in Slievemore Close, a gated development located just moments away from Clapham North underground station providing easy access to The City and West End. This accommodation is in good order throughout and comprises of a good sized reception room with a kitchen just off, a double bedroom and a family bathroom. This property also benefits from access to communal parking. Local amenities can be found close by including numerous shops, bars, cafés and restaurants. Available Part Furnished. ",
-  "hood": "Hoodmaps: Rich (Clapham Town), also painted Normies; nearby tags: \"Jamaica\", \"Brunch brunch brunch brunch\", \"Australian Bogans\", \"block parties\".",
-  "date_found": "2026-10-20",
-  "features": "",
-  "listed": "2026-10-20",
-  "lat": 51.464314,
-  "lng": -0.132152,
-  "agent": "Aspire - Clapham High Street",
-  "score": 62,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 17.6,
-    "max": 20,
-    "reason": "34 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "19 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 3.5,
-    "max": 5,
-    "reason": "part furnished"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Clapham Town SW4",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20586352",
-  "title": "Regents Park Road — 2-bed",
-  "area": "Regents Park Road, Finchley Central N3",
-  "price": 1600,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Part furnished",
-  "available": "",
-  "commute": "36 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20586352/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20586352_0.jpg",
-   "photos/otm-20586352_1.jpg",
-   "photos/otm-20586352_2.jpg",
-   "photos/otm-20586352_3.jpg",
-   "photos/otm-20586352_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Adam Hayes Estate Agents - Finchley Central. A well-presented two-bedroom top-floor apartment, ideally situated above commercial premises in a prime location just moments from Finchley Central Underground Station (Northern Line). The property enjoys excellent access to a wide range of local shops, cafés, restaurants, supermarkets and everyday amenities, making it an ideal choice for those seeking convenience and excellent transport links. Internally, the apartment benefits from an approximately 13ft reception room with an open-plan fitted kitchen, wooden flooring, double glazing and gas central heating. Victoria Park and numerous bus routes are also within easy reach, offering additional recreational facilities and convenient connections across London. Ideally suited to a couple or two sharers. Early viewings are highly recommended. Council Tax Band: B Long-term occupancy preferred. Deposit: £1845 The deposit amounts are an indicat",
-  "hood": "Hoodmaps: Rich (Finchley Church End), also painted Normies; nearby tags: \"Tehran\", \"Drug dealer\".",
-  "date_found": "2026-10-20",
-  "features": "Two Bedroom Conversion; Top Floor; Open Plan Lounge / Kitchen; Close to Tube and Shops; Wooden Flooring; Double Glazing",
-  "listed": "2026-10-20",
-  "lat": 51.601001,
-  "lng": -0.194059,
-  "agent": "Adam Hayes Estate Agents - Finchley Central",
-  "score": 60,
-  "score_breakdown": {
-   "style": {
-    "points": 15.4,
-    "max": 22,
-    "reason": "keywords: open-plan(+1), well-presented(+2), conversion(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 16.2,
-    "max": 20,
-    "reason": "36 min door-to-door (TfL): 🚇 Northern + Victoria"
-   },
-   "hood": {
-    "points": 11.0,
-    "max": 15,
-    "reason": "Rich; negative tags: drug"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 3.5,
-    "max": 5,
-    "reason": "part furnished"
-   },
-   "price": {
-    "points": 2.4,
-    "max": 3,
-    "reason": "£1,600"
-   },
-   "extras": {
-    "points": 0,
-    "max": 4,
-    "reason": "none mentioned"
-   },
-   "outdoor": {
-    "points": 0,
-    "max": 6,
-    "reason": "no outdoor space mentioned"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Finchley Church End N3",
-  "commute_min": 36,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20586562",
-  "title": "Flat 505 — 1-bed",
-  "area": "Flat 505, Aster Apartments, 822 Seven Sisters Road N15",
-  "price": 1305,
-  "size": "54 m²",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "2026-11-18",
-  "commute": "30 min · 🚇 Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20586562/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20586562_0.jpg",
-   "photos/otm-20586562_1.jpg",
-   "photos/otm-20586562_2.jpg",
-   "photos/otm-20586562_3.jpg",
-   "photos/otm-20586562_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Grainger - Grainger. Located next to Seven Sisters tube station, and a stroll away from bustling shops and cafes in the vibrant borough of Harringay. Apex Gardens offers light and spacious well-designed apartments with stunning views across the city. Furnished | Approx 581 Sq Ft | Roof Terraces | On-site Resident Service Team | Gym, Lounge and Co-Working Space | Seven Sisters Station | Kings Cross in 8 Mins | Liverpool Street in 24 Mins | Award-Winning Private Landlord | Photos of similar unit ",
-  "hood": "Hoodmaps: Crime (Tottenham Green), also painted Normies; nearby tags: \"Cat lovers\", \"Turkish Haven and Cat lovers\", \"London’s best chicken shop\", \"delicious cakes in industrial park\".",
-  "date_found": "2026-10-20",
-  "features": "Flexible long term tenancies; Complimentary super fast Wi Fi; Dedicated onsite residents services team; Residents lounges / co working spaces; Roof terrace; 24 hour fitness area / gym; Parcel collection service; Professional landlord service",
-  "listed": "2026-10-20",
-  "lat": 51.582443,
-  "lng": -0.072755,
-  "agent": "Grainger - Grainger",
-  "score": 65,
-  "score_breakdown": {
-   "style": {
-    "points": 11.3,
-    "max": 22,
-    "reason": "keywords: light(+1)"
-   },
-   "size": {
-    "points": 8.4,
-    "max": 15,
-    "reason": "54 m²"
-   },
-   "commute": {
-    "points": 20,
-    "max": 20,
-    "reason": "30 min door-to-door (TfL): 🚇 Victoria"
-   },
-   "hood": {
-    "points": 2.0,
-    "max": 15,
-    "reason": "Crime"
-   },
-   "availability": {
-    "points": 10,
-    "max": 10,
-    "reason": "18 Nov: mid-Nov ✓"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 3,
-    "max": 3,
-    "reason": "£1,305"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "garden, terrace, gym"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Seven Sisters · South Tottenham N15",
-  "commute_min": 30,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20583088",
-  "title": "High Road Leyton — 2-bed",
-  "area": "High Road Leyton, London E10",
-  "price": 1775,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Unfurnished",
-  "available": "",
-  "commute": "42 min · 🚆 Suffragette + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20583088/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20583088_0.jpg",
-   "photos/otm-20583088_1.jpg",
-   "photos/otm-20583088_2.jpg",
-   "photos/otm-20583088_3.jpg",
-   "photos/otm-20583088_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Sincere Lettings - London. *Video tour available at request* Modern 2-Bedroom Flat to Rent – High Road, Leyton, E10 A modern, high-standard *two-bedroom first-floor flat* situated on High Road, Leyton. The property offers contemporary open-plan living, a private garden and a separate storage room. The accommodation comprises a bright open-plan kitchen and living area, one double bedroom, one single bedroom and a modern bathroom. The property provides practical living space with the added benefit of outdoor space and additional storage. Key Features - Two bedrooms – one double and one single - First-floor flat - Modern open-plan kitchen and living area - High-standard finish - Private garden - Separate storage room - Modern bathroom - Convenient High Road location *Leyton Midland Road Overground Station* is within walking distance, providing connections towards Gospel Oak and Barking. Leyton Underground Station, se",
-  "hood": "Hoodmaps: Tourists (Forest), also painted Hipsters; no user tags within ~450 m.",
-  "date_found": "2026-10-20",
-  "features": "Close to Leyton Midland Road Overground Station; High standard; 1 double 1 single; Garden; Storage",
-  "listed": "2026-10-20",
-  "lat": 51.570911,
-  "lng": -0.008135,
-  "agent": "Sincere Lettings - London",
-  "score": 10,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), open-plan(+1), private garden(+1)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 11.4,
-    "max": 20,
-    "reason": "42 min door-to-door (TfL): 🚆 Suffragette + Victoria"
-   },
-   "hood": {
-    "points": 9.0,
-    "max": 15,
-    "reason": "Tourists"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.8,
-    "max": 5,
-    "reason": "unfurnished (fine — Masha enquired on many)"
-   },
-   "price": {
-    "points": 1.4,
-    "max": 3,
-    "reason": "£1,775"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "garden"
-   },
-   "outdoor": {
-    "points": 6,
-    "max": 6,
-    "reason": "ground floor + garden (Princes Ave-like)"
-   },
-   "rules": {
-    "points": 0,
-    "max": 0,
-    "reason": "⛔ не показывать Leyton"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Forest · Leyton E10",
-  "commute_min": 42,
-  "commute_mode": "🚆 Suffragette + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20586667",
-  "title": "Lockwood Square — 2-bed",
-  "area": "Lockwood Square, London SE16",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "",
-  "available": "",
-  "commute": "39 min · 🚇 Jubilee + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20586667/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20586667_0.jpg",
-   "photos/otm-20586667_1.jpg",
-   "photos/otm-20586667_2.jpg",
-   "photos/otm-20586667_3.jpg",
-   "photos/otm-20586667_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] ea2 - Wapping. Spacious split level two bedroom apartment with a study located on the 4th floor of a secured development right next to Bermondsey Station. This apartment offers a bright reception room leading onto a large terrace, a separate kitchen and dinning, a double bedroom with balcony providing great views of the City, a single bedroom as well as an office, a modern bathroom and a additional cloakroom. Ample storage available. Ideally located close to the green spaces of Southwark Park, just a few minutes walk from Bermondsey and Rotherhithe stations, and close to bus routes providing easy access into the City and West End. Approx. 30 minute walk into the heart of the City and walking distance to Bermondsey Street, Shad Thames, London Bridge, and the shopping and leisure parks of Canada Water. Security Deposit: £2,307 Council Tax Band: B ",
-  "hood": "Hoodmaps: Rich (Rotherhithe), also painted Normies; nearby tags: \"New developments-Canada Water Masterplan\".",
-  "date_found": "2026-10-20",
-  "features": "Split-level Apartment; Two bedroom; Study; Gated Developement; Close to Transports; Bermondsey",
-  "listed": "2026-10-20",
-  "lat": 51.496534,
-  "lng": -0.06054,
-  "agent": "ea2 - Wapping",
-  "score": 67,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), balcony(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 Jubilee + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 2.5,
-    "max": 5,
-    "reason": "not stated"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "balcony, terrace"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "North Bermondsey SE16",
-  "commute_min": 39,
-  "commute_mode": "🚇 Jubilee + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-16316569",
-  "title": "Waterloo Terrace — 1-bed",
-  "area": "Waterloo Terrace, London, N1",
-  "price": 1950,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-12-08",
-  "commute": "31 min · 🚇 Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/16316569/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-16316569_0.jpg",
-   "photos/otm-16316569_1.jpg",
-   "photos/otm-16316569_2.jpg",
-   "photos/otm-16316569_3.jpg",
-   "photos/otm-16316569_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] Hotblack Desiato - Islington. Beautiful one bedroom flat located on the fourth floor of this purpose built block in the heart of Islington moments to Upper Street and Angel. Available 8th December and unfurnished. The property offers 530 square foot of living space which comprises a large reception room, spacious double bedroom with built in storage, good sized kitchen and bathroom. The property also has access also sizeable communal garden and roof terrace to the rear of the building. Transport links of Angel and Highbury and Islington are equal distance away. Available 8th December and unfurnished. ",
-  "hood": "Hoodmaps: Rich (St. Mary's); nearby tags: \" architecture studios\", \"Frenchies\", \"spenny street \", \"Corbynistas\".",
-  "date_found": "2026-10-20",
-  "features": "One bedroom flat; Furnished; Communal roof terrace; Available 8 th december; EPC BAND D",
-  "listed": "2026-10-20",
-  "lat": 51.540573,
-  "lng": -0.1033,
-  "agent": "Hotblack Desiato - Islington",
-  "score": 64,
-  "score_breakdown": {
-   "style": {
-    "points": 9.9,
-    "max": 22,
-    "reason": "no style cues in notes"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 19.4,
-    "max": 20,
-    "reason": "31 min door-to-door (TfL): 🚇 Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "08 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0.3,
-    "max": 3,
-    "reason": "£1,950"
-   },
-   "extras": {
-    "points": 4,
-    "max": 4,
-    "reason": "garden, terrace"
-   },
-   "outdoor": {
-    "points": 3.9,
-    "max": 6,
-    "reason": "garden"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "St Mary's/St James' N1",
-  "commute_min": 31,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20585285",
-  "title": "Castletown Road — 1-bed",
-  "area": "Castletown Road, London W14",
-  "price": 2080,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "2026-12-04",
-  "commute": "34 min · 🚇 District + Victoria (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20585285/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20585285_0.jpg",
-   "photos/otm-20585285_1.jpg",
-   "photos/otm-20585285_2.jpg",
-   "photos/otm-20585285_3.jpg",
-   "photos/otm-20585285_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] City Living London - Hammersmith. This bright and spacious one bedroom apartment benefits of extra sleeping area on the mezzanine in the reception room. The flat is on the first floor of a Victorian period conversion in the heart of West Kensington. The property comprises of an excellent sized double bedroom, living area leading to an open plan kitchen with all modern appliances, a modern bathroom and an additional mezzanine area that can be used as a second sleeping area. The property further benefits from a private balcony with French doors. Castletown Road is very close to Barons Court and West Kensington Underground. There are a number of amenities surrounding the property, such as a large Tesco’s, Waitrose and Sainsbury’s on North End Road. Olympia London, which is famous for its international trade shows, is also within easy reach. This one bedroom flat will not be on the market long, do not miss it! ",
-  "hood": "Hoodmaps: Rich (North End); nearby tags: \"rich russians who don't use their homes\", \"Aussies\", \"tennis\", \"dirty\".",
-  "date_found": "2026-10-20",
-  "features": "Electric Heating; One bed with Mezzanine; Furnished Property; London Borough of Hammersmith & Fulham; 1 Bathroom; West Kensington",
-  "listed": "2026-10-20",
-  "lat": 51.489397,
-  "lng": -0.206597,
-  "agent": "City Living London - Hammersmith",
-  "score": 72,
-  "score_breakdown": {
-   "style": {
-    "points": 22,
-    "max": 22,
-    "reason": "keywords: modern(+3), bright(+2), conversion(+1), period(+1), balcony(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 17.6,
-    "max": 20,
-    "reason": "34 min door-to-door (TfL): 🚇 District + Victoria"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 1.5,
-    "max": 10,
-    "reason": "04 Dec: Dec or later"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,080"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "balcony"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "West Kensington W14",
-  "commute_min": 34,
-  "commute_mode": "🚇 District + Victoria",
-  "commute_ok": true
- },
- {
-  "id": "otm-20585303",
-  "title": "Kennington Road — 1-bed",
-  "area": "Kennington Road, London SE11",
-  "price": 2000,
-  "size": "size not stated",
-  "floor": "",
-  "furnished": "Furnished",
-  "available": "",
-  "commute": "39 min · 🚇 Northern (TfL, arrive 09:00)",
-  "pets": "Not mentioned",
-  "url": "https://www.onthemarket.com/details/20585303/",
-  "source": "onthemarket",
-  "photos": [
-   "photos/otm-20585303_0.jpg",
-   "photos/otm-20585303_1.jpg",
-   "photos/otm-20585303_2.jpg",
-   "photos/otm-20585303_3.jpg",
-   "photos/otm-20585303_4.jpg"
-  ],
-  "status": "new",
-  "notes": "[OTM] LiFE Residential - Nine Elms Riverside. Modern, fully furnished 1-bedroom apartment with an open-plan kitchen and a large private balcony. Conveniently located between Waterloo and Vauxhall stations, with easy access to the Northern and Victoria lines. An on-site supermarket adds extra convenience Ideally located close to local amenities, transport links, and green spaces, this apartment would make an ideal home for professionals Security Deposit: £2,307 Council Tax Band: D ",
-  "hood": "Hoodmaps: Rich (Prince's), also painted Hipsters; nearby tags: \"Gay Disneyland\", \"Where gay couples live\", \"Rappers\", \"same lol ^^^ ur mum smells\".",
-  "date_found": "2026-10-20",
-  "features": "Fully Furnished; Fully Situated Kitchen; Plentiful Natural Light; Private Balcony; On-Site Supermarket; Amazing Transport Links",
-  "listed": "2026-10-20",
-  "lat": 51.490518,
-  "lng": -0.111559,
-  "agent": "LiFE Residential - Nine Elms Riverside",
-  "score": 68,
-  "score_breakdown": {
-   "style": {
-    "points": 19.5,
-    "max": 22,
-    "reason": "keywords: modern(+3), light(+1), open-plan(+1), balcony(+2)"
-   },
-   "size": {
-    "points": 7.5,
-    "max": 15,
-    "reason": "size unknown (size not stated)"
-   },
-   "commute": {
-    "points": 13.8,
-    "max": 20,
-    "reason": "39 min door-to-door (TfL): 🚇 Northern"
-   },
-   "hood": {
-    "points": 13.0,
-    "max": 15,
-    "reason": "Rich"
-   },
-   "availability": {
-    "points": 4.0,
-    "max": 10,
-    "reason": "date unknown/flexible"
-   },
-   "furnished": {
-    "points": 5,
-    "max": 5,
-    "reason": "furnished"
-   },
-   "price": {
-    "points": 0,
-    "max": 3,
-    "reason": "£2,000"
-   },
-   "extras": {
-    "points": 2.0,
-    "max": 4,
-    "reason": "balcony"
-   },
-   "outdoor": {
-    "points": 3.0,
-    "max": 6,
-    "reason": "balcony/terrace"
-   }
-  },
-  "fresh_days": 7,
-  "nbhd": "Kennington SE11",
-  "commute_min": 39,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true
+  "commute_ok": true,
+  "stale": true
  },
  {
   "id": "94485495",
@@ -23732,7 +21071,7 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 8,
+  "fresh_days": 9,
   "nbhd": "Willesden Green · Cricklewood NW2",
   "rating": "like",
   "stale": true,
@@ -23822,7 +21161,7 @@
     "reason": "👍 liked"
    }
   },
-  "fresh_days": 8,
+  "fresh_days": 9,
   "nbhd": "Southfield · Acton W3",
   "kept_reason": "enquired (sent.json)",
   "rating": "like",
@@ -23914,7 +21253,7 @@
   },
   "listed_reason": "Added today",
   "listed": "2026-10-19",
-  "fresh_days": 8,
+  "fresh_days": 9,
   "nbhd": "Kilburn · Kilburn/West Hampstead NW6",
   "rating": "like",
   "stale": true,
@@ -24005,7 +21344,7 @@
   },
   "listed_reason": "Added today",
   "listed": "2026-10-19",
-  "fresh_days": 8,
+  "fresh_days": 9,
   "nbhd": "West Hampstead NW3",
   "rating": "like",
   "stale": true,
@@ -24092,7 +21431,7 @@
    }
   },
   "nbhd": "Woodside · Wood Green N22",
-  "fresh_days": 11,
+  "fresh_days": 12,
   "stale": true,
   "commute_min": 40,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -24176,7 +21515,7 @@
    }
   },
   "nbhd": "Hornsey · Hornsey/Crouch End N8",
-  "fresh_days": 11,
+  "fresh_days": 12,
   "stale": true,
   "commute_min": 45,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -24266,7 +21605,7 @@
   },
   "rating": "like",
   "nbhd": "Noel Park · Wood Green N22",
-  "fresh_days": 40,
+  "fresh_days": 41,
   "stale": true,
   "commute_min": 33,
   "commute_mode": "🚇 Piccadilly + Victoria",
@@ -24350,7 +21689,7 @@
    }
   },
   "nbhd": "Junction · Upper Holloway N19",
-  "fresh_days": 18,
+  "fresh_days": 19,
   "stale": true,
   "commute_min": 27,
   "commute_mode": "🚇 Northern + Victoria",
@@ -24434,7 +21773,7 @@
    }
   },
   "nbhd": "Telegraph Hill SE4",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 52,
@@ -24524,7 +21863,7 @@
    }
   },
   "nbhd": "Lea Bridge E5",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "kept_reason": "enquired (Masha)",
   "rating": "like",
   "stale": true,
@@ -24617,7 +21956,7 @@
   "nbhd": "South Hampstead · St John's Wood NW8",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "stale": true,
   "commute_min": 28,
   "commute_mode": "🚆 Lioness",
@@ -24709,7 +22048,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "kept_reason": "enquired (sent.json)",
   "commute_min": 48,
@@ -24807,7 +22146,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 06/10/2026",
   "listed": "2026-10-06",
-  "fresh_days": 21,
+  "fresh_days": 22,
   "stale": true,
   "commute_min": 27,
   "commute_mode": "🚇 Victoria",
@@ -24899,7 +22238,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "kept_reason": "enquired (sent.json)",
   "commute_min": 47,
@@ -24992,7 +22331,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "commute_min": 36,
   "commute_mode": "🚇 Northern + Victoria",
@@ -25182,7 +22521,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "commute_min": 43,
   "commute_mode": "🚇 District + Victoria",
@@ -25366,7 +22705,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "commute_min": 38,
   "commute_mode": "🚇 Northern + Victoria",
@@ -25457,7 +22796,7 @@
   "nbhd": "Kentish Town North NW5",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "stale": true,
   "commute_min": 26,
   "commute_mode": "🚇 Northern + Victoria",
@@ -25549,7 +22888,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "commute_min": 41,
   "commute_mode": "🚆 Lioness",
@@ -25645,7 +22984,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 07/10/2026",
   "listed": "2026-10-07",
-  "fresh_days": 20,
+  "fresh_days": 21,
   "stale": true,
   "commute_min": 41,
   "commute_mode": "🚇 Central + Victoria",
@@ -25829,7 +23168,7 @@
   "nbhd": "Brondesbury Park · Kilburn/West Hampstead NW6",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "stale": true,
   "commute_min": 41,
   "commute_mode": "🚆 Mildmay + Jubilee + Metropolitan",
@@ -26012,7 +23351,7 @@
   "nbhd": "St Ann's · South Tottenham N15",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "stale": true,
   "commute_min": 34,
   "commute_mode": "🚇 Victoria",
@@ -26109,7 +23448,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 05/10/2026",
   "listed": "2026-10-05",
-  "fresh_days": 22,
+  "fresh_days": 23,
   "stale": true,
   "commute_min": 41,
   "commute_mode": "🚇 Northern + Victoria",
@@ -26298,7 +23637,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 06/10/2026",
   "listed": "2026-10-06",
-  "fresh_days": 21,
+  "fresh_days": 22,
   "stale": true,
   "kept_reason": "enquired (sent.json)",
   "commute_min": 54,
@@ -26391,7 +23730,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 05/10/2026",
   "listed": "2026-10-05",
-  "fresh_days": 22,
+  "fresh_days": 23,
   "stale": true,
   "commute_min": 42,
   "commute_mode": "🚇 District + Central + Metropolitan",
@@ -26482,7 +23821,7 @@
   "nbhd": "Cricklewood NW2",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 49,
@@ -26575,7 +23914,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 10/10/2026",
   "listed": "2026-10-10",
-  "fresh_days": 17,
+  "fresh_days": 18,
   "stale": true,
   "commute_min": 35,
   "commute_mode": "🚆 Thameslink + Metropolitan",
@@ -26667,7 +24006,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 09/10/2026",
   "listed": "2026-10-09",
-  "fresh_days": 18,
+  "fresh_days": 19,
   "stale": true,
   "commute_min": 45,
   "commute_mode": "🚇 Victoria",
@@ -26759,7 +24098,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 22/09/2026",
   "listed": "2026-09-22",
-  "fresh_days": 35,
+  "fresh_days": 36,
   "stale": true,
   "commute_min": 34,
   "commute_mode": "🚇 Jubilee + Metropolitan",
@@ -26851,7 +24190,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 09/10/2026",
   "listed": "2026-10-09",
-  "fresh_days": 18,
+  "fresh_days": 19,
   "stale": true,
   "commute_min": 31,
   "commute_mode": "🚇 Victoria",
@@ -26947,7 +24286,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 23/09/2026",
   "listed": "2026-09-23",
-  "fresh_days": 34,
+  "fresh_days": 35,
   "stale": true,
   "kept_reason": "enquired (sent.json)",
   "commute_min": 46,
@@ -27039,7 +24378,7 @@
   "nbhd": "South Bermondsey · Southwark SE1",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 12,
+  "fresh_days": 13,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 50,
@@ -27141,7 +24480,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 46,
@@ -27234,7 +24573,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "stale": true,
   "commute_min": 40,
   "commute_mode": "🚇 Northern + Victoria",
@@ -27418,7 +24757,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "stale": true,
   "commute_min": 40,
   "commute_mode": "🚇 District + Victoria",
@@ -27510,7 +24849,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 15,
+  "fresh_days": 16,
   "stale": true,
   "commute_min": 34,
   "commute_mode": "🚇 Circle",
@@ -27602,7 +24941,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 15,
+  "fresh_days": 16,
   "stale": true,
   "commute_min": 35,
   "commute_mode": "🚇 Circle",
@@ -27694,7 +25033,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 12/10/2026",
   "listed": "2026-10-12",
-  "fresh_days": 15,
+  "fresh_days": 16,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 60,
@@ -27787,7 +25126,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "stale": true,
   "commute_min": 39,
   "commute_mode": "🚇 Central + Victoria",
@@ -27879,7 +25218,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 14,
+  "fresh_days": 15,
   "stale": true,
   "commute_min": 40,
   "commute_mode": "🚇 Victoria",
@@ -27971,7 +25310,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 14,
+  "fresh_days": 15,
   "stale": true,
   "commute_min": 40,
   "commute_mode": "🚇 Northern + Victoria",
@@ -28063,7 +25402,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 14,
+  "fresh_days": 15,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 46,
@@ -28156,7 +25495,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 51,
@@ -28510,7 +25849,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 14/10/2026",
   "listed": "2026-10-14",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "stale": true,
   "commute_min": 45,
   "commute_mode": "🚆 Great Northern + Victoria",
@@ -28603,7 +25942,7 @@
   "nbhd": "Cricklewood NW2",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 13,
+  "fresh_days": 14,
   "kept_reason": "liked",
   "stale": true,
   "commute_min": 49,
@@ -28691,7 +26030,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 14,
+  "fresh_days": 15,
   "stale": true,
   "commute_min": 35,
   "commute_mode": "🚇 Victoria",
@@ -28780,7 +26119,7 @@
   "source": "rightmove",
   "listed_reason": "Added on 13/10/2026",
   "listed": "2026-10-13",
-  "fresh_days": 14,
+  "fresh_days": 15,
   "stale": true,
   "commute_min": 41,
   "commute_mode": "🚆 Lioness",
@@ -28964,7 +26303,7 @@
   "nbhd": "Northcote · Battersea SW11",
   "source": "rightmove",
   "listed_reason": "page error HTTP Error 410: Gone",
-  "fresh_days": 15,
+  "fresh_days": 16,
   "kept_reason": "enquired (sent.json)",
   "stale": true,
   "commute_min": 53,
