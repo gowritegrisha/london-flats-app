@@ -1,5 +1,251 @@
 [
  {
+  "id": "or-3091161",
+  "title": "1 Bed Flat — 1-bed",
+  "area": "1 Bed Flat, Collingham Place, SW5",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-10-28",
+  "commute": "35 min · 🚇 District + Victoria (TfL, arrive 09:00)",
+  "pets": "Pets allowed (listing)",
+  "url": "https://www.openrent.co.uk/3091161",
+  "source": "openrent",
+  "photos": [
+   "photos/or-3091161_0.jpg",
+   "photos/or-3091161_1.jpg",
+   "photos/or-3091161_2.jpg",
+   "photos/or-3091161_3.jpg",
+   "photos/or-3091161_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OpenRent] OpenRent (private landlord). ",
+  "hood": "Hoodmaps: Rich (Courtfield); nearby tags: \"France\", \"Filipino Area\", \"Refugee hotel \", \"most expensive property in UK\".",
+  "date_found": "2026-10-28",
+  "features": "",
+  "listed": "2026-10-28",
+  "lat": 51.493916,
+  "lng": -0.189892,
+  "agent": "OpenRent (private landlord)",
+  "commute_min": 35,
+  "commute_mode": "🚇 District + Victoria",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.0,
+    "max": 20,
+    "reason": "35 min door-to-door (TfL): 🚇 District + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "pets allowed"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94866459",
+  "title": "Beaconsfield Road — 1-bed",
+  "area": "Beaconsfield Road, London, N11",
+  "price": 1550,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished or unfurnished, landlord is flexible",
+  "available": "2026-10-28",
+  "commute": "45 min · 🚆 Thameslink + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94866459",
+  "source": "rightmove",
+  "photos": [
+   "photos/94866459_0.jpg",
+   "photos/94866459_1.jpg",
+   "photos/94866459_2.jpg",
+   "photos/94866459_3.jpg",
+   "photos/94866459_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3091185. We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location. Available to move in from 28 October 2026, this property benefits from available parking. Property is offered furnished or unfurnished (tenant can decide). Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! Summary Rent £1,550.00 per month (£357.69 per week) Deposit / Bond is £1,788.46 Maximum number of tenants is 2 Summary & Exclusions: - Rent Amount: £1,550.00 per month (£357.69 per week) - Deposit / Bond: £1,788.46 - 1 Bedrooms - 1 Bathrooms - Property comes furnished or unfurnished (tenant can decide) - Available to move in from 28 October 2026 - Maximum number of tenants is 2 - Students welcome to enquire - Smokers considered - Bills not included - Property has parking - No Garden Access - EPC Rating: C If calling, please quote ",
+  "hood": "Hoodmaps: Rich (Coppetts), also painted Normies; no user tags within ~450 m.",
+  "date_found": "2026-10-28",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3091185",
+  "listed": "2026-10-28",
+  "lat": 51.617287,
+  "lng": -0.14787,
+  "agent": "OpenRent, London",
+  "commute_min": 45,
+  "commute_mode": "🚆 Thameslink + Victoria",
+  "commute_ok": true,
+  "score": 62,
+  "score_breakdown": {
+   "style": {
+    "points": 11.3,
+    "max": 22,
+    "reason": "keywords: light(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.0,
+    "max": 20,
+    "reason": "45 min door-to-door (TfL): 🚆 Thameslink + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 4.0,
+    "max": 5,
+    "reason": "Furnished or unfurnished, landlord is flexible"
+   },
+   "price": {
+    "points": 2.7,
+    "max": 3,
+    "reason": "£1,550"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94578501",
+  "title": "Westpoint Apartments — 1-bed",
+  "area": "Westpoint Apartments, Clarendon Road, Turnpike Lane",
+  "price": 1700,
+  "size": "50 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-01",
+  "commute": "40 min · 🚆 Great Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94578501",
+  "source": "rightmove",
+  "photos": [
+   "photos/94578501_0.jpg",
+   "photos/94578501_1.jpg",
+   "photos/94578501_2.jpg",
+   "photos/94578501_3.jpg",
+   "photos/94578501_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Alex Crown Lettings & Estate Agents, Islington. Alex Crown are delighted to present this bright and modern one-bedroom apartment, ideally situated within the popular Westpoint Apartments development on Clarendon Road, N8. The property offers approximately 49.6 sq. m. (535 sq. ft.) of well-arranged accommodation and comprises a spacious double bedroom with built-in wardrobes, a generous separate reception room, a modern fully fitted kitchen with appliances and a contemporary bathroom with bath, shower and WC. The reception room benefits from excellent natural light and direct access to a private balcony, providing useful outdoor space. The development also benefits from lift access, making the apartment easily accessible. Westpoint Apartments is conveniently located for the wide range of shops, supermarkets, cafés, restaurants and local amenities found around Turnpike Lane, Hornsey and Wood Green. Turnpike Lane and Wood Green Undergrou",
+  "hood": "Hoodmaps: Normies (Noel Park), also painted Rich; nearby tags: \"Hood Green\".",
+  "date_found": "2026-10-28",
+  "features": "MODERN ONE-BEDROOM APARTMENT; Spacious double bedroom with built-in wardrobes; Approx. 535 sq. ft. / 49.6 sq. m.; Generous separate reception room; Private balcony with open outlook; Modern fully fitted kitchen with appliances; Contemporary bathroom with bath and shower; Lift access within the development; Bright and well-presented throughout; Ideal for a single professional or couple",
+  "listed": "2026-10-21",
+  "lat": 51.58897,
+  "lng": -0.11173,
+  "agent": "Alex Crown Lettings & Estate Agents, Islington",
+  "commute_min": 40,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true,
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), contemporary(+2), light(+1), well-presented(+2), balcony(+2)"
+   },
+   "size": {
+    "points": 6.0,
+    "max": 15,
+    "reason": "50 m²"
+   },
+   "commute": {
+    "points": 13.0,
+    "max": 20,
+    "reason": "40 min door-to-door (TfL): 🚆 Great Northern + Victoria"
+   },
+   "hood": {
+    "points": 8.0,
+    "max": 15,
+    "reason": "Normies"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "01 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "balcony, lift"
+   },
+   "outdoor": {
+    "points": 3.0,
+    "max": 6,
+    "reason": "balcony/terrace"
+   }
+  },
+  "fresh_days": 7
+ },
+ {
   "id": "or-1220929",
   "title": "1 Bed Flat — 1-bed",
   "area": "1 Bed Flat, Cambridge Avenue, NW6",
@@ -28,9 +274,6 @@
   "lat": 51.535725,
   "lng": -0.1928628,
   "agent": "OpenRent (private landlord)",
-  "commute_min": 31,
-  "commute_mode": "🚆 Lioness",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -79,7 +322,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 31,
+  "commute_mode": "🚆 Lioness",
+  "commute_ok": true
  },
  {
   "id": "94856913",
@@ -110,9 +356,6 @@
   "lat": 51.58063,
   "lng": -0.259551,
   "agent": "Sonia Estates, Harrow",
-  "commute_min": 62,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -163,7 +406,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 62,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": false
  },
  {
   "id": "94860537",
@@ -194,9 +440,6 @@
   "lat": 51.501213,
   "lng": -0.023859,
   "agent": "Kilmers, Western Gateway",
-  "commute_min": 40,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -245,7 +488,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 40,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94863036",
@@ -272,9 +518,6 @@
   "lat": 51.5869,
   "lng": -0.107355,
   "agent": "Brian Thomas Estate Agents, Green Lanes",
-  "commute_min": 43,
-  "commute_mode": "🚆 Great Northern + Victoria",
-  "commute_ok": true,
   "score": 67,
   "score_breakdown": {
    "style": {
@@ -323,7 +566,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 43,
+  "commute_mode": "🚆 Great Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94863618",
@@ -354,9 +600,6 @@
   "lat": 51.479548,
   "lng": -0.140828,
   "agent": "Life Residential, Nine Elms Riverside Office",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -405,7 +648,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "otm-20644141",
