@@ -28,9 +28,6 @@
   "lat": 51.516962,
   "lng": -0.265387,
   "agent": "Johns & Co - Brentford",
-  "commute_min": 34,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 77,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "otm-20652513",
@@ -110,9 +110,6 @@
   "lat": 51.610339,
   "lng": -0.126323,
   "agent": "One to One Estates - Archway",
-  "commute_min": 39,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -161,7 +158,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 39,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94899555",
@@ -192,9 +192,6 @@
   "lat": 51.46744,
   "lng": -0.02934,
   "agent": "OpenRent, London",
-  "commute_min": 56,
-  "commute_mode": "🚆 Southeastern + Jubilee + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 61,
@@ -245,7 +242,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 56,
+  "commute_mode": "🚆 Southeastern + Jubilee + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94899801",
@@ -276,9 +276,6 @@
   "lat": 51.48066,
   "lng": -0.12585,
   "agent": "Residential Realtors, London",
-  "commute_min": 36,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -327,7 +324,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 36,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "94901325",
@@ -358,9 +358,6 @@
   "lat": 51.5173,
   "lng": -0.263,
   "agent": "JOHNS&CO, Brentford",
-  "commute_min": 37,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 80,
   "score_breakdown": {
    "style": {
@@ -409,7 +406,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 37,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94901508",
@@ -440,9 +440,6 @@
   "lat": 51.570396,
   "lng": -0.106201,
   "agent": "Hemmingfords, London",
-  "commute_min": 36,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 60,
   "score_breakdown": {
    "style": {
@@ -491,7 +488,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 36,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94904433",
@@ -522,9 +522,6 @@
   "lat": 51.580608,
   "lng": -0.031764,
   "agent": "The Stow Brothers, Walthamstow & Leyton",
-  "commute_min": 44,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -573,7 +570,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 44,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "94904601",
@@ -604,9 +604,6 @@
   "lat": 51.45284,
   "lng": -0.101977,
   "agent": "Chestertons, Clapham Common & Brixton",
-  "commute_min": 38,
-  "commute_mode": "🚆 Thameslink + Metropolitan",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -655,7 +652,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 38,
+  "commute_mode": "🚆 Thameslink + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94905003",
@@ -682,9 +682,6 @@
   "lat": 51.462204,
   "lng": -0.17567,
   "agent": "OpenRent, London",
-  "commute_min": 44,
-  "commute_mode": "🚆 South Western Railway + Victoria",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -733,7 +730,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 44,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94905246",
@@ -764,9 +764,6 @@
   "lat": 51.464,
   "lng": -0.232872,
   "agent": "James Anderson, East Putney - Lettings",
-  "commute_min": 56,
-  "commute_mode": "🚆 South Western Railway + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 61,
@@ -817,7 +814,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 56,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94905258",
@@ -848,9 +848,6 @@
   "lat": 51.582156,
   "lng": -0.199153,
   "agent": "Dexters, West Hampstead South",
-  "commute_min": 43,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -899,7 +896,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 43,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "portico-PWA240421",
