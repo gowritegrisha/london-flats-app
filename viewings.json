@@ -646,5 +646,39 @@
   "notes": "96 Hi Maria, you have a new message from Dan! 2 Bed Flat, Ribblesdale Road, N8 - Ref# 3065522 Hi the property is available start of November, there aren't remote viewings and are currently showing it Thursday if anyone c",
   "source": "masha-mail",
   "type": null
+ },
+ {
+  "id": "prop-stow-e17-video-request",
+  "listing_id": "stow-e17-video-request",
+  "title": "Walthamstow E17 flats (Bremer Mews, Carlton Road, Carr Road, Winns Terrace)",
+  "address": "Walthamstow E17 flats (Bremer Mews, Carlton Road, Carr Road, Winns Terrace)",
+  "datetime": null,
+  "agent": "Ryan Goullee (Stow Brothers)",
+  "agent_contact": null,
+  "agent_email": "Ryan Goullee <ryangoullee@stowbrothers.com>",
+  "agent_phone": null,
+  "thread_id": "1a1824ca47993bd1",
+  "status": "proposed",
+  "asked": "2026-10-29T12:10:52Z",
+  "notes": "Hi Maria Thanks for reaching back out! I sent you the video for Winns Terrace on WhatsApp for your reference. Carr Road is no longer available now unfortunately. Bremer Mews we are going in for viewings on Saturday if yo",
+  "source": "masha-mail",
+  "type": "video"
+ },
+ {
+  "id": "hold-stow-e17-video-request@2026-10-31T10:00",
+  "listing_id": "stow-e17-video-request",
+  "title": "Walthamstow E17 flats (Bremer Mews, Carlton Road, Carr Road, Winns Terrace)",
+  "address": "Walthamstow E17 flats (Bremer Mews, Walthamstow, London E17",
+  "datetime": "2026-10-31T10:00:00+00:00",
+  "agent": "Ryan Goullee (Stow Brothers) (Ryan Goullee (Stow Brothers))",
+  "agent_email": "Ryan Goullee <ryangoullee@stowbrothers.com>",
+  "agent_phone": "0203 397 9797",
+  "thread_id": "1a1824ca47993bd1",
+  "status": "proposed",
+  "type": "video",
+  "source": "calendar-hold",
+  "calendar_event_id": null,
+  "calendar_link": null,
+  "notes": "(?) предварительно — агент не подтвердил. "
  }
 ]
