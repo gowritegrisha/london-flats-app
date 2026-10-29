@@ -1,5 +1,169 @@
 [
  {
+  "id": "otm-4443312",
+  "title": "Harrow Road — 1-bed",
+  "area": "Harrow Road, Maida Hill W9",
+  "price": 1700,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "29 min · 🚌 bus 18 (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/4443312/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-4443312_0.jpg",
+   "photos/otm-4443312_1.jpg",
+   "photos/otm-4443312_2.jpg",
+   "photos/otm-4443312_3.jpg",
+   "photos/otm-4443312_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Westways - Maida Vale.  Wonderfully bright top floor 1 double bedroom flat available to rent on Harrow Road, W9. This spacious top floor apartment with entrance on the 2nd floor has living accommodation comprising a private entrance stairwell; living room with wood floors and small dining area; carpeted double bedroom with dividing screen to the living room; separate fitted kitchen with washing machine; modern, tiled bathroom. Available 19th immediately. EPC Rating D. ",
+  "hood": "Hoodmaps: Rich (Harrow Road); nearby tags: \"Trellick Tower BEST BUILDING EVER\", \"mosques\", \"Sketchy Square\".",
+  "date_found": "2026-10-29",
+  "features": "Bright top floor flat; 1 double bedroom; Living/dining area; Fully furnished; EPC Rating D; Westbourne Park station",
+  "listed": "2026-10-29",
+  "lat": 51.525118,
+  "lng": -0.20378,
+  "agent": "Westways - Maida Vale",
+  "commute_min": 29,
+  "commute_mode": "🚌 bus 18",
+  "commute_ok": true,
+  "score": 65,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), wood floors(+1), washing machine(-3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 20,
+    "max": 20,
+    "reason": "29 min door-to-door (TfL): 🚌 bus 18"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.8,
+    "max": 3,
+    "reason": "£1,700"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94916550",
+  "title": "Bermondsey Wall West — 1-bed",
+  "area": "Bermondsey Wall West, London",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-14",
+  "commute": "43 min · 🚇 Jubilee + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94916550",
+  "source": "rightmove",
+  "photos": [
+   "photos/94916550_0.jpg",
+   "photos/94916550_1.jpg",
+   "photos/94916550_2.jpg",
+   "photos/94916550_3.jpg",
+   "photos/94916550_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Anderson Rose, Tower Bridge. Located on the top floor (with lift access) of the impressive Luna House building, this one-bedroom apartment featuring bright, openplan living accommodation and benefitting from an easterly view down river, would be perfect for a couple or single person. The apartment is well presented with good quality furniture. Luna House has a bike store, lift access and daytime concierge. It is located within 0.4 miles of Bermondsey tube station which is on the Jubilee Line for access to Canary Wharf and the West End. London Bridge station and the City can both be accessed by foot within 1 mile and 1.5 miles respectively. Bermondsey St, Maltby St market and Borough Market are all within walking distance and many residents walk to work across Tower Bridge, in nearby More London or pop on the Jubilee Line a few stops to the West End. There are multiple cafes, restaurants, shops and gyms within easy w",
+  "hood": "Hoodmaps: Rich (Riverside), also painted Tourists; nearby tags: \"Victorian poo river\", \"murder capital\".",
+  "date_found": "2026-10-29",
+  "features": "Top floor apartment in stylish, modern apartment building; Lift access and river views; Daytime porter and bicycle storage; Offered furnished; Restaurants, cafes, shops and gyms within short walking distance; The City, Bermondsey, Borough Market and London Bridge stations within walking distance; Southwark Council Tax Band D",
+  "listed": "2026-10-29",
+  "lat": 51.501253,
+  "lng": -0.067009,
+  "agent": "Anderson Rose, Tower Bridge",
+  "commute_min": 43,
+  "commute_mode": "🚇 Jubilee + Victoria",
+  "commute_ok": true,
+  "score": 61,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), stylish(+3), bright(+2), well presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 10.6,
+    "max": 20,
+    "reason": "43 min door-to-door (TfL): 🚇 Jubilee + Victoria"
+   },
+   "hood": {
+    "points": 10.0,
+    "max": 15,
+    "reason": "Rich; negative tags: murder"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "14 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "lift, concierge, gym"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20651984",
   "title": "Wesley Road — 2-bed",
   "area": "Wesley Road, London E10",
