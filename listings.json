@@ -1,5 +1,87 @@
 [
  {
+  "id": "portico-PWA240421",
+  "title": "Hatherley Road — 2-bed",
+  "area": "Hatherley Road, Walthamstow, London E17",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "furnished",
+  "available": "2026-10-28",
+  "commute": "41 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.portico.com/property/PWA240421",
+  "source": "portico",
+  "photos": [
+   "photos/portico-PWA240421_0.jpg",
+   "photos/portico-PWA240421_1.jpg",
+   "photos/portico-PWA240421_2.jpg",
+   "photos/portico-PWA240421_3.jpg",
+   "photos/portico-PWA240421_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Portico] Portico Walthamstow (Yevhenii Pidopryhora). Modern two double bedroom house near Walthamstow Central (Victoria line, Overground), open plan lounge kitchen, sunny rear garden, off-street parking, fully furnished, available from 28 October 2026. Agent: Yevhenii Pidopryhora, Portico Walthamstow, 020 8520 5255, walthamstow@portico.com. Location approximate (street centroid).",
+  "hood": "Hoodmaps: Hipsters (William Morris); nearby tags: \"Deliveroo drivers\", \"Crackstow\".",
+  "date_found": "2026-10-29",
+  "features": "",
+  "listed": "2026-10-29",
+  "lat": 51.5866876,
+  "lng": -0.0220975,
+  "agent": "Portico Walthamstow (Yevhenii Pidopryhora)",
+  "commute_min": 41,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 65,
+  "score_breakdown": {
+   "style": {
+    "points": 14.0,
+    "max": 22,
+    "reason": "keywords: modern(+3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "Hipsters; negative tags: crack"
+   },
+   "availability": {
+    "points": 9.0,
+    "max": 10,
+    "reason": "28 Oct: 4 days before Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20650218",
   "title": "Highfield Avenue — 1-bed",
   "area": "Highfield Avenue, London NW11",
@@ -27,9 +109,6 @@
   "lat": 51.577556,
   "lng": -0.209853,
   "agent": "Righthand Residential - London",
-  "commute_min": 35,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 76,
   "score_breakdown": {
    "style": {
@@ -78,7 +157,11 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Golders Green NW11",
+  "commute_min": 35,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94891227",
@@ -109,9 +192,6 @@
   "lat": 51.595079,
   "lng": -0.251751,
   "agent": "Fraser & Co, Colindale",
-  "commute_min": 40,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -160,7 +240,11 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "nbhd": "Colindale South NW9",
+  "commute_min": 40,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "or-3092001",
