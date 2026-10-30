@@ -28,9 +28,6 @@
   "lat": 51.532098,
   "lng": -0.05941,
   "agent": "Berns & Company - Hendon",
-  "commute_min": 44,
-  "commute_mode": "🚇 Central + Metropolitan",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -79,7 +76,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 44,
+  "commute_mode": "🚇 Central + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94898700",
@@ -110,9 +110,6 @@
   "lat": 51.464869,
   "lng": -0.012686,
   "agent": "Fizzy Living, Lewisham",
-  "commute_min": 47,
-  "commute_mode": "🚆 Southeastern + Northern",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 62,
@@ -163,7 +160,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 1
+  "fresh_days": 1,
+  "commute_min": 47,
+  "commute_mode": "🚆 Southeastern + Northern",
+  "commute_ok": false
  },
  {
   "id": "94935900",
@@ -194,9 +194,6 @@
   "lat": 51.558241,
   "lng": -0.145058,
   "agent": "Chestertons, Kentish Town",
-  "commute_min": 35,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -245,7 +242,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 35,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94936485",
@@ -276,9 +276,6 @@
   "lat": 51.61112,
   "lng": -0.210415,
   "agent": "Squires Estates, Mill Hill",
-  "commute_min": 43,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 72,
   "score_breakdown": {
    "style": {
@@ -327,7 +324,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 43,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94936563",
@@ -354,9 +354,6 @@
   "lat": 51.50049,
   "lng": -0.089635,
   "agent": "Dexters, London Bridge",
-  "commute_min": 38,
-  "commute_mode": "🚇 Northern",
-  "commute_ok": true,
   "score": 61,
   "score_breakdown": {
    "style": {
@@ -405,7 +402,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 38,
+  "commute_mode": "🚇 Northern",
+  "commute_ok": true
  },
  {
   "id": "94938810",
@@ -436,9 +436,6 @@
   "lat": 51.514136,
   "lng": -0.300346,
   "agent": "Horton and Garton, Hammersmith and Shepherd's Bush",
-  "commute_min": 38,
-  "commute_mode": "🚆 Elizabeth line + Northern",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -487,7 +484,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 38,
+  "commute_mode": "🚆 Elizabeth line + Northern",
+  "commute_ok": true
  },
  {
   "id": "94940751",
@@ -518,9 +518,6 @@
   "lat": 51.53335,
   "lng": -0.133652,
   "agent": "OpenRent, London",
-  "commute_min": 17,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true,
   "score": 62,
   "score_breakdown": {
    "style": {
@@ -569,7 +566,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 17,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true
  },
  {
   "id": "or-3092967",
