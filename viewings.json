@@ -665,6 +665,23 @@
   "type": "video"
  },
  {
+  "id": "prop-94865643",
+  "listing_id": "94865643",
+  "title": null,
+  "address": null,
+  "datetime": null,
+  "agent": null,
+  "agent_contact": null,
+  "agent_email": "Yevhenii Pidopryhora <y.pidopryhora@portico.com>",
+  "agent_phone": "02085205255",
+  "thread_id": "1a187ec8d7ceec91",
+  "status": "proposed",
+  "asked": "2026-10-29T13:49:39Z",
+  "notes": " PROPERTY SEARCH CONTACT US PROPERTY MATCH Great news! We've added or updated one or more properties that match your search criteria. Hatherley Road, London E17 £1,950 per month 2 Bedroom Detached House Perfectly positio",
+  "source": "masha-mail",
+  "type": null
+ },
+ {
   "id": "hold-stow-e17-video-request@2026-10-31T10:00",
   "listing_id": "stow-e17-video-request",
   "title": "Walthamstow E17 flats (Bremer Mews, Carlton Road, Carr Road, Winns Terrace)",
