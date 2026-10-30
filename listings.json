@@ -1,5 +1,169 @@
 [
  {
+  "id": "94961592",
+  "title": "Nightingale Court — 1-bed",
+  "area": "Nightingale Court, Tollington Park, N4",
+  "price": 1750,
+  "size": "55 m²",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-12-12",
+  "commute": "35 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94961592",
+  "source": "rightmove",
+  "photos": [
+   "photos/94961592_0.jpg",
+   "photos/94961592_1.jpg",
+   "photos/94961592_2.jpg",
+   "photos/94961592_3.jpg",
+   "photos/94961592_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Philip Alexander, Crouch End.  PhilipAlexander are pleased to present this well-presented one-bedroom apartment, ideally situated within a private gated residential development in a popular North London location. Offering comfortable and well-proportioned accommodation throughout, the property would make an ideal home for a professional individual or couple seeking convenience, excellent transport connections and the added benefit of off-street parking. The accommodation comprises a spacious reception room, providing ample space for both relaxing and entertaining, alongside a separate fitted kitchen offering a practical and distinct cooking area. The generously sized double bedroom benefits from fitted wardrobes, providing useful built-in storage, while the contemporary bathroom is finished with both bath and shower facilities. A particular highlight of the property is the off-street parking within the development’s ",
+  "hood": "Hoodmaps: Rich (Tollington); no user tags within ~450 m.",
+  "date_found": "2026-10-30",
+  "features": "Third floor purpose built apartment; Private gated block; Off-street park (gated); Short walk to Finsbury Park station; Easy access to Archway, Holloway, and Crouch End; Separate kitchen with space for breakfast dining; Double-glazed with gas central heating throughout; Built-in storage spaces",
+  "listed": "2026-10-30",
+  "lat": 51.564329,
+  "lng": -0.117973,
+  "agent": "Philip Alexander, Crouch End",
+  "commute_min": 35,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 66,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: contemporary(+2), light(+1), well-presented(+2), fitted wardrobes(+2)"
+   },
+   "size": {
+    "points": 9.0,
+    "max": 15,
+    "reason": "55 m²"
+   },
+   "commute": {
+    "points": 17.0,
+    "max": 20,
+    "reason": "35 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 1.5,
+    "max": 10,
+    "reason": "12 Dec: Dec or later"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 1.5,
+    "max": 3,
+    "reason": "£1,750"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94962291",
+  "title": "Station Road — 2-bed",
+  "area": "Station Road, Hendon",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "44 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94962291",
+  "source": "rightmove",
+  "photos": [
+   "photos/94962291_0.jpg",
+   "photos/94962291_1.jpg",
+   "photos/94962291_2.jpg",
+   "photos/94962291_3.jpg",
+   "photos/94962291_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Dexters, Hendon. A spacious two bedroom two bathroom modern apartment on the first floor of this sought after block in the heart of Hendon. This apartment consists of two large double bedrooms (en-suite shower/WC to master bedroom), a modern fully fitted kitchen, spacious living room with dining area, family shower/WC, secure gated underground parking and well maintained communal gardens. The property is moments from all amenities in Hendon Central and West Hendon Broadway and offers excellent connections to Central London. Security Deposit: £2,423 Council Tax Band: Not yet set ",
+  "hood": "Hoodmaps: Rich (West Hendon); nearby tags: \"Not Golders Green\".",
+  "date_found": "2026-10-30",
+  "features": "Gas Central Heating; Double Glazing; Wood Floors; Off Street Parking; Close to All Amenities; Good Condition; Entry Phone",
+  "listed": "2026-10-30",
+  "lat": 51.581515,
+  "lng": -0.235999,
+  "agent": "Dexters, Hendon",
+  "commute_min": 44,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: modern(+3), wood floors(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 9.8,
+    "max": 20,
+    "reason": "44 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "garden"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20658962",
   "title": "Sinclair Road — 1-bed",
   "area": "Sinclair Road, London, W14",
@@ -28,9 +192,6 @@
   "lat": 51.500896,
   "lng": -0.215083,
   "agent": "Lma Property - London",
-  "commute_min": 41,
-  "commute_mode": "🚇 Central + Victoria",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -79,7 +240,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚇 Central + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-16094689",
@@ -110,9 +274,6 @@
   "lat": 51.540035,
   "lng": -0.152158,
   "agent": "We Rent Flats Too - London",
-  "commute_min": 29,
-  "commute_mode": "🚌 bus 29",
-  "commute_ok": true,
   "score": 68,
   "score_breakdown": {
    "style": {
@@ -161,7 +322,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 29,
+  "commute_mode": "🚌 bus 29",
+  "commute_ok": true
  },
  {
   "id": "otm-16045792",
@@ -192,9 +356,6 @@
   "lat": 51.54384004,
   "lng": -0.14011967,
   "agent": "Olivers Town - Kentish Town",
-  "commute_min": 21,
-  "commute_mode": "🚌 bus 24",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -243,7 +404,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 21,
+  "commute_mode": "🚌 bus 24",
+  "commute_ok": true
  },
  {
   "id": "otm-20661391",
@@ -274,9 +438,6 @@
   "lat": 51.46623,
   "lng": -0.102462,
   "agent": "Felicity J. Lord - Brixton",
-  "commute_min": 34,
-  "commute_mode": "🚆 Thameslink + Metropolitan",
-  "commute_ok": true,
   "score": 66,
   "score_breakdown": {
    "style": {
@@ -325,7 +486,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚆 Thameslink + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "otm-20661504",
@@ -356,9 +520,6 @@
   "lat": 51.624204,
   "lng": -0.157279,
   "agent": "Barnard Marcus - North Finchley",
-  "commute_min": 64,
-  "commute_mode": "🚆 Thameslink + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 63,
@@ -409,7 +570,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 64,
+  "commute_mode": "🚆 Thameslink + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94952103",
@@ -440,9 +604,6 @@
   "lat": 51.5509,
   "lng": -0.23663,
   "agent": "parkinsonfarr, Willesden Green",
-  "commute_min": 41,
-  "commute_mode": "🚇 Jubilee + Metropolitan",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -491,7 +652,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚇 Jubilee + Metropolitan",
+  "commute_ok": true
  },
  {
   "id": "94954506",
@@ -522,9 +686,6 @@
   "lat": 51.453996,
   "lng": -0.194469,
   "agent": "GrowPortfolio, London",
-  "commute_min": 58,
-  "commute_mode": "🚆 South Western Railway + Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 64,
@@ -575,7 +736,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 58,
+  "commute_mode": "🚆 South Western Railway + Victoria",
+  "commute_ok": false
  },
  {
   "id": "94697121",
@@ -606,9 +770,6 @@
   "lat": 51.553391,
   "lng": -0.165799,
   "agent": "Olivers Town, Kentish Town - Lettings",
-  "commute_min": 33,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -657,7 +818,10 @@
     "reason": "balcony/terrace"
    }
   },
-  "fresh_days": 6
+  "fresh_days": 6,
+  "commute_min": 33,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "winkworth-HAM260094",
