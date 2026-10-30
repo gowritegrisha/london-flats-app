@@ -1,5 +1,417 @@
 [
  {
+  "id": "otm-20658615",
+  "title": "Warwick Road — 3-bed",
+  "area": "Warwick Road, London, E17",
+  "price": 2000,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "",
+  "commute": "больше 45 мин на метро (TfL)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20658615/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20658615_0.jpg",
+   "photos/otm-20658615_1.jpg",
+   "photos/otm-20658615_2.jpg",
+   "photos/otm-20658615_3.jpg",
+   "photos/otm-20658615_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Ellis & Co - Tottenham. Ellis & Co are proud to offer to the market this charming three-bedroom terraced house offering a bright and spacious living environment in a peaceful setting. This unfurnished property benefits from period features that add character and warmth throughout. The accommodation includes well-proportioned rooms, providing ample space for comfortable living. A private garden offers a tranquil outdoor area, perfect for relaxation or entertaining. Conveniently located with excellent access to local amenities, transport links, and reputable schools, this home combines both accessibility and tranquillity. Situated in a sought-after area with excellent access to local amenities and transport links, this unfurnished property offers permit parking facilities for added convenience. The accommodation includes three generously proportioned bedrooms, a comfortable living area, and a practical kitchen. I",
+  "hood": "Hoodmaps: Rich (Higham Hill), also painted Hipsters; nearby tags: \"Crazy people with cats\", \"Helicopters fly here constantly\".",
+  "date_found": "2026-10-30",
+  "features": "Double glazed; Available now; Spacious bedrooms; Recent refurb work carried out; Private garden; Permit parking; Council tax band c; EPC RATING D",
+  "listed": "2026-10-30",
+  "lat": 51.596529,
+  "lng": -0.029258,
+  "agent": "Ellis & Co - Tottenham",
+  "commute_min": 55,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": false,
+  "hidden": true,
+  "hidden_reason": "commute>45",
+  "score": 54,
+  "score_breakdown": {
+   "style": {
+    "points": 16.8,
+    "max": 22,
+    "reason": "keywords: bright(+2), period(+1), character(+1), private garden(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 0,
+    "max": 20,
+    "reason": "55 min (TfL): 🚇 Victoria — over Masha's 45-min limit"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,000"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, terrace"
+   },
+   "outdoor": {
+    "points": 6,
+    "max": 6,
+    "reason": "ground floor + garden (Princes Ave-like)"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-6575918",
+  "title": "Pasquier Road — 2-bed",
+  "area": "Pasquier Road, London E17",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "",
+  "available": "",
+  "commute": "42 min · 🚇 Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/6575918/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-6575918_0.jpg",
+   "photos/otm-6575918_1.jpg",
+   "photos/otm-6575918_2.jpg",
+   "photos/otm-6575918_3.jpg",
+   "photos/otm-6575918_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] haart Estate Agents - Walthamstow. Situated in a highly sought-after location and just a short stroll from BLACKHORSE STATION (Victoria Line), this well-presented TWO DOUBLE BEDROOM terraced house is sure to attract plenty of attention. The accommodation offers a spacious fitted kitchen/diner, providing an ideal space for entertaining and family meals, with direct access to the easy-to-maintain rear garden. To the front of the property is a bright and welcoming bay-fronted lounge, while upstairs are TWO GENEROUSLY SIZED DOUBLE BEDROOMS and a family bathroom, which is conveniently accessible from both bedrooms. Perfectly positioned for excellent transport links, local amenities and everything Walthamstow has to offer. Properties in such a convenient location are always in high demand, so early viewing is highly recommended to avoid missing out. Call haart of Walthamstow today on[use Contact Agent Button] to arrange your vi",
+  "hood": "Hoodmaps: Hipsters (William Morris); nearby tags: \"Helicopters fly here constantly\", \"older hipsters with kids\", \"Overhyped Residential Bubble\".",
+  "date_found": "2026-10-30",
+  "features": "Two Double Bedooms; Private Rear Garden; Spacious Kitchen/Diner; Walking Distance to Blackhorse Road Station; Recently Modernised Bathroom",
+  "listed": "2026-10-30",
+  "lat": 51.589735464439,
+  "lng": -0.0315660944428,
+  "agent": "haart Estate Agents - Walthamstow",
+  "commute_min": 42,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true,
+  "score": 65,
+  "score_breakdown": {
+   "style": {
+    "points": 19.5,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), well-presented(+2)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 11.4,
+    "max": 20,
+    "reason": "42 min door-to-door (TfL): 🚇 Victoria"
+   },
+   "hood": {
+    "points": 12.0,
+    "max": 15,
+    "reason": "Hipsters"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 2.5,
+    "max": 5,
+    "reason": "not stated"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 4,
+    "max": 4,
+    "reason": "garden, terrace"
+   },
+   "outdoor": {
+    "points": 3.9,
+    "max": 6,
+    "reason": "garden"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "otm-20659392",
+  "title": "Watford Way — 2-bed",
+  "area": "Watford Way, Hendon, London, NW4",
+  "price": 1650,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Unfurnished",
+  "available": "2026-11-01",
+  "commute": "34 min · 🚇 Northern + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.onthemarket.com/details/20659392/",
+  "source": "onthemarket",
+  "photos": [
+   "photos/otm-20659392_0.jpg",
+   "photos/otm-20659392_1.jpg",
+   "photos/otm-20659392_2.jpg",
+   "photos/otm-20659392_3.jpg",
+   "photos/otm-20659392_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[OTM] Belvoir - Hendon. Belvoir are pleased to offer this flat above the shops only moments from Hendon Central Station. The rooms are all good sizes and the flat has been recently redecorated throughout. The flat consists of a large double bedroom, good sized single (almost double) second bedroom, very large reception room, separate kitchen, bathroom and plenty of storage space. Early viewing recommended EPC rating: E. ",
+  "hood": "Hoodmaps: Rich (Hendon), also painted Normies; nearby tags: \"Not Golders Green\".",
+  "date_found": "2026-10-30",
+  "features": "",
+  "listed": "2026-10-30",
+  "lat": 51.583524,
+  "lng": -0.227386,
+  "agent": "Belvoir - Hendon",
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true,
+  "score": 63,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.6,
+    "max": 20,
+    "reason": "34 min door-to-door (TfL): 🚇 Northern + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "01 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 2.8,
+    "max": 5,
+    "reason": "unfurnished (fine — Masha enquired on many)"
+   },
+   "price": {
+    "points": 2.1,
+    "max": 3,
+    "reason": "£1,650"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94943424",
+  "title": "Hazlitt Road — 1-bed",
+  "area": "Hazlitt Road, London",
+  "price": 2100,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "",
+  "commute": "41 min · 🚆 Mildmay + District + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94943424",
+  "source": "rightmove",
+  "photos": [
+   "photos/94943424_0.jpg",
+   "photos/94943424_1.jpg",
+   "photos/94943424_2.jpg",
+   "photos/94943424_3.jpg",
+   "photos/94943424_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] Marsh & Parsons, Brook Green. A bright and well-proportioned one bedroom flat on a quiet residential street with a stunning reception room that floods with natural light. It further comprises of an open-plan kitchen and dining area, a double bedroom with built-in storage and a modern bathroom with overhead shower. The flat is ideally located for Kensington Olympia overland station and is accessible to Hammersmith and High Street Kensington. Security Deposit: £387 Council Tax Band: D ",
+  "hood": "Hoodmaps: Rich (Avonmore and Brook Green); nearby tags: \"french, loads of french\", \"underrated\", \"Young professionals and council housing\", \"Tumbleweed Grove\".",
+  "date_found": "2026-10-30",
+  "features": "One double bedroom; Quiet residential street; Open-plan living; Natural light; High ceilings; Close to transport",
+  "listed": "2026-10-30",
+  "lat": 51.497661,
+  "lng": -0.213154,
+  "agent": "Marsh & Parsons, Brook Green",
+  "commute_min": 41,
+  "commute_mode": "🚆 Mildmay + District + Victoria",
+  "commute_ok": true,
+  "score": 64,
+  "score_breakdown": {
+   "style": {
+    "points": 22,
+    "max": 22,
+    "reason": "keywords: modern(+3), bright(+2), light(+1), open-plan(+1), high ceilings(+2), high ceiling(+1)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 12.2,
+    "max": 20,
+    "reason": "41 min door-to-door (TfL): 🚆 Mildmay + District + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 4.0,
+    "max": 10,
+    "reason": "date unknown/flexible"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0,
+    "max": 3,
+    "reason": "£2,100"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
+  "id": "94945419",
+  "title": "Caledonian Road — 1-bed",
+  "area": "Caledonian Road, London, N7",
+  "price": 1975,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished or unfurnished, landlord is flexible",
+  "available": "2026-11-09",
+  "commute": "32 min · 🚇 Piccadilly + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.rightmove.co.uk/properties/94945419",
+  "source": "rightmove",
+  "photos": [
+   "photos/94945419_0.jpg",
+   "photos/94945419_1.jpg",
+   "photos/94945419_2.jpg",
+   "photos/94945419_3.jpg",
+   "photos/94945419_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Rightmove] OpenRent, London. Property Reference: 3093185. This brand-new loft-style flat has been renovated to new-build standard and is ready for its first tenant. Skylights and a dormer window flood the rooms with natural light. Caledonian Road station (Piccadilly line, one stop to King’s Cross St Pancras) is a 3-minute walk away. The flat (approx. 40m²) sits on the third floor of a handsome Victorian building above a local parade of shops, with its own secure street entrance. The flat Open-plan living/dining room Brand-new fitted kitchen: matt handleless units, integrated fridge-freezer, built-in oven and hob, dishwasher and washing machine. Separate double bedroom Shower room with rainfall shower and separate handheld Ample built-in storage under the eaves Wood flooring and LED downlights throughout High security: reinforced double-door entrance and video intercom Offered furnished or unfurnished Third floor, no",
+  "hood": "Hoodmaps: Rich (Holloway); nearby tags: \"Labour voters with halitosis\", \"Keyse\", \"Student debt county\", \"deadest football team\".",
+  "date_found": "2026-10-30",
+  "features": "No Agent Fees; Students Can Enquire; Property Reference Number: 3093185",
+  "listed": "2026-10-30",
+  "lat": 51.550674,
+  "lng": -0.117703,
+  "agent": "OpenRent, London",
+  "commute_min": 32,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true,
+  "score": 69,
+  "score_breakdown": {
+   "style": {
+    "points": 15.4,
+    "max": 22,
+    "reason": "keywords: new-build(+3), handleless(+2), light(+1), open-plan(+1), washing machine(-3)"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 18.8,
+    "max": 20,
+    "reason": "32 min door-to-door (TfL): 🚇 Piccadilly + Victoria"
+   },
+   "hood": {
+    "points": 13.0,
+    "max": 15,
+    "reason": "Rich"
+   },
+   "availability": {
+    "points": 10,
+    "max": 10,
+    "reason": "09 Nov: mid-Nov ✓"
+   },
+   "furnished": {
+    "points": 4.0,
+    "max": 5,
+    "reason": "Furnished or unfurnished, landlord is flexible"
+   },
+   "price": {
+    "points": 0.2,
+    "max": 3,
+    "reason": "£1,975"
+   },
+   "extras": {
+    "points": 0,
+    "max": 4,
+    "reason": "none mentioned"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20657540",
   "title": "Cambridge Crescent — 1-bed",
   "area": "Cambridge Crescent, London E2",
