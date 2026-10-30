@@ -1,5 +1,87 @@
 [
  {
+  "id": "winkworth-HAM260094",
+  "title": "Romney Court — 1-bed",
+  "area": "Romney Court, Shepherds Bush Green, London W12",
+  "price": 1950,
+  "size": "size not stated",
+  "floor": "",
+  "furnished": "Furnished",
+  "available": "2026-11-28",
+  "commute": "35 min · 🚇 Central + Victoria (TfL, arrive 09:00)",
+  "pets": "Not mentioned",
+  "url": "https://www.winkworth.co.uk/rent/property/HAM260094",
+  "source": "winkworth",
+  "photos": [
+   "photos/winkworth-HAM260094_0.jpg",
+   "photos/winkworth-HAM260094_1.jpg",
+   "photos/winkworth-HAM260094_2.jpg",
+   "photos/winkworth-HAM260094_3.jpg",
+   "photos/winkworth-HAM260094_4.jpg"
+  ],
+  "status": "new",
+  "notes": "[Winkworth] Winkworth. Smart one bedroom flat on the fifth floor (with lift) of a purpose built block, reception room with open plan kitchen, bedroom and bathroom. Rent includes heating and hot water. Moments from Shepherds Bush station, Westfield a few minutes' walk. Council tax C. Furnished. Available 28 Nov 2026. Agent: Winkworth Hammersmith (Pav Vasiliou), 020 8735 3261, pvasiliou@winkworth.co.uk.",
+  "hood": "Hoodmaps: Rich (Addison); nearby tags: \"Druggies\", \"desperate man and gyal do laps here\", \"Cess pit\", \"needles\".",
+  "date_found": "2026-10-30",
+  "features": "",
+  "listed": "2026-10-30",
+  "lat": 51.503567,
+  "lng": -0.222318,
+  "agent": "Winkworth",
+  "commute_min": 35,
+  "commute_mode": "🚇 Central + Victoria",
+  "commute_ok": true,
+  "score": 60,
+  "score_breakdown": {
+   "style": {
+    "points": 9.9,
+    "max": 22,
+    "reason": "no style cues in notes"
+   },
+   "size": {
+    "points": 7.5,
+    "max": 15,
+    "reason": "size unknown (size not stated)"
+   },
+   "commute": {
+    "points": 17.0,
+    "max": 20,
+    "reason": "35 min door-to-door (TfL): 🚇 Central + Victoria"
+   },
+   "hood": {
+    "points": 11.0,
+    "max": 15,
+    "reason": "Rich; negative tags: drug"
+   },
+   "availability": {
+    "points": 7.0,
+    "max": 10,
+    "reason": "28 Nov: late Nov"
+   },
+   "furnished": {
+    "points": 5,
+    "max": 5,
+    "reason": "furnished"
+   },
+   "price": {
+    "points": 0.3,
+    "max": 3,
+    "reason": "£1,950"
+   },
+   "extras": {
+    "points": 2.0,
+    "max": 4,
+    "reason": "lift"
+   },
+   "outdoor": {
+    "points": 0,
+    "max": 6,
+    "reason": "no outdoor space mentioned"
+   }
+  },
+  "fresh_days": 0
+ },
+ {
   "id": "otm-20658615",
   "title": "Warwick Road — 3-bed",
   "area": "Warwick Road, London, E17",
@@ -28,9 +110,6 @@
   "lat": 51.596529,
   "lng": -0.029258,
   "agent": "Ellis & Co - Tottenham",
-  "commute_min": 55,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": false,
   "hidden": true,
   "hidden_reason": "commute>45",
   "score": 54,
@@ -81,7 +160,10 @@
     "reason": "ground floor + garden (Princes Ave-like)"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 55,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": false
  },
  {
   "id": "otm-6575918",
@@ -112,9 +194,6 @@
   "lat": 51.589735464439,
   "lng": -0.0315660944428,
   "agent": "haart Estate Agents - Walthamstow",
-  "commute_min": 42,
-  "commute_mode": "🚇 Victoria",
-  "commute_ok": true,
   "score": 65,
   "score_breakdown": {
    "style": {
@@ -163,7 +242,10 @@
     "reason": "garden"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 42,
+  "commute_mode": "🚇 Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20659392",
@@ -194,9 +276,6 @@
   "lat": 51.583524,
   "lng": -0.227386,
   "agent": "Belvoir - Hendon",
-  "commute_min": 34,
-  "commute_mode": "🚇 Northern + Victoria",
-  "commute_ok": true,
   "score": 63,
   "score_breakdown": {
    "style": {
@@ -245,7 +324,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 34,
+  "commute_mode": "🚇 Northern + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94943424",
@@ -276,9 +358,6 @@
   "lat": 51.497661,
   "lng": -0.213154,
   "agent": "Marsh & Parsons, Brook Green",
-  "commute_min": 41,
-  "commute_mode": "🚆 Mildmay + District + Victoria",
-  "commute_ok": true,
   "score": 64,
   "score_breakdown": {
    "style": {
@@ -327,7 +406,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 41,
+  "commute_mode": "🚆 Mildmay + District + Victoria",
+  "commute_ok": true
  },
  {
   "id": "94945419",
@@ -358,9 +440,6 @@
   "lat": 51.550674,
   "lng": -0.117703,
   "agent": "OpenRent, London",
-  "commute_min": 32,
-  "commute_mode": "🚇 Piccadilly + Victoria",
-  "commute_ok": true,
   "score": 69,
   "score_breakdown": {
    "style": {
@@ -409,7 +488,10 @@
     "reason": "no outdoor space mentioned"
    }
   },
-  "fresh_days": 0
+  "fresh_days": 0,
+  "commute_min": 32,
+  "commute_mode": "🚇 Piccadilly + Victoria",
+  "commute_ok": true
  },
  {
   "id": "otm-20657540",
