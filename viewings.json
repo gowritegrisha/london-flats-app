@@ -682,6 +682,23 @@
   "type": null
  },
  {
+  "id": "prop-94842483",
+  "listing_id": "94842483",
+  "title": null,
+  "address": null,
+  "datetime": null,
+  "agent": null,
+  "agent_contact": null,
+  "agent_email": "Nicholas Papi <Nicholas.Papi@your-move.co.uk>",
+  "agent_phone": null,
+  "thread_id": "1a1916668aef7b3a",
+  "status": "proposed",
+  "asked": "2026-10-31T09:59:28Z",
+  "notes": "Good morning Maria, I hope you are well When did you want to view the below property 1 bedroom flat for rent in Teresa Mews, Walthamstow, E17",
+  "source": "masha-mail",
+  "type": null
+ },
+ {
   "id": "hold-stow-e17-video-request@2026-10-31T10:00",
   "listing_id": "stow-e17-video-request",
   "title": "Walthamstow E17 flats (Bremer Mews, Carlton Road, Carr Road, Winns Terrace)",
